@@ -1,0 +1,2004 @@
+{
+  "derivadas_de_trigonometricas_media": [
+    {
+      "question": "\\frac{d}{dx} \\left (4\\,\\mathrm{sec}\\left(x\\right)\\right)",
+      "answer1": "\\text{A) }4\\,\\mathrm{sec}\\left(x\\right)\\,\\mathrm{tan}\\left(x\\right)",
+      "answer2": "\\text{B) }4\\,\\cos\\left(x\\right)-6\\,\\sin\\left(2\\,x\\right)",
+      "answer3": "\\text{C) }-24\\,\\mathrm{csc}\\left(3\\,x\\right)\\,\\mathrm{cot}\\left(3\\,x\\right)",
+      "answer4": "\\text{D) }-12\\,\\mathrm{sec}^{2}\\left(3\\,x\\right)",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (3\\,\\sin\\left(x\\right)-6\\,\\cos\\left(2\\,x\\right)\\right)",
+      "answer1": "\\text{A) }-8\\,\\sin\\left(x\\right)",
+      "answer2": "\\text{B) }12\\,\\sin\\left(2\\,x\\right)+3\\,\\cos\\left(x\\right)",
+      "answer3": "\\text{C) }4\\,\\cos\\left(2\\,x\\right)",
+      "answer4": "\\text{D) }15\\,\\mathrm{sec}^{2}\\left(5\\,x\\right)",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-5\\,\\sin\\left(2\\,x\\right)\\right)",
+      "answer1": "\\text{A) }35\\,\\sin\\left(7\\,x\\right)-10\\,\\cos\\left(2\\,x\\right)",
+      "answer2": "\\text{B) }5\\,\\sin\\left(x\\right)",
+      "answer3": "\\text{C) }-10\\,\\cos\\left(2\\,x\\right)",
+      "answer4": "\\text{D) }-35\\,\\mathrm{sec}\\left(7\\,x\\right)\\,\\mathrm{tan}\\left(7\\,x\\right)",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-7\\,\\cos\\left(4\\,x\\right)\\right)",
+      "answer1": "\\text{A) }-10\\,\\mathrm{csc}\\left(5\\,x\\right)\\,\\mathrm{cot}\\left(5\\,x\\right)",
+      "answer2": "\\text{B) }18\\,\\mathrm{sec}^{2}\\left(3\\,x\\right)",
+      "answer3": "\\text{C) }-12\\,\\cos\\left(4\\,x\\right)-15\\,\\sin\\left(5\\,x\\right)",
+      "answer4": "\\text{D) }28\\,\\sin\\left(4\\,x\\right)",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (7\\,\\mathrm{csc}\\left(2\\,x\\right)\\right)",
+      "answer1": "\\text{A) }-12\\,{\\sin\\left(x\\right)}^2+7\\,\\sin\\left(x\\right)+6",
+      "answer2": "\\text{B) }2\\,\\sin\\left(x\\right)",
+      "answer3": "\\text{C) }-14\\,\\mathrm{csc}\\left(2\\,x\\right)\\,\\mathrm{cot}\\left(2\\,x\\right)",
+      "answer4": "\\text{D) }-12\\,\\cos\\left(3\\,x\\right)",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (3\\,\\mathrm{sec}\\left(3\\,x\\right)\\right)",
+      "answer1": "\\text{A) }9\\,\\mathrm{sec}\\left(3\\,x\\right)\\,\\mathrm{tan}\\left(3\\,x\\right)",
+      "answer2": "\\text{B) }16\\,\\sin\\left(4\\,x\\right)-28\\,\\cos\\left(4\\,x\\right)",
+      "answer3": "\\text{C) }16\\,\\mathrm{csc}^{2}\\left(4\\,x\\right)",
+      "answer4": "\\text{D) }24\\,\\sin\\left(6\\,x\\right)",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (3\\,\\mathrm{tan}\\left(4\\,x\\right)\\right)",
+      "answer1": "\\text{A) }49\\,\\mathrm{sec}\\left(7\\,x\\right)\\,\\mathrm{tan}\\left(7\\,x\\right)",
+      "answer2": "\\text{B) }32\\,{\\sin\\left(2\\,x\\right)}^2-14\\,\\sin\\left(2\\,x\\right)-16",
+      "answer3": "\\text{C) }-30\\,\\mathrm{csc}\\left(6\\,x\\right)\\,\\mathrm{cot}\\left(6\\,x\\right)",
+      "answer4": "\\text{D) }12\\,\\mathrm{sec}^{2}\\left(4\\,x\\right)",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-3\\,\\sin\\left(5\\,x\\right)\\right)",
+      "answer1": "\\text{A) }35\\,\\mathrm{csc}^{2}\\left(7\\,x\\right)",
+      "answer2": "\\text{B) }6\\,\\sin\\left(3\\,x\\right)-24\\,\\cos\\left(4\\,x\\right)",
+      "answer3": "\\text{C) }-15\\,\\cos\\left(5\\,x\\right)",
+      "answer4": "\\text{D) }-36\\,\\mathrm{csc}\\left(6\\,x\\right)\\,\\mathrm{cot}\\left(6\\,x\\right)",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-6\\,\\mathrm{sec}\\left(4\\,x\\right)\\right)",
+      "answer1": "\\text{A) }-8\\,\\cos\\left(2\\,x\\right)",
+      "answer2": "\\text{B) }30\\,\\mathrm{csc}\\left(5\\,x\\right)\\,\\mathrm{cot}\\left(5\\,x\\right)",
+      "answer3": "\\text{C) }-21\\,\\mathrm{sec}^{2}\\left(7\\,x\\right)",
+      "answer4": "\\text{D) }-24\\,\\mathrm{sec}\\left(4\\,x\\right)\\,\\mathrm{tan}\\left(4\\,x\\right)",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (2\\,\\sin\\left(7\\,x\\right)\\right)",
+      "answer1": "\\text{A) }6\\,\\sin\\left(x\\right)",
+      "answer2": "\\text{B) }-36\\,\\mathrm{sec}^{2}\\left(6\\,x\\right)",
+      "answer3": "\\text{C) }14\\,\\cos\\left(7\\,x\\right)",
+      "answer4": "\\text{D) }-5\\,\\mathrm{csc}\\left(x\\right)\\,\\mathrm{cot}\\left(x\\right)",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (8\\,\\mathrm{tan}\\left(5\\,x\\right)\\right)",
+      "answer1": "\\text{A) }20\\,\\cos\\left(4\\,x\\right)",
+      "answer2": "\\text{B) }40\\,\\mathrm{sec}^{2}\\left(5\\,x\\right)",
+      "answer3": "\\text{C) }20\\,\\sin\\left(5\\,x\\right)-8\\,\\cos\\left(4\\,x\\right)",
+      "answer4": "\\text{D) }8\\,\\mathrm{sec}\\left(x\\right)\\,\\mathrm{tan}\\left(x\\right)",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-7\\,\\cos\\left(4\\,x\\right)-3\\,\\sin\\left(6\\,x\\right)\\right)",
+      "answer1": "\\text{A) }10\\,\\cos\\left(5\\,x\\right)",
+      "answer2": "\\text{B) }28\\,\\sin\\left(4\\,x\\right)-18\\,\\cos\\left(6\\,x\\right)",
+      "answer3": "\\text{C) }-35\\,\\mathrm{sec}\\left(7\\,x\\right)\\,\\mathrm{tan}\\left(7\\,x\\right)",
+      "answer4": "\\text{D) }12\\,\\sin\\left(2\\,x\\right)-42\\,\\cos\\left(7\\,x\\right)",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-4\\,\\mathrm{tan}\\left(6\\,x\\right)\\right)",
+      "answer1": "\\text{A) }-10\\,\\cos\\left(2\\,x\\right)",
+      "answer2": "\\text{B) }-24\\,\\mathrm{sec}^{2}\\left(6\\,x\\right)",
+      "answer3": "\\text{C) }25\\,\\mathrm{sec}\\left(5\\,x\\right)\\,\\mathrm{tan}\\left(5\\,x\\right)",
+      "answer4": "\\text{D) }-14\\,\\mathrm{csc}\\left(7\\,x\\right)\\,\\mathrm{cot}\\left(7\\,x\\right)",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (2\\,\\sin\\left(x\\right)-4\\,\\cos\\left(6\\,x\\right)\\right)",
+      "answer1": "\\text{A) }2\\,\\cos\\left(x\\right)",
+      "answer2": "\\text{B) }18\\,\\mathrm{sec}^{2}\\left(6\\,x\\right)",
+      "answer3": "\\text{C) }24\\,\\sin\\left(6\\,x\\right)+2\\,\\cos\\left(x\\right)",
+      "answer4": "\\text{D) }36\\,\\sin\\left(6\\,x\\right)",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (8\\,\\mathrm{tan}\\left(2\\,x\\right)\\right)",
+      "answer1": "\\text{A) }-28\\,\\mathrm{sec}\\left(4\\,x\\right)\\,\\mathrm{tan}\\left(4\\,x\\right)",
+      "answer2": "\\text{B) }-20\\,\\sin\\left(4\\,x\\right)",
+      "answer3": "\\text{C) }-18\\,\\cos\\left(3\\,x\\right)-21\\,\\sin\\left(3\\,x\\right)",
+      "answer4": "\\text{D) }16\\,\\mathrm{sec}^{2}\\left(2\\,x\\right)",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (5\\,\\cos\\left(4\\,x\\right)+5\\,\\sin\\left(4\\,x\\right)\\right)",
+      "answer1": "\\text{A) }-42\\,\\mathrm{csc}^{2}\\left(7\\,x\\right)",
+      "answer2": "\\text{B) }-8\\,\\sin\\left(4\\,x\\right)",
+      "answer3": "\\text{C) }-35\\,\\cos\\left(5\\,x\\right)",
+      "answer4": "\\text{D) }20\\,\\sqrt{2}\\,\\cos\\left(4\\,x+\\frac{\\pi }{4}\\right)",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-2\\,\\sin\\left(3\\,x\\right)\\right)",
+      "answer1": "\\text{A) }-12\\,\\mathrm{sec}^{2}\\left(4\\,x\\right)",
+      "answer2": "\\text{B) }18\\,\\mathrm{csc}^{2}\\left(3\\,x\\right)",
+      "answer3": "\\text{C) }-16\\,\\mathrm{sec}\\left(8\\,x\\right)\\,\\mathrm{tan}\\left(8\\,x\\right)",
+      "answer4": "\\text{D) }-6\\,\\cos\\left(3\\,x\\right)",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-8\\,\\sin\\left(7\\,x\\right)\\right)",
+      "answer1": "\\text{A) }-6\\,\\sin\\left(3\\,x\\right)",
+      "answer2": "\\text{B) }14\\,\\mathrm{csc}^{2}\\left(2\\,x\\right)",
+      "answer3": "\\text{C) }40\\,\\cos\\left(8\\,x\\right)+21\\,\\sin\\left(7\\,x\\right)",
+      "answer4": "\\text{D) }-56\\,\\cos\\left(7\\,x\\right)",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (7\\,\\mathrm{cot}\\left(6\\,x\\right)\\right)",
+      "answer1": "\\text{A) }20\\,\\sin\\left(5\\,x\\right)-4\\,\\cos\\left(x\\right)",
+      "answer2": "\\text{B) }-12\\,\\mathrm{sec}\\left(2\\,x\\right)\\,\\mathrm{tan}\\left(2\\,x\\right)",
+      "answer3": "\\text{C) }-42\\,\\mathrm{csc}^{2}\\left(6\\,x\\right)",
+      "answer4": "\\text{D) }-20\\,\\cos\\left(5\\,x\\right)",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (8\\,\\mathrm{tan}\\left(8\\,x\\right)\\right)",
+      "answer1": "\\text{A) }64\\,\\mathrm{sec}^{2}\\left(8\\,x\\right)",
+      "answer2": "\\text{B) }-28\\,\\mathrm{csc}^{2}\\left(7\\,x\\right)",
+      "answer3": "\\text{C) }4\\,\\mathrm{csc}\\left(x\\right)\\,\\mathrm{cot}\\left(x\\right)",
+      "answer4": "\\text{D) }2\\,\\sin\\left(x\\right)",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-7\\,\\mathrm{tan}\\left(3\\,x\\right)\\right)",
+      "answer1": "\\text{A) }-21\\,\\mathrm{sec}^{2}\\left(3\\,x\\right)",
+      "answer2": "\\text{B) }21\\,\\cos\\left(3\\,x\\right)",
+      "answer3": "\\text{C) }20\\,\\mathrm{sec}\\left(5\\,x\\right)\\,\\mathrm{tan}\\left(5\\,x\\right)",
+      "answer4": "\\text{D) }15\\,\\sin\\left(3\\,x\\right)+2\\,\\cos\\left(x\\right)",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (2\\,\\cos\\left(4\\,x\\right)\\right)",
+      "answer1": "\\text{A) }-18\\,\\cos\\left(3\\,x\\right)",
+      "answer2": "\\text{B) }-25\\,\\mathrm{sec}^{2}\\left(5\\,x\\right)",
+      "answer3": "\\text{C) }-20\\,\\mathrm{csc}^{2}\\left(4\\,x\\right)",
+      "answer4": "\\text{D) }-8\\,\\sin\\left(4\\,x\\right)",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-5\\,\\cos\\left(5\\,x\\right)\\right)",
+      "answer1": "\\text{A) }28\\,\\mathrm{sec}^{2}\\left(7\\,x\\right)",
+      "answer2": "\\text{B) }10\\,\\sin\\left(2\\,x\\right)-4\\,\\cos\\left(x\\right)",
+      "answer3": "\\text{C) }-3\\,\\cos\\left(x\\right)",
+      "answer4": "\\text{D) }25\\,\\sin\\left(5\\,x\\right)",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (2\\,\\mathrm{csc}\\left(x\\right)\\right)",
+      "answer1": "\\text{A) }30\\,\\sin\\left(5\\,x\\right)",
+      "answer2": "\\text{B) }24\\,\\cos\\left(4\\,x\\right)",
+      "answer3": "\\text{C) }-35\\,\\cos\\left(5\\,x\\right)-30\\,\\sin\\left(5\\,x\\right)",
+      "answer4": "\\text{D) }-2\\,\\mathrm{csc}\\left(x\\right)\\,\\mathrm{cot}\\left(x\\right)",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-3\\,\\sin\\left(3\\,x\\right)\\right)",
+      "answer1": "\\text{A) }35\\,\\mathrm{sec}^{2}\\left(5\\,x\\right)",
+      "answer2": "\\text{B) }-9\\,\\cos\\left(3\\,x\\right)",
+      "answer3": "\\text{C) }42\\,\\sin\\left(6\\,x\\right)",
+      "answer4": "\\text{D) }24\\,\\cos\\left(3\\,x\\right)+35\\,\\sin\\left(5\\,x\\right)",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-6\\,\\mathrm{cot}\\left(x\\right)\\right)",
+      "answer1": "\\text{A) }25\\,\\cos\\left(5\\,x\\right)",
+      "answer2": "\\text{B) }-24\\,\\mathrm{sec}\\left(8\\,x\\right)\\,\\mathrm{tan}\\left(8\\,x\\right)",
+      "answer3": "\\text{C) }3\\,\\sin\\left(x\\right)-15\\,\\cos\\left(5\\,x\\right)",
+      "answer4": "\\text{D) }6\\,\\mathrm{csc}^{2}\\left(x\\right)",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (5\\,\\cos\\left(7\\,x\\right)\\right)",
+      "answer1": "\\text{A) }24\\,\\mathrm{sec}\\left(6\\,x\\right)\\,\\mathrm{tan}\\left(6\\,x\\right)",
+      "answer2": "\\text{B) }-15\\,\\cos\\left(3\\,x\\right)-7\\,\\sin\\left(x\\right)",
+      "answer3": "\\text{C) }-35\\,\\sin\\left(7\\,x\\right)",
+      "answer4": "\\text{D) }15\\,\\mathrm{csc}\\left(5\\,x\\right)\\,\\mathrm{cot}\\left(5\\,x\\right)",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (2\\,\\mathrm{csc}\\left(x\\right)\\right)",
+      "answer1": "\\text{A) }-2\\,\\mathrm{csc}\\left(x\\right)\\,\\mathrm{cot}\\left(x\\right)",
+      "answer2": "\\text{B) }15\\,\\mathrm{sec}\\left(3\\,x\\right)\\,\\mathrm{tan}\\left(3\\,x\\right)",
+      "answer3": "\\text{C) }6\\,\\sin\\left(x\\right)-36\\,\\cos\\left(6\\,x\\right)",
+      "answer4": "\\text{D) }30\\,\\sin\\left(5\\,x\\right)-5\\,\\cos\\left(x\\right)",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (6\\,\\sin\\left(x\\right)\\right)",
+      "answer1": "\\text{A) }48\\,\\mathrm{sec}^{2}\\left(6\\,x\\right)",
+      "answer2": "\\text{B) }2\\,\\cos\\left(x\\right)-4\\,\\sin\\left(x\\right)",
+      "answer3": "\\text{C) }6\\,\\cos\\left(x\\right)",
+      "answer4": "\\text{D) }-2\\,\\mathrm{sec}\\left(x\\right)\\,\\mathrm{tan}\\left(x\\right)",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (2\\,\\mathrm{cot}\\left(7\\,x\\right)\\right)",
+      "answer1": "\\text{A) }5\\,\\sin\\left(x\\right)-12\\,\\cos\\left(4\\,x\\right)",
+      "answer2": "\\text{B) }-14\\,\\mathrm{csc}^{2}\\left(7\\,x\\right)",
+      "answer3": "\\text{C) }25\\,\\sin\\left(5\\,x\\right)",
+      "answer4": "\\text{D) }-8\\,\\mathrm{csc}\\left(4\\,x\\right)\\,\\mathrm{cot}\\left(4\\,x\\right)",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (3\\,\\sin\\left(5\\,x\\right)\\right)",
+      "answer1": "\\text{A) }16\\,\\mathrm{sec}\\left(2\\,x\\right)\\,\\mathrm{tan}\\left(2\\,x\\right)",
+      "answer2": "\\text{B) }12\\,\\mathrm{sec}^{2}\\left(4\\,x\\right)",
+      "answer3": "\\text{C) }24\\,\\mathrm{csc}^{2}\\left(8\\,x\\right)",
+      "answer4": "\\text{D) }15\\,\\cos\\left(5\\,x\\right)",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-7\\,\\mathrm{cot}\\left(3\\,x\\right)\\right)",
+      "answer1": "\\text{A) }56\\,\\mathrm{sec}^{2}\\left(8\\,x\\right)",
+      "answer2": "\\text{B) }64\\,\\mathrm{sec}\\left(8\\,x\\right)\\,\\mathrm{tan}\\left(8\\,x\\right)",
+      "answer3": "\\text{C) }21\\,\\mathrm{csc}^{2}\\left(3\\,x\\right)",
+      "answer4": "\\text{D) }42\\,\\sin\\left(6\\,x\\right)",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (2\\,\\cos\\left(6\\,x\\right)+3\\,\\sin\\left(6\\,x\\right)\\right)",
+      "answer1": "\\text{A) }18\\,\\cos\\left(6\\,x\\right)-12\\,\\sin\\left(6\\,x\\right)",
+      "answer2": "\\text{B) }36\\,\\cos\\left(6\\,x\\right)+30\\,\\sin\\left(6\\,x\\right)",
+      "answer3": "\\text{C) }30\\,\\mathrm{csc}^{2}\\left(6\\,x\\right)",
+      "answer4": "\\text{D) }-8\\,\\cos\\left(2\\,x\\right)",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (8\\,\\mathrm{tan}\\left(5\\,x\\right)\\right)",
+      "answer1": "\\text{A) }16\\,\\mathrm{sec}\\left(8\\,x\\right)\\,\\mathrm{tan}\\left(8\\,x\\right)",
+      "answer2": "\\text{B) }40\\,\\mathrm{sec}^{2}\\left(5\\,x\\right)",
+      "answer3": "\\text{C) }24\\,\\cos\\left(6\\,x\\right)+48\\,\\sin\\left(8\\,x\\right)",
+      "answer4": "\\text{D) }12\\,\\mathrm{csc}\\left(3\\,x\\right)\\,\\mathrm{cot}\\left(3\\,x\\right)",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-7\\,\\mathrm{cot}\\left(7\\,x\\right)\\right)",
+      "answer1": "\\text{A) }49\\,\\mathrm{csc}\\left(7\\,x\\right)\\,\\mathrm{cot}\\left(7\\,x\\right)",
+      "answer2": "\\text{B) }49\\,\\mathrm{csc}^{2}\\left(7\\,x\\right)",
+      "answer3": "\\text{C) }-35\\,\\sin\\left(7\\,x\\right)",
+      "answer4": "\\text{D) }-15\\,\\sqrt{2}\\,\\cos\\left(3\\,x+\\frac{\\pi }{4}\\right)",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (5\\,\\cos\\left(4\\,x\\right)+4\\,\\sin\\left(5\\,x\\right)\\right)",
+      "answer1": "\\text{A) }24\\,\\mathrm{sec}^{2}\\left(6\\,x\\right)",
+      "answer2": "\\text{B) }20\\,\\cos\\left(5\\,x\\right)-20\\,\\sin\\left(4\\,x\\right)",
+      "answer3": "\\text{C) }6\\,\\cos\\left(2\\,x\\right)",
+      "answer4": "\\text{D) }8\\,\\mathrm{sec}\\left(2\\,x\\right)\\,\\mathrm{tan}\\left(2\\,x\\right)",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-5\\,\\cos\\left(5\\,x\\right)-2\\,\\sin\\left(5\\,x\\right)\\right)",
+      "answer1": "\\text{A) }25\\,\\sin\\left(5\\,x\\right)-10\\,\\cos\\left(5\\,x\\right)",
+      "answer2": "\\text{B) }24\\,\\sin\\left(4\\,x\\right)",
+      "answer3": "\\text{C) }-14\\,\\mathrm{sec}\\left(7\\,x\\right)\\,\\mathrm{tan}\\left(7\\,x\\right)",
+      "answer4": "\\text{D) }12\\,\\mathrm{sec}^{2}\\left(4\\,x\\right)",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-6\\,\\mathrm{cot}\\left(8\\,x\\right)\\right)",
+      "answer1": "\\text{A) }20\\,\\mathrm{csc}\\left(4\\,x\\right)\\,\\mathrm{cot}\\left(4\\,x\\right)",
+      "answer2": "\\text{B) }48\\,\\mathrm{csc}^{2}\\left(8\\,x\\right)",
+      "answer3": "\\text{C) }4\\,\\mathrm{sec}^{2}\\left(2\\,x\\right)",
+      "answer4": "\\text{D) }49\\,\\mathrm{sec}\\left(7\\,x\\right)\\,\\mathrm{tan}\\left(7\\,x\\right)",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (7\\,\\cos\\left(3\\,x\\right)-3\\,\\sin\\left(6\\,x\\right)\\right)",
+      "answer1": "\\text{A) }-72\\,{\\sin\\left(3\\,x\\right)}^2+21\\,\\sin\\left(3\\,x\\right)+36",
+      "answer2": "\\text{B) }-48\\,\\mathrm{csc}\\left(6\\,x\\right)\\,\\mathrm{cot}\\left(6\\,x\\right)",
+      "answer3": "\\text{C) }-24\\,\\mathrm{csc}^{2}\\left(6\\,x\\right)",
+      "answer4": "\\text{D) }36\\,{\\sin\\left(3\\,x\\right)}^2-21\\,\\sin\\left(3\\,x\\right)-18",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-6\\,\\sin\\left(6\\,x\\right)\\right)",
+      "answer1": "\\text{A) }3\\,\\sin\\left(x\\right)-42\\,\\cos\\left(7\\,x\\right)",
+      "answer2": "\\text{B) }-36\\,\\cos\\left(6\\,x\\right)",
+      "answer3": "\\text{C) }21\\,\\mathrm{csc}^{2}\\left(7\\,x\\right)",
+      "answer4": "\\text{D) }3\\,\\mathrm{sec}\\left(x\\right)\\,\\mathrm{tan}\\left(x\\right)",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (4\\,\\cos\\left(6\\,x\\right)+4\\,\\sin\\left(7\\,x\\right)\\right)",
+      "answer1": "\\text{A) }-4\\,\\mathrm{csc}^{2}\\left(x\\right)",
+      "answer2": "\\text{B) }28\\,\\cos\\left(7\\,x\\right)-24\\,\\sin\\left(6\\,x\\right)",
+      "answer3": "\\text{C) }14\\,\\mathrm{sec}^{2}\\left(7\\,x\\right)",
+      "answer4": "\\text{D) }-12\\,\\sin\\left(2\\,x\\right)",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (8\\,\\cos\\left(5\\,x\\right)+8\\,\\sin\\left(3\\,x\\right)\\right)",
+      "answer1": "\\text{A) }35\\,\\mathrm{sec}^{2}\\left(5\\,x\\right)",
+      "answer2": "\\text{B) }12\\,\\cos\\left(3\\,x\\right)",
+      "answer3": "\\text{C) }24\\,\\cos\\left(3\\,x\\right)-40\\,\\sin\\left(5\\,x\\right)",
+      "answer4": "\\text{D) }-24\\,\\sin\\left(3\\,x\\right)",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (6\\,\\cos\\left(2\\,x\\right)\\right)",
+      "answer1": "\\text{A) }30\\,\\mathrm{sec}\\left(5\\,x\\right)\\,\\mathrm{tan}\\left(5\\,x\\right)",
+      "answer2": "\\text{B) }-12\\,\\sin\\left(2\\,x\\right)",
+      "answer3": "\\text{C) }30\\,\\mathrm{csc}\\left(5\\,x\\right)\\,\\mathrm{cot}\\left(5\\,x\\right)",
+      "answer4": "\\text{D) }-9\\,\\mathrm{sec}^{2}\\left(3\\,x\\right)",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (4\\,\\mathrm{cot}\\left(x\\right)\\right)",
+      "answer1": "\\text{A) }4\\,\\cos\\left(2\\,x\\right)",
+      "answer2": "\\text{B) }28\\,\\cos\\left(4\\,x\\right)-24\\,\\sin\\left(3\\,x\\right)",
+      "answer3": "\\text{C) }-56\\,\\sqrt{2}\\,\\cos\\left(8\\,x+\\frac{\\pi }{4}\\right)",
+      "answer4": "\\text{D) }-4\\,\\mathrm{csc}^{2}\\left(x\\right)",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (2\\,\\mathrm{sec}\\left(6\\,x\\right)\\right)",
+      "answer1": "\\text{A) }10\\,\\cos\\left(5\\,x\\right)",
+      "answer2": "\\text{B) }20\\,\\mathrm{csc}\\left(4\\,x\\right)\\,\\mathrm{cot}\\left(4\\,x\\right)",
+      "answer3": "\\text{C) }-21\\,\\mathrm{csc}^{2}\\left(3\\,x\\right)",
+      "answer4": "\\text{D) }12\\,\\mathrm{sec}\\left(6\\,x\\right)\\,\\mathrm{tan}\\left(6\\,x\\right)",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (7\\,\\cos\\left(4\\,x\\right)+5\\,\\sin\\left(4\\,x\\right)\\right)",
+      "answer1": "\\text{A) }-15\\,\\mathrm{sec}^{2}\\left(3\\,x\\right)",
+      "answer2": "\\text{B) }49\\,\\mathrm{csc}^{2}\\left(7\\,x\\right)",
+      "answer3": "\\text{C) }20\\,\\cos\\left(4\\,x\\right)-28\\,\\sin\\left(4\\,x\\right)",
+      "answer4": "\\text{D) }-7\\,\\sin\\left(x\\right)",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-4\\,\\mathrm{tan}\\left(7\\,x\\right)\\right)",
+      "answer1": "\\text{A) }10\\,\\cos\\left(2\\,x\\right)-16\\,\\sin\\left(8\\,x\\right)",
+      "answer2": "\\text{B) }56\\,\\mathrm{csc}^{2}\\left(8\\,x\\right)",
+      "answer3": "\\text{C) }-20\\,\\cos\\left(5\\,x\\right)-48\\,\\sin\\left(8\\,x\\right)",
+      "answer4": "\\text{D) }-28\\,\\mathrm{sec}^{2}\\left(7\\,x\\right)",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (3\\,\\mathrm{csc}\\left(4\\,x\\right)\\right)",
+      "answer1": "\\text{A) }14\\,\\mathrm{csc}^{2}\\left(2\\,x\\right)",
+      "answer2": "\\text{B) }-42\\,\\cos\\left(7\\,x\\right)",
+      "answer3": "\\text{C) }-12\\,\\mathrm{csc}\\left(4\\,x\\right)\\,\\mathrm{cot}\\left(4\\,x\\right)",
+      "answer4": "\\text{D) }-35\\,\\mathrm{sec}^{2}\\left(7\\,x\\right)",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (6\\,\\cos\\left(8\\,x\\right)-5\\,\\sin\\left(6\\,x\\right)\\right)",
+      "answer1": "\\text{A) }-32\\,\\mathrm{sec}\\left(8\\,x\\right)\\,\\mathrm{tan}\\left(8\\,x\\right)",
+      "answer2": "\\text{B) }40\\,\\cos\\left(5\\,x\\right)+16\\,\\sin\\left(4\\,x\\right)",
+      "answer3": "\\text{C) }-21\\,\\mathrm{csc}\\left(7\\,x\\right)\\,\\mathrm{cot}\\left(7\\,x\\right)",
+      "answer4": "\\text{D) }-30\\,\\cos\\left(6\\,x\\right)-48\\,\\sin\\left(8\\,x\\right)",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (3\\,\\cos\\left(8\\,x\\right)+5\\,\\sin\\left(x\\right)\\right)",
+      "answer1": "\\text{A) }-10\\,\\mathrm{sec}\\left(2\\,x\\right)\\,\\mathrm{tan}\\left(2\\,x\\right)",
+      "answer2": "\\text{B) }-21\\,\\mathrm{sec}^{2}\\left(7\\,x\\right)",
+      "answer3": "\\text{C) }5\\,\\cos\\left(x\\right)-24\\,\\sin\\left(8\\,x\\right)",
+      "answer4": "\\text{D) }24\\,\\cos\\left(4\\,x\\right)",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (7\\,\\sin\\left(3\\,x\\right)-7\\,\\cos\\left(6\\,x\\right)\\right)",
+      "answer1": "\\text{A) }56\\,\\cos\\left(7\\,x\\right)+7\\,\\sin\\left(x\\right)",
+      "answer2": "\\text{B) }21\\,\\cos\\left(3\\,x\\right)+42\\,\\sin\\left(6\\,x\\right)",
+      "answer3": "\\text{C) }-8\\,\\mathrm{csc}^{2}\\left(x\\right)",
+      "answer4": "\\text{D) }32\\,\\cos\\left(8\\,x\\right)",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (3\\,\\mathrm{sec}\\left(4\\,x\\right)\\right)",
+      "answer1": "\\text{A) }6\\,\\sin\\left(2\\,x\\right)",
+      "answer2": "\\text{B) }-14\\,\\mathrm{sec}^{2}\\left(2\\,x\\right)",
+      "answer3": "\\text{C) }30\\,\\mathrm{csc}\\left(6\\,x\\right)\\,\\mathrm{cot}\\left(6\\,x\\right)",
+      "answer4": "\\text{D) }12\\,\\mathrm{sec}\\left(4\\,x\\right)\\,\\mathrm{tan}\\left(4\\,x\\right)",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (8\\,\\cos\\left(2\\,x\\right)-6\\,\\sin\\left(x\\right)\\right)",
+      "answer1": "\\text{A) }8\\,\\cos\\left(2\\,x\\right)-10\\,\\sin\\left(2\\,x\\right)",
+      "answer2": "\\text{B) }12\\,\\mathrm{csc}\\left(3\\,x\\right)\\,\\mathrm{cot}\\left(3\\,x\\right)",
+      "answer3": "\\text{C) }-16\\,\\sin\\left(2\\,x\\right)-6\\,\\cos\\left(x\\right)",
+      "answer4": "\\text{D) }30\\,\\mathrm{sec}\\left(5\\,x\\right)\\,\\mathrm{tan}\\left(5\\,x\\right)",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-4\\,\\sin\\left(6\\,x\\right)\\right)",
+      "answer1": "\\text{A) }-24\\,\\cos\\left(6\\,x\\right)",
+      "answer2": "\\text{B) }-28\\,\\mathrm{sec}\\left(4\\,x\\right)\\,\\mathrm{tan}\\left(4\\,x\\right)",
+      "answer3": "\\text{C) }7\\,\\mathrm{csc}^{2}\\left(x\\right)",
+      "answer4": "\\text{D) }21\\,\\cos\\left(7\\,x\\right)+5\\,\\sin\\left(x\\right)",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (7\\,\\cos\\left(6\\,x\\right)-2\\,\\sin\\left(4\\,x\\right)\\right)",
+      "answer1": "\\text{A) }-10\\,\\sin\\left(5\\,x\\right)",
+      "answer2": "\\text{B) }-28\\,\\mathrm{csc}^{2}\\left(4\\,x\\right)",
+      "answer3": "\\text{C) }-28\\,\\mathrm{csc}\\left(4\\,x\\right)\\,\\mathrm{cot}\\left(4\\,x\\right)",
+      "answer4": "\\text{D) }-8\\,\\cos\\left(4\\,x\\right)-42\\,\\sin\\left(6\\,x\\right)",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-2\\,\\mathrm{tan}\\left(5\\,x\\right)\\right)",
+      "answer1": "\\text{A) }42\\,\\sin\\left(7\\,x\\right)-10\\,\\cos\\left(5\\,x\\right)",
+      "answer2": "\\text{B) }-10\\,\\mathrm{sec}^{2}\\left(5\\,x\\right)",
+      "answer3": "\\text{C) }-8\\,\\cos\\left(2\\,x\\right)",
+      "answer4": "\\text{D) }-14\\,\\sin\\left(2\\,x\\right)",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-7\\,\\cos\\left(7\\,x\\right)\\right)",
+      "answer1": "\\text{A) }49\\,\\sin\\left(7\\,x\\right)",
+      "answer2": "\\text{B) }-8\\,\\cos\\left(2\\,x\\right)",
+      "answer3": "\\text{C) }28\\,\\mathrm{csc}^{2}\\left(4\\,x\\right)",
+      "answer4": "\\text{D) }6\\,\\sin\\left(x\\right)-28\\,\\cos\\left(4\\,x\\right)",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (6\\,\\mathrm{sec}\\left(3\\,x\\right)\\right)",
+      "answer1": "\\text{A) }21\\,\\sin\\left(7\\,x\\right)-12\\,\\cos\\left(2\\,x\\right)",
+      "answer2": "\\text{B) }18\\,\\mathrm{sec}\\left(3\\,x\\right)\\,\\mathrm{tan}\\left(3\\,x\\right)",
+      "answer3": "\\text{C) }10\\,\\mathrm{csc}^{2}\\left(5\\,x\\right)",
+      "answer4": "\\text{D) }-20\\,\\sin\\left(5\\,x\\right)",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-5\\,\\cos\\left(5\\,x\\right)\\right)",
+      "answer1": "\\text{A) }49\\,\\cos\\left(7\\,x\\right)+7\\,\\sin\\left(x\\right)",
+      "answer2": "\\text{B) }-24\\,\\mathrm{csc}\\left(3\\,x\\right)\\,\\mathrm{cot}\\left(3\\,x\\right)",
+      "answer3": "\\text{C) }14\\,\\cos\\left(7\\,x\\right)",
+      "answer4": "\\text{D) }25\\,\\sin\\left(5\\,x\\right)",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (8\\,\\mathrm{tan}\\left(4\\,x\\right)\\right)",
+      "answer1": "\\text{A) }48\\,{\\sin\\left(3\\,x\\right)}^2+6\\,\\sin\\left(3\\,x\\right)-24",
+      "answer2": "\\text{B) }-30\\,\\mathrm{csc}^{2}\\left(6\\,x\\right)",
+      "answer3": "\\text{C) }32\\,\\mathrm{sec}^{2}\\left(4\\,x\\right)",
+      "answer4": "\\text{D) }-35\\,\\cos\\left(5\\,x\\right)",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-6\\,\\cos\\left(5\\,x\\right)\\right)",
+      "answer1": "\\text{A) }12\\,\\mathrm{sec}^{2}\\left(2\\,x\\right)",
+      "answer2": "\\text{B) }30\\,\\sin\\left(5\\,x\\right)",
+      "answer3": "\\text{C) }12\\,\\cos\\left(2\\,x\\right)-4\\,\\sin\\left(2\\,x\\right)",
+      "answer4": "\\text{D) }4\\,\\mathrm{csc}\\left(x\\right)\\,\\mathrm{cot}\\left(x\\right)",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-3\\,\\mathrm{sec}\\left(x\\right)\\right)",
+      "answer1": "\\text{A) }-42\\,\\cos\\left(7\\,x\\right)",
+      "answer2": "\\text{B) }-3\\,\\mathrm{sec}\\left(x\\right)\\,\\mathrm{tan}\\left(x\\right)",
+      "answer3": "\\text{C) }32\\,\\cos\\left(4\\,x\\right)+12\\,\\sin\\left(4\\,x\\right)",
+      "answer4": "\\text{D) }24\\,\\mathrm{csc}^{2}\\left(6\\,x\\right)",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (3\\,\\mathrm{csc}\\left(2\\,x\\right)\\right)",
+      "answer1": "\\text{A) }-24\\,\\sin\\left(8\\,x\\right)",
+      "answer2": "\\text{B) }-8\\,\\mathrm{csc}^{2}\\left(2\\,x\\right)",
+      "answer3": "\\text{C) }-6\\,\\mathrm{csc}\\left(2\\,x\\right)\\,\\mathrm{cot}\\left(2\\,x\\right)",
+      "answer4": "\\text{D) }-3\\,\\cos\\left(x\\right)-4\\,\\sin\\left(x\\right)",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (8\\,\\mathrm{tan}\\left(3\\,x\\right)\\right)",
+      "answer1": "\\text{A) }24\\,\\mathrm{sec}^{2}\\left(3\\,x\\right)",
+      "answer2": "\\text{B) }-5\\,\\sin\\left(x\\right)",
+      "answer3": "\\text{C) }-30\\,\\mathrm{sec}\\left(6\\,x\\right)\\,\\mathrm{tan}\\left(6\\,x\\right)",
+      "answer4": "\\text{D) }24\\,\\cos\\left(3\\,x\\right)-56\\,\\sin\\left(8\\,x\\right)",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (7\\,\\cos\\left(6\\,x\\right)+5\\,\\sin\\left(2\\,x\\right)\\right)",
+      "answer1": "\\text{A) }36\\,\\mathrm{sec}\\left(6\\,x\\right)\\,\\mathrm{tan}\\left(6\\,x\\right)",
+      "answer2": "\\text{B) }10\\,\\cos\\left(2\\,x\\right)-42\\,\\sin\\left(6\\,x\\right)",
+      "answer3": "\\text{C) }-28\\,\\mathrm{csc}^{2}\\left(7\\,x\\right)",
+      "answer4": "\\text{D) }12\\,\\mathrm{csc}\\left(2\\,x\\right)\\,\\mathrm{cot}\\left(2\\,x\\right)",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-5\\,\\mathrm{cot}\\left(3\\,x\\right)\\right)",
+      "answer1": "\\text{A) }-8\\,\\mathrm{sec}^{2}\\left(2\\,x\\right)",
+      "answer2": "\\text{B) }-16\\,\\sin\\left(8\\,x\\right)",
+      "answer3": "\\text{C) }-20\\,\\mathrm{sec}\\left(5\\,x\\right)\\,\\mathrm{tan}\\left(5\\,x\\right)",
+      "answer4": "\\text{D) }15\\,\\mathrm{csc}^{2}\\left(3\\,x\\right)",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (3\\,\\sin\\left(4\\,x\\right)-2\\,\\cos\\left(x\\right)\\right)",
+      "answer1": "\\text{A) }-18\\,\\cos\\left(3\\,x\\right)-35\\,\\sin\\left(7\\,x\\right)",
+      "answer2": "\\text{B) }12\\,\\cos\\left(4\\,x\\right)+2\\,\\sin\\left(x\\right)",
+      "answer3": "\\text{C) }35\\,\\mathrm{csc}^{2}\\left(5\\,x\\right)",
+      "answer4": "\\text{D) }14\\,\\sin\\left(7\\,x\\right)",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-6\\,\\mathrm{sec}\\left(6\\,x\\right)\\right)",
+      "answer1": "\\text{A) }7\\,\\cos\\left(x\\right)-48\\,\\sin\\left(8\\,x\\right)",
+      "answer2": "\\text{B) }16\\,\\cos\\left(8\\,x\\right)+6\\,\\sin\\left(3\\,x\\right)",
+      "answer3": "\\text{C) }-36\\,\\mathrm{sec}\\left(6\\,x\\right)\\,\\mathrm{tan}\\left(6\\,x\\right)",
+      "answer4": "\\text{D) }20\\,\\mathrm{csc}\\left(5\\,x\\right)\\,\\mathrm{cot}\\left(5\\,x\\right)",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-2\\,\\mathrm{csc}\\left(5\\,x\\right)\\right)",
+      "answer1": "\\text{A) }25\\,\\sin\\left(5\\,x\\right)",
+      "answer2": "\\text{B) }-14\\,\\mathrm{sec}^{2}\\left(2\\,x\\right)",
+      "answer3": "\\text{C) }10\\,\\mathrm{csc}\\left(5\\,x\\right)\\,\\mathrm{cot}\\left(5\\,x\\right)",
+      "answer4": "\\text{D) }-42\\,\\sqrt{2}\\,\\cos\\left(6\\,x+\\frac{\\pi }{4}\\right)",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (4\\,\\mathrm{cot}\\left(2\\,x\\right)\\right)",
+      "answer1": "\\text{A) }-8\\,\\mathrm{csc}^{2}\\left(2\\,x\\right)",
+      "answer2": "\\text{B) }36\\,\\cos\\left(6\\,x\\right)+2\\,\\sin\\left(x\\right)",
+      "answer3": "\\text{C) }-6\\,\\mathrm{csc}\\left(3\\,x\\right)\\,\\mathrm{cot}\\left(3\\,x\\right)",
+      "answer4": "\\text{D) }-3\\,\\mathrm{sec}^{2}\\left(x\\right)",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-4\\,\\sin\\left(2\\,x\\right)-7\\,\\cos\\left(x\\right)\\right)",
+      "answer1": "\\text{A) }-35\\,\\cos\\left(5\\,x\\right)-24\\,\\sin\\left(3\\,x\\right)",
+      "answer2": "\\text{B) }-56\\,\\mathrm{csc}^{2}\\left(7\\,x\\right)",
+      "answer3": "\\text{C) }24\\,\\mathrm{sec}\\left(4\\,x\\right)\\,\\mathrm{tan}\\left(4\\,x\\right)",
+      "answer4": "\\text{D) }16\\,{\\sin\\left(x\\right)}^2+7\\,\\sin\\left(x\\right)-8",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (6\\,\\mathrm{cot}\\left(5\\,x\\right)\\right)",
+      "answer1": "\\text{A) }40\\,\\cos\\left(8\\,x\\right)",
+      "answer2": "\\text{B) }-42\\,\\sin\\left(7\\,x\\right)",
+      "answer3": "\\text{C) }-30\\,\\mathrm{csc}^{2}\\left(5\\,x\\right)",
+      "answer4": "\\text{D) }-9\\,\\mathrm{csc}\\left(3\\,x\\right)\\,\\mathrm{cot}\\left(3\\,x\\right)",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-7\\,\\mathrm{csc}\\left(x\\right)\\right)",
+      "answer1": "\\text{A) }30\\,\\cos\\left(6\\,x\\right)",
+      "answer2": "\\text{B) }7\\,\\mathrm{csc}\\left(x\\right)\\,\\mathrm{cot}\\left(x\\right)",
+      "answer3": "\\text{C) }4\\,\\cos\\left(x\\right)-25\\,\\sin\\left(5\\,x\\right)",
+      "answer4": "\\text{D) }6\\,\\mathrm{sec}^{2}\\left(x\\right)",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (2\\,\\cos\\left(3\\,x\\right)+2\\,\\sin\\left(3\\,x\\right)\\right)",
+      "answer1": "\\text{A) }6\\,\\sqrt{2}\\,\\cos\\left(3\\,x+\\frac{\\pi }{4}\\right)",
+      "answer2": "\\text{B) }-10\\,\\mathrm{csc}\\left(5\\,x\\right)\\,\\mathrm{cot}\\left(5\\,x\\right)",
+      "answer3": "\\text{C) }-10\\,\\mathrm{sec}^{2}\\left(5\\,x\\right)",
+      "answer4": "\\text{D) }-12\\,\\cos\\left(6\\,x\\right)",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (4\\,\\sin\\left(x\\right)-6\\,\\cos\\left(8\\,x\\right)\\right)",
+      "answer1": "\\text{A) }21\\,\\sin\\left(3\\,x\\right)",
+      "answer2": "\\text{B) }16\\,\\mathrm{sec}^{2}\\left(8\\,x\\right)",
+      "answer3": "\\text{C) }2\\,\\mathrm{sec}\\left(x\\right)\\,\\mathrm{tan}\\left(x\\right)",
+      "answer4": "\\text{D) }48\\,\\sin\\left(8\\,x\\right)+4\\,\\cos\\left(x\\right)",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (5\\,\\sin\\left(x\\right)\\right)",
+      "answer1": "\\text{A) }6\\,\\sin\\left(3\\,x\\right)-18\\,\\cos\\left(3\\,x\\right)",
+      "answer2": "\\text{B) }5\\,\\cos\\left(x\\right)",
+      "answer3": "\\text{C) }5\\,\\mathrm{sec}^{2}\\left(x\\right)",
+      "answer4": "\\text{D) }36\\,\\cos\\left(6\\,x\\right)-20\\,\\sin\\left(5\\,x\\right)",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (4\\,\\cos\\left(6\\,x\\right)-4\\,\\sin\\left(7\\,x\\right)\\right)",
+      "answer1": "\\text{A) }42\\,\\cos\\left(7\\,x\\right)-24\\,\\sin\\left(4\\,x\\right)",
+      "answer2": "\\text{B) }-28\\,\\sin\\left(7\\,x\\right)",
+      "answer3": "\\text{C) }-28\\,\\cos\\left(7\\,x\\right)-24\\,\\sin\\left(6\\,x\\right)",
+      "answer4": "\\text{D) }-21\\,\\mathrm{sec}\\left(7\\,x\\right)\\,\\mathrm{tan}\\left(7\\,x\\right)",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-4\\,\\sin\\left(8\\,x\\right)\\right)",
+      "answer1": "\\text{A) }42\\,\\mathrm{sec}^{2}\\left(6\\,x\\right)",
+      "answer2": "\\text{B) }-32\\,\\cos\\left(8\\,x\\right)",
+      "answer3": "\\text{C) }21\\,\\cos\\left(7\\,x\\right)+28\\,\\sin\\left(7\\,x\\right)",
+      "answer4": "\\text{D) }-32\\,\\mathrm{csc}^{2}\\left(4\\,x\\right)",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (3\\,\\sin\\left(5\\,x\\right)-3\\,\\cos\\left(4\\,x\\right)\\right)",
+      "answer1": "\\text{A) }-18\\,\\sin\\left(3\\,x\\right)",
+      "answer2": "\\text{B) }-9\\,\\mathrm{sec}\\left(3\\,x\\right)\\,\\mathrm{tan}\\left(3\\,x\\right)",
+      "answer3": "\\text{C) }15\\,\\cos\\left(5\\,x\\right)+12\\,\\sin\\left(4\\,x\\right)",
+      "answer4": "\\text{D) }24\\,\\mathrm{csc}^{2}\\left(8\\,x\\right)",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (5\\,\\cos\\left(3\\,x\\right)\\right)",
+      "answer1": "\\text{A) }-15\\,\\sin\\left(3\\,x\\right)",
+      "answer2": "\\text{B) }-12\\,\\mathrm{sec}\\left(4\\,x\\right)\\,\\mathrm{tan}\\left(4\\,x\\right)",
+      "answer3": "\\text{C) }32\\,\\mathrm{sec}^{2}\\left(4\\,x\\right)",
+      "answer4": "\\text{D) }21\\,\\mathrm{csc}^{2}\\left(7\\,x\\right)",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (7\\,\\cos\\left(7\\,x\\right)+2\\,\\sin\\left(6\\,x\\right)\\right)",
+      "answer1": "\\text{A) }32\\,\\mathrm{sec}\\left(4\\,x\\right)\\,\\mathrm{tan}\\left(4\\,x\\right)",
+      "answer2": "\\text{B) }12\\,\\cos\\left(6\\,x\\right)-49\\,\\sin\\left(7\\,x\\right)",
+      "answer3": "\\text{C) }42\\,\\cos\\left(7\\,x\\right)",
+      "answer4": "\\text{D) }30\\,\\sin\\left(6\\,x\\right)",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-3\\,\\cos\\left(7\\,x\\right)\\right)",
+      "answer1": "\\text{A) }14\\,\\mathrm{csc}\\left(2\\,x\\right)\\,\\mathrm{cot}\\left(2\\,x\\right)",
+      "answer2": "\\text{B) }14\\,\\cos\\left(7\\,x\\right)-15\\,\\sin\\left(5\\,x\\right)",
+      "answer3": "\\text{C) }21\\,\\sin\\left(7\\,x\\right)",
+      "answer4": "\\text{D) }-21\\,\\cos\\left(7\\,x\\right)",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (6\\,\\cos\\left(6\\,x\\right)-4\\,\\sin\\left(4\\,x\\right)\\right)",
+      "answer1": "\\text{A) }3\\,\\cos\\left(x\\right)-40\\,\\sin\\left(8\\,x\\right)",
+      "answer2": "\\text{B) }-16\\,\\cos\\left(4\\,x\\right)-36\\,\\sin\\left(6\\,x\\right)",
+      "answer3": "\\text{C) }24\\,\\mathrm{csc}\\left(4\\,x\\right)\\,\\mathrm{cot}\\left(4\\,x\\right)",
+      "answer4": "\\text{D) }-40\\,\\sin\\left(5\\,x\\right)",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (7\\,\\mathrm{cot}\\left(4\\,x\\right)\\right)",
+      "answer1": "\\text{A) }20\\,\\cos\\left(5\\,x\\right)-10\\,\\sin\\left(5\\,x\\right)",
+      "answer2": "\\text{B) }-35\\,\\cos\\left(5\\,x\\right)",
+      "answer3": "\\text{C) }-28\\,\\mathrm{csc}^{2}\\left(4\\,x\\right)",
+      "answer4": "\\text{D) }12\\,\\mathrm{sec}^{2}\\left(6\\,x\\right)",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (6\\,\\sin\\left(6\\,x\\right)\\right)",
+      "answer1": "\\text{A) }14\\,\\mathrm{sec}\\left(7\\,x\\right)\\,\\mathrm{tan}\\left(7\\,x\\right)",
+      "answer2": "\\text{B) }-10\\,\\mathrm{sec}^{2}\\left(2\\,x\\right)",
+      "answer3": "\\text{C) }36\\,\\cos\\left(6\\,x\\right)",
+      "answer4": "\\text{D) }-14\\,\\mathrm{csc}\\left(7\\,x\\right)\\,\\mathrm{cot}\\left(7\\,x\\right)",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (2\\,\\cos\\left(4\\,x\\right)-2\\,\\sin\\left(7\\,x\\right)\\right)",
+      "answer1": "\\text{A) }-4\\,\\mathrm{csc}\\left(2\\,x\\right)\\,\\mathrm{cot}\\left(2\\,x\\right)",
+      "answer2": "\\text{B) }21\\,\\mathrm{csc}^{2}\\left(7\\,x\\right)",
+      "answer3": "\\text{C) }-14\\,\\cos\\left(7\\,x\\right)-8\\,\\sin\\left(4\\,x\\right)",
+      "answer4": "\\text{D) }12\\,\\cos\\left(3\\,x\\right)",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (6\\,\\mathrm{sec}\\left(x\\right)\\right)",
+      "answer1": "\\text{A) }6\\,\\mathrm{sec}\\left(x\\right)\\,\\mathrm{tan}\\left(x\\right)",
+      "answer2": "\\text{B) }-20\\,\\sin\\left(4\\,x\\right)",
+      "answer3": "\\text{C) }4\\,\\mathrm{sec}^{2}\\left(2\\,x\\right)",
+      "answer4": "\\text{D) }-12\\,\\mathrm{csc}^{2}\\left(6\\,x\\right)",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-3\\,\\mathrm{tan}\\left(5\\,x\\right)\\right)",
+      "answer1": "\\text{A) }-35\\,\\cos\\left(7\\,x\\right)",
+      "answer2": "\\text{B) }-15\\,\\mathrm{sec}^{2}\\left(5\\,x\\right)",
+      "answer3": "\\text{C) }4\\,\\mathrm{sec}\\left(x\\right)\\,\\mathrm{tan}\\left(x\\right)",
+      "answer4": "\\text{D) }12\\,\\sin\\left(4\\,x\\right)+4\\,\\cos\\left(x\\right)",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (5\\,\\mathrm{cot}\\left(4\\,x\\right)\\right)",
+      "answer1": "\\text{A) }14\\,\\sin\\left(2\\,x\\right)-18\\,\\cos\\left(6\\,x\\right)",
+      "answer2": "\\text{B) }-20\\,\\mathrm{csc}^{2}\\left(4\\,x\\right)",
+      "answer3": "\\text{C) }-12\\,\\cos\\left(6\\,x\\right)",
+      "answer4": "\\text{D) }-32\\,\\cos\\left(8\\,x\\right)-5\\,\\sin\\left(x\\right)",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (7\\,\\mathrm{csc}\\left(7\\,x\\right)\\right)",
+      "answer1": "\\text{A) }-6\\,\\sin\\left(2\\,x\\right)",
+      "answer2": "\\text{B) }12\\,\\cos\\left(4\\,x\\right)+6\\,\\sin\\left(x\\right)",
+      "answer3": "\\text{C) }-49\\,\\mathrm{csc}\\left(7\\,x\\right)\\,\\mathrm{cot}\\left(7\\,x\\right)",
+      "answer4": "\\text{D) }7\\,\\cos\\left(x\\right)",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (2\\,\\mathrm{sec}\\left(6\\,x\\right)\\right)",
+      "answer1": "\\text{A) }12\\,\\mathrm{sec}\\left(6\\,x\\right)\\,\\mathrm{tan}\\left(6\\,x\\right)",
+      "answer2": "\\text{B) }-48\\,\\mathrm{csc}\\left(8\\,x\\right)\\,\\mathrm{cot}\\left(8\\,x\\right)",
+      "answer3": "\\text{C) }15\\,\\cos\\left(5\\,x\\right)-6\\,\\sin\\left(x\\right)",
+      "answer4": "\\text{D) }18\\,\\cos\\left(6\\,x\\right)+12\\,\\sin\\left(4\\,x\\right)",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-2\\,\\cos\\left(6\\,x\\right)-4\\,\\sin\\left(5\\,x\\right)\\right)",
+      "answer1": "\\text{A) }12\\,\\sin\\left(6\\,x\\right)-20\\,\\cos\\left(5\\,x\\right)",
+      "answer2": "\\text{B) }18\\,\\mathrm{sec}\\left(6\\,x\\right)\\,\\mathrm{tan}\\left(6\\,x\\right)",
+      "answer3": "\\text{C) }-15\\,\\cos\\left(5\\,x\\right)-18\\,\\sin\\left(6\\,x\\right)",
+      "answer4": "\\text{D) }-24\\,\\sin\\left(6\\,x\\right)",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (7\\,\\cos\\left(6\\,x\\right)+2\\,\\sin\\left(7\\,x\\right)\\right)",
+      "answer1": "\\text{A) }-7\\,\\mathrm{csc}^{2}\\left(x\\right)",
+      "answer2": "\\text{B) }14\\,\\cos\\left(7\\,x\\right)-42\\,\\sin\\left(6\\,x\\right)",
+      "answer3": "\\text{C) }-21\\,\\cos\\left(3\\,x\\right)",
+      "answer4": "\\text{D) }24\\,\\mathrm{csc}\\left(6\\,x\\right)\\,\\mathrm{cot}\\left(6\\,x\\right)",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-5\\,\\cos\\left(3\\,x\\right)-2\\,\\sin\\left(3\\,x\\right)\\right)",
+      "answer1": "\\text{A) }15\\,\\sin\\left(3\\,x\\right)-6\\,\\cos\\left(3\\,x\\right)",
+      "answer2": "\\text{B) }6\\,\\cos\\left(3\\,x\\right)-6\\,\\sin\\left(x\\right)",
+      "answer3": "\\text{C) }-6\\,\\mathrm{csc}\\left(3\\,x\\right)\\,\\mathrm{cot}\\left(3\\,x\\right)",
+      "answer4": "\\text{D) }-6\\,\\mathrm{csc}^{2}\\left(3\\,x\\right)",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-7\\,\\mathrm{csc}\\left(6\\,x\\right)\\right)",
+      "answer1": "\\text{A) }-3\\,\\mathrm{sec}^{2}\\left(x\\right)",
+      "answer2": "\\text{B) }42\\,\\mathrm{csc}\\left(6\\,x\\right)\\,\\mathrm{cot}\\left(6\\,x\\right)",
+      "answer3": "\\text{C) }-6\\,\\sin\\left(x\\right)",
+      "answer4": "\\text{D) }-18\\,\\cos\\left(6\\,x\\right)",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (2\\,\\mathrm{sec}\\left(2\\,x\\right)\\right)",
+      "answer1": "\\text{A) }9\\,\\mathrm{csc}^{2}\\left(3\\,x\\right)",
+      "answer2": "\\text{B) }4\\,\\mathrm{sec}\\left(2\\,x\\right)\\,\\mathrm{tan}\\left(2\\,x\\right)",
+      "answer3": "\\text{C) }16\\,\\mathrm{sec}^{2}\\left(4\\,x\\right)",
+      "answer4": "\\text{D) }56\\,\\cos\\left(8\\,x\\right)",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (6\\,\\mathrm{tan}\\left(7\\,x\\right)\\right)",
+      "answer1": "\\text{A) }-8\\,\\mathrm{csc}\\left(x\\right)\\,\\mathrm{cot}\\left(x\\right)",
+      "answer2": "\\text{B) }42\\,\\mathrm{sec}^{2}\\left(7\\,x\\right)",
+      "answer3": "\\text{C) }28\\,\\sin\\left(4\\,x\\right)-35\\,\\cos\\left(5\\,x\\right)",
+      "answer4": "\\text{D) }-16\\,\\cos\\left(4\\,x\\right)",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-2\\,\\mathrm{sec}\\left(3\\,x\\right)\\right)",
+      "answer1": "\\text{A) }-15\\,\\cos\\left(3\\,x\\right)",
+      "answer2": "\\text{B) }35\\,\\mathrm{sec}^{2}\\left(5\\,x\\right)",
+      "answer3": "\\text{C) }-6\\,\\mathrm{sec}\\left(3\\,x\\right)\\,\\mathrm{tan}\\left(3\\,x\\right)",
+      "answer4": "\\text{D) }21\\,\\cos\\left(3\\,x\\right)+6\\,\\sin\\left(2\\,x\\right)",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-5\\,\\mathrm{tan}\\left(7\\,x\\right)\\right)",
+      "answer1": "\\text{A) }-35\\,\\mathrm{sec}^{2}\\left(7\\,x\\right)",
+      "answer2": "\\text{B) }-12\\,\\mathrm{csc}^{2}\\left(2\\,x\\right)",
+      "answer3": "\\text{C) }8\\,\\mathrm{csc}\\left(4\\,x\\right)\\,\\mathrm{cot}\\left(4\\,x\\right)",
+      "answer4": "\\text{D) }-24\\,\\mathrm{sec}\\left(6\\,x\\right)\\,\\mathrm{tan}\\left(6\\,x\\right)",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-6\\,\\mathrm{csc}\\left(6\\,x\\right)\\right)",
+      "answer1": "\\text{A) }36\\,\\mathrm{csc}\\left(6\\,x\\right)\\,\\mathrm{cot}\\left(6\\,x\\right)",
+      "answer2": "\\text{B) }28\\,\\mathrm{sec}^{2}\\left(4\\,x\\right)",
+      "answer3": "\\text{C) }21\\,\\cos\\left(3\\,x\\right)+48\\,\\sin\\left(8\\,x\\right)",
+      "answer4": "\\text{D) }18\\,\\sin\\left(6\\,x\\right)-15\\,\\cos\\left(3\\,x\\right)",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (5\\,\\cos\\left(7\\,x\\right)\\right)",
+      "answer1": "\\text{A) }-30\\,\\cos\\left(6\\,x\\right)",
+      "answer2": "\\text{B) }-15\\,\\mathrm{sec}\\left(3\\,x\\right)\\,\\mathrm{tan}\\left(3\\,x\\right)",
+      "answer3": "\\text{C) }-35\\,\\sin\\left(7\\,x\\right)",
+      "answer4": "\\text{D) }-2\\,\\mathrm{sec}^{2}\\left(x\\right)",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (3\\,\\mathrm{csc}\\left(6\\,x\\right)\\right)",
+      "answer1": "\\text{A) }3\\,\\sin\\left(x\\right)-9\\,\\cos\\left(3\\,x\\right)",
+      "answer2": "\\text{B) }14\\,\\cos\\left(7\\,x\\right)",
+      "answer3": "\\text{C) }-18\\,\\mathrm{csc}\\left(6\\,x\\right)\\,\\mathrm{cot}\\left(6\\,x\\right)",
+      "answer4": "\\text{D) }24\\,\\sin\\left(8\\,x\\right)",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (7\\,\\sin\\left(x\\right)-6\\,\\cos\\left(3\\,x\\right)\\right)",
+      "answer1": "\\text{A) }-6\\,\\cos\\left(3\\,x\\right)-8\\,\\sin\\left(x\\right)",
+      "answer2": "\\text{B) }-56\\,\\mathrm{sec}\\left(8\\,x\\right)\\,\\mathrm{tan}\\left(8\\,x\\right)",
+      "answer3": "\\text{C) }12\\,\\mathrm{csc}^{2}\\left(3\\,x\\right)",
+      "answer4": "\\text{D) }18\\,\\sin\\left(3\\,x\\right)+7\\,\\cos\\left(x\\right)",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-3\\,\\mathrm{tan}\\left(6\\,x\\right)\\right)",
+      "answer1": "\\text{A) }-18\\,\\mathrm{sec}^{2}\\left(6\\,x\\right)",
+      "answer2": "\\text{B) }18\\,\\sin\\left(3\\,x\\right)-2\\,\\cos\\left(x\\right)",
+      "answer3": "\\text{C) }10\\,\\cos\\left(5\\,x\\right)",
+      "answer4": "\\text{D) }6\\,\\mathrm{csc}\\left(x\\right)\\,\\mathrm{cot}\\left(x\\right)",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-6\\,\\cos\\left(4\\,x\\right)-4\\,\\sin\\left(2\\,x\\right)\\right)",
+      "answer1": "\\text{A) }24\\,\\cos\\left(4\\,x\\right)+21\\,\\sin\\left(3\\,x\\right)",
+      "answer2": "\\text{B) }28\\,\\cos\\left(4\\,x\\right)",
+      "answer3": "\\text{C) }15\\,\\mathrm{sec}\\left(5\\,x\\right)\\,\\mathrm{tan}\\left(5\\,x\\right)",
+      "answer4": "\\text{D) }24\\,\\sin\\left(4\\,x\\right)-8\\,\\cos\\left(2\\,x\\right)",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (5\\,\\cos\\left(5\\,x\\right)\\right)",
+      "answer1": "\\text{A) }6\\,\\cos\\left(3\\,x\\right)",
+      "answer2": "\\text{B) }-25\\,\\sin\\left(5\\,x\\right)",
+      "answer3": "\\text{C) }35\\,\\mathrm{sec}^{2}\\left(5\\,x\\right)",
+      "answer4": "\\text{D) }-2\\,\\mathrm{sec}\\left(x\\right)\\,\\mathrm{tan}\\left(x\\right)",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-7\\,\\cos\\left(6\\,x\\right)-5\\,\\sin\\left(4\\,x\\right)\\right)",
+      "answer1": "\\text{A) }-18\\,\\mathrm{sec}^{2}\\left(6\\,x\\right)",
+      "answer2": "\\text{B) }42\\,\\sin\\left(6\\,x\\right)-20\\,\\cos\\left(4\\,x\\right)",
+      "answer3": "\\text{C) }-20\\,\\sin\\left(5\\,x\\right)",
+      "answer4": "\\text{D) }-6\\,\\mathrm{csc}^{2}\\left(x\\right)",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (3\\,\\sin\\left(7\\,x\\right)\\right)",
+      "answer1": "\\text{A) }-16\\,\\mathrm{csc}^{2}\\left(4\\,x\\right)",
+      "answer2": "\\text{B) }-35\\,\\mathrm{csc}\\left(7\\,x\\right)\\,\\mathrm{cot}\\left(7\\,x\\right)",
+      "answer3": "\\text{C) }21\\,\\cos\\left(7\\,x\\right)",
+      "answer4": "\\text{D) }-49\\,\\cos\\left(7\\,x\\right)-14\\,\\sin\\left(7\\,x\\right)",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (5\\,\\sin\\left(x\\right)-7\\,\\cos\\left(2\\,x\\right)\\right)",
+      "answer1": "\\text{A) }6\\,\\sin\\left(2\\,x\\right)",
+      "answer2": "\\text{B) }14\\,\\sin\\left(2\\,x\\right)+5\\,\\cos\\left(x\\right)",
+      "answer3": "\\text{C) }-48\\,\\mathrm{sec}\\left(8\\,x\\right)\\,\\mathrm{tan}\\left(8\\,x\\right)",
+      "answer4": "\\text{D) }7\\,\\cos\\left(x\\right)",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (4\\,\\cos\\left(x\\right)\\right)",
+      "answer1": "\\text{A) }16\\,\\cos\\left(2\\,x\\right)",
+      "answer2": "\\text{B) }16\\,\\cos\\left(4\\,x\\right)-21\\,\\sin\\left(7\\,x\\right)",
+      "answer3": "\\text{C) }-4\\,\\sin\\left(x\\right)",
+      "answer4": "\\text{D) }49\\,\\mathrm{csc}^{2}\\left(7\\,x\\right)",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-2\\,\\cos\\left(4\\,x\\right)\\right)",
+      "answer1": "\\text{A) }12\\,\\mathrm{csc}^{2}\\left(3\\,x\\right)",
+      "answer2": "\\text{B) }8\\,\\sin\\left(4\\,x\\right)",
+      "answer3": "\\text{C) }-28\\,\\cos\\left(7\\,x\\right)-8\\,\\sin\\left(2\\,x\\right)",
+      "answer4": "\\text{D) }35\\,\\mathrm{sec}^{2}\\left(5\\,x\\right)",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (4\\,\\cos\\left(4\\,x\\right)+6\\,\\sin\\left(x\\right)\\right)",
+      "answer1": "\\text{A) }30\\,\\mathrm{csc}^{2}\\left(6\\,x\\right)",
+      "answer2": "\\text{B) }7\\,\\mathrm{csc}\\left(x\\right)\\,\\mathrm{cot}\\left(x\\right)",
+      "answer3": "\\text{C) }7\\,\\cos\\left(x\\right)+3\\,\\sin\\left(x\\right)",
+      "answer4": "\\text{D) }6\\,\\cos\\left(x\\right)-16\\,\\sin\\left(4\\,x\\right)",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-7\\,\\mathrm{csc}\\left(4\\,x\\right)\\right)",
+      "answer1": "\\text{A) }35\\,\\mathrm{sec}\\left(7\\,x\\right)\\,\\mathrm{tan}\\left(7\\,x\\right)",
+      "answer2": "\\text{B) }28\\,\\mathrm{csc}\\left(4\\,x\\right)\\,\\mathrm{cot}\\left(4\\,x\\right)",
+      "answer3": "\\text{C) }-6\\,\\sin\\left(x\\right)",
+      "answer4": "\\text{D) }-15\\,\\cos\\left(3\\,x\\right)-16\\,\\sin\\left(4\\,x\\right)",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (2\\,\\sin\\left(5\\,x\\right)\\right)",
+      "answer1": "\\text{A) }24\\,\\sin\\left(6\\,x\\right)-10\\,\\cos\\left(5\\,x\\right)",
+      "answer2": "\\text{B) }42\\,\\cos\\left(7\\,x\\right)+25\\,\\sin\\left(5\\,x\\right)",
+      "answer3": "\\text{C) }10\\,\\cos\\left(5\\,x\\right)",
+      "answer4": "\\text{D) }24\\,\\mathrm{csc}^{2}\\left(6\\,x\\right)",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (7\\,\\cos\\left(x\\right)\\right)",
+      "answer1": "\\text{A) }12\\,\\mathrm{sec}\\left(2\\,x\\right)\\,\\mathrm{tan}\\left(2\\,x\\right)",
+      "answer2": "\\text{B) }7\\,\\cos\\left(x\\right)",
+      "answer3": "\\text{C) }-7\\,\\sin\\left(x\\right)",
+      "answer4": "\\text{D) }-21\\,\\mathrm{sec}^{2}\\left(7\\,x\\right)",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (8\\,\\cos\\left(3\\,x\\right)\\right)",
+      "answer1": "\\text{A) }-24\\,\\sin\\left(3\\,x\\right)",
+      "answer2": "\\text{B) }-4\\,\\mathrm{csc}\\left(2\\,x\\right)\\,\\mathrm{cot}\\left(2\\,x\\right)",
+      "answer3": "\\text{C) }5\\,\\mathrm{sec}^{2}\\left(x\\right)",
+      "answer4": "\\text{D) }42\\,\\sin\\left(7\\,x\\right)-24\\,\\cos\\left(3\\,x\\right)",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (3\\,\\cos\\left(7\\,x\\right)-6\\,\\sin\\left(3\\,x\\right)\\right)",
+      "answer1": "\\text{A) }24\\,\\sin\\left(4\\,x\\right)-6\\,\\cos\\left(x\\right)",
+      "answer2": "\\text{B) }24\\,\\sin\\left(4\\,x\\right)",
+      "answer3": "\\text{C) }-18\\,\\cos\\left(3\\,x\\right)-21\\,\\sin\\left(7\\,x\\right)",
+      "answer4": "\\text{D) }-21\\,\\mathrm{csc}^{2}\\left(3\\,x\\right)",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (7\\,\\sin\\left(5\\,x\\right)\\right)",
+      "answer1": "\\text{A) }35\\,\\cos\\left(5\\,x\\right)",
+      "answer2": "\\text{B) }-15\\,\\mathrm{csc}^{2}\\left(5\\,x\\right)",
+      "answer3": "\\text{C) }28\\,\\mathrm{sec}^{2}\\left(7\\,x\\right)",
+      "answer4": "\\text{D) }4\\,\\mathrm{sec}\\left(2\\,x\\right)\\,\\mathrm{tan}\\left(2\\,x\\right)",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (5\\,\\mathrm{cot}\\left(x\\right)\\right)",
+      "answer1": "\\text{A) }-16\\,\\mathrm{csc}\\left(2\\,x\\right)\\,\\mathrm{cot}\\left(2\\,x\\right)",
+      "answer2": "\\text{B) }48\\,\\cos\\left(6\\,x\\right)-56\\,\\sin\\left(7\\,x\\right)",
+      "answer3": "\\text{C) }-5\\,\\mathrm{csc}^{2}\\left(x\\right)",
+      "answer4": "\\text{D) }12\\,\\sin\\left(6\\,x\\right)",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (2\\,\\mathrm{tan}\\left(6\\,x\\right)\\right)",
+      "answer1": "\\text{A) }42\\,\\mathrm{csc}^{2}\\left(7\\,x\\right)",
+      "answer2": "\\text{B) }-21\\,\\sin\\left(3\\,x\\right)",
+      "answer3": "\\text{C) }12\\,\\mathrm{sec}^{2}\\left(6\\,x\\right)",
+      "answer4": "\\text{D) }21\\,\\mathrm{sec}\\left(7\\,x\\right)\\,\\mathrm{tan}\\left(7\\,x\\right)",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-6\\,\\mathrm{sec}\\left(6\\,x\\right)\\right)",
+      "answer1": "\\text{A) }15\\,\\cos\\left(5\\,x\\right)",
+      "answer2": "\\text{B) }24\\,\\cos\\left(4\\,x\\right)+24\\,\\sin\\left(6\\,x\\right)",
+      "answer3": "\\text{C) }25\\,\\sin\\left(5\\,x\\right)",
+      "answer4": "\\text{D) }-36\\,\\mathrm{sec}\\left(6\\,x\\right)\\,\\mathrm{tan}\\left(6\\,x\\right)",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (2\\,\\sin\\left(x\\right)-2\\,\\cos\\left(7\\,x\\right)\\right)",
+      "answer1": "\\text{A) }-5\\,\\mathrm{sec}\\left(x\\right)\\,\\mathrm{tan}\\left(x\\right)",
+      "answer2": "\\text{B) }6\\,\\mathrm{sec}^{2}\\left(3\\,x\\right)",
+      "answer3": "\\text{C) }14\\,\\sin\\left(7\\,x\\right)+2\\,\\cos\\left(x\\right)",
+      "answer4": "\\text{D) }16\\,\\cos\\left(8\\,x\\right)+40\\,\\sin\\left(8\\,x\\right)",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (4\\,\\cos\\left(4\\,x\\right)+4\\,\\sin\\left(2\\,x\\right)\\right)",
+      "answer1": "\\text{A) }-32\\,\\sin\\left(4\\,x\\right)",
+      "answer2": "\\text{B) }3\\,\\cos\\left(x\\right)",
+      "answer3": "\\text{C) }8\\,\\cos\\left(2\\,x\\right)-16\\,\\sin\\left(4\\,x\\right)",
+      "answer4": "\\text{D) }12\\,\\mathrm{csc}\\left(4\\,x\\right)\\,\\mathrm{cot}\\left(4\\,x\\right)",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-2\\,\\mathrm{csc}\\left(2\\,x\\right)\\right)",
+      "answer1": "\\text{A) }-14\\,\\sin\\left(7\\,x\\right)",
+      "answer2": "\\text{B) }4\\,\\mathrm{csc}\\left(2\\,x\\right)\\,\\mathrm{cot}\\left(2\\,x\\right)",
+      "answer3": "\\text{C) }6\\,\\cos\\left(3\\,x\\right)-12\\,\\sin\\left(2\\,x\\right)",
+      "answer4": "\\text{D) }12\\,\\mathrm{sec}^{2}\\left(3\\,x\\right)",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-7\\,\\mathrm{tan}\\left(7\\,x\\right)\\right)",
+      "answer1": "\\text{A) }14\\,\\cos\\left(2\\,x\\right)+35\\,\\sin\\left(5\\,x\\right)",
+      "answer2": "\\text{B) }28\\,\\cos\\left(7\\,x\\right)+42\\,\\sin\\left(6\\,x\\right)",
+      "answer3": "\\text{C) }-49\\,\\mathrm{sec}^{2}\\left(7\\,x\\right)",
+      "answer4": "\\text{D) }-21\\,\\cos\\left(3\\,x\\right)",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (5\\,\\mathrm{csc}\\left(4\\,x\\right)\\right)",
+      "answer1": "\\text{A) }-14\\,\\mathrm{sec}^{2}\\left(7\\,x\\right)",
+      "answer2": "\\text{B) }5\\,\\mathrm{sec}\\left(x\\right)\\,\\mathrm{tan}\\left(x\\right)",
+      "answer3": "\\text{C) }-20\\,\\mathrm{csc}\\left(4\\,x\\right)\\,\\mathrm{cot}\\left(4\\,x\\right)",
+      "answer4": "\\text{D) }-12\\,\\sqrt{2}\\,\\cos\\left(2\\,x+\\frac{\\pi }{4}\\right)",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (7\\,\\cos\\left(4\\,x\\right)-7\\,\\sin\\left(2\\,x\\right)\\right)",
+      "answer1": "\\text{A) }-28\\,\\cos\\left(7\\,x\\right)",
+      "answer2": "\\text{B) }28\\,\\cos\\left(4\\,x\\right)-14\\,\\sin\\left(7\\,x\\right)",
+      "answer3": "\\text{C) }49\\,\\mathrm{sec}^{2}\\left(7\\,x\\right)",
+      "answer4": "\\text{D) }-14\\,\\cos\\left(2\\,x\\right)-28\\,\\sin\\left(4\\,x\\right)",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (2\\,\\sin\\left(x\\right)\\right)",
+      "answer1": "\\text{A) }-10\\,\\mathrm{sec}\\left(5\\,x\\right)\\,\\mathrm{tan}\\left(5\\,x\\right)",
+      "answer2": "\\text{B) }20\\,\\mathrm{csc}\\left(5\\,x\\right)\\,\\mathrm{cot}\\left(5\\,x\\right)",
+      "answer3": "\\text{C) }2\\,\\cos\\left(x\\right)",
+      "answer4": "\\text{D) }-25\\,\\sin\\left(5\\,x\\right)",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (5\\,\\mathrm{tan}\\left(7\\,x\\right)\\right)",
+      "answer1": "\\text{A) }35\\,\\mathrm{csc}^{2}\\left(5\\,x\\right)",
+      "answer2": "\\text{B) }40\\,\\cos\\left(5\\,x\\right)-56\\,\\sin\\left(7\\,x\\right)",
+      "answer3": "\\text{C) }16\\,\\sin\\left(4\\,x\\right)",
+      "answer4": "\\text{D) }35\\,\\mathrm{sec}^{2}\\left(7\\,x\\right)",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-7\\,\\mathrm{tan}\\left(x\\right)\\right)",
+      "answer1": "\\text{A) }30\\,\\cos\\left(5\\,x\\right)+6\\,\\sin\\left(x\\right)",
+      "answer2": "\\text{B) }-7\\,\\mathrm{sec}^{2}\\left(x\\right)",
+      "answer3": "\\text{C) }-24\\,\\mathrm{csc}\\left(3\\,x\\right)\\,\\mathrm{cot}\\left(3\\,x\\right)",
+      "answer4": "\\text{D) }-24\\,\\sin\\left(4\\,x\\right)",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (4\\,\\mathrm{sec}\\left(7\\,x\\right)\\right)",
+      "answer1": "\\text{A) }25\\,\\cos\\left(5\\,x\\right)+5\\,\\sin\\left(x\\right)",
+      "answer2": "\\text{B) }28\\,\\mathrm{sec}\\left(7\\,x\\right)\\,\\mathrm{tan}\\left(7\\,x\\right)",
+      "answer3": "\\text{C) }35\\,\\sin\\left(7\\,x\\right)-15\\,\\cos\\left(5\\,x\\right)",
+      "answer4": "\\text{D) }-40\\,\\mathrm{csc}\\left(5\\,x\\right)\\,\\mathrm{cot}\\left(5\\,x\\right)",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (7\\,\\mathrm{sec}\\left(3\\,x\\right)\\right)",
+      "answer1": "\\text{A) }-14\\,\\mathrm{csc}^{2}\\left(2\\,x\\right)",
+      "answer2": "\\text{B) }21\\,\\mathrm{sec}\\left(3\\,x\\right)\\,\\mathrm{tan}\\left(3\\,x\\right)",
+      "answer3": "\\text{C) }-4\\,\\mathrm{csc}\\left(x\\right)\\,\\mathrm{cot}\\left(x\\right)",
+      "answer4": "\\text{D) }21\\,\\mathrm{sec}^{2}\\left(3\\,x\\right)",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-6\\,\\cos\\left(2\\,x\\right)-3\\,\\sin\\left(2\\,x\\right)\\right)",
+      "answer1": "\\text{A) }-5\\,\\mathrm{sec}^{2}\\left(x\\right)",
+      "answer2": "\\text{B) }12\\,\\sin\\left(2\\,x\\right)-6\\,\\cos\\left(2\\,x\\right)",
+      "answer3": "\\text{C) }6\\,\\cos\\left(x\\right)-9\\,\\sin\\left(3\\,x\\right)",
+      "answer4": "\\text{D) }18\\,\\mathrm{sec}\\left(6\\,x\\right)\\,\\mathrm{tan}\\left(6\\,x\\right)",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (6\\,\\mathrm{tan}\\left(6\\,x\\right)\\right)",
+      "answer1": "\\text{A) }36\\,\\mathrm{sec}^{2}\\left(6\\,x\\right)",
+      "answer2": "\\text{B) }35\\,\\cos\\left(5\\,x\\right)",
+      "answer3": "\\text{C) }-10\\,\\cos\\left(2\\,x\\right)-42\\,\\sin\\left(6\\,x\\right)",
+      "answer4": "\\text{D) }-35\\,\\sin\\left(5\\,x\\right)",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (2\\,\\mathrm{csc}\\left(6\\,x\\right)\\right)",
+      "answer1": "\\text{A) }-48\\,\\cos\\left(6\\,x\\right)",
+      "answer2": "\\text{B) }-18\\,\\mathrm{sec}\\left(6\\,x\\right)\\,\\mathrm{tan}\\left(6\\,x\\right)",
+      "answer3": "\\text{C) }-12\\,\\mathrm{csc}\\left(6\\,x\\right)\\,\\mathrm{cot}\\left(6\\,x\\right)",
+      "answer4": "\\text{D) }-14\\,\\mathrm{sec}^{2}\\left(2\\,x\\right)",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (4\\,\\mathrm{sec}\\left(6\\,x\\right)\\right)",
+      "answer1": "\\text{A) }-36\\,\\mathrm{csc}^{2}\\left(6\\,x\\right)",
+      "answer2": "\\text{B) }10\\,\\cos\\left(5\\,x\\right)+35\\,\\sin\\left(7\\,x\\right)",
+      "answer3": "\\text{C) }24\\,\\mathrm{sec}\\left(6\\,x\\right)\\,\\mathrm{tan}\\left(6\\,x\\right)",
+      "answer4": "\\text{D) }49\\,\\sin\\left(7\\,x\\right)",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-4\\,\\mathrm{csc}\\left(6\\,x\\right)\\right)",
+      "answer1": "\\text{A) }-15\\,\\mathrm{sec}^{2}\\left(3\\,x\\right)",
+      "answer2": "\\text{B) }35\\,\\cos\\left(5\\,x\\right)+18\\,\\sin\\left(6\\,x\\right)",
+      "answer3": "\\text{C) }21\\,\\sin\\left(7\\,x\\right)",
+      "answer4": "\\text{D) }24\\,\\mathrm{csc}\\left(6\\,x\\right)\\,\\mathrm{cot}\\left(6\\,x\\right)",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (5\\,\\mathrm{tan}\\left(4\\,x\\right)\\right)",
+      "answer1": "\\text{A) }20\\,\\mathrm{sec}^{2}\\left(4\\,x\\right)",
+      "answer2": "\\text{B) }-35\\,\\mathrm{csc}\\left(7\\,x\\right)\\,\\mathrm{cot}\\left(7\\,x\\right)",
+      "answer3": "\\text{C) }-35\\,\\sin\\left(7\\,x\\right)",
+      "answer4": "\\text{D) }4\\,\\mathrm{csc}^{2}\\left(2\\,x\\right)",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (2\\,\\mathrm{csc}\\left(4\\,x\\right)\\right)",
+      "answer1": "\\text{A) }-64\\,\\sin\\left(8\\,x\\right)",
+      "answer2": "\\text{B) }-8\\,\\mathrm{csc}\\left(4\\,x\\right)\\,\\mathrm{cot}\\left(4\\,x\\right)",
+      "answer3": "\\text{C) }40\\,\\sin\\left(8\\,x\\right)-8\\,\\cos\\left(x\\right)",
+      "answer4": "\\text{D) }-32\\,\\cos\\left(4\\,x\\right)",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (3\\,\\mathrm{sec}\\left(4\\,x\\right)\\right)",
+      "answer1": "\\text{A) }15\\,\\mathrm{sec}^{2}\\left(3\\,x\\right)",
+      "answer2": "\\text{B) }-21\\,\\cos\\left(3\\,x\\right)",
+      "answer3": "\\text{C) }12\\,\\mathrm{sec}\\left(4\\,x\\right)\\,\\mathrm{tan}\\left(4\\,x\\right)",
+      "answer4": "\\text{D) }12\\,\\sin\\left(3\\,x\\right)",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-4\\,\\cos\\left(2\\,x\\right)\\right)",
+      "answer1": "\\text{A) }9\\,\\mathrm{sec}^{2}\\left(3\\,x\\right)",
+      "answer2": "\\text{B) }-56\\,\\mathrm{sec}\\left(8\\,x\\right)\\,\\mathrm{tan}\\left(8\\,x\\right)",
+      "answer3": "\\text{C) }18\\,\\cos\\left(6\\,x\\right)",
+      "answer4": "\\text{D) }8\\,\\sin\\left(2\\,x\\right)",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-4\\,\\mathrm{sec}\\left(x\\right)\\right)",
+      "answer1": "\\text{A) }4\\,\\cos\\left(x\\right)-8\\,\\sin\\left(4\\,x\\right)",
+      "answer2": "\\text{B) }-10\\,\\mathrm{sec}^{2}\\left(5\\,x\\right)",
+      "answer3": "\\text{C) }-4\\,\\mathrm{sec}\\left(x\\right)\\,\\mathrm{tan}\\left(x\\right)",
+      "answer4": "\\text{D) }-20\\,\\cos\\left(5\\,x\\right)",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (5\\,\\cos\\left(6\\,x\\right)\\right)",
+      "answer1": "\\text{A) }-6\\,\\mathrm{csc}^{2}\\left(2\\,x\\right)",
+      "answer2": "\\text{B) }-6\\,\\mathrm{sec}^{2}\\left(x\\right)",
+      "answer3": "\\text{C) }21\\,\\sin\\left(3\\,x\\right)+3\\,\\cos\\left(x\\right)",
+      "answer4": "\\text{D) }-30\\,\\sin\\left(6\\,x\\right)",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-2\\,\\mathrm{csc}\\left(5\\,x\\right)\\right)",
+      "answer1": "\\text{A) }6\\,\\cos\\left(x\\right)",
+      "answer2": "\\text{B) }-10\\,\\mathrm{csc}^{2}\\left(5\\,x\\right)",
+      "answer3": "\\text{C) }10\\,\\mathrm{csc}\\left(5\\,x\\right)\\,\\mathrm{cot}\\left(5\\,x\\right)",
+      "answer4": "\\text{D) }14\\,\\cos\\left(2\\,x\\right)+35\\,\\sin\\left(5\\,x\\right)",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-3\\,\\mathrm{tan}\\left(5\\,x\\right)\\right)",
+      "answer1": "\\text{A) }-5\\,\\mathrm{sec}\\left(x\\right)\\,\\mathrm{tan}\\left(x\\right)",
+      "answer2": "\\text{B) }-15\\,\\mathrm{sec}^{2}\\left(5\\,x\\right)",
+      "answer3": "\\text{C) }-40\\,\\mathrm{csc}^{2}\\left(5\\,x\\right)",
+      "answer4": "\\text{D) }-10\\,\\cos\\left(5\\,x\\right)-28\\,\\sin\\left(7\\,x\\right)",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (3\\,\\cos\\left(6\\,x\\right)+3\\,\\sin\\left(3\\,x\\right)\\right)",
+      "answer1": "\\text{A) }24\\,\\sin\\left(8\\,x\\right)-24\\,\\cos\\left(6\\,x\\right)",
+      "answer2": "\\text{B) }9\\,\\cos\\left(3\\,x\\right)-18\\,\\sin\\left(6\\,x\\right)",
+      "answer3": "\\text{C) }18\\,\\cos\\left(6\\,x\\right)",
+      "answer4": "\\text{D) }-4\\,\\mathrm{csc}\\left(2\\,x\\right)\\,\\mathrm{cot}\\left(2\\,x\\right)",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (8\\,\\cos\\left(6\\,x\\right)\\right)",
+      "answer1": "\\text{A) }-3\\,\\mathrm{sec}\\left(x\\right)\\,\\mathrm{tan}\\left(x\\right)",
+      "answer2": "\\text{B) }-48\\,\\sin\\left(6\\,x\\right)",
+      "answer3": "\\text{C) }16\\,\\cos\\left(2\\,x\\right)",
+      "answer4": "\\text{D) }56\\,\\cos\\left(7\\,x\\right)+35\\,\\sin\\left(5\\,x\\right)",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-6\\,\\mathrm{cot}\\left(2\\,x\\right)\\right)",
+      "answer1": "\\text{A) }-30\\,\\cos\\left(5\\,x\\right)-6\\,\\sin\\left(x\\right)",
+      "answer2": "\\text{B) }12\\,\\mathrm{csc}^{2}\\left(2\\,x\\right)",
+      "answer3": "\\text{C) }-12\\,\\mathrm{sec}\\left(3\\,x\\right)\\,\\mathrm{tan}\\left(3\\,x\\right)",
+      "answer4": "\\text{D) }24\\,\\cos\\left(4\\,x\\right)-6\\,\\sin\\left(x\\right)",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-7\\,\\cos\\left(4\\,x\\right)-5\\,\\sin\\left(6\\,x\\right)\\right)",
+      "answer1": "\\text{A) }12\\,\\sin\\left(3\\,x\\right)-4\\,\\cos\\left(x\\right)",
+      "answer2": "\\text{B) }-8\\,\\cos\\left(2\\,x\\right)",
+      "answer3": "\\text{C) }28\\,\\sin\\left(4\\,x\\right)-30\\,\\cos\\left(6\\,x\\right)",
+      "answer4": "\\text{D) }14\\,\\mathrm{sec}^{2}\\left(2\\,x\\right)",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-4\\,\\mathrm{tan}\\left(x\\right)\\right)",
+      "answer1": "\\text{A) }28\\,\\sin\\left(4\\,x\\right)-20\\,\\cos\\left(5\\,x\\right)",
+      "answer2": "\\text{B) }-4\\,\\mathrm{csc}\\left(x\\right)\\,\\mathrm{cot}\\left(x\\right)",
+      "answer3": "\\text{C) }14\\,\\cos\\left(2\\,x\\right)-35\\,\\sin\\left(5\\,x\\right)",
+      "answer4": "\\text{D) }-4\\,\\mathrm{sec}^{2}\\left(x\\right)",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (8\\,\\mathrm{csc}\\left(3\\,x\\right)\\right)",
+      "answer1": "\\text{A) }-24\\,\\mathrm{csc}\\left(3\\,x\\right)\\,\\mathrm{cot}\\left(3\\,x\\right)",
+      "answer2": "\\text{B) }5\\,\\cos\\left(x\\right)",
+      "answer3": "\\text{C) }-6\\,\\sqrt{2}\\,\\cos\\left(x+\\frac{\\pi }{4}\\right)",
+      "answer4": "\\text{D) }48\\,\\mathrm{csc}^{2}\\left(8\\,x\\right)",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-4\\,\\mathrm{tan}\\left(6\\,x\\right)\\right)",
+      "answer1": "\\text{A) }-24\\,\\mathrm{sec}^{2}\\left(6\\,x\\right)",
+      "answer2": "\\text{B) }-8\\,\\mathrm{csc}\\left(x\\right)\\,\\mathrm{cot}\\left(x\\right)",
+      "answer3": "\\text{C) }42\\,\\sin\\left(6\\,x\\right)+2\\,\\cos\\left(x\\right)",
+      "answer4": "\\text{D) }16\\,\\mathrm{csc}^{2}\\left(8\\,x\\right)",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-7\\,\\cos\\left(5\\,x\\right)\\right)",
+      "answer1": "\\text{A) }35\\,\\sin\\left(5\\,x\\right)",
+      "answer2": "\\text{B) }3\\,\\mathrm{sec}^{2}\\left(x\\right)",
+      "answer3": "\\text{C) }-7\\,\\mathrm{csc}\\left(x\\right)\\,\\mathrm{cot}\\left(x\\right)",
+      "answer4": "\\text{D) }-21\\,\\cos\\left(3\\,x\\right)",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (8\\,\\mathrm{csc}\\left(3\\,x\\right)\\right)",
+      "answer1": "\\text{A) }42\\,\\mathrm{sec}^{2}\\left(7\\,x\\right)",
+      "answer2": "\\text{B) }18\\,\\cos\\left(3\\,x\\right)",
+      "answer3": "\\text{C) }6\\,\\mathrm{sec}\\left(x\\right)\\,\\mathrm{tan}\\left(x\\right)",
+      "answer4": "\\text{D) }-24\\,\\mathrm{csc}\\left(3\\,x\\right)\\,\\mathrm{cot}\\left(3\\,x\\right)",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (3\\,\\sin\\left(7\\,x\\right)\\right)",
+      "answer1": "\\text{A) }-18\\,\\cos\\left(3\\,x\\right)-4\\,\\sin\\left(x\\right)",
+      "answer2": "\\text{B) }-40\\,\\mathrm{sec}\\left(8\\,x\\right)\\,\\mathrm{tan}\\left(8\\,x\\right)",
+      "answer3": "\\text{C) }21\\,\\cos\\left(7\\,x\\right)",
+      "answer4": "\\text{D) }64\\,\\cos\\left(8\\,x\\right)-32\\,\\sin\\left(8\\,x\\right)",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (5\\,\\mathrm{csc}\\left(2\\,x\\right)\\right)",
+      "answer1": "\\text{A) }-49\\,\\mathrm{sec}\\left(7\\,x\\right)\\,\\mathrm{tan}\\left(7\\,x\\right)",
+      "answer2": "\\text{B) }-10\\,\\mathrm{csc}\\left(2\\,x\\right)\\,\\mathrm{cot}\\left(2\\,x\\right)",
+      "answer3": "\\text{C) }-5\\,\\mathrm{csc}^{2}\\left(x\\right)",
+      "answer4": "\\text{D) }32\\,\\cos\\left(8\\,x\\right)+15\\,\\sin\\left(3\\,x\\right)",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (4\\,\\cos\\left(5\\,x\\right)-7\\,\\sin\\left(7\\,x\\right)\\right)",
+      "answer1": "\\text{A) }14\\,\\mathrm{sec}\\left(2\\,x\\right)\\,\\mathrm{tan}\\left(2\\,x\\right)",
+      "answer2": "\\text{B) }-49\\,\\cos\\left(7\\,x\\right)-20\\,\\sin\\left(5\\,x\\right)",
+      "answer3": "\\text{C) }12\\,\\mathrm{sec}^{2}\\left(2\\,x\\right)",
+      "answer4": "\\text{D) }-35\\,\\cos\\left(7\\,x\\right)-10\\,\\sin\\left(2\\,x\\right)",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (2\\,\\cos\\left(4\\,x\\right)+3\\,\\sin\\left(4\\,x\\right)\\right)",
+      "answer1": "\\text{A) }12\\,\\cos\\left(4\\,x\\right)-8\\,\\sin\\left(4\\,x\\right)",
+      "answer2": "\\text{B) }-6\\,\\sin\\left(3\\,x\\right)",
+      "answer3": "\\text{C) }-9\\,\\mathrm{sec}\\left(3\\,x\\right)\\,\\mathrm{tan}\\left(3\\,x\\right)",
+      "answer4": "\\text{D) }-12\\,\\mathrm{sec}^{2}\\left(4\\,x\\right)",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-6\\,\\cos\\left(x\\right)\\right)",
+      "answer1": "\\text{A) }-4\\,\\mathrm{csc}\\left(2\\,x\\right)\\,\\mathrm{cot}\\left(2\\,x\\right)",
+      "answer2": "\\text{B) }6\\,\\sin\\left(x\\right)",
+      "answer3": "\\text{C) }49\\,\\cos\\left(7\\,x\\right)",
+      "answer4": "\\text{D) }25\\,\\mathrm{sec}\\left(5\\,x\\right)\\,\\mathrm{tan}\\left(5\\,x\\right)",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (2\\,\\cos\\left(7\\,x\\right)\\right)",
+      "answer1": "\\text{A) }18\\,\\mathrm{sec}^{2}\\left(3\\,x\\right)",
+      "answer2": "\\text{B) }21\\,\\mathrm{csc}^{2}\\left(7\\,x\\right)",
+      "answer3": "\\text{C) }-14\\,\\sin\\left(7\\,x\\right)",
+      "answer4": "\\text{D) }-16\\,\\mathrm{csc}\\left(4\\,x\\right)\\,\\mathrm{cot}\\left(4\\,x\\right)",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (5\\,\\mathrm{cot}\\left(3\\,x\\right)\\right)",
+      "answer1": "\\text{A) }-14\\,\\cos\\left(2\\,x\\right)",
+      "answer2": "\\text{B) }-28\\,\\cos\\left(7\\,x\\right)-25\\,\\sin\\left(5\\,x\\right)",
+      "answer3": "\\text{C) }-3\\,\\sin\\left(x\\right)",
+      "answer4": "\\text{D) }-15\\,\\mathrm{csc}^{2}\\left(3\\,x\\right)",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (5\\,\\cos\\left(2\\,x\\right)+2\\,\\sin\\left(7\\,x\\right)\\right)",
+      "answer1": "\\text{A) }14\\,\\cos\\left(7\\,x\\right)-10\\,\\sin\\left(2\\,x\\right)",
+      "answer2": "\\text{B) }21\\,\\sin\\left(3\\,x\\right)",
+      "answer3": "\\text{C) }-24\\,\\mathrm{sec}^{2}\\left(6\\,x\\right)",
+      "answer4": "\\text{D) }-4\\,\\cos\\left(2\\,x\\right)",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-5\\,\\mathrm{csc}\\left(6\\,x\\right)\\right)",
+      "answer1": "\\text{A) }30\\,\\mathrm{csc}\\left(6\\,x\\right)\\,\\mathrm{cot}\\left(6\\,x\\right)",
+      "answer2": "\\text{B) }-60\\,{\\sin\\left(3\\,x\\right)}^2-21\\,\\sin\\left(3\\,x\\right)+30",
+      "answer3": "\\text{C) }-9\\,\\mathrm{sec}\\left(3\\,x\\right)\\,\\mathrm{tan}\\left(3\\,x\\right)",
+      "answer4": "\\text{D) }-21\\,\\cos\\left(3\\,x\\right)",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (5\\,\\mathrm{csc}\\left(x\\right)\\right)",
+      "answer1": "\\text{A) }48\\,\\mathrm{sec}\\left(6\\,x\\right)\\,\\mathrm{tan}\\left(6\\,x\\right)",
+      "answer2": "\\text{B) }21\\,\\cos\\left(3\\,x\\right)+3\\,\\sin\\left(x\\right)",
+      "answer3": "\\text{C) }-6\\,\\sin\\left(3\\,x\\right)",
+      "answer4": "\\text{D) }-5\\,\\mathrm{csc}\\left(x\\right)\\,\\mathrm{cot}\\left(x\\right)",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-6\\,\\mathrm{cot}\\left(5\\,x\\right)\\right)",
+      "answer1": "\\text{A) }-6\\,\\cos\\left(3\\,x\\right)-30\\,\\sin\\left(6\\,x\\right)",
+      "answer2": "\\text{B) }30\\,\\mathrm{csc}^{2}\\left(5\\,x\\right)",
+      "answer3": "\\text{C) }6\\,\\sin\\left(x\\right)",
+      "answer4": "\\text{D) }5\\,\\mathrm{sec}\\left(x\\right)\\,\\mathrm{tan}\\left(x\\right)",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-4\\,\\cos\\left(8\\,x\\right)-5\\,\\sin\\left(6\\,x\\right)\\right)",
+      "answer1": "\\text{A) }25\\,\\cos\\left(5\\,x\\right)",
+      "answer2": "\\text{B) }32\\,\\sin\\left(8\\,x\\right)-30\\,\\cos\\left(6\\,x\\right)",
+      "answer3": "\\text{C) }-8\\,\\mathrm{sec}^{2}\\left(2\\,x\\right)",
+      "answer4": "\\text{D) }8\\,\\mathrm{csc}\\left(4\\,x\\right)\\,\\mathrm{cot}\\left(4\\,x\\right)",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (6\\,\\mathrm{tan}\\left(4\\,x\\right)\\right)",
+      "answer1": "\\text{A) }24\\,\\mathrm{sec}^{2}\\left(4\\,x\\right)",
+      "answer2": "\\text{B) }-6\\,\\mathrm{sec}\\left(2\\,x\\right)\\,\\mathrm{tan}\\left(2\\,x\\right)",
+      "answer3": "\\text{C) }4\\,\\sqrt{2}\\,\\cos\\left(2\\,x+\\frac{\\pi }{4}\\right)",
+      "answer4": "\\text{D) }-10\\,\\mathrm{csc}\\left(5\\,x\\right)\\,\\mathrm{cot}\\left(5\\,x\\right)",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (3\\,\\sin\\left(8\\,x\\right)-4\\,\\cos\\left(7\\,x\\right)\\right)",
+      "answer1": "\\text{A) }24\\,\\cos\\left(8\\,x\\right)+28\\,\\sin\\left(7\\,x\\right)",
+      "answer2": "\\text{B) }3\\,\\mathrm{sec}\\left(x\\right)\\,\\mathrm{tan}\\left(x\\right)",
+      "answer3": "\\text{C) }-28\\,\\cos\\left(7\\,x\\right)",
+      "answer4": "\\text{D) }12\\,\\sin\\left(3\\,x\\right)-49\\,\\cos\\left(7\\,x\\right)",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (4\\,\\mathrm{cot}\\left(6\\,x\\right)\\right)",
+      "answer1": "\\text{A) }-24\\,\\mathrm{csc}^{2}\\left(6\\,x\\right)",
+      "answer2": "\\text{B) }-12\\,\\mathrm{sec}\\left(4\\,x\\right)\\,\\mathrm{tan}\\left(4\\,x\\right)",
+      "answer3": "\\text{C) }-20\\,\\mathrm{sec}^{2}\\left(5\\,x\\right)",
+      "answer4": "\\text{D) }-12\\,\\cos\\left(4\\,x\\right)-10\\,\\sin\\left(5\\,x\\right)",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (7\\,\\sin\\left(x\\right)-4\\,\\cos\\left(x\\right)\\right)",
+      "answer1": "\\text{A) }7\\,\\cos\\left(x\\right)+4\\,\\sin\\left(x\\right)",
+      "answer2": "\\text{B) }20\\,\\cos\\left(5\\,x\\right)",
+      "answer3": "\\text{C) }-18\\,\\mathrm{csc}^{2}\\left(3\\,x\\right)",
+      "answer4": "\\text{D) }-24\\,\\mathrm{csc}\\left(3\\,x\\right)\\,\\mathrm{cot}\\left(3\\,x\\right)",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (7\\,\\cos\\left(8\\,x\\right)-3\\,\\sin\\left(8\\,x\\right)\\right)",
+      "answer1": "\\text{A) }12\\,\\cos\\left(4\\,x\\right)+15\\,\\sin\\left(5\\,x\\right)",
+      "answer2": "\\text{B) }-24\\,\\cos\\left(8\\,x\\right)-56\\,\\sin\\left(8\\,x\\right)",
+      "answer3": "\\text{C) }-18\\,\\sin\\left(3\\,x\\right)",
+      "answer4": "\\text{D) }4\\,\\mathrm{csc}^{2}\\left(x\\right)",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (7\\,\\cos\\left(3\\,x\\right)\\right)",
+      "answer1": "\\text{A) }-21\\,\\sin\\left(3\\,x\\right)",
+      "answer2": "\\text{B) }14\\,\\cos\\left(2\\,x\\right)-28\\,\\sin\\left(4\\,x\\right)",
+      "answer3": "\\text{C) }35\\,\\mathrm{sec}\\left(7\\,x\\right)\\,\\mathrm{tan}\\left(7\\,x\\right)",
+      "answer4": "\\text{D) }-8\\,\\mathrm{csc}\\left(2\\,x\\right)\\,\\mathrm{cot}\\left(2\\,x\\right)",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (6\\,\\mathrm{csc}\\left(4\\,x\\right)\\right)",
+      "answer1": "\\text{A) }8\\,\\sin\\left(4\\,x\\right)",
+      "answer2": "\\text{B) }-12\\,\\cos\\left(4\\,x\\right)",
+      "answer3": "\\text{C) }-24\\,\\mathrm{csc}\\left(4\\,x\\right)\\,\\mathrm{cot}\\left(4\\,x\\right)",
+      "answer4": "\\text{D) }-56\\,\\mathrm{sec}^{2}\\left(8\\,x\\right)",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (7\\,\\mathrm{cot}\\left(4\\,x\\right)\\right)",
+      "answer1": "\\text{A) }-28\\,\\mathrm{csc}^{2}\\left(4\\,x\\right)",
+      "answer2": "\\text{B) }4\\,\\cos\\left(x\\right)-7\\,\\sin\\left(x\\right)",
+      "answer3": "\\text{C) }-20\\,\\sin\\left(5\\,x\\right)",
+      "answer4": "\\text{D) }-25\\,\\mathrm{csc}\\left(5\\,x\\right)\\,\\mathrm{cot}\\left(5\\,x\\right)",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-4\\,\\cos\\left(7\\,x\\right)\\right)",
+      "answer1": "\\text{A) }28\\,\\sin\\left(7\\,x\\right)",
+      "answer2": "\\text{B) }-30\\,\\cos\\left(6\\,x\\right)",
+      "answer3": "\\text{C) }-12\\,\\mathrm{sec}^{2}\\left(2\\,x\\right)",
+      "answer4": "\\text{D) }-18\\,\\mathrm{csc}^{2}\\left(3\\,x\\right)",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-5\\,\\mathrm{cot}\\left(x\\right)\\right)",
+      "answer1": "\\text{A) }28\\,\\mathrm{sec}^{2}\\left(7\\,x\\right)",
+      "answer2": "\\text{B) }18\\,\\sin\\left(3\\,x\\right)-56\\,\\cos\\left(7\\,x\\right)",
+      "answer3": "\\text{C) }5\\,\\mathrm{csc}^{2}\\left(x\\right)",
+      "answer4": "\\text{D) }-56\\,\\sin\\left(7\\,x\\right)-2\\,\\cos\\left(x\\right)",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (6\\,\\sin\\left(4\\,x\\right)-3\\,\\cos\\left(6\\,x\\right)\\right)",
+      "answer1": "\\text{A) }15\\,\\cos\\left(5\\,x\\right)+9\\,\\sin\\left(3\\,x\\right)",
+      "answer2": "\\text{B) }12\\,\\mathrm{csc}^{2}\\left(4\\,x\\right)",
+      "answer3": "\\text{C) }24\\,\\cos\\left(4\\,x\\right)+18\\,\\sin\\left(6\\,x\\right)",
+      "answer4": "\\text{D) }-18\\,\\cos\\left(6\\,x\\right)",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-2\\,\\mathrm{cot}\\left(4\\,x\\right)\\right)",
+      "answer1": "\\text{A) }12\\,\\cos\\left(6\\,x\\right)",
+      "answer2": "\\text{B) }8\\,\\mathrm{csc}^{2}\\left(4\\,x\\right)",
+      "answer3": "\\text{C) }10\\,\\sin\\left(5\\,x\\right)",
+      "answer4": "\\text{D) }48\\,\\cos\\left(6\\,x\\right)+15\\,\\sin\\left(5\\,x\\right)",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (8\\,\\cos\\left(7\\,x\\right)\\right)",
+      "answer1": "\\text{A) }36\\,\\cos\\left(6\\,x\\right)-42\\,\\sin\\left(7\\,x\\right)",
+      "answer2": "\\text{B) }24\\,\\mathrm{csc}^{2}\\left(4\\,x\\right)",
+      "answer3": "\\text{C) }-56\\,\\sin\\left(7\\,x\\right)",
+      "answer4": "\\text{D) }-24\\,\\mathrm{csc}\\left(4\\,x\\right)\\,\\mathrm{cot}\\left(4\\,x\\right)",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-4\\,\\mathrm{cot}\\left(4\\,x\\right)\\right)",
+      "answer1": "\\text{A) }-21\\,\\mathrm{sec}\\left(7\\,x\\right)\\,\\mathrm{tan}\\left(7\\,x\\right)",
+      "answer2": "\\text{B) }-21\\,\\mathrm{csc}\\left(3\\,x\\right)\\,\\mathrm{cot}\\left(3\\,x\\right)",
+      "answer3": "\\text{C) }-12\\,\\cos\\left(6\\,x\\right)-10\\,\\sin\\left(5\\,x\\right)",
+      "answer4": "\\text{D) }16\\,\\mathrm{csc}^{2}\\left(4\\,x\\right)",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (4\\,\\cos\\left(6\\,x\\right)-4\\,\\sin\\left(4\\,x\\right)\\right)",
+      "answer1": "\\text{A) }-12\\,\\mathrm{csc}^{2}\\left(4\\,x\\right)",
+      "answer2": "\\text{B) }-10\\,\\mathrm{csc}\\left(5\\,x\\right)\\,\\mathrm{cot}\\left(5\\,x\\right)",
+      "answer3": "\\text{C) }-16\\,\\cos\\left(4\\,x\\right)-24\\,\\sin\\left(6\\,x\\right)",
+      "answer4": "\\text{D) }5\\,\\cos\\left(x\\right)",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (6\\,\\mathrm{tan}\\left(x\\right)\\right)",
+      "answer1": "\\text{A) }-12\\,\\cos\\left(2\\,x\\right)",
+      "answer2": "\\text{B) }6\\,\\mathrm{sec}^{2}\\left(x\\right)",
+      "answer3": "\\text{C) }-18\\,\\cos\\left(3\\,x\\right)-36\\,\\sin\\left(6\\,x\\right)",
+      "answer4": "\\text{D) }6\\,\\mathrm{csc}\\left(2\\,x\\right)\\,\\mathrm{cot}\\left(2\\,x\\right)",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (3\\,\\cos\\left(5\\,x\\right)-7\\,\\sin\\left(5\\,x\\right)\\right)",
+      "answer1": "\\text{A) }10\\,\\mathrm{csc}\\left(2\\,x\\right)\\,\\mathrm{cot}\\left(2\\,x\\right)",
+      "answer2": "\\text{B) }-35\\,\\cos\\left(5\\,x\\right)-15\\,\\sin\\left(5\\,x\\right)",
+      "answer3": "\\text{C) }25\\,\\cos\\left(5\\,x\\right)",
+      "answer4": "\\text{D) }20\\,\\mathrm{csc}^{2}\\left(4\\,x\\right)",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (6\\,\\mathrm{csc}\\left(6\\,x\\right)\\right)",
+      "answer1": "\\text{A) }14\\,\\mathrm{sec}^{2}\\left(2\\,x\\right)",
+      "answer2": "\\text{B) }9\\,\\cos\\left(3\\,x\\right)",
+      "answer3": "\\text{C) }-36\\,\\mathrm{csc}\\left(6\\,x\\right)\\,\\mathrm{cot}\\left(6\\,x\\right)",
+      "answer4": "\\text{D) }-24\\,\\mathrm{sec}\\left(6\\,x\\right)\\,\\mathrm{tan}\\left(6\\,x\\right)",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (3\\,\\sin\\left(6\\,x\\right)\\right)",
+      "answer1": "\\text{A) }14\\,\\sin\\left(2\\,x\\right)",
+      "answer2": "\\text{B) }-60\\,{\\sin\\left(3\\,x\\right)}^2+15\\,\\sin\\left(3\\,x\\right)+30",
+      "answer3": "\\text{C) }18\\,\\cos\\left(6\\,x\\right)",
+      "answer4": "\\text{D) }21\\,\\cos\\left(3\\,x\\right)+9\\,\\sin\\left(3\\,x\\right)",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (7\\,\\mathrm{cot}\\left(2\\,x\\right)\\right)",
+      "answer1": "\\text{A) }-10\\,\\sin\\left(2\\,x\\right)",
+      "answer2": "\\text{B) }35\\,\\cos\\left(7\\,x\\right)-35\\,\\sin\\left(5\\,x\\right)",
+      "answer3": "\\text{C) }35\\,\\sin\\left(7\\,x\\right)-10\\,\\cos\\left(2\\,x\\right)",
+      "answer4": "\\text{D) }-14\\,\\mathrm{csc}^{2}\\left(2\\,x\\right)",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-3\\,\\sin\\left(4\\,x\\right)\\right)",
+      "answer1": "\\text{A) }-32\\,\\mathrm{csc}\\left(4\\,x\\right)\\,\\mathrm{cot}\\left(4\\,x\\right)",
+      "answer2": "\\text{B) }-6\\,\\mathrm{sec}^{2}\\left(x\\right)",
+      "answer3": "\\text{C) }42\\,\\sin\\left(6\\,x\\right)-24\\,\\cos\\left(8\\,x\\right)",
+      "answer4": "\\text{D) }-12\\,\\cos\\left(4\\,x\\right)",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-3\\,\\mathrm{tan}\\left(2\\,x\\right)\\right)",
+      "answer1": "\\text{A) }-6\\,\\mathrm{sec}^{2}\\left(2\\,x\\right)",
+      "answer2": "\\text{B) }30\\,\\sin\\left(5\\,x\\right)",
+      "answer3": "\\text{C) }16\\,\\mathrm{csc}^{2}\\left(4\\,x\\right)",
+      "answer4": "\\text{D) }-6\\,\\mathrm{csc}\\left(2\\,x\\right)\\,\\mathrm{cot}\\left(2\\,x\\right)",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-5\\,\\mathrm{csc}\\left(6\\,x\\right)\\right)",
+      "answer1": "\\text{A) }25\\,\\sin\\left(5\\,x\\right)-4\\,\\cos\\left(x\\right)",
+      "answer2": "\\text{B) }40\\,\\sin\\left(8\\,x\\right)-32\\,\\cos\\left(4\\,x\\right)",
+      "answer3": "\\text{C) }-40\\,\\mathrm{csc}^{2}\\left(5\\,x\\right)",
+      "answer4": "\\text{D) }30\\,\\mathrm{csc}\\left(6\\,x\\right)\\,\\mathrm{cot}\\left(6\\,x\\right)",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (2\\,\\mathrm{cot}\\left(2\\,x\\right)\\right)",
+      "answer1": "\\text{A) }4\\,\\cos\\left(2\\,x\\right)-15\\,\\sin\\left(5\\,x\\right)",
+      "answer2": "\\text{B) }-6\\,\\mathrm{csc}\\left(2\\,x\\right)\\,\\mathrm{cot}\\left(2\\,x\\right)",
+      "answer3": "\\text{C) }40\\,\\mathrm{sec}^{2}\\left(5\\,x\\right)",
+      "answer4": "\\text{D) }-4\\,\\mathrm{csc}^{2}\\left(2\\,x\\right)",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (4\\,\\mathrm{csc}\\left(6\\,x\\right)\\right)",
+      "answer1": "\\text{A) }4\\,\\cos\\left(x\\right)",
+      "answer2": "\\text{B) }-24\\,\\mathrm{csc}\\left(6\\,x\\right)\\,\\mathrm{cot}\\left(6\\,x\\right)",
+      "answer3": "\\text{C) }-28\\,{\\sin\\left(x\\right)}^2+3\\,\\sin\\left(x\\right)+14",
+      "answer4": "\\text{D) }32\\,\\mathrm{sec}\\left(8\\,x\\right)\\,\\mathrm{tan}\\left(8\\,x\\right)",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (6\\,\\sin\\left(5\\,x\\right)-7\\,\\cos\\left(3\\,x\\right)\\right)",
+      "answer1": "\\text{A) }30\\,\\cos\\left(5\\,x\\right)+21\\,\\sin\\left(3\\,x\\right)",
+      "answer2": "\\text{B) }42\\,\\sin\\left(7\\,x\\right)",
+      "answer3": "\\text{C) }7\\,\\mathrm{sec}^{2}\\left(x\\right)",
+      "answer4": "\\text{D) }24\\,\\mathrm{csc}\\left(4\\,x\\right)\\,\\mathrm{cot}\\left(4\\,x\\right)",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (2\\,\\sin\\left(6\\,x\\right)\\right)",
+      "answer1": "\\text{A) }25\\,\\mathrm{sec}^{2}\\left(5\\,x\\right)",
+      "answer2": "\\text{B) }12\\,\\cos\\left(6\\,x\\right)",
+      "answer3": "\\text{C) }-15\\,\\cos\\left(5\\,x\\right)-6\\,\\sin\\left(2\\,x\\right)",
+      "answer4": "\\text{D) }36\\,\\sin\\left(6\\,x\\right)-35\\,\\cos\\left(5\\,x\\right)",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-3\\,\\cos\\left(4\\,x\\right)-5\\,\\sin\\left(4\\,x\\right)\\right)",
+      "answer1": "\\text{A) }8\\,\\cos\\left(4\\,x\\right)",
+      "answer2": "\\text{B) }12\\,\\sin\\left(4\\,x\\right)-20\\,\\cos\\left(4\\,x\\right)",
+      "answer3": "\\text{C) }-20\\,\\mathrm{csc}^{2}\\left(4\\,x\\right)",
+      "answer4": "\\text{D) }-6\\,\\mathrm{sec}\\left(2\\,x\\right)\\,\\mathrm{tan}\\left(2\\,x\\right)",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (6\\,\\mathrm{cot}\\left(7\\,x\\right)\\right)",
+      "answer1": "\\text{A) }-49\\,\\mathrm{sec}^{2}\\left(7\\,x\\right)",
+      "answer2": "\\text{B) }42\\,\\sqrt{2}\\,\\cos\\left(7\\,x+\\frac{\\pi }{4}\\right)",
+      "answer3": "\\text{C) }-42\\,\\mathrm{csc}^{2}\\left(7\\,x\\right)",
+      "answer4": "\\text{D) }-18\\,\\cos\\left(6\\,x\\right)-8\\,\\sin\\left(x\\right)",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (4\\,\\cos\\left(5\\,x\\right)+4\\,\\sin\\left(7\\,x\\right)\\right)",
+      "answer1": "\\text{A) }14\\,\\mathrm{csc}^{2}\\left(2\\,x\\right)",
+      "answer2": "\\text{B) }8\\,\\mathrm{sec}\\left(4\\,x\\right)\\,\\mathrm{tan}\\left(4\\,x\\right)",
+      "answer3": "\\text{C) }12\\,\\cos\\left(4\\,x\\right)",
+      "answer4": "\\text{D) }28\\,\\cos\\left(7\\,x\\right)-20\\,\\sin\\left(5\\,x\\right)",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-3\\,\\mathrm{tan}\\left(x\\right)\\right)",
+      "answer1": "\\text{A) }-3\\,\\mathrm{sec}^{2}\\left(x\\right)",
+      "answer2": "\\text{B) }10\\,\\mathrm{csc}^{2}\\left(2\\,x\\right)",
+      "answer3": "\\text{C) }-48\\,\\mathrm{csc}\\left(6\\,x\\right)\\,\\mathrm{cot}\\left(6\\,x\\right)",
+      "answer4": "\\text{D) }28\\,\\mathrm{sec}\\left(7\\,x\\right)\\,\\mathrm{tan}\\left(7\\,x\\right)",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-6\\,\\mathrm{cot}\\left(4\\,x\\right)\\right)",
+      "answer1": "\\text{A) }24\\,\\mathrm{csc}^{2}\\left(4\\,x\\right)",
+      "answer2": "\\text{B) }-21\\,\\mathrm{sec}^{2}\\left(3\\,x\\right)",
+      "answer3": "\\text{C) }-14\\,\\sin\\left(7\\,x\\right)",
+      "answer4": "\\text{D) }28\\,\\cos\\left(4\\,x\\right)-56\\,\\sin\\left(7\\,x\\right)",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-2\\,\\mathrm{cot}\\left(2\\,x\\right)\\right)",
+      "answer1": "\\text{A) }56\\,\\cos\\left(7\\,x\\right)+21\\,\\sin\\left(7\\,x\\right)",
+      "answer2": "\\text{B) }5\\,\\mathrm{sec}\\left(x\\right)\\,\\mathrm{tan}\\left(x\\right)",
+      "answer3": "\\text{C) }4\\,\\mathrm{csc}^{2}\\left(2\\,x\\right)",
+      "answer4": "\\text{D) }3\\,\\mathrm{csc}\\left(x\\right)\\,\\mathrm{cot}\\left(x\\right)",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (5\\,\\mathrm{cot}\\left(5\\,x\\right)\\right)",
+      "answer1": "\\text{A) }-36\\,\\mathrm{sec}^{2}\\left(6\\,x\\right)",
+      "answer2": "\\text{B) }-25\\,\\mathrm{csc}^{2}\\left(5\\,x\\right)",
+      "answer3": "\\text{C) }-12\\,\\cos\\left(6\\,x\\right)",
+      "answer4": "\\text{D) }-42\\,\\cos\\left(7\\,x\\right)-12\\,\\sin\\left(6\\,x\\right)",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    }
+  ]
+}

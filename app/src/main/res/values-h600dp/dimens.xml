@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="height_question_card">65dp</dimen>
+    <dimen name="height_main_card">110dp</dimen>
+    <dimen name="sep_question_card">18dp</dimen>
+    <dimen name="margin_next_button">32dp</dimen>
+    <dimen name="texto_siguiente">28sp</dimen>
+    <dimen name="tutorial_text">24sp</dimen>
+</resources>

@@ -1,0 +1,2004 @@
+{
+  "derivadas_de_inversas_dificil": [
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{6}{x^7}-\\frac{2}{x^4}-\\frac{4}{x^4}\\right)",
+      "answer1": "\\text{A) }\\frac{14}{x^8}+\\frac{24}{x^5}+\\frac{4}{x^5}",
+      "answer2": "\\text{B) }\\frac{56}{x^8}+\\frac{16}{x^5}+\\frac{4}{x^5}",
+      "answer3": "\\text{C) }\\frac{42}{x^8}+\\frac{8}{x^5}+\\frac{16}{x^5}",
+      "answer4": "\\text{D) }\\frac{63}{x^8}+\\frac{24}{x^5}-\\frac{16}{x^5}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{1}{x^2}+\\frac{7}{x^4}-\\frac{7}{x^7}\\right)",
+      "answer1": "\\text{A) }\\frac{8}{x^3}-\\frac{36}{x^5}+\\frac{28}{x^8}",
+      "answer2": "\\text{B) }-\\frac{20}{x^3}+\\frac{24}{x^5}-\\frac{35}{x^8}",
+      "answer3": "\\text{C) }-\\frac{20}{x^3}-\\frac{12}{x^5}-\\frac{70}{x^8}",
+      "answer4": "\\text{D) }-\\frac{2}{x^3}-\\frac{28}{x^5}+\\frac{49}{x^8}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{10}{x^4}-\\frac{8}{x^3}+\\frac{5}{x^2}\\right)",
+      "answer1": "\\text{A) }-\\frac{40}{x^5}+\\frac{24}{x^4}-\\frac{10}{x^3}",
+      "answer2": "\\text{B) }\\frac{12}{x^5}-\\frac{12}{x^4}-\\frac{6}{x^3}",
+      "answer3": "\\text{C) }\\frac{28}{x^5}+\\frac{3}{x^4}+\\frac{8}{x^3}",
+      "answer4": "\\text{D) }\\frac{28}{x^5}-\\frac{3}{x^4}+\\frac{6}{x^3}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{7}{x}-\\frac{1}{x^5}+\\frac{4}{x^8}\\right)",
+      "answer1": "\\text{A) }\\frac{1}{x^2}+\\frac{25}{x^6}-\\frac{40}{x^9}",
+      "answer2": "\\text{B) }\\frac{1}{x^2}-\\frac{45}{x^6}-\\frac{24}{x^9}",
+      "answer3": "\\text{C) }-\\frac{7}{x^2}+\\frac{5}{x^6}-\\frac{32}{x^9}",
+      "answer4": "\\text{D) }\\frac{2}{x^2}+\\frac{10}{x^6}+\\frac{48}{x^9}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{6}{x^7}-\\frac{5}{x^7}+\\frac{3}{x^{10}}\\right)",
+      "answer1": "\\text{A) }-\\frac{42}{x^8}+\\frac{35}{x^8}-\\frac{30}{x^{11}}",
+      "answer2": "\\text{B) }-\\frac{35}{x^8}-\\frac{56}{x^8}-\\frac{80}{x^{11}}",
+      "answer3": "\\text{C) }-\\frac{28}{x^8}+\\frac{49}{x^8}-\\frac{90}{x^{11}}",
+      "answer4": "\\text{D) }\\frac{63}{x^8}+\\frac{42}{x^8}-\\frac{30}{x^{11}}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{4}{x^7}-\\frac{5}{x^6}+\\frac{9}{x^8}\\right)",
+      "answer1": "\\text{A) }\\frac{35}{x^8}-\\frac{12}{x^7}+\\frac{16}{x^9}",
+      "answer2": "\\text{B) }\\frac{28}{x^8}+\\frac{30}{x^7}-\\frac{72}{x^9}",
+      "answer3": "\\text{C) }-\\frac{28}{x^8}+\\frac{24}{x^7}-\\frac{8}{x^9}",
+      "answer4": "\\text{D) }\\frac{49}{x^8}+\\frac{30}{x^7}-\\frac{16}{x^9}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{7}{x^5}-\\frac{7}{x^{10}}+\\frac{7}{x^{10}}\\right)",
+      "answer1": "\\text{A) }\\frac{20}{x^6}-\\frac{10}{x^{11}}+\\frac{70}{x^{11}}",
+      "answer2": "\\text{B) }\\frac{15}{x^6}-\\frac{30}{x^{11}}+\\frac{20}{x^{11}}",
+      "answer3": "\\text{C) }-\\frac{35}{x^6}+\\frac{70}{x^{11}}-\\frac{70}{x^{11}}",
+      "answer4": "\\text{D) }-\\frac{15}{x^6}-\\frac{80}{x^{11}}-\\frac{80}{x^{11}}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{9}{x^7}+\\frac{3}{x^4}-\\frac{9}{x}\\right)",
+      "answer1": "\\text{A) }-\\frac{49}{x^8}+\\frac{24}{x^5}-\\frac{6}{x^2}",
+      "answer2": "\\text{B) }\\frac{63}{x^8}-\\frac{12}{x^5}+\\frac{9}{x^2}",
+      "answer3": "\\text{C) }-\\frac{21}{x^8}-\\frac{4}{x^5}+\\frac{1}{x^2}",
+      "answer4": "\\text{D) }-\\frac{14}{x^8}+\\frac{12}{x^5}+\\frac{9}{x^2}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{10}{x^5}+\\frac{10}{x^7}+\\frac{1}{x^{10}}\\right)",
+      "answer1": "\\text{A) }-\\frac{20}{x^6}-\\frac{49}{x^8}+\\frac{50}{x^{11}}",
+      "answer2": "\\text{B) }-\\frac{20}{x^6}-\\frac{7}{x^8}+\\frac{50}{x^{11}}",
+      "answer3": "\\text{C) }-\\frac{50}{x^6}-\\frac{70}{x^8}-\\frac{10}{x^{11}}",
+      "answer4": "\\text{D) }\\frac{5}{x^6}-\\frac{21}{x^8}-\\frac{40}{x^{11}}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{1}{x^{10}}-\\frac{4}{x^7}-\\frac{4}{x}\\right)",
+      "answer1": "\\text{A) }-\\frac{20}{x^{11}}+\\frac{7}{x^8}-\\frac{1}{x^2}",
+      "answer2": "\\text{B) }\\frac{10}{x^{11}}+\\frac{28}{x^8}+\\frac{4}{x^2}",
+      "answer3": "\\text{C) }-\\frac{10}{x^{11}}+\\frac{56}{x^8}+\\frac{4}{x^2}",
+      "answer4": "\\text{D) }-\\frac{20}{x^{11}}-\\frac{7}{x^8}+\\frac{2}{x^2}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{2}{x^2}+\\frac{2}{x^9}+\\frac{3}{x^4}\\right)",
+      "answer1": "\\text{A) }\\frac{2}{x^3}-\\frac{72}{x^{10}}-\\frac{32}{x^5}",
+      "answer2": "\\text{B) }-\\frac{6}{x^3}-\\frac{45}{x^{10}}-\\frac{20}{x^5}",
+      "answer3": "\\text{C) }\\frac{2}{x^3}+\\frac{54}{x^{10}}+\\frac{36}{x^5}",
+      "answer4": "\\text{D) }-\\frac{4}{x^3}-\\frac{18}{x^{10}}-\\frac{12}{x^5}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{7}{x^6}-\\frac{7}{x^7}-\\frac{6}{x^7}\\right)",
+      "answer1": "\\text{A) }-\\frac{60}{x^7}+\\frac{21}{x^8}+\\frac{42}{x^8}",
+      "answer2": "\\text{B) }-\\frac{30}{x^7}+\\frac{14}{x^8}-\\frac{21}{x^8}",
+      "answer3": "\\text{C) }-\\frac{42}{x^7}+\\frac{28}{x^8}-\\frac{56}{x^8}",
+      "answer4": "\\text{D) }-\\frac{42}{x^7}+\\frac{49}{x^8}+\\frac{42}{x^8}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{3}{x^9}-\\frac{8}{x^7}-\\frac{6}{x^3}\\right)",
+      "answer1": "\\text{A) }-\\frac{81}{x^{10}}+\\frac{28}{x^8}-\\frac{9}{x^4}",
+      "answer2": "\\text{B) }\\frac{18}{x^{10}}-\\frac{56}{x^8}-\\frac{12}{x^4}",
+      "answer3": "\\text{C) }\\frac{27}{x^{10}}-\\frac{49}{x^8}+\\frac{15}{x^4}",
+      "answer4": "\\text{D) }\\frac{27}{x^{10}}+\\frac{56}{x^8}+\\frac{18}{x^4}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{3}{x}-\\frac{2}{x^9}+\\frac{5}{x^{10}}\\right)",
+      "answer1": "\\text{A) }\\frac{1}{x^2}-\\frac{90}{x^{10}}-\\frac{40}{x^{11}}",
+      "answer2": "\\text{B) }-\\frac{9}{x^2}+\\frac{54}{x^{10}}+\\frac{80}{x^{11}}",
+      "answer3": "\\text{C) }-\\frac{9}{x^2}-\\frac{9}{x^{10}}+\\frac{40}{x^{11}}",
+      "answer4": "\\text{D) }-\\frac{3}{x^2}+\\frac{18}{x^{10}}-\\frac{50}{x^{11}}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{6}{x^2}-\\frac{1}{x^3}+\\frac{4}{x^9}\\right)",
+      "answer1": "\\text{A) }\\frac{14}{x^3}+\\frac{9}{x^4}-\\frac{45}{x^{10}}",
+      "answer2": "\\text{B) }-\\frac{12}{x^3}+\\frac{3}{x^4}-\\frac{36}{x^{10}}",
+      "answer3": "\\text{C) }\\frac{18}{x^3}+\\frac{21}{x^4}-\\frac{63}{x^{10}}",
+      "answer4": "\\text{D) }-\\frac{8}{x^3}+\\frac{18}{x^4}+\\frac{81}{x^{10}}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{5}{x^6}-\\frac{7}{x^3}+\\frac{10}{x^6}\\right)",
+      "answer1": "\\text{A) }\\frac{6}{x^7}-\\frac{18}{x^4}+\\frac{6}{x^7}",
+      "answer2": "\\text{B) }-\\frac{42}{x^7}-\\frac{3}{x^4}+\\frac{54}{x^7}",
+      "answer3": "\\text{C) }-\\frac{30}{x^7}+\\frac{21}{x^4}-\\frac{60}{x^7}",
+      "answer4": "\\text{D) }-\\frac{18}{x^7}+\\frac{15}{x^4}-\\frac{24}{x^7}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{4}{x^2}-\\frac{1}{x^9}+\\frac{2}{x}\\right)",
+      "answer1": "\\text{A) }-\\frac{8}{x^3}-\\frac{54}{x^{10}}-\\frac{9}{x^2}",
+      "answer2": "\\text{B) }\\frac{8}{x^3}+\\frac{9}{x^{10}}-\\frac{2}{x^2}",
+      "answer3": "\\text{C) }\\frac{2}{x^3}+\\frac{27}{x^{10}}+\\frac{4}{x^2}",
+      "answer4": "\\text{D) }\\frac{14}{x^3}+\\frac{63}{x^{10}}+\\frac{9}{x^2}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{5}{x^9}-\\frac{2}{x}+\\frac{4}{x^7}\\right)",
+      "answer1": "\\text{A) }\\frac{81}{x^{10}}-\\frac{2}{x^2}+\\frac{21}{x^8}",
+      "answer2": "\\text{B) }\\frac{63}{x^{10}}-\\frac{4}{x^2}-\\frac{7}{x^8}",
+      "answer3": "\\text{C) }-\\frac{45}{x^{10}}+\\frac{2}{x^2}-\\frac{28}{x^8}",
+      "answer4": "\\text{D) }\\frac{54}{x^{10}}+\\frac{2}{x^2}+\\frac{7}{x^8}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{4}{x^2}+\\frac{1}{x^{10}}-\\frac{9}{x^9}\\right)",
+      "answer1": "\\text{A) }\\frac{8}{x^3}-\\frac{10}{x^{11}}+\\frac{81}{x^{10}}",
+      "answer2": "\\text{B) }\\frac{2}{x^3}+\\frac{20}{x^{11}}+\\frac{54}{x^{10}}",
+      "answer3": "\\text{C) }-\\frac{14}{x^3}-\\frac{40}{x^{11}}-\\frac{9}{x^{10}}",
+      "answer4": "\\text{D) }-\\frac{10}{x^3}+\\frac{80}{x^{11}}-\\frac{81}{x^{10}}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{4}{x^3}+\\frac{9}{x^5}+\\frac{1}{x^2}\\right)",
+      "answer1": "\\text{A) }\\frac{21}{x^4}+\\frac{20}{x^6}+\\frac{16}{x^3}",
+      "answer2": "\\text{B) }\\frac{12}{x^4}-\\frac{45}{x^6}-\\frac{2}{x^3}",
+      "answer3": "\\text{C) }\\frac{15}{x^4}+\\frac{35}{x^6}-\\frac{6}{x^3}",
+      "answer4": "\\text{D) }-\\frac{24}{x^4}-\\frac{5}{x^6}-\\frac{14}{x^3}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{3}{x^{10}}+\\frac{6}{x^6}-\\frac{4}{x^3}\\right)",
+      "answer1": "\\text{A) }\\frac{30}{x^{11}}-\\frac{36}{x^7}+\\frac{12}{x^4}",
+      "answer2": "\\text{B) }-\\frac{30}{x^{11}}-\\frac{60}{x^7}+\\frac{27}{x^4}",
+      "answer3": "\\text{C) }-\\frac{10}{x^{11}}-\\frac{48}{x^7}+\\frac{18}{x^4}",
+      "answer4": "\\text{D) }\\frac{60}{x^{11}}-\\frac{54}{x^7}-\\frac{18}{x^4}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{4}{x^{10}}-\\frac{9}{x}+\\frac{8}{x^4}\\right)",
+      "answer1": "\\text{A) }-\\frac{40}{x^{11}}+\\frac{9}{x^2}-\\frac{32}{x^5}",
+      "answer2": "\\text{B) }-\\frac{90}{x^{11}}+\\frac{1}{x^2}+\\frac{20}{x^5}",
+      "answer3": "\\text{C) }-\\frac{30}{x^{11}}-\\frac{9}{x^2}-\\frac{12}{x^5}",
+      "answer4": "\\text{D) }\\frac{80}{x^{11}}-\\frac{10}{x^2}+\\frac{16}{x^5}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{2}{x^4}-\\frac{6}{x^3}+\\frac{6}{x^3}\\right)",
+      "answer1": "\\text{A) }-\\frac{8}{x^5}+\\frac{9}{x^4}-\\frac{27}{x^4}",
+      "answer2": "\\text{B) }-\\frac{32}{x^5}+\\frac{3}{x^4}+\\frac{24}{x^4}",
+      "answer3": "\\text{C) }\\frac{8}{x^5}+\\frac{18}{x^4}-\\frac{18}{x^4}",
+      "answer4": "\\text{D) }-\\frac{12}{x^5}-\\frac{21}{x^4}-\\frac{27}{x^4}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{1}{x^5}-\\frac{3}{x}+\\frac{2}{x^{10}}\\right)",
+      "answer1": "\\text{A) }-\\frac{5}{x^6}+\\frac{3}{x^2}-\\frac{20}{x^{11}}",
+      "answer2": "\\text{B) }-\\frac{40}{x^6}-\\frac{4}{x^2}-\\frac{90}{x^{11}}",
+      "answer3": "\\text{C) }\\frac{35}{x^6}+\\frac{5}{x^2}-\\frac{60}{x^{11}}",
+      "answer4": "\\text{D) }\\frac{5}{x^6}+\\frac{6}{x^2}-\\frac{80}{x^{11}}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{4}{x^4}-\\frac{8}{x^9}-\\frac{4}{x^8}\\right)",
+      "answer1": "\\text{A) }-\\frac{16}{x^5}+\\frac{72}{x^{10}}+\\frac{32}{x^9}",
+      "answer2": "\\text{B) }-\\frac{4}{x^5}-\\frac{18}{x^{10}}+\\frac{8}{x^9}",
+      "answer3": "\\text{C) }-\\frac{4}{x^5}+\\frac{54}{x^{10}}+\\frac{40}{x^9}",
+      "answer4": "\\text{D) }\\frac{24}{x^5}-\\frac{36}{x^{10}}-\\frac{8}{x^9}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{8}{x^4}+\\frac{5}{x^9}-\\frac{6}{x^2}\\right)",
+      "answer1": "\\text{A) }-\\frac{32}{x^5}-\\frac{45}{x^{10}}+\\frac{12}{x^3}",
+      "answer2": "\\text{B) }-\\frac{32}{x^5}+\\frac{72}{x^{10}}-\\frac{10}{x^3}",
+      "answer3": "\\text{C) }-\\frac{16}{x^5}-\\frac{36}{x^{10}}-\\frac{20}{x^3}",
+      "answer4": "\\text{D) }\\frac{32}{x^5}-\\frac{27}{x^{10}}+\\frac{6}{x^3}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{6}{x^{10}}-\\frac{2}{x^{10}}+\\frac{3}{x^9}\\right)",
+      "answer1": "\\text{A) }-\\frac{60}{x^{11}}+\\frac{20}{x^{11}}-\\frac{27}{x^{10}}",
+      "answer2": "\\text{B) }-\\frac{50}{x^{11}}+\\frac{80}{x^{11}}-\\frac{18}{x^{10}}",
+      "answer3": "\\text{C) }-\\frac{10}{x^{11}}-\\frac{100}{x^{11}}+\\frac{63}{x^{10}}",
+      "answer4": "\\text{D) }-\\frac{30}{x^{11}}+\\frac{70}{x^{11}}+\\frac{45}{x^{10}}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{3}{x^8}-\\frac{9}{x^3}+\\frac{9}{x^8}\\right)",
+      "answer1": "\\text{A) }-\\frac{56}{x^9}-\\frac{18}{x^4}+\\frac{16}{x^9}",
+      "answer2": "\\text{B) }\\frac{16}{x^9}+\\frac{3}{x^4}-\\frac{72}{x^9}",
+      "answer3": "\\text{C) }-\\frac{80}{x^9}+\\frac{18}{x^4}-\\frac{48}{x^9}",
+      "answer4": "\\text{D) }-\\frac{24}{x^9}+\\frac{27}{x^4}-\\frac{72}{x^9}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{5}{x^6}-\\frac{7}{x^6}-\\frac{6}{x^3}\\right)",
+      "answer1": "\\text{A) }-\\frac{30}{x^7}+\\frac{42}{x^7}+\\frac{18}{x^4}",
+      "answer2": "\\text{B) }-\\frac{60}{x^7}+\\frac{48}{x^7}-\\frac{18}{x^4}",
+      "answer3": "\\text{C) }\\frac{6}{x^7}+\\frac{42}{x^7}+\\frac{24}{x^4}",
+      "answer4": "\\text{D) }-\\frac{60}{x^7}+\\frac{30}{x^7}+\\frac{6}{x^4}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{9}{x^6}-\\frac{2}{x^5}+\\frac{8}{x^2}\\right)",
+      "answer1": "\\text{A) }-\\frac{24}{x^7}-\\frac{25}{x^6}-\\frac{16}{x^3}",
+      "answer2": "\\text{B) }\\frac{24}{x^7}-\\frac{20}{x^6}-\\frac{10}{x^3}",
+      "answer3": "\\text{C) }-\\frac{54}{x^7}-\\frac{25}{x^6}-\\frac{6}{x^3}",
+      "answer4": "\\text{D) }\\frac{54}{x^7}+\\frac{10}{x^6}-\\frac{16}{x^3}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{10}{x^5}-\\frac{8}{x^4}-\\frac{3}{x^{10}}\\right)",
+      "answer1": "\\text{A) }-\\frac{15}{x^6}+\\frac{12}{x^5}+\\frac{80}{x^{11}}",
+      "answer2": "\\text{B) }\\frac{45}{x^6}+\\frac{8}{x^5}-\\frac{30}{x^{11}}",
+      "answer3": "\\text{C) }\\frac{35}{x^6}+\\frac{4}{x^5}+\\frac{80}{x^{11}}",
+      "answer4": "\\text{D) }-\\frac{50}{x^6}+\\frac{32}{x^5}+\\frac{30}{x^{11}}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{6}{x^8}-\\frac{9}{x^3}+\\frac{2}{x^4}\\right)",
+      "answer1": "\\text{A) }\\frac{48}{x^9}+\\frac{27}{x^4}-\\frac{8}{x^5}",
+      "answer2": "\\text{B) }-\\frac{32}{x^9}-\\frac{30}{x^4}-\\frac{32}{x^5}",
+      "answer3": "\\text{C) }\\frac{56}{x^9}+\\frac{24}{x^4}+\\frac{8}{x^5}",
+      "answer4": "\\text{D) }-\\frac{64}{x^9}-\\frac{15}{x^4}+\\frac{24}{x^5}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{3}{x^{10}}-\\frac{2}{x^3}+\\frac{5}{x}\\right)",
+      "answer1": "\\text{A) }\\frac{30}{x^{11}}-\\frac{27}{x^4}+\\frac{4}{x^2}",
+      "answer2": "\\text{B) }\\frac{80}{x^{11}}-\\frac{27}{x^4}+\\frac{4}{x^2}",
+      "answer3": "\\text{C) }-\\frac{40}{x^{11}}+\\frac{12}{x^4}-\\frac{9}{x^2}",
+      "answer4": "\\text{D) }-\\frac{30}{x^{11}}+\\frac{6}{x^4}-\\frac{5}{x^2}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{4}{x^7}+\\frac{10}{x^7}+\\frac{5}{x^3}\\right)",
+      "answer1": "\\text{A) }\\frac{42}{x^8}+\\frac{35}{x^8}-\\frac{18}{x^4}",
+      "answer2": "\\text{B) }-\\frac{28}{x^8}-\\frac{70}{x^8}-\\frac{15}{x^4}",
+      "answer3": "\\text{C) }-\\frac{42}{x^8}-\\frac{7}{x^8}-\\frac{21}{x^4}",
+      "answer4": "\\text{D) }\\frac{14}{x^8}-\\frac{35}{x^8}+\\frac{12}{x^4}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{6}{x^5}-\\frac{8}{x^7}-\\frac{7}{x^5}\\right)",
+      "answer1": "\\text{A) }\\frac{5}{x^6}+\\frac{14}{x^8}+\\frac{20}{x^6}",
+      "answer2": "\\text{B) }-\\frac{15}{x^6}-\\frac{21}{x^8}-\\frac{15}{x^6}",
+      "answer3": "\\text{C) }\\frac{30}{x^6}+\\frac{56}{x^8}+\\frac{35}{x^6}",
+      "answer4": "\\text{D) }\\frac{45}{x^6}+\\frac{35}{x^8}-\\frac{25}{x^6}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{6}{x^9}+\\frac{3}{x^6}+\\frac{9}{x^2}\\right)",
+      "answer1": "\\text{A) }\\frac{81}{x^{10}}-\\frac{6}{x^7}+\\frac{16}{x^3}",
+      "answer2": "\\text{B) }\\frac{18}{x^{10}}-\\frac{42}{x^7}+\\frac{6}{x^3}",
+      "answer3": "\\text{C) }-\\frac{90}{x^{10}}+\\frac{12}{x^7}+\\frac{16}{x^3}",
+      "answer4": "\\text{D) }-\\frac{54}{x^{10}}-\\frac{18}{x^7}-\\frac{18}{x^3}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{7}{x^8}-\\frac{8}{x^5}+\\frac{2}{x^3}\\right)",
+      "answer1": "\\text{A) }-\\frac{24}{x^9}+\\frac{40}{x^6}+\\frac{24}{x^4}",
+      "answer2": "\\text{B) }-\\frac{56}{x^9}+\\frac{40}{x^6}-\\frac{6}{x^4}",
+      "answer3": "\\text{C) }-\\frac{80}{x^9}-\\frac{15}{x^6}-\\frac{21}{x^4}",
+      "answer4": "\\text{D) }-\\frac{16}{x^9}+\\frac{15}{x^6}+\\frac{6}{x^4}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{6}{x^7}-\\frac{7}{x^7}+\\frac{2}{x^4}\\right)",
+      "answer1": "\\text{A) }\\frac{14}{x^8}+\\frac{14}{x^8}+\\frac{32}{x^5}",
+      "answer2": "\\text{B) }-\\frac{70}{x^8}+\\frac{7}{x^8}-\\frac{24}{x^5}",
+      "answer3": "\\text{C) }\\frac{42}{x^8}+\\frac{49}{x^8}-\\frac{8}{x^5}",
+      "answer4": "\\text{D) }-\\frac{35}{x^8}-\\frac{56}{x^8}-\\frac{28}{x^5}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{9}{x^3}-\\frac{8}{x^9}+\\frac{4}{x^9}\\right)",
+      "answer1": "\\text{A) }\\frac{12}{x^4}+\\frac{81}{x^{10}}-\\frac{18}{x^{10}}",
+      "answer2": "\\text{B) }\\frac{27}{x^4}+\\frac{63}{x^{10}}+\\frac{18}{x^{10}}",
+      "answer3": "\\text{C) }\\frac{27}{x^4}+\\frac{72}{x^{10}}-\\frac{36}{x^{10}}",
+      "answer4": "\\text{D) }\\frac{27}{x^4}+\\frac{63}{x^{10}}-\\frac{45}{x^{10}}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{2}{x^6}-\\frac{9}{x^6}+\\frac{8}{x^5}\\right)",
+      "answer1": "\\text{A) }-\\frac{18}{x^7}+\\frac{30}{x^7}-\\frac{10}{x^6}",
+      "answer2": "\\text{B) }\\frac{12}{x^7}+\\frac{54}{x^7}-\\frac{40}{x^6}",
+      "answer3": "\\text{C) }\\frac{24}{x^7}+\\frac{18}{x^7}-\\frac{10}{x^6}",
+      "answer4": "\\text{D) }-\\frac{60}{x^7}-\\frac{54}{x^7}-\\frac{30}{x^6}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{2}{x^3}-\\frac{7}{x^{10}}-\\frac{3}{x^7}\\right)",
+      "answer1": "\\text{A) }\\frac{27}{x^4}+\\frac{20}{x^{11}}-\\frac{35}{x^8}",
+      "answer2": "\\text{B) }-\\frac{18}{x^4}+\\frac{70}{x^{11}}-\\frac{63}{x^8}",
+      "answer3": "\\text{C) }\\frac{6}{x^4}+\\frac{70}{x^{11}}+\\frac{21}{x^8}",
+      "answer4": "\\text{D) }-\\frac{12}{x^4}+\\frac{70}{x^{11}}-\\frac{42}{x^8}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{7}{x^9}+\\frac{10}{x^6}-\\frac{9}{x^6}\\right)",
+      "answer1": "\\text{A) }-\\frac{45}{x^{10}}+\\frac{12}{x^7}-\\frac{54}{x^7}",
+      "answer2": "\\text{B) }-\\frac{63}{x^{10}}-\\frac{60}{x^7}+\\frac{54}{x^7}",
+      "answer3": "\\text{C) }-\\frac{36}{x^{10}}-\\frac{48}{x^7}+\\frac{12}{x^7}",
+      "answer4": "\\text{D) }\\frac{54}{x^{10}}-\\frac{42}{x^7}+\\frac{54}{x^7}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{7}{x^6}-\\frac{7}{x}-\\frac{1}{x^3}\\right)",
+      "answer1": "\\text{A) }-\\frac{42}{x^7}+\\frac{7}{x^2}+\\frac{3}{x^4}",
+      "answer2": "\\text{B) }-\\frac{24}{x^7}+\\frac{9}{x^2}-\\frac{12}{x^4}",
+      "answer3": "\\text{C) }\\frac{30}{x^7}+\\frac{5}{x^2}+\\frac{24}{x^4}",
+      "answer4": "\\text{D) }-\\frac{6}{x^7}-\\frac{2}{x^2}+\\frac{24}{x^4}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{9}{x^5}-\\frac{1}{x^2}-\\frac{7}{x^9}\\right)",
+      "answer1": "\\text{A) }\\frac{45}{x^6}+\\frac{12}{x^3}-\\frac{90}{x^{10}}",
+      "answer2": "\\text{B) }-\\frac{5}{x^6}-\\frac{12}{x^3}-\\frac{18}{x^{10}}",
+      "answer3": "\\text{C) }-\\frac{20}{x^6}-\\frac{10}{x^3}+\\frac{36}{x^{10}}",
+      "answer4": "\\text{D) }-\\frac{45}{x^6}+\\frac{2}{x^3}+\\frac{63}{x^{10}}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{1}{x^7}+\\frac{5}{x^4}-\\frac{1}{x^{10}}\\right)",
+      "answer1": "\\text{A) }\\frac{21}{x^8}-\\frac{20}{x^5}-\\frac{70}{x^{11}}",
+      "answer2": "\\text{B) }\\frac{14}{x^8}-\\frac{24}{x^5}-\\frac{10}{x^{11}}",
+      "answer3": "\\text{C) }-\\frac{7}{x^8}-\\frac{20}{x^5}+\\frac{10}{x^{11}}",
+      "answer4": "\\text{D) }\\frac{14}{x^8}+\\frac{8}{x^5}-\\frac{80}{x^{11}}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{8}{x^8}-\\frac{5}{x^5}-\\frac{9}{x^5}\\right)",
+      "answer1": "\\text{A) }\\frac{64}{x^9}+\\frac{10}{x^6}+\\frac{25}{x^6}",
+      "answer2": "\\text{B) }\\frac{64}{x^9}-\\frac{35}{x^6}-\\frac{50}{x^6}",
+      "answer3": "\\text{C) }\\frac{8}{x^9}-\\frac{20}{x^6}+\\frac{25}{x^6}",
+      "answer4": "\\text{D) }-\\frac{64}{x^9}+\\frac{25}{x^6}+\\frac{45}{x^6}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{6}{x^{10}}-\\frac{9}{x}-\\frac{1}{x^8}\\right)",
+      "answer1": "\\text{A) }-\\frac{40}{x^{11}}-\\frac{10}{x^2}-\\frac{80}{x^9}",
+      "answer2": "\\text{B) }\\frac{60}{x^{11}}+\\frac{9}{x^2}+\\frac{8}{x^9}",
+      "answer3": "\\text{C) }-\\frac{40}{x^{11}}-\\frac{8}{x^2}+\\frac{72}{x^9}",
+      "answer4": "\\text{D) }\\frac{70}{x^{11}}-\\frac{1}{x^2}-\\frac{16}{x^9}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{3}{x^4}-\\frac{2}{x^{10}}-\\frac{9}{x^5}\\right)",
+      "answer1": "\\text{A) }-\\frac{4}{x^5}+\\frac{70}{x^{11}}+\\frac{15}{x^6}",
+      "answer2": "\\text{B) }\\frac{16}{x^5}+\\frac{90}{x^{11}}-\\frac{30}{x^6}",
+      "answer3": "\\text{C) }\\frac{12}{x^5}+\\frac{20}{x^{11}}+\\frac{45}{x^6}",
+      "answer4": "\\text{D) }-\\frac{16}{x^5}+\\frac{20}{x^{11}}-\\frac{5}{x^6}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{8}{x^2}-\\frac{8}{x^3}+\\frac{7}{x^9}\\right)",
+      "answer1": "\\text{A) }-\\frac{20}{x^3}+\\frac{3}{x^4}-\\frac{72}{x^{10}}",
+      "answer2": "\\text{B) }-\\frac{18}{x^3}-\\frac{21}{x^4}-\\frac{90}{x^{10}}",
+      "answer3": "\\text{C) }-\\frac{4}{x^3}+\\frac{24}{x^4}+\\frac{72}{x^{10}}",
+      "answer4": "\\text{D) }-\\frac{16}{x^3}+\\frac{24}{x^4}-\\frac{63}{x^{10}}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{4}{x^{10}}+\\frac{5}{x^8}-\\frac{7}{x^{10}}\\right)",
+      "answer1": "\\text{A) }-\\frac{40}{x^{11}}-\\frac{40}{x^9}+\\frac{70}{x^{11}}",
+      "answer2": "\\text{B) }\\frac{80}{x^{11}}+\\frac{56}{x^9}+\\frac{20}{x^{11}}",
+      "answer3": "\\text{C) }-\\frac{100}{x^{11}}+\\frac{16}{x^9}-\\frac{90}{x^{11}}",
+      "answer4": "\\text{D) }\\frac{80}{x^{11}}+\\frac{56}{x^9}-\\frac{90}{x^{11}}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{9}{x^2}-\\frac{1}{x^4}-\\frac{6}{x^5}\\right)",
+      "answer1": "\\text{A) }-\\frac{16}{x^3}-\\frac{4}{x^5}-\\frac{40}{x^6}",
+      "answer2": "\\text{B) }\\frac{16}{x^3}-\\frac{4}{x^5}+\\frac{35}{x^6}",
+      "answer3": "\\text{C) }\\frac{18}{x^3}+\\frac{4}{x^5}+\\frac{30}{x^6}",
+      "answer4": "\\text{D) }\\frac{2}{x^3}+\\frac{12}{x^5}-\\frac{45}{x^6}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{1}{x^7}+\\frac{3}{x^{10}}+\\frac{5}{x^8}\\right)",
+      "answer1": "\\text{A) }\\frac{42}{x^8}+\\frac{70}{x^{11}}-\\frac{64}{x^9}",
+      "answer2": "\\text{B) }-\\frac{56}{x^8}-\\frac{80}{x^{11}}+\\frac{40}{x^9}",
+      "answer3": "\\text{C) }\\frac{21}{x^8}+\\frac{10}{x^{11}}+\\frac{48}{x^9}",
+      "answer4": "\\text{D) }-\\frac{7}{x^8}-\\frac{30}{x^{11}}-\\frac{40}{x^9}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{6}{x^8}+\\frac{8}{x^2}-\\frac{7}{x^8}\\right)",
+      "answer1": "\\text{A) }-\\frac{80}{x^9}-\\frac{6}{x^3}-\\frac{56}{x^9}",
+      "answer2": "\\text{B) }\\frac{48}{x^9}-\\frac{16}{x^3}+\\frac{56}{x^9}",
+      "answer3": "\\text{C) }\\frac{32}{x^9}-\\frac{2}{x^3}-\\frac{72}{x^9}",
+      "answer4": "\\text{D) }-\\frac{24}{x^9}-\\frac{6}{x^3}-\\frac{48}{x^9}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{10}{x^3}+\\frac{7}{x^5}-\\frac{3}{x^8}\\right)",
+      "answer1": "\\text{A) }-\\frac{30}{x^4}-\\frac{35}{x^6}+\\frac{24}{x^9}",
+      "answer2": "\\text{B) }\\frac{18}{x^4}-\\frac{40}{x^6}-\\frac{64}{x^9}",
+      "answer3": "\\text{C) }\\frac{21}{x^4}-\\frac{30}{x^6}+\\frac{56}{x^9}",
+      "answer4": "\\text{D) }-\\frac{9}{x^4}-\\frac{30}{x^6}+\\frac{40}{x^9}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{3}{x^9}-\\frac{1}{x}-\\frac{6}{x^8}\\right)",
+      "answer1": "\\text{A) }\\frac{27}{x^{10}}+\\frac{1}{x^2}+\\frac{48}{x^9}",
+      "answer2": "\\text{B) }-\\frac{81}{x^{10}}+\\frac{7}{x^2}-\\frac{64}{x^9}",
+      "answer3": "\\text{C) }\\frac{45}{x^{10}}+\\frac{1}{x^2}-\\frac{80}{x^9}",
+      "answer4": "\\text{D) }-\\frac{81}{x^{10}}+\\frac{9}{x^2}-\\frac{8}{x^9}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{4}{x^8}-\\frac{8}{x^7}+\\frac{5}{x^4}\\right)",
+      "answer1": "\\text{A) }\\frac{48}{x^9}+\\frac{28}{x^8}+\\frac{36}{x^5}",
+      "answer2": "\\text{B) }-\\frac{64}{x^9}-\\frac{35}{x^8}-\\frac{8}{x^5}",
+      "answer3": "\\text{C) }-\\frac{80}{x^9}+\\frac{14}{x^8}+\\frac{32}{x^5}",
+      "answer4": "\\text{D) }\\frac{32}{x^9}+\\frac{56}{x^8}-\\frac{20}{x^5}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{8}{x^8}-\\frac{8}{x}+\\frac{2}{x^2}\\right)",
+      "answer1": "\\text{A) }-\\frac{40}{x^9}-\\frac{9}{x^2}-\\frac{18}{x^3}",
+      "answer2": "\\text{B) }\\frac{64}{x^9}+\\frac{8}{x^2}-\\frac{4}{x^3}",
+      "answer3": "\\text{C) }-\\frac{56}{x^9}-\\frac{6}{x^2}+\\frac{8}{x^3}",
+      "answer4": "\\text{D) }-\\frac{24}{x^9}-\\frac{7}{x^2}+\\frac{18}{x^3}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{9}{x^2}-\\frac{6}{x^4}-\\frac{5}{x^3}\\right)",
+      "answer1": "\\text{A) }\\frac{18}{x^3}+\\frac{24}{x^5}+\\frac{15}{x^4}",
+      "answer2": "\\text{B) }-\\frac{20}{x^3}-\\frac{16}{x^5}+\\frac{21}{x^4}",
+      "answer3": "\\text{C) }-\\frac{14}{x^3}-\\frac{20}{x^5}-\\frac{15}{x^4}",
+      "answer4": "\\text{D) }-\\frac{4}{x^3}+\\frac{8}{x^5}+\\frac{9}{x^4}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{8}{x^3}+\\frac{2}{x}-\\frac{4}{x^8}\\right)",
+      "answer1": "\\text{A) }-\\frac{3}{x^4}-\\frac{10}{x^2}-\\frac{32}{x^9}",
+      "answer2": "\\text{B) }\\frac{3}{x^4}+\\frac{7}{x^2}+\\frac{8}{x^9}",
+      "answer3": "\\text{C) }\\frac{24}{x^4}-\\frac{2}{x^2}+\\frac{32}{x^9}",
+      "answer4": "\\text{D) }-\\frac{3}{x^4}+\\frac{5}{x^2}+\\frac{72}{x^9}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{6}{x^9}+\\frac{3}{x^4}+\\frac{7}{x^9}\\right)",
+      "answer1": "\\text{A) }\\frac{63}{x^{10}}+\\frac{4}{x^5}-\\frac{36}{x^{10}}",
+      "answer2": "\\text{B) }\\frac{54}{x^{10}}-\\frac{12}{x^5}-\\frac{63}{x^{10}}",
+      "answer3": "\\text{C) }-\\frac{18}{x^{10}}+\\frac{28}{x^5}+\\frac{63}{x^{10}}",
+      "answer4": "\\text{D) }\\frac{27}{x^{10}}+\\frac{4}{x^5}+\\frac{9}{x^{10}}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{8}{x^4}+\\frac{9}{x}-\\frac{5}{x^{10}}\\right)",
+      "answer1": "\\text{A) }-\\frac{8}{x^5}-\\frac{5}{x^2}-\\frac{100}{x^{11}}",
+      "answer2": "\\text{B) }\\frac{32}{x^5}-\\frac{5}{x^2}-\\frac{60}{x^{11}}",
+      "answer3": "\\text{C) }-\\frac{32}{x^5}-\\frac{3}{x^2}+\\frac{30}{x^{11}}",
+      "answer4": "\\text{D) }\\frac{32}{x^5}-\\frac{9}{x^2}+\\frac{50}{x^{11}}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{9}{x^3}+\\frac{6}{x^9}+\\frac{8}{x^6}\\right)",
+      "answer1": "\\text{A) }\\frac{15}{x^4}+\\frac{9}{x^{10}}-\\frac{48}{x^7}",
+      "answer2": "\\text{B) }\\frac{24}{x^4}+\\frac{45}{x^{10}}+\\frac{42}{x^7}",
+      "answer3": "\\text{C) }\\frac{27}{x^4}-\\frac{54}{x^{10}}-\\frac{48}{x^7}",
+      "answer4": "\\text{D) }\\frac{27}{x^4}+\\frac{45}{x^{10}}+\\frac{18}{x^7}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{7}{x^3}-\\frac{6}{x^9}-\\frac{3}{x^6}\\right)",
+      "answer1": "\\text{A) }\\frac{24}{x^4}-\\frac{18}{x^{10}}-\\frac{30}{x^7}",
+      "answer2": "\\text{B) }-\\frac{6}{x^4}+\\frac{63}{x^{10}}-\\frac{24}{x^7}",
+      "answer3": "\\text{C) }\\frac{18}{x^4}+\\frac{54}{x^{10}}-\\frac{42}{x^7}",
+      "answer4": "\\text{D) }-\\frac{21}{x^4}+\\frac{54}{x^{10}}+\\frac{18}{x^7}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{10}{x^3}+\\frac{3}{x^9}+\\frac{10}{x^5}\\right)",
+      "answer1": "\\text{A) }-\\frac{18}{x^4}-\\frac{9}{x^{10}}+\\frac{30}{x^6}",
+      "answer2": "\\text{B) }\\frac{27}{x^4}+\\frac{54}{x^{10}}+\\frac{35}{x^6}",
+      "answer3": "\\text{C) }\\frac{18}{x^4}-\\frac{72}{x^{10}}-\\frac{15}{x^6}",
+      "answer4": "\\text{D) }-\\frac{30}{x^4}-\\frac{27}{x^{10}}-\\frac{50}{x^6}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{5}{x^2}+\\frac{5}{x^9}+\\frac{1}{x^9}\\right)",
+      "answer1": "\\text{A) }-\\frac{18}{x^3}+\\frac{36}{x^{10}}+\\frac{63}{x^{10}}",
+      "answer2": "\\text{B) }\\frac{4}{x^3}+\\frac{63}{x^{10}}-\\frac{27}{x^{10}}",
+      "answer3": "\\text{C) }-\\frac{10}{x^3}-\\frac{45}{x^{10}}-\\frac{9}{x^{10}}",
+      "answer4": "\\text{D) }\\frac{4}{x^3}-\\frac{18}{x^{10}}-\\frac{27}{x^{10}}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{8}{x^6}-\\frac{1}{x^5}-\\frac{5}{x^4}\\right)",
+      "answer1": "\\text{A) }-\\frac{18}{x^7}+\\frac{10}{x^6}-\\frac{40}{x^5}",
+      "answer2": "\\text{B) }-\\frac{30}{x^7}-\\frac{25}{x^6}+\\frac{16}{x^5}",
+      "answer3": "\\text{C) }\\frac{54}{x^7}-\\frac{30}{x^6}-\\frac{40}{x^5}",
+      "answer4": "\\text{D) }\\frac{48}{x^7}+\\frac{5}{x^6}+\\frac{20}{x^5}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{6}{x^5}-\\frac{3}{x^2}-\\frac{7}{x^7}\\right)",
+      "answer1": "\\text{A) }-\\frac{10}{x^6}-\\frac{12}{x^3}-\\frac{63}{x^8}",
+      "answer2": "\\text{B) }\\frac{30}{x^6}+\\frac{6}{x^3}+\\frac{49}{x^8}",
+      "answer3": "\\text{C) }-\\frac{40}{x^6}+\\frac{8}{x^3}+\\frac{21}{x^8}",
+      "answer4": "\\text{D) }\\frac{30}{x^6}+\\frac{8}{x^3}+\\frac{7}{x^8}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{5}{x^4}+\\frac{8}{x^7}+\\frac{1}{x^5}\\right)",
+      "answer1": "\\text{A) }-\\frac{20}{x^5}+\\frac{7}{x^8}-\\frac{25}{x^6}",
+      "answer2": "\\text{B) }-\\frac{20}{x^5}+\\frac{28}{x^8}+\\frac{40}{x^6}",
+      "answer3": "\\text{C) }\\frac{20}{x^5}-\\frac{56}{x^8}-\\frac{5}{x^6}",
+      "answer4": "\\text{D) }-\\frac{12}{x^5}-\\frac{70}{x^8}+\\frac{15}{x^6}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{3}{x^5}-\\frac{1}{x^3}-\\frac{8}{x^5}\\right)",
+      "answer1": "\\text{A) }-\\frac{50}{x^6}+\\frac{18}{x^4}+\\frac{40}{x^6}",
+      "answer2": "\\text{B) }-\\frac{5}{x^6}+\\frac{18}{x^4}+\\frac{45}{x^6}",
+      "answer3": "\\text{C) }-\\frac{15}{x^6}+\\frac{3}{x^4}+\\frac{40}{x^6}",
+      "answer4": "\\text{D) }-\\frac{5}{x^6}-\\frac{9}{x^4}+\\frac{10}{x^6}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{4}{x}-\\frac{6}{x^6}-\\frac{9}{x}\\right)",
+      "answer1": "\\text{A) }-\\frac{7}{x^2}+\\frac{18}{x^7}+\\frac{5}{x^2}",
+      "answer2": "\\text{B) }\\frac{4}{x^2}+\\frac{36}{x^7}+\\frac{9}{x^2}",
+      "answer3": "\\text{C) }\\frac{2}{x^2}+\\frac{6}{x^7}-\\frac{6}{x^2}",
+      "answer4": "\\text{D) }-\\frac{8}{x^2}+\\frac{48}{x^7}-\\frac{3}{x^2}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{8}{x^2}+\\frac{9}{x^8}+\\frac{2}{x}\\right)",
+      "answer1": "\\text{A) }-\\frac{18}{x^3}-\\frac{8}{x^9}-\\frac{4}{x^2}",
+      "answer2": "\\text{B) }-\\frac{16}{x^3}+\\frac{16}{x^9}+\\frac{2}{x^2}",
+      "answer3": "\\text{C) }\\frac{8}{x^3}+\\frac{64}{x^9}-\\frac{3}{x^2}",
+      "answer4": "\\text{D) }\\frac{16}{x^3}-\\frac{72}{x^9}-\\frac{2}{x^2}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{4}{x^6}+\\frac{9}{x^{10}}+\\frac{7}{x^{10}}\\right)",
+      "answer1": "\\text{A) }-\\frac{6}{x^7}-\\frac{70}{x^{11}}-\\frac{40}{x^{11}}",
+      "answer2": "\\text{B) }-\\frac{48}{x^7}-\\frac{20}{x^{11}}-\\frac{40}{x^{11}}",
+      "answer3": "\\text{C) }\\frac{24}{x^7}-\\frac{90}{x^{11}}-\\frac{70}{x^{11}}",
+      "answer4": "\\text{D) }\\frac{54}{x^7}-\\frac{60}{x^{11}}+\\frac{60}{x^{11}}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{10}{x^6}+\\frac{1}{x^4}-\\frac{4}{x^8}\\right)",
+      "answer1": "\\text{A) }\\frac{54}{x^7}-\\frac{24}{x^5}+\\frac{72}{x^9}",
+      "answer2": "\\text{B) }\\frac{24}{x^7}-\\frac{8}{x^5}+\\frac{56}{x^9}",
+      "answer3": "\\text{C) }-\\frac{60}{x^7}-\\frac{4}{x^5}+\\frac{32}{x^9}",
+      "answer4": "\\text{D) }\\frac{6}{x^7}+\\frac{28}{x^5}-\\frac{64}{x^9}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{1}{x^6}+\\frac{5}{x^6}+\\frac{8}{x^9}\\right)",
+      "answer1": "\\text{A) }-\\frac{6}{x^7}-\\frac{30}{x^7}-\\frac{72}{x^{10}}",
+      "answer2": "\\text{B) }\\frac{42}{x^7}+\\frac{6}{x^7}+\\frac{36}{x^{10}}",
+      "answer3": "\\text{C) }-\\frac{48}{x^7}+\\frac{48}{x^7}-\\frac{27}{x^{10}}",
+      "answer4": "\\text{D) }\\frac{18}{x^7}+\\frac{24}{x^7}-\\frac{18}{x^{10}}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{6}{x^2}-\\frac{8}{x^{10}}+\\frac{9}{x^4}\\right)",
+      "answer1": "\\text{A) }-\\frac{20}{x^3}+\\frac{20}{x^{11}}+\\frac{32}{x^5}",
+      "answer2": "\\text{B) }-\\frac{16}{x^3}+\\frac{20}{x^{11}}+\\frac{24}{x^5}",
+      "answer3": "\\text{C) }\\frac{12}{x^3}+\\frac{80}{x^{11}}-\\frac{36}{x^5}",
+      "answer4": "\\text{D) }-\\frac{6}{x^3}+\\frac{90}{x^{11}}+\\frac{32}{x^5}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{9}{x^{10}}+\\frac{6}{x^2}+\\frac{5}{x^2}\\right)",
+      "answer1": "\\text{A) }-\\frac{80}{x^{11}}+\\frac{10}{x^3}-\\frac{6}{x^3}",
+      "answer2": "\\text{B) }\\frac{90}{x^{11}}+\\frac{14}{x^3}+\\frac{6}{x^3}",
+      "answer3": "\\text{C) }\\frac{90}{x^{11}}-\\frac{12}{x^3}-\\frac{10}{x^3}",
+      "answer4": "\\text{D) }\\frac{80}{x^{11}}-\\frac{8}{x^3}-\\frac{2}{x^3}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{7}{x^{10}}-\\frac{3}{x^2}-\\frac{8}{x^7}\\right)",
+      "answer1": "\\text{A) }-\\frac{20}{x^{11}}+\\frac{10}{x^3}+\\frac{14}{x^8}",
+      "answer2": "\\text{B) }-\\frac{70}{x^{11}}+\\frac{6}{x^3}+\\frac{56}{x^8}",
+      "answer3": "\\text{C) }\\frac{50}{x^{11}}+\\frac{6}{x^3}-\\frac{14}{x^8}",
+      "answer4": "\\text{D) }\\frac{90}{x^{11}}+\\frac{18}{x^3}+\\frac{28}{x^8}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{2}{x^8}+\\frac{2}{x^4}-\\frac{9}{x^5}\\right)",
+      "answer1": "\\text{A) }\\frac{72}{x^9}-\\frac{4}{x^5}-\\frac{20}{x^6}",
+      "answer2": "\\text{B) }-\\frac{16}{x^9}-\\frac{8}{x^5}+\\frac{45}{x^6}",
+      "answer3": "\\text{C) }\\frac{40}{x^9}-\\frac{16}{x^5}+\\frac{40}{x^6}",
+      "answer4": "\\text{D) }\\frac{64}{x^9}-\\frac{4}{x^5}-\\frac{45}{x^6}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{3}{x^4}-\\frac{5}{x^4}+\\frac{9}{x^8}\\right)",
+      "answer1": "\\text{A) }-\\frac{12}{x^5}+\\frac{20}{x^5}-\\frac{72}{x^9}",
+      "answer2": "\\text{B) }\\frac{8}{x^5}+\\frac{8}{x^5}+\\frac{24}{x^9}",
+      "answer3": "\\text{C) }-\\frac{36}{x^5}-\\frac{4}{x^5}-\\frac{48}{x^9}",
+      "answer4": "\\text{D) }\\frac{28}{x^5}+\\frac{20}{x^5}+\\frac{48}{x^9}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{7}{x^9}+\\frac{6}{x}+\\frac{8}{x}\\right)",
+      "answer1": "\\text{A) }-\\frac{18}{x^{10}}-\\frac{9}{x^2}-\\frac{4}{x^2}",
+      "answer2": "\\text{B) }-\\frac{63}{x^{10}}-\\frac{6}{x^2}-\\frac{8}{x^2}",
+      "answer3": "\\text{C) }-\\frac{36}{x^{10}}-\\frac{10}{x^2}-\\frac{2}{x^2}",
+      "answer4": "\\text{D) }-\\frac{81}{x^{10}}+\\frac{9}{x^2}+\\frac{6}{x^2}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{9}{x^4}+\\frac{2}{x^{10}}+\\frac{4}{x^4}\\right)",
+      "answer1": "\\text{A) }-\\frac{20}{x^5}-\\frac{100}{x^{11}}+\\frac{12}{x^5}",
+      "answer2": "\\text{B) }-\\frac{24}{x^5}+\\frac{40}{x^{11}}-\\frac{36}{x^5}",
+      "answer3": "\\text{C) }\\frac{36}{x^5}-\\frac{20}{x^{11}}-\\frac{16}{x^5}",
+      "answer4": "\\text{D) }-\\frac{16}{x^5}+\\frac{40}{x^{11}}+\\frac{12}{x^5}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{5}{x^2}+\\frac{1}{x^5}+\\frac{7}{x^4}\\right)",
+      "answer1": "\\text{A) }\\frac{2}{x^3}-\\frac{40}{x^6}-\\frac{4}{x^5}",
+      "answer2": "\\text{B) }-\\frac{6}{x^3}+\\frac{30}{x^6}-\\frac{40}{x^5}",
+      "answer3": "\\text{C) }\\frac{18}{x^3}-\\frac{15}{x^6}-\\frac{28}{x^5}",
+      "answer4": "\\text{D) }\\frac{10}{x^3}-\\frac{5}{x^6}-\\frac{28}{x^5}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{1}{x^7}+\\frac{3}{x^7}-\\frac{5}{x^{10}}\\right)",
+      "answer1": "\\text{A) }-\\frac{14}{x^8}+\\frac{49}{x^8}+\\frac{40}{x^{11}}",
+      "answer2": "\\text{B) }-\\frac{7}{x^8}+\\frac{42}{x^8}+\\frac{40}{x^{11}}",
+      "answer3": "\\text{C) }\\frac{7}{x^8}-\\frac{21}{x^8}+\\frac{50}{x^{11}}",
+      "answer4": "\\text{D) }\\frac{35}{x^8}-\\frac{7}{x^8}-\\frac{20}{x^{11}}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{9}{x}-\\frac{8}{x^2}-\\frac{4}{x^5}\\right)",
+      "answer1": "\\text{A) }\\frac{7}{x^2}-\\frac{4}{x^3}+\\frac{15}{x^6}",
+      "answer2": "\\text{B) }\\frac{9}{x^2}+\\frac{16}{x^3}+\\frac{20}{x^6}",
+      "answer3": "\\text{C) }-\\frac{8}{x^2}-\\frac{16}{x^3}-\\frac{5}{x^6}",
+      "answer4": "\\text{D) }-\\frac{2}{x^2}+\\frac{12}{x^3}+\\frac{5}{x^6}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{6}{x^2}+\\frac{3}{x^9}+\\frac{5}{x^7}\\right)",
+      "answer1": "\\text{A) }-\\frac{16}{x^3}-\\frac{72}{x^{10}}+\\frac{28}{x^8}",
+      "answer2": "\\text{B) }\\frac{18}{x^3}-\\frac{9}{x^{10}}+\\frac{28}{x^8}",
+      "answer3": "\\text{C) }-\\frac{2}{x^3}-\\frac{90}{x^{10}}-\\frac{49}{x^8}",
+      "answer4": "\\text{D) }\\frac{12}{x^3}-\\frac{27}{x^{10}}-\\frac{35}{x^8}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{8}{x^3}-\\frac{1}{x^2}-\\frac{2}{x^2}\\right)",
+      "answer1": "\\text{A) }-\\frac{18}{x^4}+\\frac{4}{x^3}+\\frac{18}{x^3}",
+      "answer2": "\\text{B) }-\\frac{21}{x^4}+\\frac{10}{x^3}-\\frac{16}{x^3}",
+      "answer3": "\\text{C) }\\frac{18}{x^4}+\\frac{8}{x^3}-\\frac{2}{x^3}",
+      "answer4": "\\text{D) }-\\frac{24}{x^4}+\\frac{2}{x^3}+\\frac{4}{x^3}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{4}{x^6}+\\frac{1}{x^9}-\\frac{1}{x^9}\\right)",
+      "answer1": "\\text{A) }\\frac{54}{x^7}+\\frac{27}{x^{10}}-\\frac{72}{x^{10}}",
+      "answer2": "\\text{B) }\\frac{12}{x^7}+\\frac{81}{x^{10}}+\\frac{45}{x^{10}}",
+      "answer3": "\\text{C) }\\frac{48}{x^7}-\\frac{54}{x^{10}}+\\frac{9}{x^{10}}",
+      "answer4": "\\text{D) }-\\frac{24}{x^7}-\\frac{9}{x^{10}}+\\frac{9}{x^{10}}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{9}{x^5}-\\frac{4}{x^9}+\\frac{1}{x^5}\\right)",
+      "answer1": "\\text{A) }-\\frac{10}{x^6}-\\frac{63}{x^{10}}-\\frac{35}{x^6}",
+      "answer2": "\\text{B) }\\frac{25}{x^6}-\\frac{63}{x^{10}}-\\frac{5}{x^6}",
+      "answer3": "\\text{C) }\\frac{15}{x^6}+\\frac{36}{x^{10}}+\\frac{30}{x^6}",
+      "answer4": "\\text{D) }-\\frac{45}{x^6}+\\frac{36}{x^{10}}-\\frac{5}{x^6}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{8}{x^3}+\\frac{1}{x^6}-\\frac{4}{x^7}\\right)",
+      "answer1": "\\text{A) }\\frac{12}{x^4}-\\frac{24}{x^7}+\\frac{21}{x^8}",
+      "answer2": "\\text{B) }\\frac{6}{x^4}-\\frac{6}{x^7}+\\frac{7}{x^8}",
+      "answer3": "\\text{C) }\\frac{15}{x^4}+\\frac{54}{x^7}+\\frac{63}{x^8}",
+      "answer4": "\\text{D) }\\frac{24}{x^4}-\\frac{6}{x^7}+\\frac{28}{x^8}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{5}{x^8}+\\frac{4}{x}+\\frac{2}{x}\\right)",
+      "answer1": "\\text{A) }-\\frac{72}{x^9}+\\frac{6}{x^2}-\\frac{10}{x^2}",
+      "answer2": "\\text{B) }\\frac{40}{x^9}+\\frac{9}{x^2}+\\frac{5}{x^2}",
+      "answer3": "\\text{C) }-\\frac{40}{x^9}-\\frac{4}{x^2}-\\frac{2}{x^2}",
+      "answer4": "\\text{D) }-\\frac{40}{x^9}+\\frac{2}{x^2}-\\frac{5}{x^2}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{8}{x^2}-\\frac{9}{x^7}-\\frac{6}{x^8}\\right)",
+      "answer1": "\\text{A) }\\frac{6}{x^3}-\\frac{56}{x^8}+\\frac{32}{x^9}",
+      "answer2": "\\text{B) }-\\frac{16}{x^3}+\\frac{63}{x^8}+\\frac{48}{x^9}",
+      "answer3": "\\text{C) }\\frac{2}{x^3}+\\frac{28}{x^8}-\\frac{16}{x^9}",
+      "answer4": "\\text{D) }-\\frac{2}{x^3}+\\frac{35}{x^8}-\\frac{56}{x^9}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{2}{x^8}-\\frac{6}{x^4}-\\frac{1}{x^3}\\right)",
+      "answer1": "\\text{A) }-\\frac{24}{x^9}+\\frac{20}{x^5}-\\frac{24}{x^4}",
+      "answer2": "\\text{B) }-\\frac{40}{x^9}+\\frac{12}{x^5}-\\frac{21}{x^4}",
+      "answer3": "\\text{C) }\\frac{16}{x^9}+\\frac{24}{x^5}+\\frac{3}{x^4}",
+      "answer4": "\\text{D) }-\\frac{32}{x^9}+\\frac{16}{x^5}-\\frac{15}{x^4}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{1}{x^8}+\\frac{5}{x^3}-\\frac{9}{x^2}\\right)",
+      "answer1": "\\text{A) }\\frac{56}{x^9}+\\frac{9}{x^4}-\\frac{4}{x^3}",
+      "answer2": "\\text{B) }-\\frac{8}{x^9}-\\frac{15}{x^4}+\\frac{18}{x^3}",
+      "answer3": "\\text{C) }\\frac{48}{x^9}+\\frac{15}{x^4}+\\frac{6}{x^3}",
+      "answer4": "\\text{D) }\\frac{48}{x^9}-\\frac{15}{x^4}-\\frac{20}{x^3}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{2}{x^9}+\\frac{4}{x^2}+\\frac{8}{x^2}\\right)",
+      "answer1": "\\text{A) }\\frac{81}{x^{10}}+\\frac{8}{x^3}-\\frac{20}{x^3}",
+      "answer2": "\\text{B) }-\\frac{54}{x^{10}}+\\frac{16}{x^3}+\\frac{18}{x^3}",
+      "answer3": "\\text{C) }\\frac{18}{x^{10}}-\\frac{8}{x^3}-\\frac{16}{x^3}",
+      "answer4": "\\text{D) }-\\frac{81}{x^{10}}+\\frac{4}{x^3}+\\frac{18}{x^3}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{9}{x^{10}}+\\frac{1}{x^{10}}-\\frac{6}{x}\\right)",
+      "answer1": "\\text{A) }-\\frac{30}{x^{11}}-\\frac{80}{x^{11}}+\\frac{1}{x^2}",
+      "answer2": "\\text{B) }-\\frac{90}{x^{11}}-\\frac{10}{x^{11}}-\\frac{7}{x^2}",
+      "answer3": "\\text{C) }-\\frac{90}{x^{11}}-\\frac{10}{x^{11}}+\\frac{6}{x^2}",
+      "answer4": "\\text{D) }-\\frac{60}{x^{11}}-\\frac{30}{x^{11}}-\\frac{9}{x^2}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{1}{x^3}-\\frac{2}{x^8}+\\frac{3}{x^3}\\right)",
+      "answer1": "\\text{A) }-\\frac{9}{x^4}+\\frac{24}{x^9}-\\frac{9}{x^4}",
+      "answer2": "\\text{B) }-\\frac{30}{x^4}-\\frac{48}{x^9}-\\frac{15}{x^4}",
+      "answer3": "\\text{C) }-\\frac{21}{x^4}+\\frac{32}{x^9}+\\frac{6}{x^4}",
+      "answer4": "\\text{D) }-\\frac{3}{x^4}+\\frac{16}{x^9}-\\frac{9}{x^4}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{6}{x^9}-\\frac{1}{x^7}+\\frac{6}{x^3}\\right)",
+      "answer1": "\\text{A) }\\frac{81}{x^{10}}-\\frac{42}{x^8}-\\frac{3}{x^4}",
+      "answer2": "\\text{B) }\\frac{54}{x^{10}}+\\frac{7}{x^8}-\\frac{18}{x^4}",
+      "answer3": "\\text{C) }\\frac{54}{x^{10}}-\\frac{56}{x^8}-\\frac{3}{x^4}",
+      "answer4": "\\text{D) }-\\frac{54}{x^{10}}-\\frac{14}{x^8}+\\frac{18}{x^4}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{8}{x^{10}}+\\frac{2}{x^4}-\\frac{5}{x^2}\\right)",
+      "answer1": "\\text{A) }-\\frac{50}{x^{11}}-\\frac{12}{x^5}-\\frac{6}{x^3}",
+      "answer2": "\\text{B) }\\frac{40}{x^{11}}-\\frac{8}{x^5}-\\frac{12}{x^3}",
+      "answer3": "\\text{C) }\\frac{90}{x^{11}}-\\frac{20}{x^5}+\\frac{2}{x^3}",
+      "answer4": "\\text{D) }-\\frac{80}{x^{11}}-\\frac{8}{x^5}+\\frac{10}{x^3}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{3}{x^6}+\\frac{3}{x}+\\frac{5}{x^9}\\right)",
+      "answer1": "\\text{A) }-\\frac{60}{x^7}+\\frac{2}{x^2}-\\frac{90}{x^{10}}",
+      "answer2": "\\text{B) }-\\frac{6}{x^7}+\\frac{8}{x^2}-\\frac{18}{x^{10}}",
+      "answer3": "\\text{C) }\\frac{48}{x^7}-\\frac{6}{x^2}+\\frac{81}{x^{10}}",
+      "answer4": "\\text{D) }-\\frac{18}{x^7}-\\frac{3}{x^2}-\\frac{45}{x^{10}}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{4}{x}-\\frac{8}{x^6}+\\frac{9}{x^9}\\right)",
+      "answer1": "\\text{A) }-\\frac{4}{x^2}+\\frac{48}{x^7}-\\frac{81}{x^{10}}",
+      "answer2": "\\text{B) }\\frac{9}{x^2}-\\frac{60}{x^7}-\\frac{36}{x^{10}}",
+      "answer3": "\\text{C) }-\\frac{8}{x^2}+\\frac{36}{x^7}-\\frac{36}{x^{10}}",
+      "answer4": "\\text{D) }-\\frac{7}{x^2}+\\frac{30}{x^7}+\\frac{63}{x^{10}}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{2}{x^7}-\\frac{8}{x}+\\frac{5}{x^8}\\right)",
+      "answer1": "\\text{A) }-\\frac{70}{x^8}-\\frac{5}{x^2}-\\frac{16}{x^9}",
+      "answer2": "\\text{B) }\\frac{7}{x^8}-\\frac{4}{x^2}-\\frac{56}{x^9}",
+      "answer3": "\\text{C) }-\\frac{56}{x^8}-\\frac{4}{x^2}-\\frac{56}{x^9}",
+      "answer4": "\\text{D) }-\\frac{14}{x^8}+\\frac{8}{x^2}-\\frac{40}{x^9}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{1}{x^3}-\\frac{5}{x^3}-\\frac{2}{x^{10}}\\right)",
+      "answer1": "\\text{A) }-\\frac{9}{x^4}-\\frac{24}{x^4}-\\frac{70}{x^{11}}",
+      "answer2": "\\text{B) }-\\frac{3}{x^4}+\\frac{15}{x^4}+\\frac{20}{x^{11}}",
+      "answer3": "\\text{C) }-\\frac{9}{x^4}+\\frac{21}{x^4}+\\frac{40}{x^{11}}",
+      "answer4": "\\text{D) }\\frac{15}{x^4}+\\frac{12}{x^4}-\\frac{40}{x^{11}}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{6}{x^5}-\\frac{5}{x^8}+\\frac{10}{x^3}\\right)",
+      "answer1": "\\text{A) }-\\frac{15}{x^6}-\\frac{24}{x^9}+\\frac{9}{x^4}",
+      "answer2": "\\text{B) }-\\frac{5}{x^6}-\\frac{32}{x^9}-\\frac{12}{x^4}",
+      "answer3": "\\text{C) }-\\frac{15}{x^6}+\\frac{64}{x^9}+\\frac{6}{x^4}",
+      "answer4": "\\text{D) }\\frac{30}{x^6}+\\frac{40}{x^9}-\\frac{30}{x^4}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{1}{x^2}-\\frac{3}{x}-\\frac{6}{x^3}\\right)",
+      "answer1": "\\text{A) }-\\frac{2}{x^3}+\\frac{3}{x^2}+\\frac{18}{x^4}",
+      "answer2": "\\text{B) }-\\frac{6}{x^3}+\\frac{4}{x^2}+\\frac{9}{x^4}",
+      "answer3": "\\text{C) }-\\frac{2}{x^3}-\\frac{1}{x^2}+\\frac{27}{x^4}",
+      "answer4": "\\text{D) }\\frac{14}{x^3}+\\frac{7}{x^2}-\\frac{18}{x^4}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{3}{x^6}+\\frac{7}{x^3}+\\frac{8}{x^7}\\right)",
+      "answer1": "\\text{A) }-\\frac{18}{x^7}-\\frac{21}{x^4}-\\frac{56}{x^8}",
+      "answer2": "\\text{B) }-\\frac{54}{x^7}-\\frac{21}{x^4}+\\frac{56}{x^8}",
+      "answer3": "\\text{C) }\\frac{18}{x^7}+\\frac{21}{x^4}-\\frac{35}{x^8}",
+      "answer4": "\\text{D) }\\frac{18}{x^7}-\\frac{21}{x^4}+\\frac{56}{x^8}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{3}{x^3}-\\frac{1}{x^8}-\\frac{2}{x^5}\\right)",
+      "answer1": "\\text{A) }\\frac{24}{x^4}-\\frac{8}{x^9}+\\frac{15}{x^6}",
+      "answer2": "\\text{B) }\\frac{9}{x^4}+\\frac{8}{x^9}+\\frac{10}{x^6}",
+      "answer3": "\\text{C) }\\frac{6}{x^4}+\\frac{24}{x^9}-\\frac{40}{x^6}",
+      "answer4": "\\text{D) }\\frac{3}{x^4}-\\frac{72}{x^9}-\\frac{45}{x^6}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{6}{x^8}+\\frac{10}{x^9}+\\frac{2}{x^8}\\right)",
+      "answer1": "\\text{A) }\\frac{40}{x^9}-\\frac{36}{x^{10}}+\\frac{72}{x^9}",
+      "answer2": "\\text{B) }\\frac{16}{x^9}+\\frac{72}{x^{10}}+\\frac{32}{x^9}",
+      "answer3": "\\text{C) }\\frac{16}{x^9}-\\frac{54}{x^{10}}+\\frac{72}{x^9}",
+      "answer4": "\\text{D) }\\frac{48}{x^9}-\\frac{90}{x^{10}}-\\frac{16}{x^9}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{10}{x^7}-\\frac{6}{x^8}-\\frac{1}{x^6}\\right)",
+      "answer1": "\\text{A) }-\\frac{21}{x^8}-\\frac{32}{x^9}-\\frac{54}{x^7}",
+      "answer2": "\\text{B) }-\\frac{63}{x^8}+\\frac{64}{x^9}-\\frac{18}{x^7}",
+      "answer3": "\\text{C) }-\\frac{70}{x^8}+\\frac{48}{x^9}+\\frac{6}{x^7}",
+      "answer4": "\\text{D) }\\frac{28}{x^8}-\\frac{40}{x^9}-\\frac{6}{x^7}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{10}{x^9}-\\frac{3}{x^7}-\\frac{3}{x^2}\\right)",
+      "answer1": "\\text{A) }-\\frac{90}{x^{10}}-\\frac{14}{x^8}-\\frac{10}{x^3}",
+      "answer2": "\\text{B) }-\\frac{36}{x^{10}}+\\frac{49}{x^8}+\\frac{8}{x^3}",
+      "answer3": "\\text{C) }-\\frac{36}{x^{10}}-\\frac{7}{x^8}+\\frac{8}{x^3}",
+      "answer4": "\\text{D) }-\\frac{90}{x^{10}}+\\frac{21}{x^8}+\\frac{6}{x^3}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{4}{x^7}+\\frac{8}{x^6}+\\frac{9}{x^3}\\right)",
+      "answer1": "\\text{A) }\\frac{49}{x^8}+\\frac{6}{x^7}-\\frac{6}{x^4}",
+      "answer2": "\\text{B) }\\frac{56}{x^8}-\\frac{54}{x^7}+\\frac{12}{x^4}",
+      "answer3": "\\text{C) }\\frac{56}{x^8}-\\frac{24}{x^7}+\\frac{21}{x^4}",
+      "answer4": "\\text{D) }-\\frac{28}{x^8}-\\frac{48}{x^7}-\\frac{27}{x^4}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{9}{x^6}+\\frac{10}{x}+\\frac{10}{x^4}\\right)",
+      "answer1": "\\text{A) }\\frac{54}{x^7}-\\frac{10}{x^2}-\\frac{40}{x^5}",
+      "answer2": "\\text{B) }\\frac{42}{x^7}+\\frac{4}{x^2}-\\frac{40}{x^5}",
+      "answer3": "\\text{C) }-\\frac{36}{x^7}-\\frac{3}{x^2}-\\frac{28}{x^5}",
+      "answer4": "\\text{D) }-\\frac{24}{x^7}-\\frac{9}{x^2}-\\frac{40}{x^5}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{2}{x}-\\frac{8}{x^8}+\\frac{7}{x^7}\\right)",
+      "answer1": "\\text{A) }-\\frac{2}{x^2}+\\frac{64}{x^9}-\\frac{49}{x^8}",
+      "answer2": "\\text{B) }\\frac{2}{x^2}-\\frac{72}{x^9}-\\frac{49}{x^8}",
+      "answer3": "\\text{C) }-\\frac{2}{x^2}+\\frac{64}{x^9}+\\frac{35}{x^8}",
+      "answer4": "\\text{D) }\\frac{9}{x^2}+\\frac{48}{x^9}-\\frac{56}{x^8}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{9}{x^9}+\\frac{6}{x^9}-\\frac{6}{x^9}\\right)",
+      "answer1": "\\text{A) }-\\frac{45}{x^{10}}+\\frac{27}{x^{10}}-\\frac{27}{x^{10}}",
+      "answer2": "\\text{B) }\\frac{81}{x^{10}}-\\frac{54}{x^{10}}+\\frac{54}{x^{10}}",
+      "answer3": "\\text{C) }-\\frac{54}{x^{10}}-\\frac{54}{x^{10}}+\\frac{27}{x^{10}}",
+      "answer4": "\\text{D) }\\frac{81}{x^{10}}+\\frac{54}{x^{10}}-\\frac{9}{x^{10}}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{7}{x^3}+\\frac{5}{x^5}-\\frac{6}{x^7}\\right)",
+      "answer1": "\\text{A) }\\frac{12}{x^4}+\\frac{5}{x^6}-\\frac{49}{x^8}",
+      "answer2": "\\text{B) }-\\frac{6}{x^4}-\\frac{30}{x^6}-\\frac{42}{x^8}",
+      "answer3": "\\text{C) }\\frac{12}{x^4}+\\frac{15}{x^6}-\\frac{35}{x^8}",
+      "answer4": "\\text{D) }-\\frac{21}{x^4}-\\frac{25}{x^6}+\\frac{42}{x^8}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{4}{x^7}-\\frac{5}{x^2}+\\frac{4}{x}\\right)",
+      "answer1": "\\text{A) }-\\frac{14}{x^8}-\\frac{18}{x^3}-\\frac{3}{x^2}",
+      "answer2": "\\text{B) }-\\frac{28}{x^8}+\\frac{10}{x^3}-\\frac{4}{x^2}",
+      "answer3": "\\text{C) }\\frac{35}{x^8}-\\frac{16}{x^3}+\\frac{9}{x^2}",
+      "answer4": "\\text{D) }-\\frac{49}{x^8}-\\frac{10}{x^3}-\\frac{8}{x^2}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{6}{x^2}-\\frac{9}{x^3}+\\frac{7}{x^8}\\right)",
+      "answer1": "\\text{A) }-\\frac{12}{x^3}+\\frac{27}{x^4}-\\frac{56}{x^9}",
+      "answer2": "\\text{B) }-\\frac{18}{x^3}-\\frac{12}{x^4}+\\frac{72}{x^9}",
+      "answer3": "\\text{C) }-\\frac{8}{x^3}+\\frac{27}{x^4}+\\frac{32}{x^9}",
+      "answer4": "\\text{D) }\\frac{6}{x^3}+\\frac{18}{x^4}-\\frac{72}{x^9}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{6}{x^3}-\\frac{9}{x^9}-\\frac{8}{x^9}\\right)",
+      "answer1": "\\text{A) }-\\frac{18}{x^4}-\\frac{45}{x^{10}}+\\frac{18}{x^{10}}",
+      "answer2": "\\text{B) }-\\frac{27}{x^4}-\\frac{9}{x^{10}}+\\frac{81}{x^{10}}",
+      "answer3": "\\text{C) }-\\frac{18}{x^4}-\\frac{45}{x^{10}}+\\frac{72}{x^{10}}",
+      "answer4": "\\text{D) }-\\frac{18}{x^4}+\\frac{81}{x^{10}}+\\frac{72}{x^{10}}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{3}{x^2}-\\frac{8}{x^5}-\\frac{9}{x^6}\\right)",
+      "answer1": "\\text{A) }-\\frac{18}{x^3}+\\frac{5}{x^6}+\\frac{24}{x^7}",
+      "answer2": "\\text{B) }-\\frac{6}{x^3}+\\frac{40}{x^6}+\\frac{54}{x^7}",
+      "answer3": "\\text{C) }-\\frac{12}{x^3}-\\frac{50}{x^6}+\\frac{36}{x^7}",
+      "answer4": "\\text{D) }\\frac{14}{x^3}-\\frac{10}{x^6}-\\frac{18}{x^7}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{3}{x^9}+\\frac{7}{x^7}+\\frac{4}{x}\\right)",
+      "answer1": "\\text{A) }\\frac{27}{x^{10}}-\\frac{70}{x^8}-\\frac{1}{x^2}",
+      "answer2": "\\text{B) }-\\frac{18}{x^{10}}+\\frac{49}{x^8}-\\frac{1}{x^2}",
+      "answer3": "\\text{C) }-\\frac{27}{x^{10}}-\\frac{49}{x^8}-\\frac{4}{x^2}",
+      "answer4": "\\text{D) }-\\frac{63}{x^{10}}-\\frac{21}{x^8}+\\frac{7}{x^2}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{6}{x^{10}}-\\frac{6}{x}+\\frac{4}{x^5}\\right)",
+      "answer1": "\\text{A) }-\\frac{60}{x^{11}}+\\frac{6}{x^2}-\\frac{20}{x^6}",
+      "answer2": "\\text{B) }\\frac{10}{x^{11}}-\\frac{7}{x^2}-\\frac{10}{x^6}",
+      "answer3": "\\text{C) }-\\frac{60}{x^{11}}+\\frac{4}{x^2}-\\frac{5}{x^6}",
+      "answer4": "\\text{D) }-\\frac{30}{x^{11}}+\\frac{6}{x^2}+\\frac{30}{x^6}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{3}{x^{10}}+\\frac{5}{x^3}+\\frac{3}{x^4}\\right)",
+      "answer1": "\\text{A) }\\frac{40}{x^{11}}-\\frac{21}{x^4}-\\frac{24}{x^5}",
+      "answer2": "\\text{B) }\\frac{30}{x^{11}}-\\frac{15}{x^4}-\\frac{12}{x^5}",
+      "answer3": "\\text{C) }-\\frac{20}{x^{11}}+\\frac{12}{x^4}+\\frac{32}{x^5}",
+      "answer4": "\\text{D) }\\frac{50}{x^{11}}+\\frac{6}{x^4}+\\frac{24}{x^5}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{4}{x^6}-\\frac{1}{x^4}-\\frac{9}{x^5}\\right)",
+      "answer1": "\\text{A) }\\frac{24}{x^7}-\\frac{24}{x^5}-\\frac{40}{x^6}",
+      "answer2": "\\text{B) }\\frac{48}{x^7}+\\frac{12}{x^5}+\\frac{25}{x^6}",
+      "answer3": "\\text{C) }-\\frac{30}{x^7}+\\frac{32}{x^5}+\\frac{10}{x^6}",
+      "answer4": "\\text{D) }\\frac{24}{x^7}+\\frac{4}{x^5}+\\frac{45}{x^6}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{6}{x^3}-\\frac{1}{x^5}+\\frac{3}{x}\\right)",
+      "answer1": "\\text{A) }-\\frac{9}{x^4}+\\frac{45}{x^6}+\\frac{9}{x^2}",
+      "answer2": "\\text{B) }-\\frac{18}{x^4}+\\frac{5}{x^6}-\\frac{3}{x^2}",
+      "answer3": "\\text{C) }\\frac{3}{x^4}+\\frac{25}{x^6}+\\frac{6}{x^2}",
+      "answer4": "\\text{D) }-\\frac{30}{x^4}+\\frac{10}{x^6}-\\frac{4}{x^2}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{1}{x^4}-\\frac{9}{x^4}+\\frac{9}{x^3}\\right)",
+      "answer1": "\\text{A) }\\frac{4}{x^5}-\\frac{24}{x^5}-\\frac{24}{x^4}",
+      "answer2": "\\text{B) }\\frac{36}{x^5}-\\frac{4}{x^5}-\\frac{3}{x^4}",
+      "answer3": "\\text{C) }\\frac{32}{x^5}+\\frac{20}{x^5}+\\frac{6}{x^4}",
+      "answer4": "\\text{D) }\\frac{4}{x^5}+\\frac{36}{x^5}-\\frac{27}{x^4}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{5}{x^2}-\\frac{4}{x^2}-\\frac{3}{x^2}\\right)",
+      "answer1": "\\text{A) }\\frac{10}{x^3}+\\frac{8}{x^3}+\\frac{6}{x^3}",
+      "answer2": "\\text{B) }-\\frac{6}{x^3}-\\frac{8}{x^3}-\\frac{20}{x^3}",
+      "answer3": "\\text{C) }\\frac{2}{x^3}-\\frac{14}{x^3}+\\frac{12}{x^3}",
+      "answer4": "\\text{D) }\\frac{4}{x^3}-\\frac{4}{x^3}-\\frac{20}{x^3}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{8}{x}+\\frac{6}{x^{10}}+\\frac{10}{x^7}\\right)",
+      "answer1": "\\text{A) }\\frac{2}{x^2}+\\frac{10}{x^{11}}+\\frac{28}{x^8}",
+      "answer2": "\\text{B) }\\frac{9}{x^2}-\\frac{80}{x^{11}}+\\frac{21}{x^8}",
+      "answer3": "\\text{C) }-\\frac{8}{x^2}-\\frac{60}{x^{11}}-\\frac{70}{x^8}",
+      "answer4": "\\text{D) }\\frac{6}{x^2}+\\frac{40}{x^{11}}-\\frac{70}{x^8}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{8}{x^3}-\\frac{3}{x^4}-\\frac{2}{x^5}\\right)",
+      "answer1": "\\text{A) }-\\frac{24}{x^4}+\\frac{12}{x^5}+\\frac{10}{x^6}",
+      "answer2": "\\text{B) }-\\frac{18}{x^4}-\\frac{16}{x^5}+\\frac{45}{x^6}",
+      "answer3": "\\text{C) }\\frac{24}{x^4}+\\frac{20}{x^5}+\\frac{20}{x^6}",
+      "answer4": "\\text{D) }\\frac{21}{x^4}-\\frac{4}{x^5}-\\frac{45}{x^6}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{2}{x}-\\frac{7}{x^9}+\\frac{4}{x^6}\\right)",
+      "answer1": "\\text{A) }\\frac{2}{x^2}+\\frac{63}{x^{10}}-\\frac{24}{x^7}",
+      "answer2": "\\text{B) }\\frac{4}{x^2}-\\frac{9}{x^{10}}+\\frac{54}{x^7}",
+      "answer3": "\\text{C) }-\\frac{10}{x^2}-\\frac{81}{x^{10}}-\\frac{6}{x^7}",
+      "answer4": "\\text{D) }-\\frac{3}{x^2}-\\frac{63}{x^{10}}-\\frac{48}{x^7}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{1}{x}-\\frac{4}{x^2}-\\frac{5}{x^6}\\right)",
+      "answer1": "\\text{A) }-\\frac{1}{x^2}+\\frac{8}{x^3}+\\frac{30}{x^7}",
+      "answer2": "\\text{B) }-\\frac{5}{x^2}+\\frac{2}{x^3}-\\frac{6}{x^7}",
+      "answer3": "\\text{C) }-\\frac{5}{x^2}-\\frac{20}{x^3}+\\frac{36}{x^7}",
+      "answer4": "\\text{D) }\\frac{1}{x^2}-\\frac{20}{x^3}+\\frac{48}{x^7}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{8}{x^{10}}-\\frac{1}{x^{10}}-\\frac{2}{x^8}\\right)",
+      "answer1": "\\text{A) }\\frac{80}{x^{11}}+\\frac{10}{x^{11}}+\\frac{16}{x^9}",
+      "answer2": "\\text{B) }-\\frac{100}{x^{11}}-\\frac{90}{x^{11}}+\\frac{72}{x^9}",
+      "answer3": "\\text{C) }-\\frac{80}{x^{11}}+\\frac{70}{x^{11}}+\\frac{40}{x^9}",
+      "answer4": "\\text{D) }\\frac{70}{x^{11}}-\\frac{50}{x^{11}}+\\frac{24}{x^9}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{6}{x^3}-\\frac{2}{x^9}-\\frac{4}{x^8}\\right)",
+      "answer1": "\\text{A) }-\\frac{6}{x^4}-\\frac{36}{x^{10}}+\\frac{64}{x^9}",
+      "answer2": "\\text{B) }\\frac{6}{x^4}+\\frac{45}{x^{10}}-\\frac{72}{x^9}",
+      "answer3": "\\text{C) }\\frac{18}{x^4}+\\frac{18}{x^{10}}+\\frac{32}{x^9}",
+      "answer4": "\\text{D) }\\frac{6}{x^4}+\\frac{36}{x^{10}}+\\frac{64}{x^9}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{9}{x^5}+\\frac{10}{x^3}+\\frac{7}{x^8}\\right)",
+      "answer1": "\\text{A) }\\frac{30}{x^6}-\\frac{18}{x^4}+\\frac{56}{x^9}",
+      "answer2": "\\text{B) }\\frac{10}{x^6}+\\frac{24}{x^4}-\\frac{72}{x^9}",
+      "answer3": "\\text{C) }-\\frac{45}{x^6}-\\frac{30}{x^4}-\\frac{56}{x^9}",
+      "answer4": "\\text{D) }-\\frac{50}{x^6}-\\frac{12}{x^4}+\\frac{40}{x^9}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{7}{x}-\\frac{8}{x^{10}}-\\frac{9}{x^7}\\right)",
+      "answer1": "\\text{A) }\\frac{9}{x^2}+\\frac{50}{x^{11}}-\\frac{28}{x^8}",
+      "answer2": "\\text{B) }\\frac{7}{x^2}+\\frac{80}{x^{11}}+\\frac{63}{x^8}",
+      "answer3": "\\text{C) }-\\frac{10}{x^2}-\\frac{30}{x^{11}}+\\frac{14}{x^8}",
+      "answer4": "\\text{D) }-\\frac{2}{x^2}-\\frac{70}{x^{11}}-\\frac{42}{x^8}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{7}{x^2}+\\frac{9}{x^6}+\\frac{8}{x^6}\\right)",
+      "answer1": "\\text{A) }-\\frac{18}{x^3}+\\frac{36}{x^7}-\\frac{48}{x^7}",
+      "answer2": "\\text{B) }-\\frac{14}{x^3}-\\frac{54}{x^7}-\\frac{48}{x^7}",
+      "answer3": "\\text{C) }-\\frac{8}{x^3}+\\frac{36}{x^7}-\\frac{18}{x^7}",
+      "answer4": "\\text{D) }-\\frac{2}{x^3}-\\frac{6}{x^7}-\\frac{24}{x^7}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{8}{x^6}-\\frac{2}{x^2}+\\frac{4}{x^6}\\right)",
+      "answer1": "\\text{A) }-\\frac{18}{x^7}-\\frac{10}{x^3}+\\frac{30}{x^7}",
+      "answer2": "\\text{B) }\\frac{48}{x^7}+\\frac{4}{x^3}-\\frac{24}{x^7}",
+      "answer3": "\\text{C) }-\\frac{48}{x^7}-\\frac{12}{x^3}+\\frac{6}{x^7}",
+      "answer4": "\\text{D) }\\frac{54}{x^7}-\\frac{8}{x^3}-\\frac{48}{x^7}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{3}{x}-\\frac{6}{x^7}+\\frac{1}{x}\\right)",
+      "answer1": "\\text{A) }-\\frac{5}{x^2}-\\frac{28}{x^8}-\\frac{5}{x^2}",
+      "answer2": "\\text{B) }\\frac{1}{x^2}+\\frac{21}{x^8}-\\frac{1}{x^2}",
+      "answer3": "\\text{C) }-\\frac{3}{x^2}+\\frac{42}{x^8}-\\frac{1}{x^2}",
+      "answer4": "\\text{D) }-\\frac{8}{x^2}-\\frac{63}{x^8}-\\frac{3}{x^2}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{2}{x^6}+\\frac{3}{x^2}+\\frac{3}{x^2}\\right)",
+      "answer1": "\\text{A) }\\frac{48}{x^7}+\\frac{16}{x^3}-\\frac{6}{x^3}",
+      "answer2": "\\text{B) }\\frac{6}{x^7}+\\frac{2}{x^3}+\\frac{16}{x^3}",
+      "answer3": "\\text{C) }-\\frac{12}{x^7}-\\frac{6}{x^3}-\\frac{6}{x^3}",
+      "answer4": "\\text{D) }\\frac{6}{x^7}+\\frac{14}{x^3}-\\frac{20}{x^3}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{10}{x^5}+\\frac{8}{x^2}+\\frac{8}{x^8}\\right)",
+      "answer1": "\\text{A) }-\\frac{50}{x^6}-\\frac{16}{x^3}-\\frac{64}{x^9}",
+      "answer2": "\\text{B) }\\frac{30}{x^6}+\\frac{8}{x^3}-\\frac{64}{x^9}",
+      "answer3": "\\text{C) }-\\frac{50}{x^6}+\\frac{8}{x^3}+\\frac{16}{x^9}",
+      "answer4": "\\text{D) }-\\frac{25}{x^6}-\\frac{2}{x^3}-\\frac{16}{x^9}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{4}{x}+\\frac{3}{x^2}-\\frac{8}{x^9}\\right)",
+      "answer1": "\\text{A) }-\\frac{1}{x^2}+\\frac{6}{x^3}+\\frac{45}{x^{10}}",
+      "answer2": "\\text{B) }-\\frac{6}{x^2}-\\frac{16}{x^3}+\\frac{72}{x^{10}}",
+      "answer3": "\\text{C) }-\\frac{4}{x^2}-\\frac{6}{x^3}+\\frac{72}{x^{10}}",
+      "answer4": "\\text{D) }-\\frac{2}{x^2}+\\frac{12}{x^3}-\\frac{90}{x^{10}}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{8}{x^6}+\\frac{3}{x^8}-\\frac{9}{x^9}\\right)",
+      "answer1": "\\text{A) }\\frac{42}{x^7}-\\frac{40}{x^9}+\\frac{36}{x^{10}}",
+      "answer2": "\\text{B) }\\frac{30}{x^7}+\\frac{64}{x^9}-\\frac{9}{x^{10}}",
+      "answer3": "\\text{C) }-\\frac{48}{x^7}-\\frac{16}{x^9}-\\frac{27}{x^{10}}",
+      "answer4": "\\text{D) }-\\frac{48}{x^7}-\\frac{24}{x^9}+\\frac{81}{x^{10}}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{1}{x^9}-\\frac{5}{x^5}-\\frac{6}{x^{10}}\\right)",
+      "answer1": "\\text{A) }\\frac{81}{x^{10}}+\\frac{15}{x^6}-\\frac{70}{x^{11}}",
+      "answer2": "\\text{B) }\\frac{36}{x^{10}}-\\frac{20}{x^6}+\\frac{60}{x^{11}}",
+      "answer3": "\\text{C) }-\\frac{9}{x^{10}}+\\frac{25}{x^6}+\\frac{60}{x^{11}}",
+      "answer4": "\\text{D) }\\frac{36}{x^{10}}+\\frac{10}{x^6}-\\frac{30}{x^{11}}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{9}{x^6}+\\frac{4}{x}+\\frac{8}{x^8}\\right)",
+      "answer1": "\\text{A) }\\frac{54}{x^7}-\\frac{4}{x^2}-\\frac{64}{x^9}",
+      "answer2": "\\text{B) }\\frac{12}{x^7}-\\frac{3}{x^2}-\\frac{32}{x^9}",
+      "answer3": "\\text{C) }-\\frac{36}{x^7}-\\frac{3}{x^2}-\\frac{32}{x^9}",
+      "answer4": "\\text{D) }-\\frac{42}{x^7}+\\frac{2}{x^2}+\\frac{72}{x^9}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{9}{x^6}-\\frac{8}{x^9}+\\frac{8}{x^6}\\right)",
+      "answer1": "\\text{A) }\\frac{42}{x^7}-\\frac{72}{x^{10}}+\\frac{36}{x^7}",
+      "answer2": "\\text{B) }-\\frac{48}{x^7}-\\frac{72}{x^{10}}+\\frac{48}{x^7}",
+      "answer3": "\\text{C) }\\frac{18}{x^7}+\\frac{45}{x^{10}}-\\frac{42}{x^7}",
+      "answer4": "\\text{D) }-\\frac{54}{x^7}+\\frac{72}{x^{10}}-\\frac{48}{x^7}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{8}{x^3}-\\frac{1}{x^7}-\\frac{3}{x^3}\\right)",
+      "answer1": "\\text{A) }\\frac{24}{x^4}+\\frac{7}{x^8}+\\frac{9}{x^4}",
+      "answer2": "\\text{B) }-\\frac{6}{x^4}+\\frac{35}{x^8}-\\frac{15}{x^4}",
+      "answer3": "\\text{C) }\\frac{15}{x^4}+\\frac{63}{x^8}+\\frac{27}{x^4}",
+      "answer4": "\\text{D) }-\\frac{27}{x^4}+\\frac{63}{x^8}-\\frac{3}{x^4}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{6}{x^2}+\\frac{1}{x^7}+\\frac{6}{x^7}\\right)",
+      "answer1": "\\text{A) }-\\frac{8}{x^3}+\\frac{63}{x^8}-\\frac{63}{x^8}",
+      "answer2": "\\text{B) }-\\frac{12}{x^3}-\\frac{7}{x^8}-\\frac{42}{x^8}",
+      "answer3": "\\text{C) }-\\frac{4}{x^3}-\\frac{14}{x^8}-\\frac{56}{x^8}",
+      "answer4": "\\text{D) }-\\frac{4}{x^3}-\\frac{7}{x^8}+\\frac{14}{x^8}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{1}{x^6}-\\frac{9}{x^7}+\\frac{7}{x^9}\\right)",
+      "answer1": "\\text{A) }-\\frac{36}{x^7}-\\frac{56}{x^8}+\\frac{45}{x^{10}}",
+      "answer2": "\\text{B) }-\\frac{60}{x^7}-\\frac{49}{x^8}+\\frac{9}{x^{10}}",
+      "answer3": "\\text{C) }-\\frac{6}{x^7}-\\frac{28}{x^8}-\\frac{36}{x^{10}}",
+      "answer4": "\\text{D) }-\\frac{6}{x^7}+\\frac{63}{x^8}-\\frac{63}{x^{10}}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{5}{x^8}+\\frac{4}{x^{10}}-\\frac{6}{x^2}\\right)",
+      "answer1": "\\text{A) }\\frac{16}{x^9}+\\frac{20}{x^{11}}-\\frac{4}{x^3}",
+      "answer2": "\\text{B) }\\frac{48}{x^9}+\\frac{60}{x^{11}}-\\frac{18}{x^3}",
+      "answer3": "\\text{C) }-\\frac{40}{x^9}-\\frac{40}{x^{11}}+\\frac{12}{x^3}",
+      "answer4": "\\text{D) }\\frac{16}{x^9}+\\frac{80}{x^{11}}+\\frac{12}{x^3}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{5}{x^4}-\\frac{9}{x^{10}}+\\frac{4}{x^3}\\right)",
+      "answer1": "\\text{A) }-\\frac{16}{x^5}+\\frac{30}{x^{11}}+\\frac{12}{x^4}",
+      "answer2": "\\text{B) }\\frac{20}{x^5}+\\frac{90}{x^{11}}-\\frac{12}{x^4}",
+      "answer3": "\\text{C) }-\\frac{12}{x^5}+\\frac{70}{x^{11}}+\\frac{15}{x^4}",
+      "answer4": "\\text{D) }-\\frac{20}{x^5}+\\frac{80}{x^{11}}-\\frac{9}{x^4}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{1}{x^9}+\\frac{6}{x^4}+\\frac{6}{x^8}\\right)",
+      "answer1": "\\text{A) }-\\frac{9}{x^{10}}-\\frac{24}{x^5}-\\frac{48}{x^9}",
+      "answer2": "\\text{B) }-\\frac{81}{x^{10}}+\\frac{28}{x^5}-\\frac{64}{x^9}",
+      "answer3": "\\text{C) }-\\frac{63}{x^{10}}+\\frac{16}{x^5}+\\frac{40}{x^9}",
+      "answer4": "\\text{D) }\\frac{54}{x^{10}}-\\frac{36}{x^5}+\\frac{24}{x^9}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{2}{x^5}+\\frac{2}{x^6}-\\frac{4}{x}\\right)",
+      "answer1": "\\text{A) }-\\frac{10}{x^6}-\\frac{12}{x^7}+\\frac{4}{x^2}",
+      "answer2": "\\text{B) }\\frac{5}{x^6}-\\frac{18}{x^7}-\\frac{7}{x^2}",
+      "answer3": "\\text{C) }-\\frac{40}{x^6}+\\frac{24}{x^7}+\\frac{6}{x^2}",
+      "answer4": "\\text{D) }-\\frac{15}{x^6}-\\frac{48}{x^7}-\\frac{8}{x^2}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{6}{x^6}+\\frac{8}{x^9}-\\frac{1}{x^9}\\right)",
+      "answer1": "\\text{A) }\\frac{24}{x^7}-\\frac{27}{x^{10}}+\\frac{63}{x^{10}}",
+      "answer2": "\\text{B) }-\\frac{36}{x^7}-\\frac{72}{x^{10}}+\\frac{9}{x^{10}}",
+      "answer3": "\\text{C) }\\frac{12}{x^7}-\\frac{45}{x^{10}}+\\frac{81}{x^{10}}",
+      "answer4": "\\text{D) }-\\frac{42}{x^7}-\\frac{27}{x^{10}}+\\frac{45}{x^{10}}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{5}{x^6}-\\frac{7}{x^4}+\\frac{10}{x^9}\\right)",
+      "answer1": "\\text{A) }-\\frac{54}{x^7}-\\frac{24}{x^5}-\\frac{27}{x^{10}}",
+      "answer2": "\\text{B) }-\\frac{60}{x^7}+\\frac{28}{x^5}-\\frac{72}{x^{10}}",
+      "answer3": "\\text{C) }-\\frac{30}{x^7}+\\frac{28}{x^5}-\\frac{90}{x^{10}}",
+      "answer4": "\\text{D) }-\\frac{36}{x^7}-\\frac{16}{x^5}-\\frac{45}{x^{10}}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{4}{x^2}-\\frac{3}{x^6}-\\frac{3}{x^4}\\right)",
+      "answer1": "\\text{A) }-\\frac{8}{x^3}+\\frac{18}{x^7}+\\frac{12}{x^5}",
+      "answer2": "\\text{B) }\\frac{10}{x^3}+\\frac{12}{x^7}+\\frac{4}{x^5}",
+      "answer3": "\\text{C) }\\frac{8}{x^3}-\\frac{48}{x^7}+\\frac{32}{x^5}",
+      "answer4": "\\text{D) }\\frac{2}{x^3}-\\frac{48}{x^7}-\\frac{36}{x^5}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{6}{x^6}+\\frac{10}{x^5}-\\frac{5}{x^{10}}\\right)",
+      "answer1": "\\text{A) }-\\frac{54}{x^7}+\\frac{30}{x^6}-\\frac{30}{x^{11}}",
+      "answer2": "\\text{B) }\\frac{48}{x^7}+\\frac{25}{x^6}-\\frac{60}{x^{11}}",
+      "answer3": "\\text{C) }-\\frac{60}{x^7}+\\frac{25}{x^6}-\\frac{80}{x^{11}}",
+      "answer4": "\\text{D) }-\\frac{36}{x^7}-\\frac{50}{x^6}+\\frac{50}{x^{11}}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{2}{x^4}-\\frac{7}{x^2}-\\frac{9}{x^8}\\right)",
+      "answer1": "\\text{A) }-\\frac{36}{x^5}+\\frac{12}{x^3}-\\frac{56}{x^9}",
+      "answer2": "\\text{B) }\\frac{12}{x^5}+\\frac{14}{x^3}-\\frac{32}{x^9}",
+      "answer3": "\\text{C) }-\\frac{8}{x^5}+\\frac{14}{x^3}+\\frac{72}{x^9}",
+      "answer4": "\\text{D) }-\\frac{36}{x^5}+\\frac{6}{x^3}+\\frac{40}{x^9}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{1}{x^6}+\\frac{3}{x^4}-\\frac{7}{x}\\right)",
+      "answer1": "\\text{A) }-\\frac{30}{x^7}-\\frac{36}{x^5}+\\frac{6}{x^2}",
+      "answer2": "\\text{B) }-\\frac{24}{x^7}-\\frac{28}{x^5}-\\frac{8}{x^2}",
+      "answer3": "\\text{C) }-\\frac{18}{x^7}-\\frac{28}{x^5}-\\frac{5}{x^2}",
+      "answer4": "\\text{D) }\\frac{6}{x^7}-\\frac{12}{x^5}+\\frac{7}{x^2}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{5}{x^{10}}-\\frac{6}{x^8}+\\frac{9}{x^4}\\right)",
+      "answer1": "\\text{A) }\\frac{60}{x^{11}}+\\frac{8}{x^9}-\\frac{28}{x^5}",
+      "answer2": "\\text{B) }\\frac{50}{x^{11}}-\\frac{24}{x^9}+\\frac{36}{x^5}",
+      "answer3": "\\text{C) }-\\frac{60}{x^{11}}+\\frac{32}{x^9}+\\frac{8}{x^5}",
+      "answer4": "\\text{D) }-\\frac{50}{x^{11}}+\\frac{48}{x^9}-\\frac{36}{x^5}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{4}{x^5}+\\frac{6}{x^3}-\\frac{2}{x^8}\\right)",
+      "answer1": "\\text{A) }\\frac{10}{x^6}-\\frac{9}{x^4}-\\frac{32}{x^9}",
+      "answer2": "\\text{B) }-\\frac{20}{x^6}-\\frac{18}{x^4}+\\frac{16}{x^9}",
+      "answer3": "\\text{C) }-\\frac{40}{x^6}-\\frac{24}{x^4}+\\frac{16}{x^9}",
+      "answer4": "\\text{D) }\\frac{45}{x^6}-\\frac{30}{x^4}-\\frac{64}{x^9}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{3}{x^2}-\\frac{9}{x}+\\frac{5}{x^2}\\right)",
+      "answer1": "\\text{A) }\\frac{14}{x^3}+\\frac{6}{x^2}-\\frac{12}{x^3}",
+      "answer2": "\\text{B) }\\frac{6}{x^3}+\\frac{9}{x^2}-\\frac{10}{x^3}",
+      "answer3": "\\text{C) }-\\frac{14}{x^3}-\\frac{9}{x^2}-\\frac{14}{x^3}",
+      "answer4": "\\text{D) }\\frac{2}{x^3}+\\frac{1}{x^2}+\\frac{16}{x^3}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{7}{x^9}+\\frac{1}{x^7}-\\frac{5}{x^3}\\right)",
+      "answer1": "\\text{A) }\\frac{63}{x^{10}}+\\frac{35}{x^8}-\\frac{18}{x^4}",
+      "answer2": "\\text{B) }-\\frac{72}{x^{10}}+\\frac{35}{x^8}-\\frac{9}{x^4}",
+      "answer3": "\\text{C) }\\frac{45}{x^{10}}-\\frac{63}{x^8}-\\frac{9}{x^4}",
+      "answer4": "\\text{D) }-\\frac{63}{x^{10}}-\\frac{7}{x^8}+\\frac{15}{x^4}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{4}{x^6}-\\frac{2}{x^9}+\\frac{9}{x^{10}}\\right)",
+      "answer1": "\\text{A) }-\\frac{54}{x^7}-\\frac{45}{x^{10}}+\\frac{20}{x^{11}}",
+      "answer2": "\\text{B) }\\frac{18}{x^7}-\\frac{54}{x^{10}}-\\frac{60}{x^{11}}",
+      "answer3": "\\text{C) }\\frac{24}{x^7}+\\frac{18}{x^{10}}-\\frac{90}{x^{11}}",
+      "answer4": "\\text{D) }\\frac{12}{x^7}+\\frac{27}{x^{10}}+\\frac{10}{x^{11}}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{6}{x^8}+\\frac{10}{x^9}-\\frac{4}{x^5}\\right)",
+      "answer1": "\\text{A) }\\frac{48}{x^9}-\\frac{90}{x^{10}}+\\frac{20}{x^6}",
+      "answer2": "\\text{B) }\\frac{72}{x^9}+\\frac{63}{x^{10}}+\\frac{40}{x^6}",
+      "answer3": "\\text{C) }-\\frac{48}{x^9}+\\frac{54}{x^{10}}+\\frac{15}{x^6}",
+      "answer4": "\\text{D) }\\frac{32}{x^9}+\\frac{63}{x^{10}}-\\frac{45}{x^6}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{7}{x^5}-\\frac{1}{x}+\\frac{7}{x^7}\\right)",
+      "answer1": "\\text{A) }\\frac{40}{x^6}-\\frac{6}{x^2}+\\frac{7}{x^8}",
+      "answer2": "\\text{B) }-\\frac{15}{x^6}-\\frac{3}{x^2}+\\frac{63}{x^8}",
+      "answer3": "\\text{C) }\\frac{35}{x^6}+\\frac{1}{x^2}-\\frac{49}{x^8}",
+      "answer4": "\\text{D) }-\\frac{10}{x^6}+\\frac{1}{x^2}+\\frac{63}{x^8}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{3}{x^8}-\\frac{4}{x^2}+\\frac{5}{x^{10}}\\right)",
+      "answer1": "\\text{A) }\\frac{8}{x^9}+\\frac{2}{x^3}+\\frac{60}{x^{11}}",
+      "answer2": "\\text{B) }\\frac{24}{x^9}+\\frac{8}{x^3}-\\frac{50}{x^{11}}",
+      "answer3": "\\text{C) }-\\frac{80}{x^9}+\\frac{8}{x^3}+\\frac{40}{x^{11}}",
+      "answer4": "\\text{D) }-\\frac{72}{x^9}-\\frac{14}{x^3}+\\frac{10}{x^{11}}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{5}{x^9}+\\frac{1}{x^2}+\\frac{1}{x}\\right)",
+      "answer1": "\\text{A) }-\\frac{54}{x^{10}}-\\frac{6}{x^3}-\\frac{4}{x^2}",
+      "answer2": "\\text{B) }-\\frac{45}{x^{10}}+\\frac{8}{x^3}+\\frac{7}{x^2}",
+      "answer3": "\\text{C) }\\frac{45}{x^{10}}-\\frac{2}{x^3}-\\frac{1}{x^2}",
+      "answer4": "\\text{D) }-\\frac{9}{x^{10}}-\\frac{2}{x^3}-\\frac{7}{x^2}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{6}{x^8}+\\frac{5}{x^2}+\\frac{2}{x^4}\\right)",
+      "answer1": "\\text{A) }-\\frac{40}{x^9}+\\frac{8}{x^3}+\\frac{32}{x^5}",
+      "answer2": "\\text{B) }-\\frac{16}{x^9}+\\frac{16}{x^3}-\\frac{24}{x^5}",
+      "answer3": "\\text{C) }\\frac{48}{x^9}-\\frac{10}{x^3}-\\frac{8}{x^5}",
+      "answer4": "\\text{D) }-\\frac{40}{x^9}+\\frac{18}{x^3}+\\frac{20}{x^5}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{3}{x^5}-\\frac{4}{x^5}+\\frac{7}{x^4}\\right)",
+      "answer1": "\\text{A) }-\\frac{40}{x^6}+\\frac{10}{x^6}-\\frac{40}{x^5}",
+      "answer2": "\\text{B) }-\\frac{15}{x^6}+\\frac{20}{x^6}-\\frac{28}{x^5}",
+      "answer3": "\\text{C) }-\\frac{5}{x^6}-\\frac{5}{x^6}-\\frac{8}{x^5}",
+      "answer4": "\\text{D) }\\frac{15}{x^6}-\\frac{50}{x^6}+\\frac{4}{x^5}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{1}{x^2}+\\frac{5}{x^6}+\\frac{9}{x^7}\\right)",
+      "answer1": "\\text{A) }\\frac{14}{x^3}+\\frac{30}{x^7}+\\frac{28}{x^8}",
+      "answer2": "\\text{B) }-\\frac{2}{x^3}-\\frac{30}{x^7}-\\frac{63}{x^8}",
+      "answer3": "\\text{C) }\\frac{12}{x^3}+\\frac{30}{x^7}-\\frac{7}{x^8}",
+      "answer4": "\\text{D) }-\\frac{16}{x^3}+\\frac{24}{x^7}-\\frac{63}{x^8}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{3}{x^2}-\\frac{5}{x^2}-\\frac{8}{x^3}\\right)",
+      "answer1": "\\text{A) }-\\frac{16}{x^3}+\\frac{12}{x^3}-\\frac{18}{x^4}",
+      "answer2": "\\text{B) }-\\frac{18}{x^3}+\\frac{4}{x^3}+\\frac{24}{x^4}",
+      "answer3": "\\text{C) }\\frac{6}{x^3}+\\frac{10}{x^3}+\\frac{24}{x^4}",
+      "answer4": "\\text{D) }-\\frac{18}{x^3}-\\frac{12}{x^3}+\\frac{15}{x^4}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{6}{x}+\\frac{7}{x^9}-\\frac{9}{x^8}\\right)",
+      "answer1": "\\text{A) }\\frac{3}{x^2}-\\frac{36}{x^{10}}+\\frac{64}{x^9}",
+      "answer2": "\\text{B) }\\frac{6}{x^2}-\\frac{63}{x^{10}}+\\frac{72}{x^9}",
+      "answer3": "\\text{C) }-\\frac{2}{x^2}-\\frac{63}{x^{10}}+\\frac{16}{x^9}",
+      "answer4": "\\text{D) }\\frac{9}{x^2}-\\frac{45}{x^{10}}-\\frac{72}{x^9}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{2}{x^9}+\\frac{10}{x^5}+\\frac{9}{x^6}\\right)",
+      "answer1": "\\text{A) }\\frac{63}{x^{10}}+\\frac{15}{x^6}+\\frac{12}{x^7}",
+      "answer2": "\\text{B) }-\\frac{63}{x^{10}}+\\frac{30}{x^6}+\\frac{30}{x^7}",
+      "answer3": "\\text{C) }\\frac{18}{x^{10}}-\\frac{50}{x^6}-\\frac{54}{x^7}",
+      "answer4": "\\text{D) }\\frac{54}{x^{10}}-\\frac{10}{x^6}+\\frac{36}{x^7}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{1}{x^9}+\\frac{4}{x^7}-\\frac{2}{x^7}\\right)",
+      "answer1": "\\text{A) }\\frac{9}{x^{10}}-\\frac{56}{x^8}-\\frac{70}{x^8}",
+      "answer2": "\\text{B) }-\\frac{18}{x^{10}}-\\frac{49}{x^8}-\\frac{28}{x^8}",
+      "answer3": "\\text{C) }-\\frac{90}{x^{10}}+\\frac{28}{x^8}+\\frac{63}{x^8}",
+      "answer4": "\\text{D) }\\frac{9}{x^{10}}-\\frac{28}{x^8}+\\frac{14}{x^8}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{5}{x^2}-\\frac{9}{x}+\\frac{6}{x^7}\\right)",
+      "answer1": "\\text{A) }\\frac{4}{x^3}+\\frac{8}{x^2}-\\frac{21}{x^8}",
+      "answer2": "\\text{B) }\\frac{12}{x^3}+\\frac{3}{x^2}+\\frac{28}{x^8}",
+      "answer3": "\\text{C) }-\\frac{10}{x^3}+\\frac{9}{x^2}-\\frac{42}{x^8}",
+      "answer4": "\\text{D) }-\\frac{2}{x^3}-\\frac{8}{x^2}+\\frac{7}{x^8}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{7}{x^2}+\\frac{3}{x^6}-\\frac{5}{x^7}\\right)",
+      "answer1": "\\text{A) }-\\frac{18}{x^3}+\\frac{6}{x^7}-\\frac{56}{x^8}",
+      "answer2": "\\text{B) }-\\frac{4}{x^3}+\\frac{54}{x^7}-\\frac{7}{x^8}",
+      "answer3": "\\text{C) }-\\frac{14}{x^3}-\\frac{18}{x^7}+\\frac{35}{x^8}",
+      "answer4": "\\text{D) }-\\frac{16}{x^3}+\\frac{30}{x^7}-\\frac{21}{x^8}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{8}{x^4}+\\frac{6}{x}-\\frac{3}{x^5}\\right)",
+      "answer1": "\\text{A) }\\frac{4}{x^5}+\\frac{4}{x^2}-\\frac{25}{x^6}",
+      "answer2": "\\text{B) }-\\frac{32}{x^5}-\\frac{6}{x^2}+\\frac{15}{x^6}",
+      "answer3": "\\text{C) }-\\frac{16}{x^5}-\\frac{2}{x^2}-\\frac{35}{x^6}",
+      "answer4": "\\text{D) }-\\frac{20}{x^5}-\\frac{3}{x^2}-\\frac{25}{x^6}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{4}{x^4}+\\frac{6}{x^7}-\\frac{3}{x}\\right)",
+      "answer1": "\\text{A) }\\frac{24}{x^5}+\\frac{35}{x^8}+\\frac{8}{x^2}",
+      "answer2": "\\text{B) }\\frac{24}{x^5}-\\frac{14}{x^8}+\\frac{5}{x^2}",
+      "answer3": "\\text{C) }\\frac{32}{x^5}+\\frac{7}{x^8}-\\frac{7}{x^2}",
+      "answer4": "\\text{D) }-\\frac{16}{x^5}-\\frac{42}{x^8}+\\frac{3}{x^2}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{5}{x^{10}}+\\frac{8}{x^5}-\\frac{8}{x^2}\\right)",
+      "answer1": "\\text{A) }\\frac{80}{x^{11}}+\\frac{20}{x^6}+\\frac{2}{x^3}",
+      "answer2": "\\text{B) }-\\frac{40}{x^{11}}+\\frac{20}{x^6}-\\frac{8}{x^3}",
+      "answer3": "\\text{C) }\\frac{50}{x^{11}}-\\frac{40}{x^6}+\\frac{16}{x^3}",
+      "answer4": "\\text{D) }-\\frac{20}{x^{11}}+\\frac{45}{x^6}+\\frac{12}{x^3}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{6}{x^6}-\\frac{5}{x^{10}}+\\frac{5}{x^{10}}\\right)",
+      "answer1": "\\text{A) }-\\frac{36}{x^7}+\\frac{50}{x^{11}}-\\frac{50}{x^{11}}",
+      "answer2": "\\text{B) }-\\frac{24}{x^7}-\\frac{30}{x^{11}}-\\frac{80}{x^{11}}",
+      "answer3": "\\text{C) }-\\frac{6}{x^7}-\\frac{90}{x^{11}}+\\frac{90}{x^{11}}",
+      "answer4": "\\text{D) }-\\frac{12}{x^7}+\\frac{40}{x^{11}}-\\frac{50}{x^{11}}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{5}{x}+\\frac{2}{x^3}-\\frac{8}{x^2}\\right)",
+      "answer1": "\\text{A) }\\frac{5}{x^2}-\\frac{6}{x^4}+\\frac{16}{x^3}",
+      "answer2": "\\text{B) }\\frac{8}{x^2}+\\frac{9}{x^4}-\\frac{6}{x^3}",
+      "answer3": "\\text{C) }-\\frac{6}{x^2}+\\frac{3}{x^4}+\\frac{10}{x^3}",
+      "answer4": "\\text{D) }-\\frac{2}{x^2}+\\frac{15}{x^4}+\\frac{8}{x^3}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{5}{x^8}+\\frac{4}{x}+\\frac{4}{x^6}\\right)",
+      "answer1": "\\text{A) }\\frac{56}{x^9}+\\frac{1}{x^2}-\\frac{36}{x^7}",
+      "answer2": "\\text{B) }-\\frac{32}{x^9}+\\frac{7}{x^2}+\\frac{12}{x^7}",
+      "answer3": "\\text{C) }-\\frac{24}{x^9}+\\frac{3}{x^2}-\\frac{42}{x^7}",
+      "answer4": "\\text{D) }-\\frac{40}{x^9}-\\frac{4}{x^2}-\\frac{24}{x^7}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{3}{x^4}-\\frac{2}{x^9}-\\frac{8}{x^2}\\right)",
+      "answer1": "\\text{A) }\\frac{12}{x^5}+\\frac{18}{x^{10}}+\\frac{16}{x^3}",
+      "answer2": "\\text{B) }\\frac{4}{x^5}-\\frac{90}{x^{10}}-\\frac{14}{x^3}",
+      "answer3": "\\text{C) }-\\frac{4}{x^5}-\\frac{63}{x^{10}}-\\frac{4}{x^3}",
+      "answer4": "\\text{D) }-\\frac{40}{x^5}-\\frac{45}{x^{10}}-\\frac{6}{x^3}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{3}{x^9}-\\frac{7}{x^2}-\\frac{8}{x^3}\\right)",
+      "answer1": "\\text{A) }-\\frac{27}{x^{10}}+\\frac{14}{x^3}+\\frac{24}{x^4}",
+      "answer2": "\\text{B) }-\\frac{81}{x^{10}}+\\frac{4}{x^3}+\\frac{27}{x^4}",
+      "answer3": "\\text{C) }-\\frac{72}{x^{10}}-\\frac{16}{x^3}-\\frac{3}{x^4}",
+      "answer4": "\\text{D) }\\frac{45}{x^{10}}-\\frac{20}{x^3}+\\frac{21}{x^4}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{3}{x^4}-\\frac{4}{x^9}+\\frac{9}{x^3}\\right)",
+      "answer1": "\\text{A) }\\frac{16}{x^5}+\\frac{81}{x^{10}}-\\frac{24}{x^4}",
+      "answer2": "\\text{B) }-\\frac{12}{x^5}+\\frac{36}{x^{10}}-\\frac{27}{x^4}",
+      "answer3": "\\text{C) }\\frac{28}{x^5}+\\frac{63}{x^{10}}-\\frac{9}{x^4}",
+      "answer4": "\\text{D) }-\\frac{12}{x^5}+\\frac{54}{x^{10}}-\\frac{27}{x^4}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{10}{x^{10}}+\\frac{7}{x^5}-\\frac{4}{x^4}\\right)",
+      "answer1": "\\text{A) }-\\frac{80}{x^{11}}+\\frac{15}{x^6}-\\frac{40}{x^5}",
+      "answer2": "\\text{B) }-\\frac{90}{x^{11}}-\\frac{50}{x^6}+\\frac{8}{x^5}",
+      "answer3": "\\text{C) }-\\frac{100}{x^{11}}-\\frac{35}{x^6}+\\frac{16}{x^5}",
+      "answer4": "\\text{D) }-\\frac{90}{x^{11}}+\\frac{40}{x^6}+\\frac{8}{x^5}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{4}{x^8}+\\frac{3}{x^2}+\\frac{5}{x^4}\\right)",
+      "answer1": "\\text{A) }\\frac{56}{x^9}+\\frac{14}{x^3}+\\frac{8}{x^5}",
+      "answer2": "\\text{B) }-\\frac{32}{x^9}+\\frac{18}{x^3}+\\frac{16}{x^5}",
+      "answer3": "\\text{C) }\\frac{24}{x^9}+\\frac{16}{x^3}+\\frac{12}{x^5}",
+      "answer4": "\\text{D) }-\\frac{32}{x^9}-\\frac{6}{x^3}-\\frac{20}{x^5}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{8}{x^9}+\\frac{2}{x^9}+\\frac{2}{x^2}\\right)",
+      "answer1": "\\text{A) }-\\frac{9}{x^{10}}-\\frac{36}{x^{10}}+\\frac{18}{x^3}",
+      "answer2": "\\text{B) }-\\frac{72}{x^{10}}-\\frac{18}{x^{10}}-\\frac{4}{x^3}",
+      "answer3": "\\text{C) }\\frac{18}{x^{10}}-\\frac{90}{x^{10}}-\\frac{20}{x^3}",
+      "answer4": "\\text{D) }-\\frac{81}{x^{10}}+\\frac{72}{x^{10}}-\\frac{10}{x^3}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{8}{x^6}+\\frac{1}{x^4}-\\frac{9}{x^9}\\right)",
+      "answer1": "\\text{A) }-\\frac{24}{x^7}-\\frac{4}{x^5}+\\frac{9}{x^{10}}",
+      "answer2": "\\text{B) }-\\frac{36}{x^7}+\\frac{24}{x^5}+\\frac{54}{x^{10}}",
+      "answer3": "\\text{C) }\\frac{48}{x^7}-\\frac{4}{x^5}+\\frac{81}{x^{10}}",
+      "answer4": "\\text{D) }-\\frac{42}{x^7}-\\frac{40}{x^5}+\\frac{36}{x^{10}}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{8}{x^9}+\\frac{3}{x^9}-\\frac{7}{x^4}\\right)",
+      "answer1": "\\text{A) }\\frac{72}{x^{10}}-\\frac{27}{x^{10}}+\\frac{28}{x^5}",
+      "answer2": "\\text{B) }-\\frac{63}{x^{10}}-\\frac{90}{x^{10}}-\\frac{36}{x^5}",
+      "answer3": "\\text{C) }\\frac{54}{x^{10}}-\\frac{81}{x^{10}}+\\frac{28}{x^5}",
+      "answer4": "\\text{D) }\\frac{81}{x^{10}}-\\frac{36}{x^{10}}+\\frac{28}{x^5}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{1}{x^7}+\\frac{1}{x^4}+\\frac{2}{x^6}\\right)",
+      "answer1": "\\text{A) }-\\frac{35}{x^8}+\\frac{32}{x^5}+\\frac{36}{x^7}",
+      "answer2": "\\text{B) }\\frac{14}{x^8}-\\frac{32}{x^5}+\\frac{12}{x^7}",
+      "answer3": "\\text{C) }-\\frac{56}{x^8}+\\frac{4}{x^5}+\\frac{30}{x^7}",
+      "answer4": "\\text{D) }-\\frac{7}{x^8}-\\frac{4}{x^5}-\\frac{12}{x^7}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{2}{x^6}-\\frac{2}{x^7}-\\frac{7}{x}\\right)",
+      "answer1": "\\text{A) }\\frac{12}{x^7}+\\frac{14}{x^8}+\\frac{7}{x^2}",
+      "answer2": "\\text{B) }\\frac{6}{x^7}+\\frac{35}{x^8}+\\frac{6}{x^2}",
+      "answer3": "\\text{C) }\\frac{24}{x^7}+\\frac{56}{x^8}+\\frac{4}{x^2}",
+      "answer4": "\\text{D) }\\frac{36}{x^7}+\\frac{7}{x^8}+\\frac{9}{x^2}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{6}{x^3}-\\frac{1}{x^6}-\\frac{9}{x^2}\\right)",
+      "answer1": "\\text{A) }-\\frac{18}{x^4}+\\frac{54}{x^7}-\\frac{12}{x^3}",
+      "answer2": "\\text{B) }\\frac{18}{x^4}+\\frac{6}{x^7}+\\frac{18}{x^3}",
+      "answer3": "\\text{C) }\\frac{15}{x^4}-\\frac{18}{x^7}+\\frac{18}{x^3}",
+      "answer4": "\\text{D) }-\\frac{30}{x^4}-\\frac{48}{x^7}-\\frac{18}{x^3}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{7}{x^2}+\\frac{10}{x^{10}}-\\frac{3}{x^8}\\right)",
+      "answer1": "\\text{A) }-\\frac{10}{x^3}+\\frac{40}{x^{11}}+\\frac{8}{x^9}",
+      "answer2": "\\text{B) }-\\frac{6}{x^3}-\\frac{20}{x^{11}}-\\frac{80}{x^9}",
+      "answer3": "\\text{C) }-\\frac{20}{x^3}+\\frac{20}{x^{11}}+\\frac{72}{x^9}",
+      "answer4": "\\text{D) }\\frac{14}{x^3}-\\frac{100}{x^{11}}+\\frac{24}{x^9}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{4}{x^6}-\\frac{4}{x^6}+\\frac{5}{x^4}\\right)",
+      "answer1": "\\text{A) }-\\frac{12}{x^7}+\\frac{42}{x^7}+\\frac{36}{x^5}",
+      "answer2": "\\text{B) }\\frac{30}{x^7}-\\frac{12}{x^7}+\\frac{12}{x^5}",
+      "answer3": "\\text{C) }\\frac{24}{x^7}+\\frac{24}{x^7}-\\frac{4}{x^5}",
+      "answer4": "\\text{D) }\\frac{24}{x^7}+\\frac{24}{x^7}-\\frac{20}{x^5}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{6}{x^3}+\\frac{7}{x^8}+\\frac{5}{x^7}\\right)",
+      "answer1": "\\text{A) }\\frac{18}{x^4}-\\frac{56}{x^9}-\\frac{35}{x^8}",
+      "answer2": "\\text{B) }\\frac{12}{x^4}+\\frac{40}{x^9}-\\frac{63}{x^8}",
+      "answer3": "\\text{C) }-\\frac{9}{x^4}+\\frac{40}{x^9}-\\frac{14}{x^8}",
+      "answer4": "\\text{D) }\\frac{21}{x^4}+\\frac{64}{x^9}+\\frac{35}{x^8}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{4}{x^7}-\\frac{3}{x^3}+\\frac{2}{x^7}\\right)",
+      "answer1": "\\text{A) }-\\frac{49}{x^8}+\\frac{6}{x^4}+\\frac{14}{x^8}",
+      "answer2": "\\text{B) }-\\frac{28}{x^8}+\\frac{9}{x^4}-\\frac{14}{x^8}",
+      "answer3": "\\text{C) }\\frac{63}{x^8}-\\frac{18}{x^4}-\\frac{42}{x^8}",
+      "answer4": "\\text{D) }-\\frac{28}{x^8}-\\frac{12}{x^4}-\\frac{7}{x^8}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{4}{x^8}-\\frac{3}{x^4}-\\frac{8}{x}\\right)",
+      "answer1": "\\text{A) }\\frac{24}{x^9}+\\frac{16}{x^5}+\\frac{4}{x^2}",
+      "answer2": "\\text{B) }-\\frac{8}{x^9}+\\frac{8}{x^5}-\\frac{10}{x^2}",
+      "answer3": "\\text{C) }-\\frac{8}{x^9}-\\frac{32}{x^5}-\\frac{7}{x^2}",
+      "answer4": "\\text{D) }\\frac{32}{x^9}+\\frac{12}{x^5}+\\frac{8}{x^2}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{8}{x^{10}}+\\frac{2}{x^7}-\\frac{4}{x^9}\\right)",
+      "answer1": "\\text{A) }\\frac{40}{x^{11}}-\\frac{49}{x^8}-\\frac{18}{x^{10}}",
+      "answer2": "\\text{B) }-\\frac{80}{x^{11}}-\\frac{14}{x^8}+\\frac{36}{x^{10}}",
+      "answer3": "\\text{C) }\\frac{30}{x^{11}}-\\frac{49}{x^8}+\\frac{36}{x^{10}}",
+      "answer4": "\\text{D) }\\frac{20}{x^{11}}-\\frac{7}{x^8}+\\frac{81}{x^{10}}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{4}{x^2}+\\frac{4}{x^{10}}+\\frac{3}{x}\\right)",
+      "answer1": "\\text{A) }-\\frac{16}{x^3}-\\frac{90}{x^{11}}+\\frac{4}{x^2}",
+      "answer2": "\\text{B) }\\frac{2}{x^3}-\\frac{30}{x^{11}}+\\frac{9}{x^2}",
+      "answer3": "\\text{C) }\\frac{2}{x^3}+\\frac{30}{x^{11}}-\\frac{6}{x^2}",
+      "answer4": "\\text{D) }\\frac{8}{x^3}-\\frac{40}{x^{11}}-\\frac{3}{x^2}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{6}{x}-\\frac{8}{x^4}-\\frac{7}{x^7}\\right)",
+      "answer1": "\\text{A) }\\frac{6}{x^2}+\\frac{32}{x^5}+\\frac{49}{x^8}",
+      "answer2": "\\text{B) }\\frac{8}{x^2}+\\frac{8}{x^5}-\\frac{70}{x^8}",
+      "answer3": "\\text{C) }-\\frac{2}{x^2}+\\frac{16}{x^5}-\\frac{28}{x^8}",
+      "answer4": "\\text{D) }-\\frac{3}{x^2}-\\frac{36}{x^5}+\\frac{35}{x^8}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{8}{x^8}-\\frac{9}{x^2}+\\frac{7}{x^7}\\right)",
+      "answer1": "\\text{A) }\\frac{64}{x^9}+\\frac{18}{x^3}-\\frac{49}{x^8}",
+      "answer2": "\\text{B) }-\\frac{48}{x^9}+\\frac{16}{x^3}+\\frac{35}{x^8}",
+      "answer3": "\\text{C) }\\frac{64}{x^9}-\\frac{16}{x^3}+\\frac{63}{x^8}",
+      "answer4": "\\text{D) }\\frac{32}{x^9}-\\frac{6}{x^3}-\\frac{35}{x^8}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    }
+  ]
+}

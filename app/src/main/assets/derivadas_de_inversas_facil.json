@@ -1,0 +1,2004 @@
+{
+  "derivadas_de_inversas_facil": [
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{1}{x}\\right)",
+      "answer1": "\\text{A) }-\\frac{4}{x^2}",
+      "answer2": "\\text{B) }-\\frac{2}{x^3}",
+      "answer3": "\\text{C) }\\frac{1}{x^2}",
+      "answer4": "\\text{D) }-\\frac{9}{x^4}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{4}{x^2}\\right)",
+      "answer1": "\\text{A) }-\\frac{8}{x^3}",
+      "answer2": "\\text{B) }\\frac{12}{x^4}",
+      "answer3": "\\text{C) }\\frac{3}{x^4}",
+      "answer4": "\\text{D) }-\\frac{3}{x^4}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{2}{x^2}\\right)",
+      "answer1": "\\text{A) }\\frac{3}{x^2}",
+      "answer2": "\\text{B) }-\\frac{2}{x^3}",
+      "answer3": "\\text{C) }\\frac{4}{x^3}",
+      "answer4": "\\text{D) }\\frac{2}{x^3}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{4}{x^2}\\right)",
+      "answer1": "\\text{A) }-\\frac{4}{x^2}",
+      "answer2": "\\text{B) }\\frac{8}{x^3}",
+      "answer3": "\\text{C) }\\frac{9}{x^4}",
+      "answer4": "\\text{D) }\\frac{2}{x^3}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{3}{x^2}\\right)",
+      "answer1": "\\text{A) }-\\frac{3}{x^4}",
+      "answer2": "\\text{B) }-\\frac{6}{x^3}",
+      "answer3": "\\text{C) }-\\frac{5}{x^2}",
+      "answer4": "\\text{D) }\\frac{4}{x^2}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{2}{x^3}\\right)",
+      "answer1": "\\text{A) }-\\frac{6}{x^4}",
+      "answer2": "\\text{B) }\\frac{6}{x^3}",
+      "answer3": "\\text{C) }-\\frac{12}{x^4}",
+      "answer4": "\\text{D) }-\\frac{5}{x^2}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{3}{x}\\right)",
+      "answer1": "\\text{A) }\\frac{3}{x^2}",
+      "answer2": "\\text{B) }-\\frac{5}{x^2}",
+      "answer3": "\\text{C) }-\\frac{9}{x^4}",
+      "answer4": "\\text{D) }-\\frac{6}{x^4}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{3}{x^3}\\right)",
+      "answer1": "\\text{A) }-\\frac{9}{x^4}",
+      "answer2": "\\text{B) }\\frac{12}{x^4}",
+      "answer3": "\\text{C) }-\\frac{6}{x^4}",
+      "answer4": "\\text{D) }\\frac{1}{x^2}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{4}{x^3}\\right)",
+      "answer1": "\\text{A) }\\frac{12}{x^4}",
+      "answer2": "\\text{B) }-\\frac{5}{x^2}",
+      "answer3": "\\text{C) }\\frac{6}{x^3}",
+      "answer4": "\\text{D) }\\frac{2}{x^2}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{4}{x^3}\\right)",
+      "answer1": "\\text{A) }\\frac{6}{x^4}",
+      "answer2": "\\text{B) }\\frac{4}{x^2}",
+      "answer3": "\\text{C) }\\frac{9}{x^4}",
+      "answer4": "\\text{D) }-\\frac{12}{x^4}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{2}{x}\\right)",
+      "answer1": "\\text{A) }\\frac{9}{x^4}",
+      "answer2": "\\text{B) }-\\frac{2}{x^3}",
+      "answer3": "\\text{C) }-\\frac{2}{x^2}",
+      "answer4": "\\text{D) }-\\frac{15}{x^4}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{2}{x^2}\\right)",
+      "answer1": "\\text{A) }\\frac{8}{x^3}",
+      "answer2": "\\text{B) }-\\frac{4}{x^3}",
+      "answer3": "\\text{C) }-\\frac{12}{x^4}",
+      "answer4": "\\text{D) }-\\frac{5}{x^2}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{4}{x}\\right)",
+      "answer1": "\\text{A) }-\\frac{4}{x^2}",
+      "answer2": "\\text{B) }-\\frac{10}{x^3}",
+      "answer3": "\\text{C) }-\\frac{6}{x^3}",
+      "answer4": "\\text{D) }\\frac{3}{x^4}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{1}{x}\\right)",
+      "answer1": "\\text{A) }\\frac{9}{x^4}",
+      "answer2": "\\text{B) }-\\frac{4}{x^3}",
+      "answer3": "\\text{C) }-\\frac{5}{x^2}",
+      "answer4": "\\text{D) }\\frac{1}{x^2}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{4}{x^3}\\right)",
+      "answer1": "\\text{A) }\\frac{12}{x^4}",
+      "answer2": "\\text{B) }\\frac{3}{x^2}",
+      "answer3": "\\text{C) }-\\frac{15}{x^4}",
+      "answer4": "\\text{D) }-\\frac{6}{x^3}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{2}{x}\\right)",
+      "answer1": "\\text{A) }\\frac{2}{x^2}",
+      "answer2": "\\text{B) }-\\frac{1}{x^2}",
+      "answer3": "\\text{C) }-\\frac{2}{x^2}",
+      "answer4": "\\text{D) }\\frac{2}{x^3}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{4}{x}\\right)",
+      "answer1": "\\text{A) }\\frac{9}{x^4}",
+      "answer2": "\\text{B) }-\\frac{4}{x^2}",
+      "answer3": "\\text{C) }\\frac{3}{x^4}",
+      "answer4": "\\text{D) }-\\frac{3}{x^4}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{5}{x^2}\\right)",
+      "answer1": "\\text{A) }\\frac{1}{x^2}",
+      "answer2": "\\text{B) }-\\frac{10}{x^3}",
+      "answer3": "\\text{C) }-\\frac{9}{x^4}",
+      "answer4": "\\text{D) }\\frac{8}{x^3}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{4}{x^2}\\right)",
+      "answer1": "\\text{A) }-\\frac{2}{x^2}",
+      "answer2": "\\text{B) }-\\frac{6}{x^3}",
+      "answer3": "\\text{C) }\\frac{9}{x^4}",
+      "answer4": "\\text{D) }\\frac{8}{x^3}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{1}{x}\\right)",
+      "answer1": "\\text{A) }-\\frac{8}{x^3}",
+      "answer2": "\\text{B) }-\\frac{5}{x^2}",
+      "answer3": "\\text{C) }-\\frac{1}{x^2}",
+      "answer4": "\\text{D) }\\frac{4}{x^3}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{2}{x^2}\\right)",
+      "answer1": "\\text{A) }-\\frac{6}{x^4}",
+      "answer2": "\\text{B) }-\\frac{2}{x^3}",
+      "answer3": "\\text{C) }-\\frac{4}{x^2}",
+      "answer4": "\\text{D) }\\frac{4}{x^3}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{5}{x^2}\\right)",
+      "answer1": "\\text{A) }\\frac{4}{x^3}",
+      "answer2": "\\text{B) }-\\frac{10}{x^3}",
+      "answer3": "\\text{C) }\\frac{3}{x^4}",
+      "answer4": "\\text{D) }-\\frac{4}{x^2}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{4}{x^3}\\right)",
+      "answer1": "\\text{A) }-\\frac{3}{x^2}",
+      "answer2": "\\text{B) }-\\frac{12}{x^4}",
+      "answer3": "\\text{C) }\\frac{6}{x^4}",
+      "answer4": "\\text{D) }-\\frac{15}{x^4}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{4}{x^2}\\right)",
+      "answer1": "\\text{A) }\\frac{8}{x^3}",
+      "answer2": "\\text{B) }-\\frac{3}{x^4}",
+      "answer3": "\\text{C) }\\frac{9}{x^4}",
+      "answer4": "\\text{D) }-\\frac{3}{x^2}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{5}{x^3}\\right)",
+      "answer1": "\\text{A) }-\\frac{15}{x^4}",
+      "answer2": "\\text{B) }\\frac{4}{x^3}",
+      "answer3": "\\text{C) }-\\frac{9}{x^4}",
+      "answer4": "\\text{D) }\\frac{3}{x^4}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{5}{x}\\right)",
+      "answer1": "\\text{A) }\\frac{1}{x^2}",
+      "answer2": "\\text{B) }-\\frac{6}{x^3}",
+      "answer3": "\\text{C) }-\\frac{5}{x^2}",
+      "answer4": "\\text{D) }-\\frac{2}{x^2}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{2}{x^2}\\right)",
+      "answer1": "\\text{A) }-\\frac{4}{x^3}",
+      "answer2": "\\text{B) }\\frac{9}{x^4}",
+      "answer3": "\\text{C) }-\\frac{10}{x^3}",
+      "answer4": "\\text{D) }-\\frac{8}{x^3}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{5}{x^3}\\right)",
+      "answer1": "\\text{A) }\\frac{3}{x^2}",
+      "answer2": "\\text{B) }\\frac{4}{x^3}",
+      "answer3": "\\text{C) }-\\frac{15}{x^4}",
+      "answer4": "\\text{D) }-\\frac{3}{x^2}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{3}{x}\\right)",
+      "answer1": "\\text{A) }\\frac{4}{x^3}",
+      "answer2": "\\text{B) }-\\frac{3}{x^4}",
+      "answer3": "\\text{C) }\\frac{8}{x^3}",
+      "answer4": "\\text{D) }-\\frac{3}{x^2}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{4}{x^3}\\right)",
+      "answer1": "\\text{A) }\\frac{12}{x^4}",
+      "answer2": "\\text{B) }-\\frac{4}{x^2}",
+      "answer3": "\\text{C) }\\frac{3}{x^2}",
+      "answer4": "\\text{D) }\\frac{1}{x^2}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{1}{x}\\right)",
+      "answer1": "\\text{A) }\\frac{3}{x^2}",
+      "answer2": "\\text{B) }\\frac{1}{x^2}",
+      "answer3": "\\text{C) }\\frac{4}{x^3}",
+      "answer4": "\\text{D) }-\\frac{2}{x^3}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{2}{x^2}\\right)",
+      "answer1": "\\text{A) }-\\frac{6}{x^3}",
+      "answer2": "\\text{B) }\\frac{4}{x^3}",
+      "answer3": "\\text{C) }-\\frac{10}{x^3}",
+      "answer4": "\\text{D) }\\frac{6}{x^3}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{3}{x}\\right)",
+      "answer1": "\\text{A) }-\\frac{10}{x^3}",
+      "answer2": "\\text{B) }-\\frac{3}{x^2}",
+      "answer3": "\\text{C) }\\frac{1}{x^2}",
+      "answer4": "\\text{D) }-\\frac{2}{x^2}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{2}{x}\\right)",
+      "answer1": "\\text{A) }\\frac{2}{x^2}",
+      "answer2": "\\text{B) }-\\frac{4}{x^3}",
+      "answer3": "\\text{C) }-\\frac{1}{x^2}",
+      "answer4": "\\text{D) }-\\frac{12}{x^4}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{3}{x^3}\\right)",
+      "answer1": "\\text{A) }\\frac{9}{x^4}",
+      "answer2": "\\text{B) }-\\frac{1}{x^2}",
+      "answer3": "\\text{C) }-\\frac{5}{x^2}",
+      "answer4": "\\text{D) }-\\frac{9}{x^4}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{2}{x}\\right)",
+      "answer1": "\\text{A) }\\frac{8}{x^3}",
+      "answer2": "\\text{B) }-\\frac{2}{x^2}",
+      "answer3": "\\text{C) }-\\frac{4}{x^2}",
+      "answer4": "\\text{D) }\\frac{9}{x^4}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{3}{x}\\right)",
+      "answer1": "\\text{A) }\\frac{3}{x^2}",
+      "answer2": "\\text{B) }-\\frac{2}{x^3}",
+      "answer3": "\\text{C) }-\\frac{2}{x^2}",
+      "answer4": "\\text{D) }-\\frac{9}{x^4}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{2}{x^2}\\right)",
+      "answer1": "\\text{A) }\\frac{3}{x^2}",
+      "answer2": "\\text{B) }\\frac{4}{x^3}",
+      "answer3": "\\text{C) }-\\frac{5}{x^2}",
+      "answer4": "\\text{D) }-\\frac{3}{x^4}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{1}{x^3}\\right)",
+      "answer1": "\\text{A) }-\\frac{4}{x^3}",
+      "answer2": "\\text{B) }-\\frac{4}{x^2}",
+      "answer3": "\\text{C) }-\\frac{6}{x^3}",
+      "answer4": "\\text{D) }-\\frac{3}{x^4}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{1}{x^3}\\right)",
+      "answer1": "\\text{A) }-\\frac{6}{x^4}",
+      "answer2": "\\text{B) }\\frac{9}{x^4}",
+      "answer3": "\\text{C) }-\\frac{3}{x^2}",
+      "answer4": "\\text{D) }-\\frac{3}{x^4}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{3}{x^3}\\right)",
+      "answer1": "\\text{A) }\\frac{4}{x^2}",
+      "answer2": "\\text{B) }-\\frac{4}{x^3}",
+      "answer3": "\\text{C) }\\frac{9}{x^4}",
+      "answer4": "\\text{D) }-\\frac{12}{x^4}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{2}{x^2}\\right)",
+      "answer1": "\\text{A) }-\\frac{9}{x^4}",
+      "answer2": "\\text{B) }\\frac{9}{x^4}",
+      "answer3": "\\text{C) }-\\frac{4}{x^3}",
+      "answer4": "\\text{D) }-\\frac{15}{x^4}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{1}{x^3}\\right)",
+      "answer1": "\\text{A) }\\frac{3}{x^4}",
+      "answer2": "\\text{B) }-\\frac{4}{x^3}",
+      "answer3": "\\text{C) }\\frac{6}{x^4}",
+      "answer4": "\\text{D) }-\\frac{4}{x^2}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{4}{x^3}\\right)",
+      "answer1": "\\text{A) }\\frac{9}{x^4}",
+      "answer2": "\\text{B) }\\frac{2}{x^3}",
+      "answer3": "\\text{C) }\\frac{12}{x^4}",
+      "answer4": "\\text{D) }-\\frac{3}{x^4}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{4}{x^3}\\right)",
+      "answer1": "\\text{A) }-\\frac{8}{x^3}",
+      "answer2": "\\text{B) }\\frac{12}{x^4}",
+      "answer3": "\\text{C) }\\frac{2}{x^2}",
+      "answer4": "\\text{D) }\\frac{2}{x^3}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{1}{x}\\right)",
+      "answer1": "\\text{A) }\\frac{2}{x^2}",
+      "answer2": "\\text{B) }-\\frac{1}{x^2}",
+      "answer3": "\\text{C) }-\\frac{6}{x^4}",
+      "answer4": "\\text{D) }\\frac{12}{x^4}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{3}{x^2}\\right)",
+      "answer1": "\\text{A) }\\frac{2}{x^2}",
+      "answer2": "\\text{B) }-\\frac{4}{x^2}",
+      "answer3": "\\text{C) }-\\frac{6}{x^3}",
+      "answer4": "\\text{D) }\\frac{12}{x^4}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{1}{x^2}\\right)",
+      "answer1": "\\text{A) }-\\frac{2}{x^3}",
+      "answer2": "\\text{B) }\\frac{9}{x^4}",
+      "answer3": "\\text{C) }\\frac{8}{x^3}",
+      "answer4": "\\text{D) }-\\frac{15}{x^4}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{2}{x^3}\\right)",
+      "answer1": "\\text{A) }\\frac{2}{x^3}",
+      "answer2": "\\text{B) }-\\frac{6}{x^4}",
+      "answer3": "\\text{C) }-\\frac{1}{x^2}",
+      "answer4": "\\text{D) }\\frac{6}{x^4}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{1}{x}\\right)",
+      "answer1": "\\text{A) }-\\frac{1}{x^2}",
+      "answer2": "\\text{B) }\\frac{2}{x^3}",
+      "answer3": "\\text{C) }\\frac{3}{x^2}",
+      "answer4": "\\text{D) }\\frac{2}{x^2}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{2}{x^2}\\right)",
+      "answer1": "\\text{A) }-\\frac{4}{x^2}",
+      "answer2": "\\text{B) }-\\frac{6}{x^3}",
+      "answer3": "\\text{C) }\\frac{2}{x^3}",
+      "answer4": "\\text{D) }-\\frac{4}{x^3}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{3}{x}\\right)",
+      "answer1": "\\text{A) }\\frac{3}{x^2}",
+      "answer2": "\\text{B) }-\\frac{3}{x^2}",
+      "answer3": "\\text{C) }-\\frac{15}{x^4}",
+      "answer4": "\\text{D) }\\frac{8}{x^3}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{3}{x^2}\\right)",
+      "answer1": "\\text{A) }-\\frac{12}{x^4}",
+      "answer2": "\\text{B) }\\frac{3}{x^4}",
+      "answer3": "\\text{C) }\\frac{6}{x^3}",
+      "answer4": "\\text{D) }-\\frac{3}{x^2}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{1}{x}\\right)",
+      "answer1": "\\text{A) }-\\frac{4}{x^2}",
+      "answer2": "\\text{B) }-\\frac{4}{x^3}",
+      "answer3": "\\text{C) }\\frac{4}{x^3}",
+      "answer4": "\\text{D) }-\\frac{1}{x^2}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{2}{x^2}\\right)",
+      "answer1": "\\text{A) }-\\frac{15}{x^4}",
+      "answer2": "\\text{B) }-\\frac{4}{x^3}",
+      "answer3": "\\text{C) }\\frac{4}{x^3}",
+      "answer4": "\\text{D) }-\\frac{3}{x^2}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{3}{x}\\right)",
+      "answer1": "\\text{A) }\\frac{3}{x^2}",
+      "answer2": "\\text{B) }-\\frac{3}{x^2}",
+      "answer3": "\\text{C) }-\\frac{15}{x^4}",
+      "answer4": "\\text{D) }-\\frac{2}{x^3}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{5}{x}\\right)",
+      "answer1": "\\text{A) }\\frac{9}{x^4}",
+      "answer2": "\\text{B) }\\frac{8}{x^3}",
+      "answer3": "\\text{C) }-\\frac{5}{x^2}",
+      "answer4": "\\text{D) }-\\frac{4}{x^3}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{2}{x}\\right)",
+      "answer1": "\\text{A) }-\\frac{15}{x^4}",
+      "answer2": "\\text{B) }\\frac{8}{x^3}",
+      "answer3": "\\text{C) }-\\frac{3}{x^4}",
+      "answer4": "\\text{D) }-\\frac{2}{x^2}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{4}{x^2}\\right)",
+      "answer1": "\\text{A) }\\frac{4}{x^2}",
+      "answer2": "\\text{B) }\\frac{4}{x^3}",
+      "answer3": "\\text{C) }-\\frac{8}{x^3}",
+      "answer4": "\\text{D) }-\\frac{3}{x^4}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{1}{x^3}\\right)",
+      "answer1": "\\text{A) }-\\frac{15}{x^4}",
+      "answer2": "\\text{B) }-\\frac{12}{x^4}",
+      "answer3": "\\text{C) }\\frac{12}{x^4}",
+      "answer4": "\\text{D) }-\\frac{3}{x^4}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{1}{x}\\right)",
+      "answer1": "\\text{A) }\\frac{6}{x^4}",
+      "answer2": "\\text{B) }\\frac{4}{x^2}",
+      "answer3": "\\text{C) }-\\frac{6}{x^3}",
+      "answer4": "\\text{D) }\\frac{1}{x^2}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{2}{x}\\right)",
+      "answer1": "\\text{A) }-\\frac{9}{x^4}",
+      "answer2": "\\text{B) }\\frac{3}{x^2}",
+      "answer3": "\\text{C) }-\\frac{2}{x^2}",
+      "answer4": "\\text{D) }-\\frac{1}{x^2}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{3}{x^2}\\right)",
+      "answer1": "\\text{A) }-\\frac{12}{x^4}",
+      "answer2": "\\text{B) }-\\frac{2}{x^2}",
+      "answer3": "\\text{C) }-\\frac{6}{x^3}",
+      "answer4": "\\text{D) }\\frac{12}{x^4}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{2}{x}\\right)",
+      "answer1": "\\text{A) }\\frac{4}{x^2}",
+      "answer2": "\\text{B) }\\frac{2}{x^2}",
+      "answer3": "\\text{C) }-\\frac{12}{x^4}",
+      "answer4": "\\text{D) }-\\frac{15}{x^4}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{4}{x^2}\\right)",
+      "answer1": "\\text{A) }\\frac{1}{x^2}",
+      "answer2": "\\text{B) }-\\frac{8}{x^3}",
+      "answer3": "\\text{C) }-\\frac{3}{x^4}",
+      "answer4": "\\text{D) }-\\frac{2}{x^2}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{5}{x^2}\\right)",
+      "answer1": "\\text{A) }-\\frac{9}{x^4}",
+      "answer2": "\\text{B) }\\frac{1}{x^2}",
+      "answer3": "\\text{C) }-\\frac{10}{x^3}",
+      "answer4": "\\text{D) }\\frac{6}{x^3}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{2}{x}\\right)",
+      "answer1": "\\text{A) }\\frac{8}{x^3}",
+      "answer2": "\\text{B) }\\frac{2}{x^2}",
+      "answer3": "\\text{C) }-\\frac{3}{x^4}",
+      "answer4": "\\text{D) }\\frac{3}{x^2}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{2}{x^3}\\right)",
+      "answer1": "\\text{A) }\\frac{6}{x^3}",
+      "answer2": "\\text{B) }-\\frac{3}{x^2}",
+      "answer3": "\\text{C) }-\\frac{6}{x^4}",
+      "answer4": "\\text{D) }\\frac{8}{x^3}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{5}{x^2}\\right)",
+      "answer1": "\\text{A) }-\\frac{10}{x^3}",
+      "answer2": "\\text{B) }-\\frac{1}{x^2}",
+      "answer3": "\\text{C) }-\\frac{6}{x^4}",
+      "answer4": "\\text{D) }\\frac{1}{x^2}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{5}{x}\\right)",
+      "answer1": "\\text{A) }-\\frac{5}{x^2}",
+      "answer2": "\\text{B) }-\\frac{1}{x^2}",
+      "answer3": "\\text{C) }-\\frac{4}{x^3}",
+      "answer4": "\\text{D) }-\\frac{9}{x^4}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{1}{x^3}\\right)",
+      "answer1": "\\text{A) }-\\frac{3}{x^4}",
+      "answer2": "\\text{B) }\\frac{9}{x^4}",
+      "answer3": "\\text{C) }\\frac{12}{x^4}",
+      "answer4": "\\text{D) }-\\frac{15}{x^4}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{1}{x^3}\\right)",
+      "answer1": "\\text{A) }-\\frac{9}{x^4}",
+      "answer2": "\\text{B) }\\frac{6}{x^4}",
+      "answer3": "\\text{C) }-\\frac{3}{x^4}",
+      "answer4": "\\text{D) }-\\frac{6}{x^4}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{4}{x}\\right)",
+      "answer1": "\\text{A) }-\\frac{3}{x^2}",
+      "answer2": "\\text{B) }\\frac{9}{x^4}",
+      "answer3": "\\text{C) }\\frac{1}{x^2}",
+      "answer4": "\\text{D) }-\\frac{4}{x^2}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{1}{x^3}\\right)",
+      "answer1": "\\text{A) }-\\frac{6}{x^4}",
+      "answer2": "\\text{B) }-\\frac{3}{x^4}",
+      "answer3": "\\text{C) }\\frac{4}{x^2}",
+      "answer4": "\\text{D) }-\\frac{8}{x^3}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{5}{x}\\right)",
+      "answer1": "\\text{A) }\\frac{12}{x^4}",
+      "answer2": "\\text{B) }-\\frac{5}{x^2}",
+      "answer3": "\\text{C) }-\\frac{6}{x^4}",
+      "answer4": "\\text{D) }-\\frac{3}{x^4}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{4}{x^2}\\right)",
+      "answer1": "\\text{A) }-\\frac{10}{x^3}",
+      "answer2": "\\text{B) }\\frac{6}{x^3}",
+      "answer3": "\\text{C) }-\\frac{8}{x^3}",
+      "answer4": "\\text{D) }\\frac{6}{x^4}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{4}{x^2}\\right)",
+      "answer1": "\\text{A) }\\frac{4}{x^3}",
+      "answer2": "\\text{B) }-\\frac{3}{x^4}",
+      "answer3": "\\text{C) }\\frac{3}{x^4}",
+      "answer4": "\\text{D) }\\frac{8}{x^3}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{1}{x}\\right)",
+      "answer1": "\\text{A) }-\\frac{3}{x^2}",
+      "answer2": "\\text{B) }\\frac{4}{x^2}",
+      "answer3": "\\text{C) }-\\frac{1}{x^2}",
+      "answer4": "\\text{D) }-\\frac{4}{x^2}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{1}{x^2}\\right)",
+      "answer1": "\\text{A) }-\\frac{15}{x^4}",
+      "answer2": "\\text{B) }\\frac{8}{x^3}",
+      "answer3": "\\text{C) }\\frac{2}{x^3}",
+      "answer4": "\\text{D) }\\frac{4}{x^3}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{1}{x^2}\\right)",
+      "answer1": "\\text{A) }\\frac{2}{x^3}",
+      "answer2": "\\text{B) }-\\frac{10}{x^3}",
+      "answer3": "\\text{C) }\\frac{4}{x^3}",
+      "answer4": "\\text{D) }-\\frac{9}{x^4}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{1}{x^2}\\right)",
+      "answer1": "\\text{A) }-\\frac{12}{x^4}",
+      "answer2": "\\text{B) }-\\frac{6}{x^3}",
+      "answer3": "\\text{C) }\\frac{4}{x^2}",
+      "answer4": "\\text{D) }-\\frac{2}{x^3}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{3}{x}\\right)",
+      "answer1": "\\text{A) }\\frac{3}{x^4}",
+      "answer2": "\\text{B) }\\frac{3}{x^2}",
+      "answer3": "\\text{C) }\\frac{8}{x^3}",
+      "answer4": "\\text{D) }-\\frac{9}{x^4}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{1}{x^3}\\right)",
+      "answer1": "\\text{A) }-\\frac{6}{x^4}",
+      "answer2": "\\text{B) }-\\frac{2}{x^3}",
+      "answer3": "\\text{C) }-\\frac{4}{x^2}",
+      "answer4": "\\text{D) }\\frac{3}{x^4}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{3}{x^3}\\right)",
+      "answer1": "\\text{A) }-\\frac{9}{x^4}",
+      "answer2": "\\text{B) }\\frac{6}{x^3}",
+      "answer3": "\\text{C) }-\\frac{12}{x^4}",
+      "answer4": "\\text{D) }\\frac{4}{x^3}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{1}{x}\\right)",
+      "answer1": "\\text{A) }\\frac{2}{x^3}",
+      "answer2": "\\text{B) }-\\frac{1}{x^2}",
+      "answer3": "\\text{C) }-\\frac{6}{x^3}",
+      "answer4": "\\text{D) }-\\frac{6}{x^4}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{4}{x^2}\\right)",
+      "answer1": "\\text{A) }-\\frac{8}{x^3}",
+      "answer2": "\\text{B) }-\\frac{5}{x^2}",
+      "answer3": "\\text{C) }-\\frac{6}{x^4}",
+      "answer4": "\\text{D) }\\frac{3}{x^4}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{4}{x^2}\\right)",
+      "answer1": "\\text{A) }\\frac{9}{x^4}",
+      "answer2": "\\text{B) }-\\frac{4}{x^2}",
+      "answer3": "\\text{C) }\\frac{8}{x^3}",
+      "answer4": "\\text{D) }-\\frac{5}{x^2}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{1}{x^3}\\right)",
+      "answer1": "\\text{A) }-\\frac{4}{x^3}",
+      "answer2": "\\text{B) }-\\frac{3}{x^4}",
+      "answer3": "\\text{C) }-\\frac{5}{x^2}",
+      "answer4": "\\text{D) }\\frac{4}{x^2}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{3}{x}\\right)",
+      "answer1": "\\text{A) }-\\frac{4}{x^2}",
+      "answer2": "\\text{B) }\\frac{4}{x^3}",
+      "answer3": "\\text{C) }-\\frac{3}{x^2}",
+      "answer4": "\\text{D) }-\\frac{10}{x^3}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{4}{x^2}\\right)",
+      "answer1": "\\text{A) }-\\frac{6}{x^4}",
+      "answer2": "\\text{B) }\\frac{3}{x^4}",
+      "answer3": "\\text{C) }\\frac{3}{x^2}",
+      "answer4": "\\text{D) }-\\frac{8}{x^3}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{3}{x^2}\\right)",
+      "answer1": "\\text{A) }-\\frac{4}{x^2}",
+      "answer2": "\\text{B) }-\\frac{10}{x^3}",
+      "answer3": "\\text{C) }-\\frac{6}{x^4}",
+      "answer4": "\\text{D) }-\\frac{6}{x^3}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{4}{x^2}\\right)",
+      "answer1": "\\text{A) }-\\frac{8}{x^3}",
+      "answer2": "\\text{B) }-\\frac{15}{x^4}",
+      "answer3": "\\text{C) }\\frac{9}{x^4}",
+      "answer4": "\\text{D) }\\frac{8}{x^3}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{1}{x^2}\\right)",
+      "answer1": "\\text{A) }\\frac{2}{x^3}",
+      "answer2": "\\text{B) }-\\frac{4}{x^3}",
+      "answer3": "\\text{C) }-\\frac{2}{x^3}",
+      "answer4": "\\text{D) }-\\frac{9}{x^4}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{1}{x^3}\\right)",
+      "answer1": "\\text{A) }-\\frac{5}{x^2}",
+      "answer2": "\\text{B) }\\frac{12}{x^4}",
+      "answer3": "\\text{C) }\\frac{3}{x^4}",
+      "answer4": "\\text{D) }\\frac{9}{x^4}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{2}{x^2}\\right)",
+      "answer1": "\\text{A) }\\frac{4}{x^3}",
+      "answer2": "\\text{B) }-\\frac{4}{x^3}",
+      "answer3": "\\text{C) }-\\frac{2}{x^3}",
+      "answer4": "\\text{D) }\\frac{3}{x^2}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{1}{x^3}\\right)",
+      "answer1": "\\text{A) }\\frac{8}{x^3}",
+      "answer2": "\\text{B) }-\\frac{2}{x^3}",
+      "answer3": "\\text{C) }-\\frac{2}{x^2}",
+      "answer4": "\\text{D) }\\frac{3}{x^4}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{4}{x^2}\\right)",
+      "answer1": "\\text{A) }-\\frac{2}{x^2}",
+      "answer2": "\\text{B) }\\frac{6}{x^3}",
+      "answer3": "\\text{C) }\\frac{8}{x^3}",
+      "answer4": "\\text{D) }-\\frac{8}{x^3}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{1}{x^2}\\right)",
+      "answer1": "\\text{A) }\\frac{9}{x^4}",
+      "answer2": "\\text{B) }\\frac{2}{x^3}",
+      "answer3": "\\text{C) }-\\frac{4}{x^3}",
+      "answer4": "\\text{D) }\\frac{6}{x^4}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{2}{x^2}\\right)",
+      "answer1": "\\text{A) }-\\frac{15}{x^4}",
+      "answer2": "\\text{B) }\\frac{9}{x^4}",
+      "answer3": "\\text{C) }-\\frac{3}{x^4}",
+      "answer4": "\\text{D) }-\\frac{4}{x^3}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{5}{x^3}\\right)",
+      "answer1": "\\text{A) }-\\frac{15}{x^4}",
+      "answer2": "\\text{B) }-\\frac{2}{x^2}",
+      "answer3": "\\text{C) }-\\frac{4}{x^2}",
+      "answer4": "\\text{D) }\\frac{6}{x^3}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{3}{x^3}\\right)",
+      "answer1": "\\text{A) }\\frac{6}{x^3}",
+      "answer2": "\\text{B) }-\\frac{2}{x^2}",
+      "answer3": "\\text{C) }-\\frac{9}{x^4}",
+      "answer4": "\\text{D) }-\\frac{15}{x^4}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{5}{x}\\right)",
+      "answer1": "\\text{A) }-\\frac{5}{x^2}",
+      "answer2": "\\text{B) }-\\frac{2}{x^2}",
+      "answer3": "\\text{C) }-\\frac{8}{x^3}",
+      "answer4": "\\text{D) }\\frac{1}{x^2}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{2}{x^3}\\right)",
+      "answer1": "\\text{A) }-\\frac{1}{x^2}",
+      "answer2": "\\text{B) }\\frac{6}{x^4}",
+      "answer3": "\\text{C) }\\frac{3}{x^4}",
+      "answer4": "\\text{D) }-\\frac{3}{x^2}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{4}{x^2}\\right)",
+      "answer1": "\\text{A) }\\frac{2}{x^3}",
+      "answer2": "\\text{B) }-\\frac{8}{x^3}",
+      "answer3": "\\text{C) }-\\frac{3}{x^4}",
+      "answer4": "\\text{D) }\\frac{9}{x^4}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{3}{x^3}\\right)",
+      "answer1": "\\text{A) }-\\frac{1}{x^2}",
+      "answer2": "\\text{B) }\\frac{9}{x^4}",
+      "answer3": "\\text{C) }\\frac{1}{x^2}",
+      "answer4": "\\text{D) }-\\frac{4}{x^3}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{3}{x^3}\\right)",
+      "answer1": "\\text{A) }-\\frac{8}{x^3}",
+      "answer2": "\\text{B) }\\frac{1}{x^2}",
+      "answer3": "\\text{C) }\\frac{9}{x^4}",
+      "answer4": "\\text{D) }-\\frac{10}{x^3}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{5}{x}\\right)",
+      "answer1": "\\text{A) }-\\frac{5}{x^2}",
+      "answer2": "\\text{B) }-\\frac{6}{x^4}",
+      "answer3": "\\text{C) }-\\frac{4}{x^2}",
+      "answer4": "\\text{D) }\\frac{3}{x^2}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{3}{x^2}\\right)",
+      "answer1": "\\text{A) }-\\frac{6}{x^4}",
+      "answer2": "\\text{B) }-\\frac{6}{x^3}",
+      "answer3": "\\text{C) }-\\frac{2}{x^3}",
+      "answer4": "\\text{D) }-\\frac{15}{x^4}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{2}{x}\\right)",
+      "answer1": "\\text{A) }\\frac{1}{x^2}",
+      "answer2": "\\text{B) }-\\frac{6}{x^4}",
+      "answer3": "\\text{C) }-\\frac{3}{x^4}",
+      "answer4": "\\text{D) }\\frac{2}{x^2}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{2}{x^2}\\right)",
+      "answer1": "\\text{A) }\\frac{2}{x^3}",
+      "answer2": "\\text{B) }\\frac{4}{x^3}",
+      "answer3": "\\text{C) }\\frac{6}{x^3}",
+      "answer4": "\\text{D) }-\\frac{9}{x^4}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{3}{x^2}\\right)",
+      "answer1": "\\text{A) }-\\frac{5}{x^2}",
+      "answer2": "\\text{B) }-\\frac{4}{x^3}",
+      "answer3": "\\text{C) }-\\frac{6}{x^3}",
+      "answer4": "\\text{D) }-\\frac{3}{x^4}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{4}{x}\\right)",
+      "answer1": "\\text{A) }\\frac{4}{x^3}",
+      "answer2": "\\text{B) }-\\frac{4}{x^2}",
+      "answer3": "\\text{C) }\\frac{12}{x^4}",
+      "answer4": "\\text{D) }-\\frac{4}{x^3}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{2}{x^3}\\right)",
+      "answer1": "\\text{A) }\\frac{4}{x^2}",
+      "answer2": "\\text{B) }\\frac{6}{x^4}",
+      "answer3": "\\text{C) }-\\frac{5}{x^2}",
+      "answer4": "\\text{D) }-\\frac{4}{x^3}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{1}{x^3}\\right)",
+      "answer1": "\\text{A) }-\\frac{9}{x^4}",
+      "answer2": "\\text{B) }-\\frac{8}{x^3}",
+      "answer3": "\\text{C) }-\\frac{15}{x^4}",
+      "answer4": "\\text{D) }-\\frac{3}{x^4}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{2}{x}\\right)",
+      "answer1": "\\text{A) }\\frac{2}{x^3}",
+      "answer2": "\\text{B) }\\frac{2}{x^2}",
+      "answer3": "\\text{C) }-\\frac{1}{x^2}",
+      "answer4": "\\text{D) }-\\frac{10}{x^3}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{1}{x^3}\\right)",
+      "answer1": "\\text{A) }-\\frac{4}{x^3}",
+      "answer2": "\\text{B) }\\frac{3}{x^4}",
+      "answer3": "\\text{C) }\\frac{6}{x^4}",
+      "answer4": "\\text{D) }\\frac{4}{x^2}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{3}{x^2}\\right)",
+      "answer1": "\\text{A) }\\frac{12}{x^4}",
+      "answer2": "\\text{B) }-\\frac{6}{x^3}",
+      "answer3": "\\text{C) }\\frac{6}{x^3}",
+      "answer4": "\\text{D) }-\\frac{8}{x^3}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{2}{x^3}\\right)",
+      "answer1": "\\text{A) }\\frac{6}{x^3}",
+      "answer2": "\\text{B) }\\frac{1}{x^2}",
+      "answer3": "\\text{C) }-\\frac{6}{x^4}",
+      "answer4": "\\text{D) }-\\frac{12}{x^4}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{1}{x}\\right)",
+      "answer1": "\\text{A) }-\\frac{4}{x^3}",
+      "answer2": "\\text{B) }\\frac{9}{x^4}",
+      "answer3": "\\text{C) }\\frac{4}{x^3}",
+      "answer4": "\\text{D) }\\frac{1}{x^2}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{1}{x}\\right)",
+      "answer1": "\\text{A) }-\\frac{3}{x^2}",
+      "answer2": "\\text{B) }-\\frac{12}{x^4}",
+      "answer3": "\\text{C) }\\frac{1}{x^2}",
+      "answer4": "\\text{D) }-\\frac{3}{x^4}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{4}{x}\\right)",
+      "answer1": "\\text{A) }-\\frac{6}{x^4}",
+      "answer2": "\\text{B) }\\frac{2}{x^2}",
+      "answer3": "\\text{C) }\\frac{4}{x^2}",
+      "answer4": "\\text{D) }\\frac{3}{x^4}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{1}{x^2}\\right)",
+      "answer1": "\\text{A) }-\\frac{4}{x^2}",
+      "answer2": "\\text{B) }-\\frac{2}{x^3}",
+      "answer3": "\\text{C) }\\frac{2}{x^3}",
+      "answer4": "\\text{D) }\\frac{9}{x^4}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{2}{x^3}\\right)",
+      "answer1": "\\text{A) }\\frac{1}{x^2}",
+      "answer2": "\\text{B) }-\\frac{6}{x^4}",
+      "answer3": "\\text{C) }-\\frac{8}{x^3}",
+      "answer4": "\\text{D) }-\\frac{10}{x^3}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{4}{x}\\right)",
+      "answer1": "\\text{A) }\\frac{4}{x^2}",
+      "answer2": "\\text{B) }-\\frac{15}{x^4}",
+      "answer3": "\\text{C) }\\frac{1}{x^2}",
+      "answer4": "\\text{D) }\\frac{9}{x^4}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{1}{x^3}\\right)",
+      "answer1": "\\text{A) }-\\frac{3}{x^4}",
+      "answer2": "\\text{B) }\\frac{9}{x^4}",
+      "answer3": "\\text{C) }\\frac{4}{x^3}",
+      "answer4": "\\text{D) }-\\frac{12}{x^4}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{2}{x^3}\\right)",
+      "answer1": "\\text{A) }\\frac{2}{x^2}",
+      "answer2": "\\text{B) }-\\frac{6}{x^4}",
+      "answer3": "\\text{C) }-\\frac{10}{x^3}",
+      "answer4": "\\text{D) }-\\frac{1}{x^2}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{1}{x^2}\\right)",
+      "answer1": "\\text{A) }-\\frac{4}{x^3}",
+      "answer2": "\\text{B) }-\\frac{15}{x^4}",
+      "answer3": "\\text{C) }-\\frac{12}{x^4}",
+      "answer4": "\\text{D) }\\frac{2}{x^3}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{5}{x^3}\\right)",
+      "answer1": "\\text{A) }-\\frac{4}{x^2}",
+      "answer2": "\\text{B) }-\\frac{15}{x^4}",
+      "answer3": "\\text{C) }-\\frac{4}{x^3}",
+      "answer4": "\\text{D) }-\\frac{6}{x^3}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{4}{x}\\right)",
+      "answer1": "\\text{A) }\\frac{4}{x^2}",
+      "answer2": "\\text{B) }\\frac{3}{x^4}",
+      "answer3": "\\text{C) }-\\frac{12}{x^4}",
+      "answer4": "\\text{D) }-\\frac{4}{x^3}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{4}{x^2}\\right)",
+      "answer1": "\\text{A) }\\frac{2}{x^2}",
+      "answer2": "\\text{B) }-\\frac{1}{x^2}",
+      "answer3": "\\text{C) }\\frac{3}{x^4}",
+      "answer4": "\\text{D) }-\\frac{8}{x^3}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{3}{x^2}\\right)",
+      "answer1": "\\text{A) }-\\frac{8}{x^3}",
+      "answer2": "\\text{B) }-\\frac{6}{x^3}",
+      "answer3": "\\text{C) }\\frac{2}{x^3}",
+      "answer4": "\\text{D) }-\\frac{2}{x^3}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{3}{x}\\right)",
+      "answer1": "\\text{A) }-\\frac{2}{x^3}",
+      "answer2": "\\text{B) }\\frac{3}{x^2}",
+      "answer3": "\\text{C) }\\frac{3}{x^4}",
+      "answer4": "\\text{D) }-\\frac{5}{x^2}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{2}{x^2}\\right)",
+      "answer1": "\\text{A) }\\frac{4}{x^3}",
+      "answer2": "\\text{B) }\\frac{1}{x^2}",
+      "answer3": "\\text{C) }\\frac{4}{x^2}",
+      "answer4": "\\text{D) }-\\frac{2}{x^3}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{3}{x^3}\\right)",
+      "answer1": "\\text{A) }\\frac{4}{x^2}",
+      "answer2": "\\text{B) }-\\frac{4}{x^2}",
+      "answer3": "\\text{C) }\\frac{2}{x^2}",
+      "answer4": "\\text{D) }\\frac{9}{x^4}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{1}{x^2}\\right)",
+      "answer1": "\\text{A) }-\\frac{2}{x^3}",
+      "answer2": "\\text{B) }-\\frac{3}{x^2}",
+      "answer3": "\\text{C) }\\frac{4}{x^3}",
+      "answer4": "\\text{D) }\\frac{4}{x^2}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{4}{x^3}\\right)",
+      "answer1": "\\text{A) }\\frac{12}{x^4}",
+      "answer2": "\\text{B) }-\\frac{3}{x^2}",
+      "answer3": "\\text{C) }\\frac{6}{x^4}",
+      "answer4": "\\text{D) }-\\frac{8}{x^3}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{4}{x}\\right)",
+      "answer1": "\\text{A) }\\frac{1}{x^2}",
+      "answer2": "\\text{B) }-\\frac{4}{x^2}",
+      "answer3": "\\text{C) }\\frac{4}{x^2}",
+      "answer4": "\\text{D) }-\\frac{3}{x^2}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{2}{x^2}\\right)",
+      "answer1": "\\text{A) }\\frac{4}{x^2}",
+      "answer2": "\\text{B) }-\\frac{4}{x^3}",
+      "answer3": "\\text{C) }-\\frac{5}{x^2}",
+      "answer4": "\\text{D) }-\\frac{8}{x^3}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{2}{x^2}\\right)",
+      "answer1": "\\text{A) }-\\frac{1}{x^2}",
+      "answer2": "\\text{B) }-\\frac{9}{x^4}",
+      "answer3": "\\text{C) }\\frac{3}{x^4}",
+      "answer4": "\\text{D) }\\frac{4}{x^3}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{1}{x^2}\\right)",
+      "answer1": "\\text{A) }\\frac{2}{x^3}",
+      "answer2": "\\text{B) }\\frac{4}{x^3}",
+      "answer3": "\\text{C) }\\frac{8}{x^3}",
+      "answer4": "\\text{D) }\\frac{3}{x^2}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{5}{x^3}\\right)",
+      "answer1": "\\text{A) }-\\frac{15}{x^4}",
+      "answer2": "\\text{B) }\\frac{4}{x^3}",
+      "answer3": "\\text{C) }-\\frac{3}{x^2}",
+      "answer4": "\\text{D) }\\frac{3}{x^2}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{1}{x^2}\\right)",
+      "answer1": "\\text{A) }\\frac{4}{x^3}",
+      "answer2": "\\text{B) }-\\frac{2}{x^3}",
+      "answer3": "\\text{C) }-\\frac{2}{x^2}",
+      "answer4": "\\text{D) }-\\frac{15}{x^4}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{1}{x^2}\\right)",
+      "answer1": "\\text{A) }\\frac{3}{x^2}",
+      "answer2": "\\text{B) }\\frac{12}{x^4}",
+      "answer3": "\\text{C) }-\\frac{12}{x^4}",
+      "answer4": "\\text{D) }\\frac{2}{x^3}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{5}{x^3}\\right)",
+      "answer1": "\\text{A) }\\frac{4}{x^2}",
+      "answer2": "\\text{B) }\\frac{2}{x^2}",
+      "answer3": "\\text{C) }-\\frac{15}{x^4}",
+      "answer4": "\\text{D) }\\frac{6}{x^3}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{2}{x^2}\\right)",
+      "answer1": "\\text{A) }-\\frac{1}{x^2}",
+      "answer2": "\\text{B) }-\\frac{12}{x^4}",
+      "answer3": "\\text{C) }\\frac{2}{x^3}",
+      "answer4": "\\text{D) }\\frac{4}{x^3}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{1}{x^3}\\right)",
+      "answer1": "\\text{A) }-\\frac{5}{x^2}",
+      "answer2": "\\text{B) }-\\frac{1}{x^2}",
+      "answer3": "\\text{C) }\\frac{3}{x^4}",
+      "answer4": "\\text{D) }-\\frac{9}{x^4}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{4}{x^3}\\right)",
+      "answer1": "\\text{A) }-\\frac{2}{x^3}",
+      "answer2": "\\text{B) }\\frac{12}{x^4}",
+      "answer3": "\\text{C) }-\\frac{4}{x^2}",
+      "answer4": "\\text{D) }-\\frac{9}{x^4}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{1}{x^2}\\right)",
+      "answer1": "\\text{A) }-\\frac{2}{x^2}",
+      "answer2": "\\text{B) }-\\frac{2}{x^3}",
+      "answer3": "\\text{C) }\\frac{6}{x^4}",
+      "answer4": "\\text{D) }\\frac{1}{x^2}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{1}{x}\\right)",
+      "answer1": "\\text{A) }\\frac{3}{x^2}",
+      "answer2": "\\text{B) }\\frac{3}{x^4}",
+      "answer3": "\\text{C) }-\\frac{1}{x^2}",
+      "answer4": "\\text{D) }-\\frac{2}{x^2}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{3}{x}\\right)",
+      "answer1": "\\text{A) }-\\frac{4}{x^2}",
+      "answer2": "\\text{B) }\\frac{6}{x^4}",
+      "answer3": "\\text{C) }-\\frac{3}{x^2}",
+      "answer4": "\\text{D) }-\\frac{10}{x^3}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{4}{x^2}\\right)",
+      "answer1": "\\text{A) }-\\frac{6}{x^4}",
+      "answer2": "\\text{B) }-\\frac{5}{x^2}",
+      "answer3": "\\text{C) }-\\frac{8}{x^3}",
+      "answer4": "\\text{D) }\\frac{3}{x^4}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{1}{x^3}\\right)",
+      "answer1": "\\text{A) }\\frac{4}{x^3}",
+      "answer2": "\\text{B) }-\\frac{3}{x^4}",
+      "answer3": "\\text{C) }-\\frac{4}{x^2}",
+      "answer4": "\\text{D) }-\\frac{6}{x^3}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{4}{x^3}\\right)",
+      "answer1": "\\text{A) }\\frac{2}{x^3}",
+      "answer2": "\\text{B) }-\\frac{12}{x^4}",
+      "answer3": "\\text{C) }\\frac{12}{x^4}",
+      "answer4": "\\text{D) }\\frac{9}{x^4}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{2}{x^2}\\right)",
+      "answer1": "\\text{A) }\\frac{4}{x^2}",
+      "answer2": "\\text{B) }\\frac{9}{x^4}",
+      "answer3": "\\text{C) }-\\frac{3}{x^4}",
+      "answer4": "\\text{D) }\\frac{4}{x^3}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{4}{x}\\right)",
+      "answer1": "\\text{A) }-\\frac{4}{x^2}",
+      "answer2": "\\text{B) }-\\frac{15}{x^4}",
+      "answer3": "\\text{C) }\\frac{6}{x^3}",
+      "answer4": "\\text{D) }\\frac{1}{x^2}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{3}{x^3}\\right)",
+      "answer1": "\\text{A) }-\\frac{2}{x^3}",
+      "answer2": "\\text{B) }-\\frac{9}{x^4}",
+      "answer3": "\\text{C) }\\frac{4}{x^2}",
+      "answer4": "\\text{D) }\\frac{6}{x^4}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{1}{x^3}\\right)",
+      "answer1": "\\text{A) }-\\frac{4}{x^3}",
+      "answer2": "\\text{B) }\\frac{3}{x^4}",
+      "answer3": "\\text{C) }-\\frac{6}{x^3}",
+      "answer4": "\\text{D) }-\\frac{8}{x^3}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{1}{x^3}\\right)",
+      "answer1": "\\text{A) }\\frac{1}{x^2}",
+      "answer2": "\\text{B) }-\\frac{3}{x^4}",
+      "answer3": "\\text{C) }-\\frac{5}{x^2}",
+      "answer4": "\\text{D) }-\\frac{6}{x^4}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{2}{x}\\right)",
+      "answer1": "\\text{A) }\\frac{4}{x^3}",
+      "answer2": "\\text{B) }-\\frac{2}{x^2}",
+      "answer3": "\\text{C) }\\frac{12}{x^4}",
+      "answer4": "\\text{D) }\\frac{9}{x^4}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{2}{x^2}\\right)",
+      "answer1": "\\text{A) }-\\frac{1}{x^2}",
+      "answer2": "\\text{B) }\\frac{8}{x^3}",
+      "answer3": "\\text{C) }-\\frac{9}{x^4}",
+      "answer4": "\\text{D) }\\frac{4}{x^3}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{1}{x^3}\\right)",
+      "answer1": "\\text{A) }-\\frac{4}{x^3}",
+      "answer2": "\\text{B) }-\\frac{15}{x^4}",
+      "answer3": "\\text{C) }\\frac{3}{x^4}",
+      "answer4": "\\text{D) }-\\frac{1}{x^2}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{1}{x^2}\\right)",
+      "answer1": "\\text{A) }-\\frac{2}{x^3}",
+      "answer2": "\\text{B) }-\\frac{3}{x^2}",
+      "answer3": "\\text{C) }-\\frac{6}{x^4}",
+      "answer4": "\\text{D) }\\frac{2}{x^3}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{5}{x}\\right)",
+      "answer1": "\\text{A) }\\frac{8}{x^3}",
+      "answer2": "\\text{B) }\\frac{1}{x^2}",
+      "answer3": "\\text{C) }-\\frac{4}{x^2}",
+      "answer4": "\\text{D) }-\\frac{5}{x^2}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{3}{x}\\right)",
+      "answer1": "\\text{A) }-\\frac{3}{x^4}",
+      "answer2": "\\text{B) }-\\frac{10}{x^3}",
+      "answer3": "\\text{C) }\\frac{3}{x^2}",
+      "answer4": "\\text{D) }\\frac{1}{x^2}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{4}{x^3}\\right)",
+      "answer1": "\\text{A) }-\\frac{12}{x^4}",
+      "answer2": "\\text{B) }-\\frac{4}{x^3}",
+      "answer3": "\\text{C) }-\\frac{1}{x^2}",
+      "answer4": "\\text{D) }\\frac{4}{x^2}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{4}{x^3}\\right)",
+      "answer1": "\\text{A) }-\\frac{1}{x^2}",
+      "answer2": "\\text{B) }\\frac{1}{x^2}",
+      "answer3": "\\text{C) }-\\frac{12}{x^4}",
+      "answer4": "\\text{D) }\\frac{2}{x^2}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{3}{x^2}\\right)",
+      "answer1": "\\text{A) }-\\frac{6}{x^3}",
+      "answer2": "\\text{B) }\\frac{6}{x^4}",
+      "answer3": "\\text{C) }\\frac{3}{x^2}",
+      "answer4": "\\text{D) }-\\frac{4}{x^2}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{5}{x^3}\\right)",
+      "answer1": "\\text{A) }-\\frac{8}{x^3}",
+      "answer2": "\\text{B) }-\\frac{15}{x^4}",
+      "answer3": "\\text{C) }\\frac{8}{x^3}",
+      "answer4": "\\text{D) }-\\frac{6}{x^3}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{4}{x^3}\\right)",
+      "answer1": "\\text{A) }\\frac{3}{x^4}",
+      "answer2": "\\text{B) }\\frac{12}{x^4}",
+      "answer3": "\\text{C) }-\\frac{2}{x^3}",
+      "answer4": "\\text{D) }-\\frac{3}{x^2}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{1}{x^3}\\right)",
+      "answer1": "\\text{A) }\\frac{2}{x^2}",
+      "answer2": "\\text{B) }-\\frac{3}{x^4}",
+      "answer3": "\\text{C) }\\frac{4}{x^2}",
+      "answer4": "\\text{D) }\\frac{3}{x^2}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{3}{x^3}\\right)",
+      "answer1": "\\text{A) }-\\frac{5}{x^2}",
+      "answer2": "\\text{B) }\\frac{3}{x^4}",
+      "answer3": "\\text{C) }-\\frac{9}{x^4}",
+      "answer4": "\\text{D) }-\\frac{6}{x^4}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{3}{x}\\right)",
+      "answer1": "\\text{A) }\\frac{3}{x^2}",
+      "answer2": "\\text{B) }-\\frac{8}{x^3}",
+      "answer3": "\\text{C) }\\frac{8}{x^3}",
+      "answer4": "\\text{D) }-\\frac{1}{x^2}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{3}{x^3}\\right)",
+      "answer1": "\\text{A) }-\\frac{5}{x^2}",
+      "answer2": "\\text{B) }\\frac{3}{x^2}",
+      "answer3": "\\text{C) }-\\frac{9}{x^4}",
+      "answer4": "\\text{D) }-\\frac{4}{x^2}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{2}{x^3}\\right)",
+      "answer1": "\\text{A) }\\frac{2}{x^2}",
+      "answer2": "\\text{B) }-\\frac{6}{x^4}",
+      "answer3": "\\text{C) }\\frac{6}{x^3}",
+      "answer4": "\\text{D) }\\frac{1}{x^2}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{3}{x^3}\\right)",
+      "answer1": "\\text{A) }\\frac{9}{x^4}",
+      "answer2": "\\text{B) }-\\frac{6}{x^3}",
+      "answer3": "\\text{C) }-\\frac{5}{x^2}",
+      "answer4": "\\text{D) }-\\frac{1}{x^2}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{2}{x^3}\\right)",
+      "answer1": "\\text{A) }-\\frac{1}{x^2}",
+      "answer2": "\\text{B) }\\frac{12}{x^4}",
+      "answer3": "\\text{C) }\\frac{1}{x^2}",
+      "answer4": "\\text{D) }-\\frac{6}{x^4}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{3}{x}\\right)",
+      "answer1": "\\text{A) }-\\frac{3}{x^2}",
+      "answer2": "\\text{B) }\\frac{6}{x^4}",
+      "answer3": "\\text{C) }-\\frac{4}{x^2}",
+      "answer4": "\\text{D) }-\\frac{5}{x^2}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{3}{x^2}\\right)",
+      "answer1": "\\text{A) }-\\frac{6}{x^4}",
+      "answer2": "\\text{B) }-\\frac{6}{x^3}",
+      "answer3": "\\text{C) }\\frac{1}{x^2}",
+      "answer4": "\\text{D) }-\\frac{10}{x^3}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{2}{x}\\right)",
+      "answer1": "\\text{A) }-\\frac{2}{x^2}",
+      "answer2": "\\text{B) }-\\frac{10}{x^3}",
+      "answer3": "\\text{C) }\\frac{4}{x^3}",
+      "answer4": "\\text{D) }\\frac{6}{x^3}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{3}{x^3}\\right)",
+      "answer1": "\\text{A) }-\\frac{5}{x^2}",
+      "answer2": "\\text{B) }\\frac{8}{x^3}",
+      "answer3": "\\text{C) }\\frac{9}{x^4}",
+      "answer4": "\\text{D) }-\\frac{6}{x^4}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{1}{x}\\right)",
+      "answer1": "\\text{A) }-\\frac{2}{x^3}",
+      "answer2": "\\text{B) }\\frac{1}{x^2}",
+      "answer3": "\\text{C) }-\\frac{6}{x^4}",
+      "answer4": "\\text{D) }\\frac{9}{x^4}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{4}{x}\\right)",
+      "answer1": "\\text{A) }\\frac{4}{x^2}",
+      "answer2": "\\text{B) }\\frac{9}{x^4}",
+      "answer3": "\\text{C) }\\frac{2}{x^2}",
+      "answer4": "\\text{D) }-\\frac{5}{x^2}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{5}{x^2}\\right)",
+      "answer1": "\\text{A) }\\frac{6}{x^4}",
+      "answer2": "\\text{B) }-\\frac{10}{x^3}",
+      "answer3": "\\text{C) }\\frac{3}{x^2}",
+      "answer4": "\\text{D) }\\frac{12}{x^4}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{2}{x}\\right)",
+      "answer1": "\\text{A) }-\\frac{2}{x^2}",
+      "answer2": "\\text{B) }\\frac{3}{x^2}",
+      "answer3": "\\text{C) }-\\frac{15}{x^4}",
+      "answer4": "\\text{D) }-\\frac{6}{x^3}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{2}{x}\\right)",
+      "answer1": "\\text{A) }-\\frac{10}{x^3}",
+      "answer2": "\\text{B) }-\\frac{4}{x^3}",
+      "answer3": "\\text{C) }\\frac{6}{x^3}",
+      "answer4": "\\text{D) }\\frac{2}{x^2}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{1}{x}\\right)",
+      "answer1": "\\text{A) }-\\frac{4}{x^3}",
+      "answer2": "\\text{B) }-\\frac{10}{x^3}",
+      "answer3": "\\text{C) }-\\frac{1}{x^2}",
+      "answer4": "\\text{D) }\\frac{4}{x^3}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{5}{x^2}\\right)",
+      "answer1": "\\text{A) }-\\frac{2}{x^2}",
+      "answer2": "\\text{B) }-\\frac{10}{x^3}",
+      "answer3": "\\text{C) }\\frac{2}{x^3}",
+      "answer4": "\\text{D) }\\frac{6}{x^4}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{2}{x}\\right)",
+      "answer1": "\\text{A) }\\frac{3}{x^2}",
+      "answer2": "\\text{B) }\\frac{8}{x^3}",
+      "answer3": "\\text{C) }-\\frac{10}{x^3}",
+      "answer4": "\\text{D) }-\\frac{2}{x^2}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{3}{x^2}\\right)",
+      "answer1": "\\text{A) }-\\frac{6}{x^3}",
+      "answer2": "\\text{B) }-\\frac{1}{x^2}",
+      "answer3": "\\text{C) }-\\frac{10}{x^3}",
+      "answer4": "\\text{D) }-\\frac{4}{x^3}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{1}{x}\\right)",
+      "answer1": "\\text{A) }-\\frac{9}{x^4}",
+      "answer2": "\\text{B) }\\frac{1}{x^2}",
+      "answer3": "\\text{C) }\\frac{12}{x^4}",
+      "answer4": "\\text{D) }-\\frac{2}{x^2}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{3}{x}\\right)",
+      "answer1": "\\text{A) }-\\frac{4}{x^2}",
+      "answer2": "\\text{B) }-\\frac{3}{x^4}",
+      "answer3": "\\text{C) }\\frac{3}{x^2}",
+      "answer4": "\\text{D) }-\\frac{5}{x^2}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{4}{x}\\right)",
+      "answer1": "\\text{A) }\\frac{2}{x^2}",
+      "answer2": "\\text{B) }-\\frac{4}{x^2}",
+      "answer3": "\\text{C) }-\\frac{5}{x^2}",
+      "answer4": "\\text{D) }\\frac{12}{x^4}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{1}{x^3}\\right)",
+      "answer1": "\\text{A) }-\\frac{8}{x^3}",
+      "answer2": "\\text{B) }-\\frac{3}{x^4}",
+      "answer3": "\\text{C) }\\frac{3}{x^4}",
+      "answer4": "\\text{D) }\\frac{6}{x^4}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{1}{x}\\right)",
+      "answer1": "\\text{A) }-\\frac{2}{x^2}",
+      "answer2": "\\text{B) }-\\frac{15}{x^4}",
+      "answer3": "\\text{C) }-\\frac{9}{x^4}",
+      "answer4": "\\text{D) }\\frac{1}{x^2}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{3}{x}\\right)",
+      "answer1": "\\text{A) }-\\frac{3}{x^2}",
+      "answer2": "\\text{B) }-\\frac{4}{x^2}",
+      "answer3": "\\text{C) }\\frac{2}{x^2}",
+      "answer4": "\\text{D) }-\\frac{10}{x^3}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{2}{x^3}\\right)",
+      "answer1": "\\text{A) }-\\frac{8}{x^3}",
+      "answer2": "\\text{B) }-\\frac{3}{x^2}",
+      "answer3": "\\text{C) }-\\frac{6}{x^4}",
+      "answer4": "\\text{D) }\\frac{2}{x^2}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{4}{x^2}\\right)",
+      "answer1": "\\text{A) }\\frac{1}{x^2}",
+      "answer2": "\\text{B) }-\\frac{3}{x^2}",
+      "answer3": "\\text{C) }-\\frac{15}{x^4}",
+      "answer4": "\\text{D) }-\\frac{8}{x^3}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{4}{x^2}\\right)",
+      "answer1": "\\text{A) }\\frac{1}{x^2}",
+      "answer2": "\\text{B) }\\frac{2}{x^2}",
+      "answer3": "\\text{C) }\\frac{8}{x^3}",
+      "answer4": "\\text{D) }-\\frac{5}{x^2}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{1}{x}\\right)",
+      "answer1": "\\text{A) }\\frac{1}{x^2}",
+      "answer2": "\\text{B) }\\frac{4}{x^2}",
+      "answer3": "\\text{C) }-\\frac{2}{x^2}",
+      "answer4": "\\text{D) }\\frac{3}{x^2}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{4}{x}\\right)",
+      "answer1": "\\text{A) }\\frac{4}{x^2}",
+      "answer2": "\\text{B) }-\\frac{4}{x^2}",
+      "answer3": "\\text{C) }\\frac{1}{x^2}",
+      "answer4": "\\text{D) }\\frac{9}{x^4}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    }
+  ]
+}

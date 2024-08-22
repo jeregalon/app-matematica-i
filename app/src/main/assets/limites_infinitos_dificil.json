@@ -1,0 +1,1055 @@
+{
+  "limites_infinitos_dificil": [
+    {
+      "question": "\\lim_{x \\to 2^{-}} \\left (\\frac{x^2-2x}{x^2-4x+4} \\right)",
+      "answer1": "\\text{A) } -\\infty",
+      "answer2": "\\text{B) } ",
+      "answer3": "\\text{C) } ",
+      "answer4": "\\text{D) } ",
+      "correct": "0",
+      "unlock": "4",
+      "difficulty": "hard"
+    },
+    {
+      "question": "\\lim_{x \\to 2^{+}} \\left (\\frac{x^2-2x-8}{x^2-5x+6} \\right)",
+      "answer1": "\\text{A) } ",
+      "answer2": "\\text{B) } \\infty",
+      "answer3": "\\text{C) } ",
+      "answer4": "\\text{D) } ",
+      "correct": "1",
+      "unlock": "4",
+      "difficulty": "hard"
+    },
+    {
+      "question": "\\lim_{x \\to -2^{+}} \\left( \\frac{8\\,x^2+5\\,x+10}{2\\,x^3+8\\,x^2+10\\,x+4} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }-\\infty",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -4} \\left( \\frac{x^2+7\\,x+6}{x^3+5\\,x^2+4\\,x} \\right)",
+      "answer1": "\\text{A) }0",
+      "answer2": "\\text{B) }-\\infty",
+      "answer3": "\\text{C) }NO EXISTE",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -2^{+}} \\left( \\frac{2\\,x^2+10}{2\\,x^3+6\\,x^2+4\\,x} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }-\\infty",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1^{-}} \\left( \\frac{10\\,x^2+8\\,x+8}{7\\,x^3+5\\,x^2+2} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }-\\infty",
+      "answer3": "\\text{C) }\\infty",
+      "answer4": "\\text{D) }0",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 0^{+}} \\left( \\frac{6\\,x^2+5\\,x+8}{2\\,x^3} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }-\\infty",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1^{+}} \\left( \\frac{7\\,x^3+8\\,x^2+8\\,x+4}{4\\,x^3+4\\,x^2+7\\,x+7} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }-\\infty",
+      "answer3": "\\text{C) }\\infty",
+      "answer4": "\\text{D) }0",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 0^{+}} \\left( \\frac{2\\,x^2+3\\,x+7}{6\\,x^3+6\\,x^2+4\\,x} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }-\\infty",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 0} \\left( \\frac{x^2+4}{2\\,x^3+5\\,x^2+x} \\right)",
+      "answer1": "\\text{A) }0",
+      "answer2": "\\text{B) }-\\infty",
+      "answer3": "\\text{C) }NO EXISTE",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -2^{-}} \\left( \\frac{5\\,x^3+5\\,x^2+6\\,x+5}{5\\,x^3+9\\,x^2+x+6} \\right)",
+      "answer1": "\\text{A) }\\infty",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }-\\infty",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -2^{+}} \\left( \\frac{9\\,x^2}{4\\,x^3+8\\,x^2} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }\\infty",
+      "answer3": "\\text{C) }-\\infty",
+      "answer4": "\\text{D) }0",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -4} \\left( \\frac{3\\,x^2+6\\,x}{2\\,x^3+9\\,x^2+5\\,x+4} \\right)",
+      "answer1": "\\text{A) }-\\infty",
+      "answer2": "\\text{B) }\\infty",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }NO EXISTE",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1^{-}} \\left( \\frac{5\\,x^2+8\\,x+2}{2\\,x^3+10\\,x^2+8\\,x} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }\\infty",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }-\\infty",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 0^{+}} \\left( \\frac{x^2+4\\,x+5}{2\\,x^3+3\\,x^2+5\\,x} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }\\infty",
+      "answer3": "\\text{C) }-\\infty",
+      "answer4": "\\text{D) }0",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 0} \\left( \\frac{4\\,x^2+7\\,x+1}{9\\,x^3+5\\,x} \\right)",
+      "answer1": "\\text{A) }-\\infty",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }\\infty",
+      "answer4": "\\text{D) }0",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -7^{-}} \\left( \\frac{7\\,x^2+3\\,x+5}{x^3+7\\,x^2} \\right)",
+      "answer1": "\\text{A) }0",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }-\\infty",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -4} \\left( \\frac{9\\,x^2+8\\,x+3}{2\\,x^3+10\\,x^2+8\\,x} \\right)",
+      "answer1": "\\text{A) }0",
+      "answer2": "\\text{B) }-\\infty",
+      "answer3": "\\text{C) }NO EXISTE",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 0^{-}} \\left( \\frac{7\\,x^2+10\\,x+8}{2\\,x^3+10\\,x} \\right)",
+      "answer1": "\\text{A) }0",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }-\\infty",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1^{+}} \\left( \\frac{2\\,x+9}{8\\,x^3+7\\,x^2+9\\,x+10} \\right)",
+      "answer1": "\\text{A) }0",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }\\infty",
+      "answer4": "\\text{D) }-\\infty",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 0^{+}} \\left( \\frac{2\\,x^2+6\\,x+1}{6\\,x^3+10\\,x^2+10\\,x} \\right)",
+      "answer1": "\\text{A) }\\infty",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }-\\infty",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1^{+}} \\left( \\frac{4\\,x^2+9\\,x+6}{8\\,x^3+7\\,x^2+9\\,x+10} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }-\\infty",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1^{-}} \\left( \\frac{10\\,x^2+5\\,x+2}{4\\,x^3+x^2+4\\,x+7} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }\\infty",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }-\\infty",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1} \\left( \\frac{7\\,x^3+5\\,x^2+x+10}{3\\,x^3+3\\,x^2+10\\,x+10} \\right)",
+      "answer1": "\\text{A) }0",
+      "answer2": "\\text{B) }-\\infty",
+      "answer3": "\\text{C) }NO EXISTE",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 0^{+}} \\left( \\frac{9\\,x^2+5\\,x+6}{4\\,x^3+7\\,x^2+3\\,x} \\right)",
+      "answer1": "\\text{A) }0",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }\\infty",
+      "answer4": "\\text{D) }-\\infty",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1} \\left( \\frac{4\\,x^2+x+4}{3\\,x^3+6\\,x+9} \\right)",
+      "answer1": "\\text{A) }-\\infty",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }\\infty",
+      "answer4": "\\text{D) }0",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1^{+}} \\left( \\frac{3\\,x^2+x+2}{3\\,x^3+3\\,x^2+6\\,x+6} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }\\infty",
+      "answer3": "\\text{C) }-\\infty",
+      "answer4": "\\text{D) }0",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1^{+}} \\left( \\frac{x^2+5\\,x+7}{7\\,x^3+2\\,x^2+3\\,x+8} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }\\infty",
+      "answer3": "\\text{C) }-\\infty",
+      "answer4": "\\text{D) }0",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -2^{+}} \\left( \\frac{2\\,x^3+2\\,x+1}{x^3+7\\,x^2+10\\,x} \\right)",
+      "answer1": "\\text{A) }0",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }\\infty",
+      "answer4": "\\text{D) }-\\infty",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1^{+}} \\left( \\frac{10\\,x^2+2\\,x+5}{4\\,x^3+3\\,x^2+1} \\right)",
+      "answer1": "\\text{A) }\\infty",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }-\\infty",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1} \\left( \\frac{x^2+10}{10\\,x^3+4\\,x^2+2\\,x+8} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }-\\infty",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1^{+}} \\left( \\frac{7\\,x^2+7\\,x+6}{6\\,x^3+10\\,x^2+8\\,x+4} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }\\infty",
+      "answer3": "\\text{C) }-\\infty",
+      "answer4": "\\text{D) }0",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1} \\left( \\frac{9\\,x^2+4\\,x+3}{9\\,x^3+x^2+2\\,x+10} \\right)",
+      "answer1": "\\text{A) }0",
+      "answer2": "\\text{B) }-\\infty",
+      "answer3": "\\text{C) }NO EXISTE",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1} \\left( \\frac{9\\,x^2+4\\,x+9}{4\\,x^3+3\\,x^2+7\\,x+8} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }-\\infty",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1^{-}} \\left( \\frac{2\\,x^2+3\\,x+4}{x^3+2\\,x^2+4\\,x+3} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }-\\infty",
+      "answer3": "\\text{C) }\\infty",
+      "answer4": "\\text{D) }0",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 0} \\left( \\frac{2\\,x^2+x+10}{9\\,x^3+x^2+10\\,x} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }-\\infty",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 0^{-}} \\left( \\frac{2\\,x^2+3}{7\\,x^3+2\\,x^2+7\\,x} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }-\\infty",
+      "answer3": "\\text{C) }\\infty",
+      "answer4": "\\text{D) }0",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1^{-}} \\left( \\frac{5\\,x^2+8\\,x+8}{6\\,x^3+6\\,x^2+3\\,x+3} \\right)",
+      "answer1": "\\text{A) }-\\infty",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1^{-}} \\left( \\frac{3\\,x^2+x+1}{5\\,x^3+5\\,x^2+6\\,x+6} \\right)",
+      "answer1": "\\text{A) }0",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }-\\infty",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 0^{-}} \\left( \\frac{5\\,x+3}{10\\,x^3+6\\,x} \\right)",
+      "answer1": "\\text{A) }-\\infty",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1} \\left( \\frac{9\\,x^2+10\\,x}{4\\,x^3+7\\,x^2+7\\,x+4} \\right)",
+      "answer1": "\\text{A) }0",
+      "answer2": "\\text{B) }-\\infty",
+      "answer3": "\\text{C) }NO EXISTE",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -3} \\left( \\frac{7\\,x^2+4\\,x+6}{x^3+3\\,x^2} \\right)",
+      "answer1": "\\text{A) }-\\infty",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }\\infty",
+      "answer4": "\\text{D) }0",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1^{-}} \\left( \\frac{10\\,x^2+2\\,x+2}{9\\,x^3+9\\,x^2+5\\,x+5} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }-\\infty",
+      "answer3": "\\text{C) }\\infty",
+      "answer4": "\\text{D) }0",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -2^{+}} \\left( \\frac{4\\,x^3+4\\,x^2+x+4}{4\\,x^3+9\\,x^2+5\\,x+6} \\right)",
+      "answer1": "\\text{A) }0",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }-\\infty",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1^{-}} \\left( \\frac{2\\,x^2+4\\,x+6}{3\\,x^3+10\\,x^2+7\\,x} \\right)",
+      "answer1": "\\text{A) }\\infty",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }-\\infty",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1^{+}} \\left( \\frac{10\\,x^2+9\\,x+5}{6\\,x^3+6\\,x^2+3\\,x+3} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }-\\infty",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1} \\left( \\frac{6\\,x^2+x}{8\\,x^3+6\\,x^2+7\\,x+9} \\right)",
+      "answer1": "\\text{A) }0",
+      "answer2": "\\text{B) }-\\infty",
+      "answer3": "\\text{C) }NO EXISTE",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1^{+}} \\left( \\frac{2\\,x^2+6\\,x+8}{10\\,x^3+10\\,x^2} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }\\infty",
+      "answer3": "\\text{C) }-\\infty",
+      "answer4": "\\text{D) }0",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1} \\left( \\frac{7\\,x+6}{8\\,x^3+8} \\right)",
+      "answer1": "\\text{A) }-\\infty",
+      "answer2": "\\text{B) }\\infty",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }NO EXISTE",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -2^{-}} \\left( \\frac{4\\,x^2+8\\,x+1}{2\\,x^3+4\\,x^2} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }\\infty",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }-\\infty",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 0^{+}} \\left( \\frac{3\\,x^2+3\\,x+9}{7\\,x^3+4\\,x^2+2\\,x} \\right)",
+      "answer1": "\\text{A) }\\infty",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }-\\infty",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1} \\left( \\frac{6\\,x^2+10\\,x}{2\\,x^3+4\\,x^2+8\\,x+6} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }-\\infty",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -3^{+}} \\left( \\frac{4\\,x^2+9\\,x+7}{2\\,x^3+7\\,x^2+3\\,x} \\right)",
+      "answer1": "\\text{A) }0",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }\\infty",
+      "answer4": "\\text{D) }-\\infty",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 0^{+}} \\left( \\frac{x^2+x+5}{6\\,x^3+5\\,x^2+7\\,x} \\right)",
+      "answer1": "\\text{A) }\\infty",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }-\\infty",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1} \\left( \\frac{4\\,x^2+4\\,x+8}{4\\,x^3+3\\,x^2+7\\,x+8} \\right)",
+      "answer1": "\\text{A) }-\\infty",
+      "answer2": "\\text{B) }\\infty",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }NO EXISTE",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1^{+}} \\left( \\frac{7\\,x^2+10\\,x}{3\\,x^3+2\\,x^2+5\\,x+6} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }-\\infty",
+      "answer3": "\\text{C) }\\infty",
+      "answer4": "\\text{D) }0",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1} \\left( \\frac{10\\,x^2+2\\,x+8}{10\\,x^3+10\\,x^2+4\\,x+4} \\right)",
+      "answer1": "\\text{A) }-\\infty",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }\\infty",
+      "answer4": "\\text{D) }0",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -2} \\left( \\frac{5\\,x^2+8\\,x+3}{4\\,x^3+8\\,x^2+3\\,x+6} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }-\\infty",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 0^{+}} \\left( \\frac{8\\,x^2+10}{6\\,x^3+6\\,x^2+4\\,x} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }\\infty",
+      "answer3": "\\text{C) }-\\infty",
+      "answer4": "\\text{D) }0",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 0} \\left( \\frac{10\\,x^2+9\\,x+10}{5\\,x^3+2\\,x} \\right)",
+      "answer1": "\\text{A) }-\\infty",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }\\infty",
+      "answer4": "\\text{D) }0",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 0} \\left( \\frac{4\\,x^2+7\\,x+6}{10\\,x^3+10\\,x^2+4\\,x} \\right)",
+      "answer1": "\\text{A) }0",
+      "answer2": "\\text{B) }-\\infty",
+      "answer3": "\\text{C) }NO EXISTE",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1} \\left( \\frac{x^2+3}{4\\,x^3+3\\,x^2+7\\,x+8} \\right)",
+      "answer1": "\\text{A) }0",
+      "answer2": "\\text{B) }-\\infty",
+      "answer3": "\\text{C) }NO EXISTE",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -2^{+}} \\left( \\frac{2\\,x^2+4\\,x+7}{2\\,x^3+4\\,x^2+3\\,x+6} \\right)",
+      "answer1": "\\text{A) }\\infty",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }-\\infty",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1^{-}} \\left( \\frac{9\\,x^2+5\\,x+4}{10\\,x^3+4\\,x^2+4\\,x+10} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }\\infty",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }-\\infty",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1} \\left( \\frac{4\\,x^2+9\\,x+8}{7\\,x^3+8\\,x^2+9\\,x+8} \\right)",
+      "answer1": "\\text{A) }-\\infty",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }\\infty",
+      "answer4": "\\text{D) }0",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1} \\left( \\frac{6\\,x^2+9\\,x+7}{6\\,x^3+2\\,x^2+4\\,x+8} \\right)",
+      "answer1": "\\text{A) }0",
+      "answer2": "\\text{B) }-\\infty",
+      "answer3": "\\text{C) }NO EXISTE",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1^{+}} \\left( \\frac{10\\,x^3+7\\,x^2}{3\\,x^3+4\\,x^2+10\\,x+9} \\right)",
+      "answer1": "\\text{A) }-\\infty",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1^{+}} \\left( \\frac{3\\,x^2+8\\,x+4}{x^3+2\\,x^2+4\\,x+3} \\right)",
+      "answer1": "\\text{A) }-\\infty",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 0^{+}} \\left( \\frac{2\\,x^2+9\\,x+9}{5\\,x^3+9\\,x^2+8\\,x} \\right)",
+      "answer1": "\\text{A) }\\infty",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }-\\infty",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1^{+}} \\left( \\frac{8\\,x^2+3\\,x+5}{9\\,x^3+5\\,x^2+2\\,x+6} \\right)",
+      "answer1": "\\text{A) }0",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }\\infty",
+      "answer4": "\\text{D) }-\\infty",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1^{-}} \\left( \\frac{4\\,x^2+9\\,x+4}{5\\,x^3+x^2+4\\,x+8} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }\\infty",
+      "answer3": "\\text{C) }-\\infty",
+      "answer4": "\\text{D) }0",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1^{-}} \\left( \\frac{10\\,x^2+10\\,x+1}{x^3+x^2+2\\,x+2} \\right)",
+      "answer1": "\\text{A) }-\\infty",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1} \\left( \\frac{9\\,x^2+6\\,x+4}{3\\,x^3+4\\,x^2+x} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }-\\infty",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1^{-}} \\left( \\frac{7\\,x^3+10\\,x^2+6\\,x+9}{6\\,x^3+6\\,x^2+7\\,x+7} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }-\\infty",
+      "answer3": "\\text{C) }\\infty",
+      "answer4": "\\text{D) }0",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1^{-}} \\left( \\frac{9\\,x^3+6\\,x^2+8\\,x+8}{10\\,x^3+3\\,x^2+x+8} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }-\\infty",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1} \\left( \\frac{9\\,x^2+x+5}{9\\,x^3+9\\,x^2+5\\,x+5} \\right)",
+      "answer1": "\\text{A) }-\\infty",
+      "answer2": "\\text{B) }\\infty",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }NO EXISTE",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1^{-}} \\left( \\frac{8\\,x^3+x^2+x+6}{2\\,x^3+7\\,x^2+5\\,x} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }-\\infty",
+      "answer3": "\\text{C) }\\infty",
+      "answer4": "\\text{D) }0",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1} \\left( \\frac{6\\,x^2+x+2}{2\\,x^3+7\\,x^2+5\\,x} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }-\\infty",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -2^{-}} \\left( \\frac{7\\,x^2+9\\,x+9}{2\\,x^3+6\\,x^2+5\\,x+2} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }-\\infty",
+      "answer3": "\\text{C) }\\infty",
+      "answer4": "\\text{D) }0",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 0^{-}} \\left( \\frac{8\\,x^2+6\\,x+2}{3\\,x^3+3\\,x^2+6\\,x} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }-\\infty",
+      "answer3": "\\text{C) }\\infty",
+      "answer4": "\\text{D) }0",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1^{+}} \\left( \\frac{10\\,x^2+8\\,x+10}{4\\,x^3+3\\,x^2+4\\,x+5} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }-\\infty",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1^{-}} \\left( \\frac{9\\,x^2+10\\,x+10}{x^3+1} \\right)",
+      "answer1": "\\text{A) }-\\infty",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 0^{-}} \\left( \\frac{3\\,x^2+x+8}{6\\,x^3+4\\,x^2+7\\,x} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }\\infty",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }-\\infty",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1^{-}} \\left( \\frac{10\\,x^2+9\\,x+3}{2\\,x^3+8\\,x^2+6\\,x} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }-\\infty",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1} \\left( \\frac{x^2+9\\,x}{6\\,x^3+x^2+5\\,x+10} \\right)",
+      "answer1": "\\text{A) }-\\infty",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }\\infty",
+      "answer4": "\\text{D) }0",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1^{+}} \\left( \\frac{10\\,x^2+6}{8\\,x^3+x^2+3\\,x+10} \\right)",
+      "answer1": "\\text{A) }0",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }\\infty",
+      "answer4": "\\text{D) }-\\infty",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -4^{+}} \\left( \\frac{3\\,x^2+2}{2\\,x^3+8\\,x^2} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }-\\infty",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -2} \\left( \\frac{10\\,x^2+4\\,x+10}{4\\,x^3+9\\,x^2+2\\,x} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }-\\infty",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1} \\left( \\frac{3\\,x^2+6\\,x+9}{3\\,x^3+6\\,x+9} \\right)",
+      "answer1": "\\text{A) }0",
+      "answer2": "\\text{B) }-\\infty",
+      "answer3": "\\text{C) }NO EXISTE",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -2^{-}} \\left( \\frac{2\\,x^2+9\\,x+7}{3\\,x^3+8\\,x^2+4\\,x} \\right)",
+      "answer1": "\\text{A) }0",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }\\infty",
+      "answer4": "\\text{D) }-\\infty",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1^{-}} \\left( \\frac{x^2+9\\,x+9}{3\\,x^3+3\\,x^2+7\\,x+7} \\right)",
+      "answer1": "\\text{A) }0",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }-\\infty",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 0^{-}} \\left( \\frac{3\\,x^2+6\\,x+6}{x^3+9\\,x^2+4\\,x} \\right)",
+      "answer1": "\\text{A) }0",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }-\\infty",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1^{+}} \\left( \\frac{9\\,x^3+9\\,x^2+4\\,x+8}{4\\,x^3+10\\,x^2+9\\,x+3} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }\\infty",
+      "answer3": "\\text{C) }-\\infty",
+      "answer4": "\\text{D) }0",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1} \\left( \\frac{2\\,x^2+3\\,x+5}{7\\,x^3+7\\,x^2} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }-\\infty",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 0} \\left( \\frac{7\\,x^2+4\\,x+10}{7\\,x^3+4\\,x^2+8\\,x} \\right)",
+      "answer1": "\\text{A) }-\\infty",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }\\infty",
+      "answer4": "\\text{D) }0",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 0^{-}} \\left( \\frac{10\\,x^2+6\\,x+10}{5\\,x^3+9\\,x^2+x} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }\\infty",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }-\\infty",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 0^{-}} \\left( \\frac{4\\,x^3+10\\,x^2+4\\,x+7}{10\\,x^3+10\\,x^2+4\\,x} \\right)",
+      "answer1": "\\text{A) }-\\infty",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1^{+}} \\left( \\frac{6\\,x^3+6\\,x^2+10\\,x+8}{4\\,x^3+3\\,x^2+1} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }\\infty",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }-\\infty",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1^{+}} \\left( \\frac{7\\,x+5}{8\\,x^3+10\\,x^2+2\\,x} \\right)",
+      "answer1": "\\text{A) }-\\infty",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1} \\left( \\frac{3\\,x^3+2\\,x^2+7\\,x}{2\\,x^3+4\\,x^2+8\\,x+6} \\right)",
+      "answer1": "\\text{A) }-\\infty",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }\\infty",
+      "answer4": "\\text{D) }0",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 0^{+}} \\left( \\frac{6\\,x^2+8\\,x+1}{9\\,x^3+5\\,x^2+2\\,x} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }\\infty",
+      "answer3": "\\text{C) }-\\infty",
+      "answer4": "\\text{D) }0",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -2^{-}} \\left( \\frac{5\\,x+4}{3\\,x^3+6\\,x^2} \\right)",
+      "answer1": "\\text{A) }0",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }\\infty",
+      "answer4": "\\text{D) }-\\infty",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -2} \\left( \\frac{7\\,x^2+9\\,x}{3\\,x^3+6\\,x^2} \\right)",
+      "answer1": "\\text{A) }-\\infty",
+      "answer2": "\\text{B) }\\infty",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }NO EXISTE",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1^{-}} \\left( \\frac{3\\,x^2+8}{x^3+9\\,x^2+8\\,x} \\right)",
+      "answer1": "\\text{A) }\\infty",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }-\\infty",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 0^{+}} \\left( \\frac{7\\,x^2+7\\,x+1}{x^3+x^2+5\\,x} \\right)",
+      "answer1": "\\text{A) }\\infty",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }-\\infty",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    }
+
+  ]
+}

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Matemática I</string>
+
+    <string name="msg_back">"Are you sure want to exit the quiz?"</string>
+
+    <string name="msg1">Responde todas las preguntas para completar el nivel</string>
+
+    <string name="msg2">Bien hecho. Ahora un poco más difícil</string>
+    <string name="title_activity_compose">ComposeActivity</string>
+
+
+</resources>

@@ -1,0 +1,54 @@
+{
+  "limites_con_fracciones": [
+    {
+      "question": "\\lim_{h \\to 0} \\left (\\frac{(3+h)^{-1}-3^{-1}}{h} \\right)",
+      "answer1": "\\text{A) } ",
+      "answer2": "\\text{B) } ",
+      "answer3": "\\text{C) } ",
+      "answer4": "\\text{D) } -\\frac{1}{9}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy-medium"
+    },
+    {
+      "question": "\\lim_{x \\to -4} \\left (\\frac{\\frac{1}{4}+\\frac{1}{x}}{4+x} \\right)",
+      "answer1": "\\text{A) } ",
+      "answer2": "\\text{B) } -\\frac{1}{16}",
+      "answer3": "\\text{C) } ",
+      "answer4": "\\text{D) } ",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy-medium"
+    },
+    {
+      "question": "\\lim_{t \\to 0} \\left (\\frac{1}{t} - \\frac{1}{t^2+t} \\right)",
+      "answer1": "\\text{A) } ",
+      "answer2": "\\text{B) } ",
+      "answer3": "\\text{C) } 1",
+      "answer4": "\\text{D) } ",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{t \\to 0} \\left (\\frac{1}{t\\sqrt{1+t}} - \\frac{1}{t} \\right)",
+      "answer1": "\\text{A) } ",
+      "answer2": "\\text{B) } -\\frac{1}{2}",
+      "answer3": "\\text{C) } ",
+      "answer4": "\\text{D) } ",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "medium-hard"
+    },
+    {
+      "question": "\\lim_{h \\to 0} \\left (\\frac{\\frac{1}{(x+h)^2} - \\frac{1}{x^2}}{h} \\right)",
+      "answer1": "\\text{A) } ",
+      "answer2": "\\text{B) } -\\frac{2}{x^3}",
+      "answer3": "\\text{C) } ",
+      "answer4": "\\text{D) } ",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy-medium"
+    }
+  ]
+}

@@ -1,0 +1,1384 @@
+{
+  "limites_infinitos_facil": [
+    {
+      "question": "\\lim_{x \\to 7^{-}} \\left( \\frac{x+4}{x-7} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }-\\infty",
+      "answer3": "\\text{C) }\\infty",
+      "answer4": "\\text{D) }0",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 2^{-}} \\left( \\frac{x+4}{x-2} \\right)",
+      "answer1": "\\text{A) }-\\infty",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 1^{-}} \\left( \\frac{x^2+4}{x^2-1} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }-\\infty",
+      "answer3": "\\text{C) }\\infty",
+      "answer4": "\\text{D) }0",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 5^{+}} \\left( \\frac{x+7}{x-5} \\right)",
+      "answer1": "\\text{A) }\\infty",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }-\\infty",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 1^{-}} \\left( \\frac{x^2+2}{x^2-1} \\right)",
+      "answer1": "\\text{A) }-\\infty",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 2^{+}} \\left( \\frac{x^2+1}{x^2-4} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }-\\infty",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1^{-}} \\left( \\frac{x+4}{x+1} \\right)",
+      "answer1": "\\text{A) }-\\infty",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 3^{-}} \\left( \\frac{x^2}{x^2-9} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }\\infty",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }-\\infty",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 3^{+}} \\left( \\frac{x^2+7}{x^2-9} \\right)",
+      "answer1": "\\text{A) }0",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }\\infty",
+      "answer4": "\\text{D) }-\\infty",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 2^{+}} \\left( \\frac{x+2}{x-2} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }-\\infty",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -9^{+}} \\left( \\frac{x+6}{x+9} \\right)",
+      "answer1": "\\text{A) }0",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }-\\infty",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -9^{-}} \\left( \\frac{x+4}{x+9} \\right)",
+      "answer1": "\\text{A) }0",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }\\infty",
+      "answer4": "\\text{D) }-\\infty",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 1^{-}} \\left( \\frac{x^2+3}{x^2-1} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }-\\infty",
+      "answer3": "\\text{C) }\\infty",
+      "answer4": "\\text{D) }0",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 1^{-}} \\left( \\frac{x^2+6}{x^2-1} \\right)",
+      "answer1": "\\text{A) }-\\infty",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -7^{+}} \\left( \\frac{x+10}{x+7} \\right)",
+      "answer1": "\\text{A) }\\infty",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }-\\infty",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 1^{+}} \\left( \\frac{x^2}{x^2-1} \\right)",
+      "answer1": "\\text{A) }0",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }\\infty",
+      "answer4": "\\text{D) }-\\infty",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1^{+}} \\left( \\frac{x+3}{x+1} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }-\\infty",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 7^{+}} \\left( \\frac{x+7}{x-7} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }\\infty",
+      "answer3": "\\text{C) }-\\infty",
+      "answer4": "\\text{D) }0",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 3^{-}} \\left( \\frac{x^2+2}{x^2-9} \\right)",
+      "answer1": "\\text{A) }0",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }-\\infty",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 1^{+}} \\left( \\frac{x^2+5}{x^2-1} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }-\\infty",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 5^{+}} \\left( \\frac{x+6}{x-5} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }\\infty",
+      "answer3": "\\text{C) }-\\infty",
+      "answer4": "\\text{D) }0",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -10^{+}} \\left( \\frac{x+9}{x+10} \\right)",
+      "answer1": "\\text{A) }-\\infty",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 4^{+}} \\left( \\frac{x+9}{x-4} \\right)",
+      "answer1": "\\text{A) }\\infty",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }-\\infty",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 4^{+}} \\left( \\frac{x+2}{x-4} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }\\infty",
+      "answer3": "\\text{C) }-\\infty",
+      "answer4": "\\text{D) }0",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1^{+}} \\left( \\frac{x+6}{x+1} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }\\infty",
+      "answer3": "\\text{C) }-\\infty",
+      "answer4": "\\text{D) }0",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -2^{-}} \\left( \\frac{x+4}{x+2} \\right)",
+      "answer1": "\\text{A) }-\\infty",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 7^{+}} \\left( \\frac{x+10}{x-7} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }\\infty",
+      "answer3": "\\text{C) }-\\infty",
+      "answer4": "\\text{D) }0",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -6^{-}} \\left( \\frac{x+1}{x+6} \\right)",
+      "answer1": "\\text{A) }0",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }\\infty",
+      "answer4": "\\text{D) }-\\infty",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -4^{+}} \\left( \\frac{x+2}{x+4} \\right)",
+      "answer1": "\\text{A) }0",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }-\\infty",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 3^{-}} \\left( \\frac{x^2+2}{x^2-9} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }\\infty",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }-\\infty",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 1^{-}} \\left( \\frac{x}{x-1} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }\\infty",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }-\\infty",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -7^{-}} \\left( \\frac{x+2}{x+7} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }-\\infty",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 7^{+}} \\left( \\frac{x+1}{x-7} \\right)",
+      "answer1": "\\text{A) }0",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }\\infty",
+      "answer4": "\\text{D) }-\\infty",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 2^{-}} \\left( \\frac{x^2+9}{x^2-4} \\right)",
+      "answer1": "\\text{A) }0",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }-\\infty",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 1^{-}} \\left( \\frac{x^2+2}{x^2-1} \\right)",
+      "answer1": "\\text{A) }-\\infty",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 3^{-}} \\left( \\frac{x^2+9}{x^2-9} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }-\\infty",
+      "answer3": "\\text{C) }\\infty",
+      "answer4": "\\text{D) }0",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 7^{+}} \\left( \\frac{x+4}{x-7} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }\\infty",
+      "answer3": "\\text{C) }-\\infty",
+      "answer4": "\\text{D) }0",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 7^{+}} \\left( \\frac{x+1}{x-7} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }-\\infty",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 2^{+}} \\left( \\frac{x^2+2}{x^2-4} \\right)",
+      "answer1": "\\text{A) }\\infty",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }-\\infty",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -9^{+}} \\left( \\frac{x+1}{x+9} \\right)",
+      "answer1": "\\text{A) }-\\infty",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 0^{+}} \\left( \\frac{x+10}{x} \\right)",
+      "answer1": "\\text{A) }\\infty",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }-\\infty",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -10^{+}} \\left( \\frac{x+8}{x+10} \\right)",
+      "answer1": "\\text{A) }-\\infty",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -6^{+}} \\left( \\frac{x+7}{x+6} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }\\infty",
+      "answer3": "\\text{C) }-\\infty",
+      "answer4": "\\text{D) }0",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 1^{-}} \\left( \\frac{x^2+7}{x^2-1} \\right)",
+      "answer1": "\\text{A) }-\\infty",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 3^{+}} \\left( \\frac{x+7}{x-3} \\right)",
+      "answer1": "\\text{A) }\\infty",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }-\\infty",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -6^{-}} \\left( \\frac{x+8}{x+6} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }-\\infty",
+      "answer3": "\\text{C) }\\infty",
+      "answer4": "\\text{D) }0",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -6^{-}} \\left( \\frac{x+7}{x+6} \\right)",
+      "answer1": "\\text{A) }0",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }-\\infty",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 2^{+}} \\left( \\frac{x^2+1}{x^2-4} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }\\infty",
+      "answer3": "\\text{C) }-\\infty",
+      "answer4": "\\text{D) }0",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 4^{+}} \\left( \\frac{x+8}{x-4} \\right)",
+      "answer1": "\\text{A) }0",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }\\infty",
+      "answer4": "\\text{D) }-\\infty",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 7^{-}} \\left( \\frac{x+6}{x-7} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }-\\infty",
+      "answer3": "\\text{C) }\\infty",
+      "answer4": "\\text{D) }0",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 5^{+}} \\left( \\frac{x+8}{x-5} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }\\infty",
+      "answer3": "\\text{C) }-\\infty",
+      "answer4": "\\text{D) }0",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 0^{-}} \\left( \\frac{x+6}{x} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }\\infty",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }-\\infty",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 4^{+}} \\left( \\frac{x+10}{x-4} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }-\\infty",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 8^{+}} \\left( \\frac{x}{x-8} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }-\\infty",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 2^{-}} \\left( \\frac{x^2+6}{x^2-4} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }-\\infty",
+      "answer3": "\\text{C) }\\infty",
+      "answer4": "\\text{D) }0",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1^{-}} \\left( \\frac{x+3}{x+1} \\right)",
+      "answer1": "\\text{A) }0",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }-\\infty",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -5^{-}} \\left( \\frac{x+7}{x+5} \\right)",
+      "answer1": "\\text{A) }-\\infty",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -7^{+}} \\left( \\frac{x+1}{x+7} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }\\infty",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }-\\infty",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -10^{-}} \\left( \\frac{x+1}{x+10} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }-\\infty",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 2^{-}} \\left( \\frac{x}{x-2} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }\\infty",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }-\\infty",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 4^{-}} \\left( \\frac{x+2}{x-4} \\right)",
+      "answer1": "\\text{A) }-\\infty",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 7^{+}} \\left( \\frac{x+6}{x-7} \\right)",
+      "answer1": "\\text{A) }0",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }\\infty",
+      "answer4": "\\text{D) }-\\infty",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 8^{-}} \\left( \\frac{x+4}{x-8} \\right)",
+      "answer1": "\\text{A) }-\\infty",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 9^{+}} \\left( \\frac{x+4}{x-9} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }-\\infty",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -9^{-}} \\left( \\frac{x+3}{x+9} \\right)",
+      "answer1": "\\text{A) }\\infty",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }-\\infty",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 1^{-}} \\left( \\frac{x+2}{x-1} \\right)",
+      "answer1": "\\text{A) }-\\infty",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 8^{-}} \\left( \\frac{x+6}{x-8} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }-\\infty",
+      "answer3": "\\text{C) }\\infty",
+      "answer4": "\\text{D) }0",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 1^{+}} \\left( \\frac{x^2}{x^2-1} \\right)",
+      "answer1": "\\text{A) }0",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }\\infty",
+      "answer4": "\\text{D) }-\\infty",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 4^{+}} \\left( \\frac{x+6}{x-4} \\right)",
+      "answer1": "\\text{A) }\\infty",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }-\\infty",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 2^{+}} \\left( \\frac{x^2+4}{x^2-4} \\right)",
+      "answer1": "\\text{A) }\\infty",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }-\\infty",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 1^{-}} \\left( \\frac{x+5}{x-1} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }-\\infty",
+      "answer3": "\\text{C) }\\infty",
+      "answer4": "\\text{D) }0",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -6^{+}} \\left( \\frac{x+8}{x+6} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }\\infty",
+      "answer3": "\\text{C) }-\\infty",
+      "answer4": "\\text{D) }0",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -9^{+}} \\left( \\frac{x+3}{x+9} \\right)",
+      "answer1": "\\text{A) }0",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }-\\infty",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 3^{-}} \\left( \\frac{x+2}{x-3} \\right)",
+      "answer1": "\\text{A) }-\\infty",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 1^{-}} \\left( \\frac{x^2+2}{x^2-1} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }-\\infty",
+      "answer3": "\\text{C) }\\infty",
+      "answer4": "\\text{D) }0",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 6^{+}} \\left( \\frac{x+4}{x-6} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }-\\infty",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 2^{+}} \\left( \\frac{x^2+2}{x^2-4} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }\\infty",
+      "answer3": "\\text{C) }-\\infty",
+      "answer4": "\\text{D) }0",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 7^{-}} \\left( \\frac{x+2}{x-7} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }-\\infty",
+      "answer3": "\\text{C) }\\infty",
+      "answer4": "\\text{D) }0",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 4^{+}} \\left( \\frac{x}{x-4} \\right)",
+      "answer1": "\\text{A) }\\infty",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }-\\infty",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -2^{-}} \\left( \\frac{x+5}{x+2} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }-\\infty",
+      "answer3": "\\text{C) }\\infty",
+      "answer4": "\\text{D) }0",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 5^{-}} \\left( \\frac{x+5}{x-5} \\right)",
+      "answer1": "\\text{A) }0",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }-\\infty",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -10^{-}} \\left( \\frac{x+4}{x+10} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }-\\infty",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 4^{-}} \\left( \\frac{x+1}{x-4} \\right)",
+      "answer1": "\\text{A) }0",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }-\\infty",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -4^{-}} \\left( \\frac{x+1}{x+4} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }-\\infty",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 3^{+}} \\left( \\frac{x+9}{x-3} \\right)",
+      "answer1": "\\text{A) }\\infty",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }-\\infty",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 0^{+}} \\left( \\frac{x+5}{x} \\right)",
+      "answer1": "\\text{A) }0",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }\\infty",
+      "answer4": "\\text{D) }-\\infty",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -2^{-}} \\left( \\frac{x+8}{x+2} \\right)",
+      "answer1": "\\text{A) }-\\infty",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 1^{+}} \\left( \\frac{x^2+5}{x^2-1} \\right)",
+      "answer1": "\\text{A) }0",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }\\infty",
+      "answer4": "\\text{D) }-\\infty",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -4^{-}} \\left( \\frac{x}{x+4} \\right)",
+      "answer1": "\\text{A) }\\infty",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }-\\infty",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 3^{+}} \\left( \\frac{x^2+8}{x^2-9} \\right)",
+      "answer1": "\\text{A) }\\infty",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }-\\infty",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -3^{+}} \\left( \\frac{x+10}{x+3} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }\\infty",
+      "answer3": "\\text{C) }-\\infty",
+      "answer4": "\\text{D) }0",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 7^{-}} \\left( \\frac{x}{x-7} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }-\\infty",
+      "answer3": "\\text{C) }\\infty",
+      "answer4": "\\text{D) }0",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 2^{+}} \\left( \\frac{x}{x-2} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }\\infty",
+      "answer3": "\\text{C) }-\\infty",
+      "answer4": "\\text{D) }0",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 1^{-}} \\left( \\frac{x+3}{x-1} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }\\infty",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }-\\infty",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 1^{-}} \\left( \\frac{x^2+4}{x^2-1} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }-\\infty",
+      "answer3": "\\text{C) }\\infty",
+      "answer4": "\\text{D) }0",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -5^{-}} \\left( \\frac{x}{x+5} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }\\infty",
+      "answer3": "\\text{C) }-\\infty",
+      "answer4": "\\text{D) }0",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -10^{-}} \\left( \\frac{x+4}{x+10} \\right)",
+      "answer1": "\\text{A) }0",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }\\infty",
+      "answer4": "\\text{D) }-\\infty",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -4^{-}} \\left( \\frac{x+7}{x+4} \\right)",
+      "answer1": "\\text{A) }-\\infty",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 2^{+}} \\left( \\frac{x^2}{x^2-4} \\right)",
+      "answer1": "\\text{A) }0",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }\\infty",
+      "answer4": "\\text{D) }-\\infty",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -10^{-}} \\left( \\frac{x+5}{x+10} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }-\\infty",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 1^{-}} \\left( \\frac{x+2}{x-1} \\right)",
+      "answer1": "\\text{A) }-\\infty",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -2^{-}} \\left( \\frac{x+4}{x+2} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }-\\infty",
+      "answer3": "\\text{C) }\\infty",
+      "answer4": "\\text{D) }0",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -10^{+}} \\left( \\frac{x+9}{x+10} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }-\\infty",
+      "answer3": "\\text{C) }\\infty",
+      "answer4": "\\text{D) }0",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 3^{+}} \\left( \\frac{x^2+9}{x^2-9} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }\\infty",
+      "answer3": "\\text{C) }-\\infty",
+      "answer4": "\\text{D) }0",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 1^{-}} \\left( \\frac{x^2+4}{x^2-1} \\right)",
+      "answer1": "\\text{A) }-\\infty",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 2^{+}} \\left( \\frac{x^2+6}{x^2-4} \\right)",
+      "answer1": "\\text{A) }0",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }\\infty",
+      "answer4": "\\text{D) }-\\infty",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 1^{+}} \\left( \\frac{x^2}{x^2-1} \\right)",
+      "answer1": "\\text{A) }0",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }\\infty",
+      "answer4": "\\text{D) }-\\infty",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -10^{+}} \\left( \\frac{x+7}{x+10} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }-\\infty",
+      "answer3": "\\text{C) }\\infty",
+      "answer4": "\\text{D) }0",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 1^{-}} \\left( \\frac{x+8}{x-1} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }-\\infty",
+      "answer3": "\\text{C) }\\infty",
+      "answer4": "\\text{D) }0",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1^{-}} \\left( \\frac{x+4}{x+1} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }\\infty",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }-\\infty",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -10^{-}} \\left( \\frac{x+7}{x+10} \\right)",
+      "answer1": "\\text{A) }0",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }\\infty",
+      "answer4": "\\text{D) }-\\infty",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 8^{-}} \\left( \\frac{x+7}{x-8} \\right)",
+      "answer1": "\\text{A) }-\\infty",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -6^{+}} \\left( \\frac{x+3}{x+6} \\right)",
+      "answer1": "\\text{A) }-\\infty",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 9^{-}} \\left( \\frac{x+10}{x-9} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }-\\infty",
+      "answer3": "\\text{C) }\\infty",
+      "answer4": "\\text{D) }0",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -6^{-}} \\left( \\frac{x+3}{x+6} \\right)",
+      "answer1": "\\text{A) }\\infty",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }-\\infty",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 6^{-}} \\left( \\frac{x+5}{x-6} \\right)",
+      "answer1": "\\text{A) }0",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }-\\infty",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -9^{-}} \\left( \\frac{x+2}{x+9} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }-\\infty",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -2^{+}} \\left( \\frac{x+1}{x+2} \\right)",
+      "answer1": "\\text{A) }0",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }-\\infty",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -4^{+}} \\left( \\frac{x+7}{x+4} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }-\\infty",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 7^{+}} \\left( \\frac{x+2}{x-7} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }\\infty",
+      "answer3": "\\text{C) }-\\infty",
+      "answer4": "\\text{D) }0",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 2^{+}} \\left( \\frac{x+8}{x-2} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }\\infty",
+      "answer3": "\\text{C) }-\\infty",
+      "answer4": "\\text{D) }0",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -3^{+}} \\left( \\frac{x+2}{x+3} \\right)",
+      "answer1": "\\text{A) }0",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }-\\infty",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 7^{+}} \\left( \\frac{x+3}{x-7} \\right)",
+      "answer1": "\\text{A) }0",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }\\infty",
+      "answer4": "\\text{D) }-\\infty",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -3^{+}} \\left( \\frac{x+5}{x+3} \\right)",
+      "answer1": "\\text{A) }0",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }\\infty",
+      "answer4": "\\text{D) }-\\infty",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 7^{-}} \\left( \\frac{x+2}{x-7} \\right)",
+      "answer1": "\\text{A) }-\\infty",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -6^{+}} \\left( \\frac{x+4}{x+6} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }\\infty",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }-\\infty",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 7^{+}} \\left( \\frac{x+2}{x-7} \\right)",
+      "answer1": "\\text{A) }\\infty",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }-\\infty",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 0^{-}} \\left( \\frac{x+9}{x} \\right)",
+      "answer1": "\\text{A) }0",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }-\\infty",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 7^{+}} \\left( \\frac{x+3}{x-7} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }\\infty",
+      "answer3": "\\text{C) }-\\infty",
+      "answer4": "\\text{D) }0",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 1^{+}} \\left( \\frac{x+2}{x-1} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }\\infty",
+      "answer3": "\\text{C) }-\\infty",
+      "answer4": "\\text{D) }0",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -5^{-}} \\left( \\frac{x+7}{x+5} \\right)",
+      "answer1": "\\text{A) }-\\infty",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 6^{+}} \\left( \\frac{x+2}{x-6} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }\\infty",
+      "answer3": "\\text{C) }-\\infty",
+      "answer4": "\\text{D) }0",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 2^{+}} \\left( \\frac{x+8}{x-2} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }-\\infty",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -9^{-}} \\left( \\frac{x+8}{x+9} \\right)",
+      "answer1": "\\text{A) }0",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }\\infty",
+      "answer4": "\\text{D) }-\\infty",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 6^{+}} \\left( \\frac{x+8}{x-6} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }-\\infty",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 6^{-}} \\left( \\frac{x+6}{x-6} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }-\\infty",
+      "answer3": "\\text{C) }\\infty",
+      "answer4": "\\text{D) }0",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 3^{+}} \\left( \\frac{x+8}{x-3} \\right)",
+      "answer1": "\\text{A) }\\infty",
+      "answer2": "\\text{B) }NO EXISTE",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }-\\infty",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 2^{-}} \\left( \\frac{x^2+7}{x^2-4} \\right)",
+      "answer1": "\\text{A) }NO EXISTE",
+      "answer2": "\\text{B) }-\\infty",
+      "answer3": "\\text{C) }\\infty",
+      "answer4": "\\text{D) }0",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    }
+  ]
+}

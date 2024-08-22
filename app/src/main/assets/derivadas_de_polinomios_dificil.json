@@ -1,0 +1,2005 @@
+{
+  "derivadas_de_polinomios_dificil": [
+    {
+      "question": "\\frac{d}{dx} \\left (-5\\,x^8+6\\,x^6+8\\,x^5\\right)",
+      "answer1": "\\text{A) }-36\\,x^5-45\\,x^4+10",
+      "answer2": "\\text{B) }-40\\,x^7+36\\,x^5+40\\,x^4",
+      "answer3": "\\text{C) }27\\,x^8-63\\,x^6+20\\,x^4",
+      "answer4": "\\text{D) }-35\\,x^6+42\\,x^5-40\\,x^4",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-4\\,x^6+7\\,x^5-8\\,x^3\\right)",
+      "answer1": "\\text{A) }-18\\,x^8+6\\,x^2-6\\,x",
+      "answer2": "\\text{B) }-32\\,x^3-10\\,x-4",
+      "answer3": "\\text{C) }-24\\,x^5+35\\,x^4-24\\,x^2",
+      "answer4": "\\text{D) }64\\,x^7+6\\,x^2+14\\,x",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-9\\,x^6-6\\,x^4-2\\,x^2\\right)",
+      "answer1": "\\text{A) }-54\\,x^5-24\\,x^3-4\\,x",
+      "answer2": "\\text{B) }-16\\,x^7+63\\,x^6+7",
+      "answer3": "\\text{C) }-7\\,x^6-20\\,x^4-3\\,x^2",
+      "answer4": "\\text{D) }27\\,x^8+20\\,x+2",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-5\\,x^9+6\\,x^7+3\\,x^4\\right)",
+      "answer1": "\\text{A) }-45\\,x^8+42\\,x^6+12\\,x^3",
+      "answer2": "\\text{B) }32\\,x^7-36\\,x^3-4\\,x",
+      "answer3": "\\text{C) }48\\,x^5+50\\,x^4-32\\,x^3",
+      "answer4": "\\text{D) }42\\,x^6+50\\,x^4+30\\,x^2",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-x^7-9\\,x^3-5\\,x^2\\right)",
+      "answer1": "\\text{A) }8\\,x^3+12\\,x^2-6",
+      "answer2": "\\text{B) }-24\\,x^7+14\\,x+4",
+      "answer3": "\\text{C) }36\\,x^3+24\\,x^2+4\\,x",
+      "answer4": "\\text{D) }-7\\,x^6-27\\,x^2-10\\,x",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-9\\,x^8+3\\,x^3+9\\,x^2\\right)",
+      "answer1": "\\text{A) }15\\,x^4-2\\,x-3",
+      "answer2": "\\text{B) }8\\,x^7-5\\,x^4+21\\,x^2",
+      "answer3": "\\text{C) }-72\\,x^7+9\\,x^2+18\\,x",
+      "answer4": "\\text{D) }8\\,x^7-5\\,x^4+16\\,x",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-9\\,x^5-8\\,x^4-9\\,x^2\\right)",
+      "answer1": "\\text{A) }28\\,x^6+54\\,x^5-25\\,x^4",
+      "answer2": "\\text{B) }-35\\,x^4-9\\,x^2+7",
+      "answer3": "\\text{C) }-45\\,x^8-30\\,x^5+4",
+      "answer4": "\\text{D) }-45\\,x^4-32\\,x^3-18\\,x",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-x^4+x^2-4\\,x\\right)",
+      "answer1": "\\text{A) }72\\,x^8+36\\,x^5-10\\,x^4",
+      "answer2": "\\text{B) }70\\,x^6-40\\,x^4-24\\,x^2",
+      "answer3": "\\text{C) }30\\,x^5-24\\,x^3-24\\,x^2",
+      "answer4": "\\text{D) }-4\\,x^3+2\\,x-4",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-4\\,x^9+3\\,x^8+x^2\\right)",
+      "answer1": "\\text{A) }14\\,x^6-12\\,x^5-8\\,x^3",
+      "answer2": "\\text{B) }20\\,x^4+28\\,x^3-18\\,x",
+      "answer3": "\\text{C) }-36\\,x^8+24\\,x^7+2\\,x",
+      "answer4": "\\text{D) }9\\,x^8-49\\,x^6+7",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-8\\,x^9-2\\,x^5+6\\,x^3\\right)",
+      "answer1": "\\text{A) }-72\\,x^7+8\\,x^3+7",
+      "answer2": "\\text{B) }-72\\,x^7+40\\,x^3+9\\,x^2",
+      "answer3": "\\text{C) }-72\\,x^8-10\\,x^4+18\\,x^2",
+      "answer4": "\\text{D) }-72\\,x^8+45\\,x^4+40\\,x^3",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-9\\,x^9-6\\,x^4+3\\,x^2\\right)",
+      "answer1": "\\text{A) }-21\\,x^6-25\\,x^4-3",
+      "answer2": "\\text{B) }4\\,x^3+6\\,x-4",
+      "answer3": "\\text{C) }-81\\,x^8-24\\,x^3+6\\,x",
+      "answer4": "\\text{D) }-8\\,x^7-63\\,x^6+20\\,x",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (x^8-2\\,x^4+6\\,x\\right)",
+      "answer1": "\\text{A) }-56\\,x^6+12\\,x-9",
+      "answer2": "\\text{B) }7\\,x^6+18\\,x-9",
+      "answer3": "\\text{C) }8\\,x^7-8\\,x^3+6",
+      "answer4": "\\text{D) }63\\,x^8-21\\,x^6-54\\,x^5",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-x^4-8\\,x^3+9\\,x\\right)",
+      "answer1": "\\text{A) }48\\,x^7-20\\,x^4+21\\,x^2",
+      "answer2": "\\text{B) }-5\\,x^4-12\\,x^3-1",
+      "answer3": "\\text{C) }-4\\,x^3-24\\,x^2+9",
+      "answer4": "\\text{D) }-18\\,x^8-16\\,x^3-8",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-6\\,x^7+x^2+10\\,x\\right)",
+      "answer1": "\\text{A) }72\\,x^8+7\\,x^6+32\\,x^3",
+      "answer2": "\\text{B) }-18\\,x^8+35\\,x^4+20\\,x",
+      "answer3": "\\text{C) }16\\,x^3+18\\,x^2-2",
+      "answer4": "\\text{D) }-42\\,x^6+2\\,x+10",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (4\\,x^7+x^6+4\\,x\\right)",
+      "answer1": "\\text{A) }54\\,x^8+50\\,x^4+16\\,x",
+      "answer2": "\\text{B) }-10\\,x^4+27\\,x^2-2",
+      "answer3": "\\text{C) }28\\,x^6+6\\,x^5+4",
+      "answer4": "\\text{D) }-40\\,x^7-45\\,x^4-10\\,x",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (9\\,x^9+6\\,x^8+6\\,x^5\\right)",
+      "answer1": "\\text{A) }81\\,x^8+48\\,x^7+30\\,x^4",
+      "answer2": "\\text{B) }48\\,x^5-12\\,x+5",
+      "answer3": "\\text{C) }-54\\,x^8+49\\,x^6-4\\,x",
+      "answer4": "\\text{D) }40\\,x^7+49\\,x^6+16\\,x",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (10\\,x^9-6\\,x^8-3\\,x\\right)",
+      "answer1": "\\text{A) }32\\,x^7-21\\,x^6-24\\,x^3",
+      "answer2": "\\text{B) }90\\,x^8-48\\,x^7-3",
+      "answer3": "\\text{C) }-21\\,x^6+20\\,x^4-12\\,x",
+      "answer4": "\\text{D) }-36\\,x^8+49\\,x^6+10",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-x^6-5\\,x^5-4\\,x^4\\right)",
+      "answer1": "\\text{A) }-18\\,x^5+20\\,x^3+12\\,x^2",
+      "answer2": "\\text{B) }8\\,x^7-7\\,x^6+3\\,x^2",
+      "answer3": "\\text{C) }48\\,x^7-30\\,x^4-20\\,x^3",
+      "answer4": "\\text{D) }-6\\,x^5-25\\,x^4-16\\,x^3",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (8\\,x^9+10\\,x^8+7\\,x^7\\right)",
+      "answer1": "\\text{A) }-63\\,x^6-28\\,x^3-16\\,x",
+      "answer2": "\\text{B) }28\\,x^6+30\\,x^2-16\\,x",
+      "answer3": "\\text{C) }72\\,x^8+80\\,x^7+49\\,x^6",
+      "answer4": "\\text{D) }-14\\,x^6+30\\,x^2+10\\,x",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (6\\,x^7-9\\,x^6+5\\,x^2\\right)",
+      "answer1": "\\text{A) }42\\,x^6-54\\,x^5+10\\,x",
+      "answer2": "\\text{B) }-63\\,x^8-4\\,x^3+8\\,x",
+      "answer3": "\\text{C) }81\\,x^8+60\\,x^5-8\\,x",
+      "answer4": "\\text{D) }14\\,x^6-27\\,x^2-6\\,x",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (10\\,x^6-5\\,x^5+5\\,x\\right)",
+      "answer1": "\\text{A) }9\\,x^8+35\\,x^6-27\\,x^2",
+      "answer2": "\\text{B) }60\\,x^5-25\\,x^4+5",
+      "answer3": "\\text{C) }24\\,x^7+49\\,x^6+18\\,x^5",
+      "answer4": "\\text{D) }18\\,x^8+30\\,x^4-2\\,x",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-4\\,x^9-5\\,x^7-2\\,x^3\\right)",
+      "answer1": "\\text{A) }-36\\,x^8-35\\,x^6-6\\,x^2",
+      "answer2": "\\text{B) }45\\,x^8-63\\,x^6+2",
+      "answer3": "\\text{C) }-56\\,x^6-54\\,x^5-15\\,x^4",
+      "answer4": "\\text{D) }-24\\,x^5+10\\,x-1",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-7\\,x^6+5\\,x^5+6\\,x\\right)",
+      "answer1": "\\text{A) }-81\\,x^8-36\\,x^5-32\\,x^3",
+      "answer2": "\\text{B) }72\\,x^7+16\\,x^3+3",
+      "answer3": "\\text{C) }-42\\,x^5+25\\,x^4+6",
+      "answer4": "\\text{D) }49\\,x^6+54\\,x^5-12\\,x",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-2\\,x^8-8\\,x^4-7\\,x^2\\right)",
+      "answer1": "\\text{A) }-6\\,x^5-24\\,x^2+18\\,x",
+      "answer2": "\\text{B) }-16\\,x^7-30\\,x^4+1",
+      "answer3": "\\text{C) }-49\\,x^6+12\\,x^5+27\\,x^2",
+      "answer4": "\\text{D) }-16\\,x^7-32\\,x^3-14\\,x",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-3\\,x^5-9\\,x^3-5\\,x^2\\right)",
+      "answer1": "\\text{A) }-16\\,x^7+36\\,x^5+10",
+      "answer2": "\\text{B) }10\\,x^4+12\\,x^3+14\\,x",
+      "answer3": "\\text{C) }-15\\,x^4-27\\,x^2-10\\,x",
+      "answer4": "\\text{D) }10\\,x^4-8\\,x-9",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-8\\,x^7+8\\,x^5+5\\,x^4\\right)",
+      "answer1": "\\text{A) }24\\,x^7-36\\,x^5-8",
+      "answer2": "\\text{B) }-72\\,x^8-24\\,x^7+70\\,x^6",
+      "answer3": "\\text{C) }-56\\,x^6+40\\,x^4+20\\,x^3",
+      "answer4": "\\text{D) }40\\,x^3+3\\,x^2-4",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-7\\,x^8+9\\,x^5+x^4\\right)",
+      "answer1": "\\text{A) }28\\,x^6-5\\,x^4-24\\,x^2",
+      "answer2": "\\text{B) }28\\,x^6-40\\,x^4-16\\,x^3",
+      "answer3": "\\text{C) }-32\\,x^7+12\\,x^5+9\\,x^2",
+      "answer4": "\\text{D) }-56\\,x^7+45\\,x^4+4\\,x^3",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-x^6-2\\,x^3+4\\,x^2\\right)",
+      "answer1": "\\text{A) }-6\\,x^5-6\\,x^2+8\\,x",
+      "answer2": "\\text{B) }-24\\,x^7+40\\,x^3+2\\,x",
+      "answer3": "\\text{C) }-27\\,x^2-14\\,x-1",
+      "answer4": "\\text{D) }32\\,x^7-5\\,x^4-4",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-5\\,x^9-9\\,x^4-4\\,x^2\\right)",
+      "answer1": "\\text{A) }56\\,x^6+24\\,x^5+10\\,x",
+      "answer2": "\\text{B) }27\\,x^8+56\\,x^7+30\\,x^5",
+      "answer3": "\\text{C) }-48\\,x^7-63\\,x^6+10\\,x^4",
+      "answer4": "\\text{D) }-45\\,x^8-36\\,x^3-8\\,x",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-3\\,x^9+5\\,x^8+2\\,x^6\\right)",
+      "answer1": "\\text{A) }72\\,x^7+15\\,x^4+20\\,x",
+      "answer2": "\\text{B) }27\\,x^8+5\\,x^4+4",
+      "answer3": "\\text{C) }-27\\,x^8+40\\,x^7+12\\,x^5",
+      "answer4": "\\text{D) }45\\,x^8-45\\,x^4+1",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (6\\,x^9-9\\,x^5+9\\,x^4\\right)",
+      "answer1": "\\text{A) }-21\\,x^6-36\\,x^3-3",
+      "answer2": "\\text{B) }21\\,x^2+14\\,x-1",
+      "answer3": "\\text{C) }-81\\,x^8+12\\,x^3-12\\,x^2",
+      "answer4": "\\text{D) }54\\,x^8-45\\,x^4+36\\,x^3",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (8\\,x^9+2\\,x^7-2\\,x^5\\right)",
+      "answer1": "\\text{A) }72\\,x^8+14\\,x^6-10\\,x^4",
+      "answer2": "\\text{B) }-48\\,x^7-15\\,x^4-9\\,x^2",
+      "answer3": "\\text{C) }54\\,x^8+5\\,x^4-12\\,x^3",
+      "answer4": "\\text{D) }90\\,x^8-24\\,x^7-21\\,x^6",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-x^6+10\\,x^3-2\\,x^2\\right)",
+      "answer1": "\\text{A) }-6\\,x^5+30\\,x^2-4\\,x",
+      "answer2": "\\text{B) }-5\\,x^4+9\\,x^2-14\\,x",
+      "answer3": "\\text{C) }-45\\,x^4-20\\,x^3+24\\,x^2",
+      "answer4": "\\text{D) }-24\\,x^7+18\\,x^5+12\\,x^3",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-6\\,x^3+5\\,x^2+6\\,x\\right)",
+      "answer1": "\\text{A) }-18\\,x^2+10\\,x+6",
+      "answer2": "\\text{B) }-63\\,x^8-12\\,x^5+36\\,x^3",
+      "answer3": "\\text{C) }40\\,x^7-18\\,x^5+21\\,x^2",
+      "answer4": "\\text{D) }-21\\,x^6-30\\,x^5-6\\,x",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (9\\,x^8+9\\,x^4-x^2\\right)",
+      "answer1": "\\text{A) }27\\,x^8+72\\,x^7+56\\,x^6",
+      "answer2": "\\text{B) }-18\\,x^8+20\\,x^3+8\\,x",
+      "answer3": "\\text{C) }72\\,x^7+36\\,x^3-2\\,x",
+      "answer4": "\\text{D) }64\\,x^7+20\\,x^4-24\\,x^3",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (5\\,x^9-7\\,x^7+5\\,x^2\\right)",
+      "answer1": "\\text{A) }64\\,x^7-3\\,x^2-5",
+      "answer2": "\\text{B) }54\\,x^8+21\\,x^2+2\\,x",
+      "answer3": "\\text{C) }45\\,x^8-49\\,x^6+10\\,x",
+      "answer4": "\\text{D) }18\\,x^8+54\\,x^5+12\\,x^3",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (10\\,x^5-x^3+3\\,x\\right)",
+      "answer1": "\\text{A) }-36\\,x^5-25\\,x^4-16\\,x",
+      "answer2": "\\text{B) }50\\,x^4-3\\,x^2+3",
+      "answer3": "\\text{C) }-30\\,x^5-4\\,x-4",
+      "answer4": "\\text{D) }42\\,x^5-40\\,x^4-16\\,x",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (7\\,x^6-6\\,x^3-9\\,x^2\\right)",
+      "answer1": "\\text{A) }18\\,x^8-16\\,x^3+20\\,x",
+      "answer2": "\\text{B) }-18\\,x^8-16\\,x^7-3\\,x^2",
+      "answer3": "\\text{C) }42\\,x^5-18\\,x^2-18\\,x",
+      "answer4": "\\text{D) }36\\,x^3+21\\,x^2+9",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (10\\,x^9+10\\,x^8+6\\,x^6\\right)",
+      "answer1": "\\text{A) }28\\,x^6+5\\,x^4-18\\,x",
+      "answer2": "\\text{B) }24\\,x^7+45\\,x^4-27\\,x^2",
+      "answer3": "\\text{C) }90\\,x^8+80\\,x^7+36\\,x^5",
+      "answer4": "\\text{D) }-7\\,x^6+24\\,x^3+10",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (2\\,x^9-4\\,x^5-6\\,x^4\\right)",
+      "answer1": "\\text{A) }54\\,x^8-56\\,x^6-8\\,x",
+      "answer2": "\\text{B) }80\\,x^7+25\\,x^4+4\\,x",
+      "answer3": "\\text{C) }18\\,x^8-20\\,x^4-24\\,x^3",
+      "answer4": "\\text{D) }-8\\,x^7-15\\,x^4-3\\,x^2",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-3\\,x^6-9\\,x^5-5\\,x\\right)",
+      "answer1": "\\text{A) }72\\,x^8-8\\,x^3-9\\,x^2",
+      "answer2": "\\text{B) }27\\,x^8-32\\,x^7+14\\,x",
+      "answer3": "\\text{C) }-18\\,x^5-45\\,x^4-5",
+      "answer4": "\\text{D) }49\\,x^6+32\\,x^3+7",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (9\\,x^9+7\\,x^7-6\\,x^3\\right)",
+      "answer1": "\\text{A) }81\\,x^8+49\\,x^6-18\\,x^2",
+      "answer2": "\\text{B) }16\\,x^7+42\\,x^6-27\\,x^2",
+      "answer3": "\\text{C) }-8\\,x^7+3\\,x^2-6",
+      "answer4": "\\text{D) }54\\,x^8+5\\,x^4-8",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-8\\,x^3-x^2-5\\,x\\right)",
+      "answer1": "\\text{A) }81\\,x^8-16\\,x^7-35\\,x^4",
+      "answer2": "\\text{B) }54\\,x^8+50\\,x^4-8",
+      "answer3": "\\text{C) }-24\\,x^2-2\\,x-5",
+      "answer4": "\\text{D) }-28\\,x^6-36\\,x^5-28\\,x^3",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-9\\,x^8-9\\,x^6-5\\,x^4\\right)",
+      "answer1": "\\text{A) }9\\,x^8-7\\,x^6+16\\,x^3",
+      "answer2": "\\text{B) }36\\,x^8+28\\,x^6-20\\,x^4",
+      "answer3": "\\text{C) }-72\\,x^7-54\\,x^5-20\\,x^3",
+      "answer4": "\\text{D) }28\\,x^6+6\\,x^5+28\\,x^3",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-8\\,x^8+5\\,x^4-4\\,x^2\\right)",
+      "answer1": "\\text{A) }-64\\,x^7+20\\,x^3-8\\,x",
+      "answer2": "\\text{B) }30\\,x^4+21\\,x^2+10",
+      "answer3": "\\text{C) }-12\\,x^5+40\\,x^4-32\\,x^3",
+      "answer4": "\\text{D) }18\\,x^5-35\\,x^4-8\\,x^3",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-7\\,x^9-6\\,x^5-4\\,x^3\\right)",
+      "answer1": "\\text{A) }-16\\,x^7+49\\,x^6-36\\,x^5",
+      "answer2": "\\text{B) }45\\,x^4+9\\,x^2+9",
+      "answer3": "\\text{C) }-35\\,x^6-25\\,x^4-6\\,x^2",
+      "answer4": "\\text{D) }-63\\,x^8-30\\,x^4-12\\,x^2",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (8\\,x^8-5\\,x^6+6\\,x^2\\right)",
+      "answer1": "\\text{A) }-9\\,x^8+28\\,x^6+5\\,x^4",
+      "answer2": "\\text{B) }-40\\,x^4-2\\,x-7",
+      "answer3": "\\text{C) }64\\,x^7-30\\,x^5+12\\,x",
+      "answer4": "\\text{D) }-9\\,x^8-27\\,x^2-4\\,x",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-x^4+10\\,x^2-8\\,x\\right)",
+      "answer1": "\\text{A) }-9\\,x^8+12\\,x^5+2\\,x",
+      "answer2": "\\text{B) }-4\\,x^3+20\\,x-8",
+      "answer3": "\\text{C) }-10\\,x^4+36\\,x^3+24\\,x^2",
+      "answer4": "\\text{D) }-7\\,x^6-8\\,x-2",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-7\\,x^9-2\\,x^5+x^2\\right)",
+      "answer1": "\\text{A) }-63\\,x^8-10\\,x^4+2\\,x",
+      "answer2": "\\text{B) }32\\,x^7+7\\,x^6-12\\,x",
+      "answer3": "\\text{C) }18\\,x^8+6\\,x+4",
+      "answer4": "\\text{D) }-48\\,x^7+36\\,x^5-2",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (10\\,x^3+7\\,x^2-9\\,x\\right)",
+      "answer1": "\\text{A) }27\\,x^8-5\\,x^4-27\\,x^2",
+      "answer2": "\\text{B) }-45\\,x^8+40\\,x^7-21\\,x^2",
+      "answer3": "\\text{C) }27\\,x^8-24\\,x^5+30\\,x^4",
+      "answer4": "\\text{D) }30\\,x^2+14\\,x-9",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (2\\,x^7+2\\,x^6+2\\,x^4\\right)",
+      "answer1": "\\text{A) }81\\,x^8-10\\,x+2",
+      "answer2": "\\text{B) }14\\,x^6+12\\,x^5+8\\,x^3",
+      "answer3": "\\text{C) }12\\,x^5-25\\,x^4+18\\,x^2",
+      "answer4": "\\text{D) }48\\,x^7-18\\,x+2",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-4\\,x^9+7\\,x^8+3\\,x^4\\right)",
+      "answer1": "\\text{A) }63\\,x^8-49\\,x^6-15\\,x^2",
+      "answer2": "\\text{B) }-36\\,x^8+56\\,x^7+12\\,x^3",
+      "answer3": "\\text{C) }-81\\,x^8+24\\,x^7+35\\,x^6",
+      "answer4": "\\text{D) }72\\,x^8+56\\,x^6-18\\,x^2",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-x^5-4\\,x^2+7\\,x\\right)",
+      "answer1": "\\text{A) }48\\,x^5+35\\,x^4-21\\,x^2",
+      "answer2": "\\text{B) }63\\,x^8+35\\,x^4+12\\,x",
+      "answer3": "\\text{C) }-5\\,x^4-8\\,x+7",
+      "answer4": "\\text{D) }40\\,x^3+6\\,x^2-6",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (10\\,x^7+5\\,x^4-9\\,x^2\\right)",
+      "answer1": "\\text{A) }-30\\,x^5+30\\,x^4+40\\,x^3",
+      "answer2": "\\text{B) }70\\,x^6+20\\,x^3-18\\,x",
+      "answer3": "\\text{C) }45\\,x^8+24\\,x^5-36\\,x^3",
+      "answer4": "\\text{D) }63\\,x^8+56\\,x^6+12\\,x^3",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-2\\,x^8-8\\,x^7-9\\,x^6\\right)",
+      "answer1": "\\text{A) }-72\\,x^8+6\\,x^5+10",
+      "answer2": "\\text{B) }-49\\,x^6-6\\,x^5+24\\,x^3",
+      "answer3": "\\text{C) }-16\\,x^7-56\\,x^6-54\\,x^5",
+      "answer4": "\\text{D) }72\\,x^8+24\\,x^5+6\\,x^2",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-x^9-7\\,x^5-3\\,x\\right)",
+      "answer1": "\\text{A) }45\\,x^8+72\\,x^7-27\\,x^2",
+      "answer2": "\\text{B) }90\\,x^8-4\\,x^3-4\\,x",
+      "answer3": "\\text{C) }-54\\,x^8+36\\,x^3-27\\,x^2",
+      "answer4": "\\text{D) }-9\\,x^8-35\\,x^4-3",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (7\\,x^9+10\\,x^5-5\\,x\\right)",
+      "answer1": "\\text{A) }-36\\,x^8+63\\,x^6-18\\,x^5",
+      "answer2": "\\text{B) }30\\,x^4+4\\,x+3",
+      "answer3": "\\text{C) }63\\,x^8+50\\,x^4-5",
+      "answer4": "\\text{D) }-42\\,x^5-12\\,x^3+14\\,x",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (9\\,x^8-3\\,x^3-8\\,x^2\\right)",
+      "answer1": "\\text{A) }8\\,x^7+12\\,x^5-45\\,x^4",
+      "answer2": "\\text{B) }27\\,x^8+48\\,x^5+24\\,x^2",
+      "answer3": "\\text{C) }72\\,x^7-9\\,x^2-16\\,x",
+      "answer4": "\\text{D) }-10\\,x^4+8\\,x^3-7",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (2\\,x^5+4\\,x^4+7\\,x^3\\right)",
+      "answer1": "\\text{A) }-63\\,x^8-30\\,x^5+14\\,x",
+      "answer2": "\\text{B) }-35\\,x^6+12\\,x^5+18\\,x",
+      "answer3": "\\text{C) }10\\,x^4+16\\,x^3+21\\,x^2",
+      "answer4": "\\text{D) }18\\,x^8+18\\,x^5-12\\,x",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (7\\,x^9-5\\,x^6+5\\,x^3\\right)",
+      "answer1": "\\text{A) }63\\,x^8-30\\,x^5+15\\,x^2",
+      "answer2": "\\text{B) }-7\\,x^6-54\\,x^5+15\\,x^2",
+      "answer3": "\\text{C) }-16\\,x^7-30\\,x^4+10",
+      "answer4": "\\text{D) }-63\\,x^8-24\\,x^2+8\\,x",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-7\\,x^8-8\\,x^7+6\\,x^6\\right)",
+      "answer1": "\\text{A) }-10\\,x^4-4\\,x-3",
+      "answer2": "\\text{B) }-16\\,x^3+12\\,x^2-8\\,x",
+      "answer3": "\\text{C) }-45\\,x^4+36\\,x^3+18\\,x^2",
+      "answer4": "\\text{D) }-56\\,x^7-56\\,x^6+36\\,x^5",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-x^9-6\\,x^7+7\\,x^5\\right)",
+      "answer1": "\\text{A) }-9\\,x^8-42\\,x^6+35\\,x^4",
+      "answer2": "\\text{B) }6\\,x^5-24\\,x^2-6",
+      "answer3": "\\text{C) }42\\,x^6+27\\,x^2-14\\,x",
+      "answer4": "\\text{D) }-25\\,x^4+9\\,x^2-18\\,x",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-5\\,x^9+9\\,x^7+x\\right)",
+      "answer1": "\\text{A) }63\\,x^8+8\\,x^7-35\\,x^4",
+      "answer2": "\\text{B) }-45\\,x^8+63\\,x^6+1",
+      "answer3": "\\text{C) }30\\,x^5+50\\,x^4-24\\,x^2",
+      "answer4": "\\text{D) }48\\,x^7+49\\,x^6+35\\,x^4",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (6\\,x^9-2\\,x^2-5\\,x\\right)",
+      "answer1": "\\text{A) }54\\,x^8-4\\,x-5",
+      "answer2": "\\text{B) }24\\,x^5-16\\,x^3-27\\,x^2",
+      "answer3": "\\text{C) }-9\\,x^8-40\\,x^7-1",
+      "answer4": "\\text{D) }70\\,x^6-35\\,x^4+18\\,x^2",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-2\\,x^9-2\\,x^4-2\\,x^2\\right)",
+      "answer1": "\\text{A) }-32\\,x^7+42\\,x^5-20\\,x^3",
+      "answer2": "\\text{B) }-35\\,x^6-20\\,x^4+4\\,x^3",
+      "answer3": "\\text{C) }70\\,x^6+12\\,x^3-10\\,x",
+      "answer4": "\\text{D) }-18\\,x^8-8\\,x^3-4\\,x",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (10\\,x^9-2\\,x^5+7\\,x\\right)",
+      "answer1": "\\text{A) }-81\\,x^8+21\\,x^6-42\\,x^5",
+      "answer2": "\\text{B) }-12\\,x^5-16\\,x^3+18\\,x",
+      "answer3": "\\text{C) }27\\,x^8-12\\,x^5+40\\,x^4",
+      "answer4": "\\text{D) }90\\,x^8-10\\,x^4+7",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-6\\,x^7-x^5+8\\,x^3\\right)",
+      "answer1": "\\text{A) }-24\\,x^7+10\\,x^4+12\\,x",
+      "answer2": "\\text{B) }6\\,x^5-28\\,x^3+20\\,x",
+      "answer3": "\\text{C) }-42\\,x^6-5\\,x^4+24\\,x^2",
+      "answer4": "\\text{D) }80\\,x^7+6\\,x^5-4",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (7\\,x^5-3\\,x^4+9\\,x^2\\right)",
+      "answer1": "\\text{A) }-56\\,x^7+10\\,x^4+2\\,x",
+      "answer2": "\\text{B) }35\\,x^4-12\\,x^3+18\\,x",
+      "answer3": "\\text{C) }49\\,x^6+16\\,x^3-5",
+      "answer4": "\\text{D) }-15\\,x^2+8\\,x-7",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-6\\,x^6-4\\,x^3-x\\right)",
+      "answer1": "\\text{A) }-7\\,x^6+5\\,x^4+24\\,x^3",
+      "answer2": "\\text{B) }-36\\,x^5-12\\,x^2-1",
+      "answer3": "\\text{C) }-49\\,x^6+16\\,x-2",
+      "answer4": "\\text{D) }-16\\,x^7+30\\,x^4+3\\,x^2",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-2\\,x^9+6\\,x^4+10\\,x\\right)",
+      "answer1": "\\text{A) }7\\,x^6+18\\,x^5-25\\,x^4",
+      "answer2": "\\text{B) }72\\,x^8+56\\,x^7+36\\,x^3",
+      "answer3": "\\text{C) }-56\\,x^6-48\\,x^5+5",
+      "answer4": "\\text{D) }-18\\,x^8+24\\,x^3+10",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (7\\,x^5+10\\,x^4+4\\,x^2\\right)",
+      "answer1": "\\text{A) }30\\,x^5+50\\,x^4-24\\,x^2",
+      "answer2": "\\text{B) }-25\\,x^4+12\\,x^3+9",
+      "answer3": "\\text{C) }35\\,x^4+40\\,x^3+8\\,x",
+      "answer4": "\\text{D) }-8\\,x^7+30\\,x^5-45\\,x^4",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-3\\,x^7+9\\,x^5+4\\,x^2\\right)",
+      "answer1": "\\text{A) }-49\\,x^6+25\\,x^4-28\\,x^3",
+      "answer2": "\\text{B) }30\\,x^5-10\\,x^4+6",
+      "answer3": "\\text{C) }-21\\,x^6-40\\,x^4+2",
+      "answer4": "\\text{D) }-21\\,x^6+45\\,x^4+8\\,x",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (7\\,x^8+4\\,x^6-5\\,x^4\\right)",
+      "answer1": "\\text{A) }56\\,x^7+24\\,x^5-20\\,x^3",
+      "answer2": "\\text{B) }-7\\,x^6+18\\,x^5+36\\,x^3",
+      "answer3": "\\text{C) }36\\,x^5-40\\,x^4-8\\,x",
+      "answer4": "\\text{D) }54\\,x^8-10\\,x^4+6",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-2\\,x^9-8\\,x^5+10\\,x^2\\right)",
+      "answer1": "\\text{A) }20\\,x^3+2\\,x-8",
+      "answer2": "\\text{B) }24\\,x^7-15\\,x^2+8\\,x",
+      "answer3": "\\text{C) }18\\,x^8-72\\,x^7+12\\,x^5",
+      "answer4": "\\text{D) }-18\\,x^8-40\\,x^4+20\\,x",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-4\\,x^9+2\\,x^3+9\\,x^2\\right)",
+      "answer1": "\\text{A) }63\\,x^8+45\\,x^4+18\\,x",
+      "answer2": "\\text{B) }-64\\,x^7+32\\,x^3-5",
+      "answer3": "\\text{C) }-36\\,x^8+6\\,x^2+18\\,x",
+      "answer4": "\\text{D) }-45\\,x^8+16\\,x-1",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-3\\,x^7+6\\,x^3+4\\,x^2\\right)",
+      "answer1": "\\text{A) }-9\\,x^8+15\\,x^4-16\\,x",
+      "answer2": "\\text{B) }-21\\,x^6+18\\,x^2+8\\,x",
+      "answer3": "\\text{C) }21\\,x^6-8\\,x^3+14\\,x",
+      "answer4": "\\text{D) }81\\,x^8+6\\,x^5+8\\,x^3",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-9\\,x^8+8\\,x^7+x^2\\right)",
+      "answer1": "\\text{A) }-9\\,x^8+16\\,x^3+4\\,x",
+      "answer2": "\\text{B) }-9\\,x^8+32\\,x^7+8\\,x^3",
+      "answer3": "\\text{C) }-63\\,x^8+28\\,x^6-2\\,x",
+      "answer4": "\\text{D) }-72\\,x^7+56\\,x^6+2\\,x",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-5\\,x^9-6\\,x^5-2\\,x^4\\right)",
+      "answer1": "\\text{A) }-21\\,x^6+54\\,x^5+24\\,x^3",
+      "answer2": "\\text{B) }81\\,x^8-24\\,x^7+4\\,x^3",
+      "answer3": "\\text{C) }-56\\,x^6-15\\,x^4-9\\,x^2",
+      "answer4": "\\text{D) }-45\\,x^8-30\\,x^4-8\\,x^3",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (5\\,x^9+2\\,x^7-7\\,x^3\\right)",
+      "answer1": "\\text{A) }45\\,x^8+14\\,x^6-21\\,x^2",
+      "answer2": "\\text{B) }-36\\,x^8+63\\,x^6+10\\,x^4",
+      "answer3": "\\text{C) }-27\\,x^8+6\\,x^5+16\\,x^3",
+      "answer4": "\\text{D) }18\\,x^8+42\\,x^6-12\\,x^3",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (3\\,x^8+7\\,x^7+8\\,x^5\\right)",
+      "answer1": "\\text{A) }-12\\,x^5+8\\,x^3-9",
+      "answer2": "\\text{B) }-24\\,x^7+32\\,x^3-3\\,x^2",
+      "answer3": "\\text{C) }24\\,x^7+49\\,x^6+40\\,x^4",
+      "answer4": "\\text{D) }-9\\,x^8-35\\,x^6+6",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (10\\,x^5-3\\,x^2-9\\,x\\right)",
+      "answer1": "\\text{A) }-18\\,x^5-12\\,x^2+3",
+      "answer2": "\\text{B) }63\\,x^8+7\\,x^6+6",
+      "answer3": "\\text{C) }50\\,x^4-6\\,x-9",
+      "answer4": "\\text{D) }25\\,x^4+12\\,x^3-12\\,x",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (3\\,x^8-2\\,x^6+9\\,x^5\\right)",
+      "answer1": "\\text{A) }-56\\,x^7-54\\,x^5-20\\,x^3",
+      "answer2": "\\text{B) }-8\\,x^7-12\\,x^5+5\\,x^4",
+      "answer3": "\\text{C) }70\\,x^6+48\\,x^5+40\\,x^3",
+      "answer4": "\\text{D) }24\\,x^7-12\\,x^5+45\\,x^4",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (9\\,x^9-6\\,x^5-3\\,x^2\\right)",
+      "answer1": "\\text{A) }81\\,x^8-30\\,x^4-6\\,x",
+      "answer2": "\\text{B) }-30\\,x^4+6\\,x^2-5",
+      "answer3": "\\text{C) }7\\,x^6+20\\,x+2",
+      "answer4": "\\text{D) }45\\,x^8-6\\,x^5-6\\,x",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-x^9+6\\,x^5+9\\,x^4\\right)",
+      "answer1": "\\text{A) }45\\,x^4-36\\,x^3+12\\,x^2",
+      "answer2": "\\text{B) }54\\,x^8+24\\,x^3+12\\,x^2",
+      "answer3": "\\text{C) }25\\,x^4+24\\,x^3-15\\,x^2",
+      "answer4": "\\text{D) }-9\\,x^8+30\\,x^4+36\\,x^3",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-8\\,x^9+9\\,x^8+4\\,x^6\\right)",
+      "answer1": "\\text{A) }-72\\,x^8+28\\,x^6-1",
+      "answer2": "\\text{B) }-63\\,x^8+42\\,x^6-4\\,x",
+      "answer3": "\\text{C) }90\\,x^8+12\\,x^5-24\\,x^2",
+      "answer4": "\\text{D) }-72\\,x^8+72\\,x^7+24\\,x^5",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (7\\,x^8-9\\,x^4+8\\,x^2\\right)",
+      "answer1": "\\text{A) }-45\\,x^8-24\\,x^3+12\\,x",
+      "answer2": "\\text{B) }-40\\,x^4-18\\,x^2-8",
+      "answer3": "\\text{C) }56\\,x^7-36\\,x^3+16\\,x",
+      "answer4": "\\text{D) }-48\\,x^5-3\\,x^2+1",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-5\\,x^9+3\\,x^6+3\\,x\\right)",
+      "answer1": "\\text{A) }-45\\,x^8+18\\,x^5+3",
+      "answer2": "\\text{B) }72\\,x^7+15\\,x^2-6",
+      "answer3": "\\text{C) }-28\\,x^6+10\\,x^4-15\\,x^2",
+      "answer4": "\\text{D) }-63\\,x^8+14\\,x^6+40\\,x^3",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-4\\,x^5-x^3-2\\,x^2\\right)",
+      "answer1": "\\text{A) }-7\\,x^6-8\\,x^3-7",
+      "answer2": "\\text{B) }-20\\,x^4-3\\,x^2-4\\,x",
+      "answer3": "\\text{C) }-72\\,x^8-4\\,x^3+12\\,x^2",
+      "answer4": "\\text{D) }-25\\,x^4+40\\,x^3+6",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-2\\,x^6+8\\,x^2+7\\,x\\right)",
+      "answer1": "\\text{A) }24\\,x^5-10\\,x^4+10\\,x",
+      "answer2": "\\text{B) }-12\\,x^5+16\\,x+7",
+      "answer3": "\\text{C) }56\\,x^6+10\\,x^4+6\\,x",
+      "answer4": "\\text{D) }45\\,x^8+8\\,x^7+21\\,x^6",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-5\\,x^9+6\\,x^8-x^7\\right)",
+      "answer1": "\\text{A) }-45\\,x^8+48\\,x^7-7\\,x^6",
+      "answer2": "\\text{B) }63\\,x^6+12\\,x^5+9",
+      "answer3": "\\text{C) }-8\\,x^7+15\\,x^2-2\\,x",
+      "answer4": "\\text{D) }40\\,x^7+56\\,x^6+10\\,x",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-3\\,x^8+4\\,x^6+2\\,x^4\\right)",
+      "answer1": "\\text{A) }-21\\,x^6-12\\,x^5+12\\,x",
+      "answer2": "\\text{B) }-45\\,x^8-9\\,x^2-8",
+      "answer3": "\\text{C) }-24\\,x^7+24\\,x^5+8\\,x^3",
+      "answer4": "\\text{D) }-36\\,x^3+12\\,x+5",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (6\\,x^8-8\\,x^5-4\\,x^2\\right)",
+      "answer1": "\\text{A) }45\\,x^8+40\\,x^4+8",
+      "answer2": "\\text{B) }80\\,x^7+14\\,x^6+6",
+      "answer3": "\\text{C) }48\\,x^7-40\\,x^4-8\\,x",
+      "answer4": "\\text{D) }-36\\,x^8+25\\,x^4+9\\,x^2",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-4\\,x^7-6\\,x^6-3\\,x\\right)",
+      "answer1": "\\text{A) }49\\,x^6-24\\,x^3-12\\,x",
+      "answer2": "\\text{B) }63\\,x^8-64\\,x^7-42\\,x^6",
+      "answer3": "\\text{C) }-32\\,x^7-16\\,x^3-8",
+      "answer4": "\\text{D) }-28\\,x^6-36\\,x^5-3",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (2\\,x^5-x^3+x\\right)",
+      "answer1": "\\text{A) }10\\,x^4-3\\,x^2+1",
+      "answer2": "\\text{B) }-30\\,x^5+21\\,x^2-8",
+      "answer3": "\\text{C) }-72\\,x^7+40\\,x^4-16\\,x",
+      "answer4": "\\text{D) }18\\,x^2-12\\,x+10",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (2\\,x^7-5\\,x^5-6\\,x^3\\right)",
+      "answer1": "\\text{A) }14\\,x^6+30\\,x^2-6\\,x",
+      "answer2": "\\text{B) }14\\,x^6-25\\,x^4-18\\,x^2",
+      "answer3": "\\text{C) }45\\,x^4+28\\,x^3-14\\,x",
+      "answer4": "\\text{D) }-54\\,x^5-20\\,x^4-3\\,x^2",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (2\\,x^8-5\\,x^6+8\\,x\\right)",
+      "answer1": "\\text{A) }63\\,x^6-10\\,x^4+16\\,x^3",
+      "answer2": "\\text{B) }-54\\,x^5+35\\,x^4-8\\,x^3",
+      "answer3": "\\text{C) }16\\,x^7-30\\,x^5+8",
+      "answer4": "\\text{D) }48\\,x^7+15\\,x^4-8\\,x^3",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-6\\,x^9+7\\,x^5+3\\,x^3\\right)",
+      "answer1": "\\text{A) }24\\,x^7-24\\,x^3+18\\,x^2",
+      "answer2": "\\text{B) }-27\\,x^8+14\\,x^6+15\\,x^2",
+      "answer3": "\\text{C) }24\\,x^3-14\\,x+8",
+      "answer4": "\\text{D) }-54\\,x^8+35\\,x^4+9\\,x^2",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (8\\,x^8+9\\,x^7-8\\,x^6\\right)",
+      "answer1": "\\text{A) }54\\,x^8-36\\,x^5+6\\,x",
+      "answer2": "\\text{B) }64\\,x^7+63\\,x^6-48\\,x^5",
+      "answer3": "\\text{C) }-72\\,x^8+70\\,x^6-16\\,x",
+      "answer4": "\\text{D) }-24\\,x^3+9\\,x^2+12\\,x",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (7\\,x^9+6\\,x^8+7\\,x\\right)",
+      "answer1": "\\text{A) }63\\,x^8+48\\,x^7+7",
+      "answer2": "\\text{B) }60\\,x^5+10\\,x^4-12\\,x^3",
+      "answer3": "\\text{C) }54\\,x^8-6\\,x^5-20\\,x^4",
+      "answer4": "\\text{D) }-72\\,x^8+30\\,x^4+20\\,x",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-3\\,x^9+10\\,x^7+2\\,x^6\\right)",
+      "answer1": "\\text{A) }-42\\,x^5+15\\,x^4-4\\,x^3",
+      "answer2": "\\text{B) }-64\\,x^7+12\\,x^3-3\\,x^2",
+      "answer3": "\\text{C) }-16\\,x^7+70\\,x^6-8",
+      "answer4": "\\text{D) }-27\\,x^8+70\\,x^6+12\\,x^5",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (10\\,x^9-7\\,x^7+x\\right)",
+      "answer1": "\\text{A) }90\\,x^8-49\\,x^6+1",
+      "answer2": "\\text{B) }16\\,x^3+12\\,x^2-4",
+      "answer3": "\\text{C) }63\\,x^6-20\\,x^3+7",
+      "answer4": "\\text{D) }27\\,x^8+72\\,x^7+56\\,x^6",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-5\\,x^8+8\\,x^7+8\\,x^5\\right)",
+      "answer1": "\\text{A) }-40\\,x^7+56\\,x^6+40\\,x^4",
+      "answer2": "\\text{B) }-81\\,x^8+32\\,x^7+49\\,x^6",
+      "answer3": "\\text{C) }-45\\,x^8+64\\,x^7+6",
+      "answer4": "\\text{D) }81\\,x^8+4\\,x^3+9\\,x^2",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-3\\,x^8-9\\,x^7+8\\,x^3\\right)",
+      "answer1": "\\text{A) }-24\\,x^7-63\\,x^6+24\\,x^2",
+      "answer2": "\\text{B) }-54\\,x^5+10\\,x+9",
+      "answer3": "\\text{C) }-63\\,x^6-16\\,x-6",
+      "answer4": "\\text{D) }-72\\,x^8+28\\,x^3+9\\,x^2",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-9\\,x^8-9\\,x^6+10\\,x^2\\right)",
+      "answer1": "\\text{A) }-48\\,x^5+35\\,x^4-15\\,x^2",
+      "answer2": "\\text{B) }35\\,x^6+24\\,x^5+27\\,x^2",
+      "answer3": "\\text{C) }-16\\,x^7+60\\,x^5-2\\,x",
+      "answer4": "\\text{D) }-72\\,x^7-54\\,x^5+20\\,x",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (3\\,x^7+3\\,x^5-4\\,x^2\\right)",
+      "answer1": "\\text{A) }21\\,x^6+15\\,x^4-8\\,x",
+      "answer2": "\\text{B) }-8\\,x^7-32\\,x^3-18\\,x^2",
+      "answer3": "\\text{C) }-9\\,x^2+4\\,x+8",
+      "answer4": "\\text{D) }36\\,x^3+14\\,x+8",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (2\\,x^8+6\\,x^6-4\\,x\\right)",
+      "answer1": "\\text{A) }-54\\,x^8-54\\,x^5+2\\,x",
+      "answer2": "\\text{B) }-10\\,x^4+27\\,x^2+2",
+      "answer3": "\\text{C) }-15\\,x^4+21\\,x^2+6",
+      "answer4": "\\text{D) }16\\,x^7+36\\,x^5-4",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (10\\,x^9-3\\,x^5+4\\,x^3\\right)",
+      "answer1": "\\text{A) }-40\\,x^7+4\\,x^3-6",
+      "answer2": "\\text{B) }9\\,x^8-48\\,x^5-15\\,x^2",
+      "answer3": "\\text{C) }90\\,x^8-15\\,x^4+12\\,x^2",
+      "answer4": "\\text{D) }63\\,x^8-12\\,x+9",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-3\\,x^5+9\\,x^3+3\\,x^2\\right)",
+      "answer1": "\\text{A) }63\\,x^8-21\\,x^6-25\\,x^4",
+      "answer2": "\\text{B) }35\\,x^6+32\\,x^3-27\\,x^2",
+      "answer3": "\\text{C) }70\\,x^6+50\\,x^4+6",
+      "answer4": "\\text{D) }-15\\,x^4+27\\,x^2+6\\,x",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (6\\,x^8-4\\,x^5-x^2\\right)",
+      "answer1": "\\text{A) }-12\\,x^3-10\\,x-8",
+      "answer2": "\\text{B) }-21\\,x^6-6\\,x^5-6\\,x",
+      "answer3": "\\text{C) }48\\,x^7-20\\,x^4-2\\,x",
+      "answer4": "\\text{D) }81\\,x^8+45\\,x^4+3",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (9\\,x^8+8\\,x^3-7\\,x\\right)",
+      "answer1": "\\text{A) }63\\,x^8-7\\,x^6-30\\,x^4",
+      "answer2": "\\text{B) }72\\,x^7+24\\,x^2-7",
+      "answer3": "\\text{C) }-27\\,x^8-72\\,x^7+14\\,x",
+      "answer4": "\\text{D) }14\\,x^6+45\\,x^4+18\\,x",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (x^5+6\\,x^4+10\\,x^2\\right)",
+      "answer1": "\\text{A) }5\\,x^4+24\\,x^3+20\\,x",
+      "answer2": "\\text{B) }16\\,x^7-42\\,x^6-25\\,x^4",
+      "answer3": "\\text{C) }-16\\,x^7+56\\,x^6+10\\,x^4",
+      "answer4": "\\text{D) }-16\\,x^7-40\\,x^4+5",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-x^8+x^4-x^3\\right)",
+      "answer1": "\\text{A) }-24\\,x^5-40\\,x^4-4\\,x",
+      "answer2": "\\text{B) }-8\\,x^7+4\\,x^3-3\\,x^2",
+      "answer3": "\\text{C) }-45\\,x^8+36\\,x^5-3",
+      "answer4": "\\text{D) }16\\,x^7-5\\,x^4+18\\,x",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (3\\,x^5+4\\,x^4+3\\,x\\right)",
+      "answer1": "\\text{A) }90\\,x^8+56\\,x^6-24\\,x^3",
+      "answer2": "\\text{B) }15\\,x^4+16\\,x^3+3",
+      "answer3": "\\text{C) }-56\\,x^7+40\\,x^4-7",
+      "answer4": "\\text{D) }72\\,x^8+60\\,x^5-12\\,x^3",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-5\\,x^8+5\\,x^7+3\\,x^6\\right)",
+      "answer1": "\\text{A) }54\\,x^8+25\\,x^4+9",
+      "answer2": "\\text{B) }9\\,x^8-6\\,x^5-16\\,x^3",
+      "answer3": "\\text{C) }-40\\,x^7+35\\,x^6+18\\,x^5",
+      "answer4": "\\text{D) }5\\,x^4-8\\,x-8",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-4\\,x^7-7\\,x^5+6\\,x\\right)",
+      "answer1": "\\text{A) }-28\\,x^6-35\\,x^4+6",
+      "answer2": "\\text{B) }-30\\,x^4+12\\,x+6",
+      "answer3": "\\text{C) }81\\,x^8+64\\,x^7+28\\,x^3",
+      "answer4": "\\text{D) }-40\\,x^7+2\\,x+8",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-9\\,x^9-6\\,x^5-9\\,x^3\\right)",
+      "answer1": "\\text{A) }-81\\,x^8-30\\,x^4-27\\,x^2",
+      "answer2": "\\text{B) }-15\\,x^4+18\\,x+10",
+      "answer3": "\\text{C) }-40\\,x^7+49\\,x^6+6",
+      "answer4": "\\text{D) }60\\,x^5-12\\,x-5",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (7\\,x^8+2\\,x^6-6\\,x^4\\right)",
+      "answer1": "\\text{A) }56\\,x^7+12\\,x^5-24\\,x^3",
+      "answer2": "\\text{B) }72\\,x^7-56\\,x^6+3",
+      "answer3": "\\text{C) }9\\,x^8+63\\,x^6+7",
+      "answer4": "\\text{D) }-32\\,x^7+40\\,x^3+12\\,x",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-4\\,x^8-7\\,x^7+8\\,x^4\\right)",
+      "answer1": "\\text{A) }-32\\,x^7-49\\,x^6+32\\,x^3",
+      "answer2": "\\text{B) }27\\,x^8-28\\,x^6-6\\,x^5",
+      "answer3": "\\text{C) }-72\\,x^8-40\\,x^7-14\\,x^6",
+      "answer4": "\\text{D) }-56\\,x^7-42\\,x^6-9",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (9\\,x^9-5\\,x^7-8\\,x^2\\right)",
+      "answer1": "\\text{A) }-45\\,x^4-24\\,x^2+2\\,x",
+      "answer2": "\\text{B) }-72\\,x^8-30\\,x^5-7",
+      "answer3": "\\text{C) }81\\,x^8-35\\,x^6-16\\,x",
+      "answer4": "\\text{D) }-27\\,x^8-48\\,x^7+9",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-6\\,x^9-8\\,x^5+9\\,x\\right)",
+      "answer1": "\\text{A) }-6\\,x^5+5\\,x^4-32\\,x^3",
+      "answer2": "\\text{B) }-30\\,x^5+24\\,x^2+12\\,x",
+      "answer3": "\\text{C) }-54\\,x^8-40\\,x^4+9",
+      "answer4": "\\text{D) }5\\,x^4-6\\,x-7",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (10\\,x^4-7\\,x^3-x\\right)",
+      "answer1": "\\text{A) }27\\,x^8+35\\,x^4-9",
+      "answer2": "\\text{B) }-54\\,x^8-28\\,x^3-1",
+      "answer3": "\\text{C) }40\\,x^3-21\\,x^2-1",
+      "answer4": "\\text{D) }-54\\,x^8+56\\,x^7-36\\,x^3",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (8\\,x^8+10\\,x^6+2\\,x^3\\right)",
+      "answer1": "\\text{A) }64\\,x^7+60\\,x^5+6\\,x^2",
+      "answer2": "\\text{B) }-45\\,x^8+14\\,x^6-8",
+      "answer3": "\\text{C) }56\\,x^6+4\\,x^3+14\\,x",
+      "answer4": "\\text{D) }81\\,x^8-15\\,x^2-10\\,x",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (5\\,x^8+5\\,x^4-9\\,x\\right)",
+      "answer1": "\\text{A) }48\\,x^7-24\\,x^2+3",
+      "answer2": "\\text{B) }16\\,x^7-14\\,x-6",
+      "answer3": "\\text{C) }40\\,x^7+20\\,x^3-9",
+      "answer4": "\\text{D) }-56\\,x^7+36\\,x^3-12\\,x",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-x^8-4\\,x^7-6\\,x^6\\right)",
+      "answer1": "\\text{A) }45\\,x^8+48\\,x^5+30\\,x^2",
+      "answer2": "\\text{B) }-64\\,x^7+48\\,x^5+12\\,x^2",
+      "answer3": "\\text{C) }-72\\,x^8-36\\,x^5-24\\,x^3",
+      "answer4": "\\text{D) }-8\\,x^7-28\\,x^6-36\\,x^5",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-9\\,x^8+9\\,x^7+6\\,x^2\\right)",
+      "answer1": "\\text{A) }72\\,x^8-42\\,x^6+54\\,x^5",
+      "answer2": "\\text{B) }-27\\,x^8+42\\,x^5+1",
+      "answer3": "\\text{C) }-27\\,x^8+63\\,x^6+30\\,x^2",
+      "answer4": "\\text{D) }-72\\,x^7+63\\,x^6+12\\,x",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (x^7+5\\,x^6-2\\,x^3\\right)",
+      "answer1": "\\text{A) }7\\,x^6+30\\,x^5-6\\,x^2",
+      "answer2": "\\text{B) }-56\\,x^7+70\\,x^6+15\\,x^4",
+      "answer3": "\\text{C) }-27\\,x^8+48\\,x^7+18\\,x",
+      "answer4": "\\text{D) }54\\,x^5+12\\,x^2-8\\,x",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-5\\,x^9+x^8+3\\,x^7\\right)",
+      "answer1": "\\text{A) }-24\\,x^5+4\\,x+5",
+      "answer2": "\\text{B) }54\\,x^8+36\\,x^3-12\\,x^2",
+      "answer3": "\\text{C) }-45\\,x^8+8\\,x^7+21\\,x^6",
+      "answer4": "\\text{D) }72\\,x^8+21\\,x^6-40\\,x^4",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (10\\,x^5+8\\,x^3+5\\,x^2\\right)",
+      "answer1": "\\text{A) }-18\\,x^8+28\\,x^6+16\\,x^3",
+      "answer2": "\\text{B) }-54\\,x^8+54\\,x^5-20\\,x^3",
+      "answer3": "\\text{C) }50\\,x^4+24\\,x^2+10\\,x",
+      "answer4": "\\text{D) }28\\,x^6+30\\,x^4-6\\,x^2",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-7\\,x^3-x^2-x\\right)",
+      "answer1": "\\text{A) }-54\\,x^8+70\\,x^6+35\\,x^4",
+      "answer2": "\\text{B) }-21\\,x^2-2\\,x-1",
+      "answer3": "\\text{C) }42\\,x^5+12\\,x^2-18\\,x",
+      "answer4": "\\text{D) }-45\\,x^8+32\\,x^7-15\\,x^4",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-5\\,x^6+4\\,x^5+2\\,x^4\\right)",
+      "answer1": "\\text{A) }56\\,x^6+12\\,x^2+6",
+      "answer2": "\\text{B) }-30\\,x^5+20\\,x^4+8\\,x^3",
+      "answer3": "\\text{C) }-81\\,x^8+56\\,x^7+18\\,x^5",
+      "answer4": "\\text{D) }-9\\,x^8+12\\,x^3-9",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (6\\,x^9-5\\,x^5+8\\,x\\right)",
+      "answer1": "\\text{A) }-49\\,x^6+30\\,x^2+4",
+      "answer2": "\\text{B) }8\\,x^7-36\\,x^5-12\\,x",
+      "answer3": "\\text{C) }-18\\,x^8+21\\,x^6-6",
+      "answer4": "\\text{D) }54\\,x^8-25\\,x^4+8",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (8\\,x^6-2\\,x^3+5\\,x^2\\right)",
+      "answer1": "\\text{A) }-35\\,x^4-18\\,x^2+8",
+      "answer2": "\\text{B) }7\\,x^6+30\\,x^5-16\\,x^3",
+      "answer3": "\\text{C) }64\\,x^7-10\\,x+5",
+      "answer4": "\\text{D) }48\\,x^5-6\\,x^2+10\\,x",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-6\\,x^7-6\\,x^5-5\\,x\\right)",
+      "answer1": "\\text{A) }35\\,x^4-16\\,x^3+9\\,x^2",
+      "answer2": "\\text{B) }-56\\,x^7+12\\,x^2+2\\,x",
+      "answer3": "\\text{C) }30\\,x^2+6\\,x-3",
+      "answer4": "\\text{D) }-42\\,x^6-30\\,x^4-5",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (10\\,x^9-2\\,x^8+7\\,x^6\\right)",
+      "answer1": "\\text{A) }-7\\,x^6-6\\,x-4",
+      "answer2": "\\text{B) }63\\,x^8-6\\,x^2-7",
+      "answer3": "\\text{C) }90\\,x^8-16\\,x^7+42\\,x^5",
+      "answer4": "\\text{D) }28\\,x^6-32\\,x^3-6\\,x",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (10\\,x^6+2\\,x^5-8\\,x^4\\right)",
+      "answer1": "\\text{A) }60\\,x^5+10\\,x^4-32\\,x^3",
+      "answer2": "\\text{B) }81\\,x^8-14\\,x^6+60\\,x^5",
+      "answer3": "\\text{C) }-27\\,x^8+49\\,x^6-18\\,x",
+      "answer4": "\\text{D) }81\\,x^8-24\\,x^3+14\\,x",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-9\\,x^8+7\\,x^5-8\\,x^4\\right)",
+      "answer1": "\\text{A) }-54\\,x^8-9\\,x^2+9",
+      "answer2": "\\text{B) }-81\\,x^8-21\\,x^2-2",
+      "answer3": "\\text{C) }-72\\,x^7+35\\,x^4-32\\,x^3",
+      "answer4": "\\text{D) }48\\,x^7-28\\,x^6+18\\,x^5",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-9\\,x^9+x^7+9\\,x^5\\right)",
+      "answer1": "\\text{A) }-81\\,x^8+7\\,x^6+45\\,x^4",
+      "answer2": "\\text{B) }21\\,x^6+32\\,x^3-2",
+      "answer3": "\\text{C) }18\\,x^8-48\\,x^7+24\\,x^5",
+      "answer4": "\\text{D) }-64\\,x^7+54\\,x^5+18\\,x^2",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (10\\,x^8+8\\,x^7-3\\,x^3\\right)",
+      "answer1": "\\text{A) }32\\,x^7-6\\,x^5+7",
+      "answer2": "\\text{B) }-16\\,x^7-12\\,x^2-6",
+      "answer3": "\\text{C) }-54\\,x^5+32\\,x^3-6\\,x",
+      "answer4": "\\text{D) }80\\,x^7+56\\,x^6-9\\,x^2",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-4\\,x^5+x^4+9\\,x^3\\right)",
+      "answer1": "\\text{A) }36\\,x^8+16\\,x^7+5\\,x^4",
+      "answer2": "\\text{B) }40\\,x^7+16\\,x^3+12\\,x^2",
+      "answer3": "\\text{C) }-63\\,x^8-45\\,x^4-10\\,x",
+      "answer4": "\\text{D) }-20\\,x^4+4\\,x^3+27\\,x^2",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (x^8+8\\,x^7-8\\,x^4\\right)",
+      "answer1": "\\text{A) }72\\,x^8+8\\,x^3+14\\,x",
+      "answer2": "\\text{B) }14\\,x^6+14\\,x+2",
+      "answer3": "\\text{C) }8\\,x^7+56\\,x^6-32\\,x^3",
+      "answer4": "\\text{D) }-27\\,x^8+28\\,x^6-9",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-4\\,x^8+4\\,x^6-8\\,x^5\\right)",
+      "answer1": "\\text{A) }63\\,x^6-3\\,x^2+10\\,x",
+      "answer2": "\\text{B) }-81\\,x^8-35\\,x^6+21\\,x^2",
+      "answer3": "\\text{C) }-36\\,x^8+54\\,x^5-2",
+      "answer4": "\\text{D) }-32\\,x^7+24\\,x^5-40\\,x^4",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-3\\,x^9-7\\,x^6-3\\,x^2\\right)",
+      "answer1": "\\text{A) }-14\\,x^6-36\\,x^5-14\\,x",
+      "answer2": "\\text{B) }-81\\,x^8-42\\,x^5-28\\,x^3",
+      "answer3": "\\text{C) }18\\,x^8-54\\,x^5+45\\,x^4",
+      "answer4": "\\text{D) }-27\\,x^8-42\\,x^5-6\\,x",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (2\\,x^6+2\\,x^3+9\\,x^2\\right)",
+      "answer1": "\\text{A) }70\\,x^6-6\\,x^5-2",
+      "answer2": "\\text{B) }-81\\,x^8+60\\,x^5-5",
+      "answer3": "\\text{C) }12\\,x^5+6\\,x^2+18\\,x",
+      "answer4": "\\text{D) }-45\\,x^8+24\\,x^7+8",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-2\\,x^5-5\\,x^2+3\\,x\\right)",
+      "answer1": "\\text{A) }-8\\,x^7-28\\,x^6+12\\,x",
+      "answer2": "\\text{B) }-10\\,x^4-10\\,x+3",
+      "answer3": "\\text{C) }8\\,x^3+14\\,x-2",
+      "answer4": "\\text{D) }-40\\,x^4+12\\,x-4",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (10\\,x^8+3\\,x^6-3\\,x^2\\right)",
+      "answer1": "\\text{A) }80\\,x^7+18\\,x^5-6\\,x",
+      "answer2": "\\text{B) }21\\,x^6-42\\,x^5-15\\,x^2",
+      "answer3": "\\text{C) }48\\,x^7+6\\,x^5+3\\,x^2",
+      "answer4": "\\text{D) }-40\\,x^7+28\\,x^3-4",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (7\\,x^9-x^4+7\\,x^2\\right)",
+      "answer1": "\\text{A) }32\\,x^3-27\\,x^2-6",
+      "answer2": "\\text{B) }-27\\,x^8+32\\,x^7+12\\,x^5",
+      "answer3": "\\text{C) }24\\,x^7+49\\,x^6-4",
+      "answer4": "\\text{D) }63\\,x^8-4\\,x^3+14\\,x",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-8\\,x^9-2\\,x^8-9\\,x^3\\right)",
+      "answer1": "\\text{A) }-63\\,x^8+15\\,x^2-18\\,x",
+      "answer2": "\\text{B) }-72\\,x^8-16\\,x^7-27\\,x^2",
+      "answer3": "\\text{C) }45\\,x^8+48\\,x^7+15\\,x^2",
+      "answer4": "\\text{D) }-8\\,x^7+21\\,x^6-18\\,x^2",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (7\\,x^9+10\\,x^8+10\\,x^4\\right)",
+      "answer1": "\\text{A) }27\\,x^8+30\\,x^5+10\\,x",
+      "answer2": "\\text{B) }18\\,x^5+10\\,x^4+6\\,x^2",
+      "answer3": "\\text{C) }63\\,x^8+80\\,x^7+40\\,x^3",
+      "answer4": "\\text{D) }81\\,x^8-24\\,x^7-30\\,x^5",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (7\\,x^9+8\\,x^8+5\\,x^3\\right)",
+      "answer1": "\\text{A) }-81\\,x^8+7\\,x^6-48\\,x^5",
+      "answer2": "\\text{B) }-72\\,x^8+20\\,x^3-3",
+      "answer3": "\\text{C) }64\\,x^7-49\\,x^6+21\\,x^2",
+      "answer4": "\\text{D) }63\\,x^8+64\\,x^7+15\\,x^2",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (7\\,x^7+2\\,x^4-7\\,x\\right)",
+      "answer1": "\\text{A) }-16\\,x^7+20\\,x^4-12\\,x^2",
+      "answer2": "\\text{B) }56\\,x^7+7\\,x^6-24\\,x^2",
+      "answer3": "\\text{C) }32\\,x^3+12\\,x^2+7",
+      "answer4": "\\text{D) }49\\,x^6+8\\,x^3-7",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-8\\,x^3+4\\,x^2+8\\,x\\right)",
+      "answer1": "\\text{A) }-24\\,x^2+8\\,x+8",
+      "answer2": "\\text{B) }72\\,x^8+21\\,x^6-54\\,x^5",
+      "answer3": "\\text{C) }45\\,x^8-28\\,x^3+7",
+      "answer4": "\\text{D) }-8\\,x^7+40\\,x^4+14\\,x",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (2\\,x^9-7\\,x^8-2\\,x^4\\right)",
+      "answer1": "\\text{A) }36\\,x^5+12\\,x^3+4\\,x",
+      "answer2": "\\text{B) }-48\\,x^5-40\\,x^4-2\\,x",
+      "answer3": "\\text{C) }36\\,x^8+54\\,x^5+30\\,x^4",
+      "answer4": "\\text{D) }18\\,x^8-56\\,x^7-8\\,x^3",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-5\\,x^8+x^5-8\\,x\\right)",
+      "answer1": "\\text{A) }-16\\,x^7+15\\,x^4+2",
+      "answer2": "\\text{B) }-40\\,x^7+5\\,x^4-8",
+      "answer3": "\\text{C) }18\\,x^8+49\\,x^6+21\\,x^2",
+      "answer4": "\\text{D) }21\\,x^6-2\\,x-9",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (9\\,x^7-3\\,x^6+7\\,x^4\\right)",
+      "answer1": "\\text{A) }-9\\,x^8+18\\,x^5+8\\,x",
+      "answer2": "\\text{B) }54\\,x^8+60\\,x^5-9\\,x^2",
+      "answer3": "\\text{C) }-35\\,x^4+8\\,x^3+1",
+      "answer4": "\\text{D) }63\\,x^6-18\\,x^5+28\\,x^3",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-5\\,x^9+x^5+8\\,x^2\\right)",
+      "answer1": "\\text{A) }42\\,x^6+4\\,x^3-5",
+      "answer2": "\\text{B) }-45\\,x^8+5\\,x^4+16\\,x",
+      "answer3": "\\text{C) }-54\\,x^5-10\\,x^4-24\\,x^3",
+      "answer4": "\\text{D) }45\\,x^8+40\\,x^4+16\\,x",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (6\\,x^5-7\\,x^4+9\\,x^3\\right)",
+      "answer1": "\\text{A) }30\\,x^4-28\\,x^3+27\\,x^2",
+      "answer2": "\\text{B) }30\\,x^5-8\\,x+1",
+      "answer3": "\\text{C) }-6\\,x^2+14\\,x-8",
+      "answer4": "\\text{D) }-72\\,x^8-63\\,x^6+30\\,x^4",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-4\\,x^9-6\\,x^4+3\\,x\\right)",
+      "answer1": "\\text{A) }-36\\,x^8-24\\,x^3+3",
+      "answer2": "\\text{B) }54\\,x^8-4\\,x^3-4",
+      "answer3": "\\text{C) }-16\\,x^7-49\\,x^6-18\\,x^5",
+      "answer4": "\\text{D) }6\\,x^5-8\\,x-3",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (7\\,x^8-4\\,x^6-7\\,x^3\\right)",
+      "answer1": "\\text{A) }-56\\,x^6+12\\,x^2-10\\,x",
+      "answer2": "\\text{B) }56\\,x^7-24\\,x^5-21\\,x^2",
+      "answer3": "\\text{C) }7\\,x^6+54\\,x^5+2\\,x",
+      "answer4": "\\text{D) }-45\\,x^4+8\\,x^3+8",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-9\\,x^9-7\\,x^8-9\\,x^2\\right)",
+      "answer1": "\\text{A) }4\\,x^3-18\\,x^2-2\\,x",
+      "answer2": "\\text{B) }-81\\,x^8-56\\,x^7-18\\,x",
+      "answer3": "\\text{C) }-16\\,x^3-21\\,x^2+4",
+      "answer4": "\\text{D) }-21\\,x^6-36\\,x^3-1",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (x^8-5\\,x^7-8\\,x^4\\right)",
+      "answer1": "\\text{A) }-36\\,x^8-6\\,x^2-2",
+      "answer2": "\\text{B) }49\\,x^6-6\\,x^2-7",
+      "answer3": "\\text{C) }81\\,x^8+24\\,x^7+28\\,x^6",
+      "answer4": "\\text{D) }8\\,x^7-35\\,x^6-32\\,x^3",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-9\\,x^7-7\\,x^6-8\\,x^4\\right)",
+      "answer1": "\\text{A) }-63\\,x^6-42\\,x^5-32\\,x^3",
+      "answer2": "\\text{B) }63\\,x^6+25\\,x^4-18\\,x",
+      "answer3": "\\text{C) }45\\,x^8-42\\,x^5+4\\,x^3",
+      "answer4": "\\text{D) }35\\,x^6-24\\,x^5-3",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-3\\,x^9+x^5+10\\,x\\right)",
+      "answer1": "\\text{A) }8\\,x^7+35\\,x^6+5\\,x^4",
+      "answer2": "\\text{B) }-54\\,x^8+80\\,x^7+7\\,x^6",
+      "answer3": "\\text{C) }-27\\,x^8+5\\,x^4+10",
+      "answer4": "\\text{D) }-54\\,x^8+72\\,x^7+63\\,x^6",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-7\\,x^9-7\\,x^3+6\\,x\\right)",
+      "answer1": "\\text{A) }-63\\,x^8-21\\,x^2+6",
+      "answer2": "\\text{B) }12\\,x^5+35\\,x^4+18\\,x^2",
+      "answer3": "\\text{C) }72\\,x^8+40\\,x^4+21\\,x^2",
+      "answer4": "\\text{D) }-64\\,x^7+20\\,x^4+16\\,x",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-9\\,x^9-5\\,x^5-3\\,x^2\\right)",
+      "answer1": "\\text{A) }81\\,x^8-16\\,x^7+20\\,x^3",
+      "answer2": "\\text{B) }-81\\,x^8-25\\,x^4-6\\,x",
+      "answer3": "\\text{C) }-54\\,x^5-40\\,x^4+30\\,x^2",
+      "answer4": "\\text{D) }72\\,x^7+35\\,x^4-15\\,x^2",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (7\\,x^9-3\\,x^8+10\\,x^4\\right)",
+      "answer1": "\\text{A) }7\\,x^6+30\\,x^4+28\\,x^3",
+      "answer2": "\\text{B) }32\\,x^7-54\\,x^5-28\\,x^3",
+      "answer3": "\\text{C) }63\\,x^8-24\\,x^7+40\\,x^3",
+      "answer4": "\\text{D) }30\\,x^5+12\\,x^3-5",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (5\\,x^8+6\\,x^6-9\\,x^4\\right)",
+      "answer1": "\\text{A) }-20\\,x^4+32\\,x^3-12\\,x^2",
+      "answer2": "\\text{B) }-6\\,x^5+32\\,x^3+5",
+      "answer3": "\\text{C) }28\\,x^6-6\\,x^2+12\\,x",
+      "answer4": "\\text{D) }40\\,x^7+36\\,x^5-36\\,x^3",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-2\\,x^9-9\\,x^4-5\\,x^3\\right)",
+      "answer1": "\\text{A) }72\\,x^8-4\\,x+7",
+      "answer2": "\\text{B) }-81\\,x^8-35\\,x^4+18\\,x",
+      "answer3": "\\text{C) }-18\\,x^8-36\\,x^3-15\\,x^2",
+      "answer4": "\\text{D) }-8\\,x^7+25\\,x^4+12\\,x^2",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-3\\,x^7+3\\,x^5+8\\,x\\right)",
+      "answer1": "\\text{A) }-21\\,x^6+15\\,x^4+8",
+      "answer2": "\\text{B) }36\\,x^8+12\\,x^2-9",
+      "answer3": "\\text{C) }50\\,x^4-15\\,x^2-10\\,x",
+      "answer4": "\\text{D) }63\\,x^8+54\\,x^5+14\\,x",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-4\\,x^8+8\\,x^7+9\\,x^4\\right)",
+      "answer1": "\\text{A) }30\\,x^5-18\\,x-4",
+      "answer2": "\\text{B) }-32\\,x^7+56\\,x^6+36\\,x^3",
+      "answer3": "\\text{C) }-35\\,x^4-15\\,x^2+7",
+      "answer4": "\\text{D) }12\\,x^5-12\\,x^3-7",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-6\\,x^9+10\\,x^4-3\\,x^3\\right)",
+      "answer1": "\\text{A) }-32\\,x^3+18\\,x+8",
+      "answer2": "\\text{B) }-54\\,x^8+40\\,x^3-9\\,x^2",
+      "answer3": "\\text{C) }-63\\,x^8-18\\,x^2+4",
+      "answer4": "\\text{D) }-45\\,x^4-20\\,x^3-27\\,x^2",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-2\\,x^9-9\\,x^7+9\\,x^3\\right)",
+      "answer1": "\\text{A) }-18\\,x^8-63\\,x^6+27\\,x^2",
+      "answer2": "\\text{B) }-81\\,x^8-14\\,x^6+7",
+      "answer3": "\\text{C) }-20\\,x^4-2\\,x-7",
+      "answer4": "\\text{D) }30\\,x^5+25\\,x^4+12\\,x^3",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-x^6+3\\,x^2-5\\,x\\right)",
+      "answer1": "\\text{A) }-6\\,x^5+6\\,x-5",
+      "answer2": "\\text{B) }21\\,x^6-36\\,x^3-12\\,x^2",
+      "answer3": "\\text{C) }-18\\,x^8-3\\,x^2-4",
+      "answer4": "\\text{D) }49\\,x^6-28\\,x^3+2",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-x^5+8\\,x^4-4\\,x^2\\right)",
+      "answer1": "\\text{A) }-5\\,x^4+32\\,x^3-8\\,x",
+      "answer2": "\\text{B) }42\\,x^6+27\\,x^2-2",
+      "answer3": "\\text{C) }-63\\,x^6+48\\,x^5+20\\,x",
+      "answer4": "\\text{D) }12\\,x^5-40\\,x^4+40\\,x^3",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-6\\,x^8-3\\,x^7-4\\,x^2\\right)",
+      "answer1": "\\text{A) }-48\\,x^7-21\\,x^6-8\\,x",
+      "answer2": "\\text{B) }9\\,x^8+63\\,x^6-25\\,x^4",
+      "answer3": "\\text{C) }-48\\,x^5-6\\,x^2+10",
+      "answer4": "\\text{D) }-16\\,x^3+30\\,x^2+2\\,x",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-7\\,x^7+5\\,x^5+9\\,x\\right)",
+      "answer1": "\\text{A) }-54\\,x^8+35\\,x^6-20\\,x^4",
+      "answer2": "\\text{B) }-24\\,x^7+45\\,x^4+8",
+      "answer3": "\\text{C) }-49\\,x^6+25\\,x^4+9",
+      "answer4": "\\text{D) }-81\\,x^8+10\\,x^4+20\\,x^3",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (2\\,x^7+5\\,x^5-8\\,x^3\\right)",
+      "answer1": "\\text{A) }18\\,x^8-14\\,x^6+20\\,x",
+      "answer2": "\\text{B) }9\\,x^8-10\\,x^4+5",
+      "answer3": "\\text{C) }-81\\,x^8-7\\,x^6+4",
+      "answer4": "\\text{D) }14\\,x^6+25\\,x^4-24\\,x^2",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (x^6+7\\,x^3+8\\,x^2\\right)",
+      "answer1": "\\text{A) }-32\\,x^7+56\\,x^6+12\\,x^3",
+      "answer2": "\\text{B) }27\\,x^8+27\\,x^2+16\\,x",
+      "answer3": "\\text{C) }16\\,x^7+10\\,x^4-2\\,x",
+      "answer4": "\\text{D) }6\\,x^5+21\\,x^2+16\\,x",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-x^8-9\\,x^7+10\\,x^5\\right)",
+      "answer1": "\\text{A) }7\\,x^6+18\\,x^2+4",
+      "answer2": "\\text{B) }90\\,x^8-21\\,x^6-30\\,x^4",
+      "answer3": "\\text{C) }28\\,x^6+54\\,x^5+40\\,x^3",
+      "answer4": "\\text{D) }-8\\,x^7-63\\,x^6+50\\,x^4",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (x^9-4\\,x^7-9\\,x^2\\right)",
+      "answer1": "\\text{A) }-20\\,x^3+16\\,x+5",
+      "answer2": "\\text{B) }-30\\,x^5+12\\,x^3-10\\,x",
+      "answer3": "\\text{C) }9\\,x^8-28\\,x^6-18\\,x",
+      "answer4": "\\text{D) }40\\,x^4-3\\,x^2-18\\,x",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-5\\,x^5-9\\,x^4-4\\,x^2\\right)",
+      "answer1": "\\text{A) }-24\\,x^5-27\\,x^2-6",
+      "answer2": "\\text{B) }-54\\,x^8+35\\,x^6-6\\,x^2",
+      "answer3": "\\text{C) }-25\\,x^4-36\\,x^3-8\\,x",
+      "answer4": "\\text{D) }-72\\,x^8+16\\,x^3-16\\,x",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-4\\,x^7+4\\,x^5-6\\,x^3\\right)",
+      "answer1": "\\text{A) }-28\\,x^6+20\\,x^4-18\\,x^2",
+      "answer2": "\\text{B) }64\\,x^7-6\\,x^2-10\\,x",
+      "answer3": "\\text{C) }-18\\,x^5-14\\,x-9",
+      "answer4": "\\text{D) }-36\\,x^8+42\\,x^5+8",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-7\\,x^9-9\\,x^6+x\\right)",
+      "answer1": "\\text{A) }27\\,x^8-56\\,x^7-2",
+      "answer2": "\\text{B) }-63\\,x^8-54\\,x^5+1",
+      "answer3": "\\text{C) }16\\,x^7+15\\,x^2-16\\,x",
+      "answer4": "\\text{D) }8\\,x^3+18\\,x^2+14\\,x",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-4\\,x^6+x^3-7\\,x^2\\right)",
+      "answer1": "\\text{A) }-24\\,x^5+3\\,x^2-14\\,x",
+      "answer2": "\\text{B) }72\\,x^8+50\\,x^4-12\\,x^2",
+      "answer3": "\\text{C) }16\\,x^7-63\\,x^6+10\\,x",
+      "answer4": "\\text{D) }-49\\,x^6-12\\,x^5-35\\,x^4",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (6\\,x^6-2\\,x^2+6\\,x\\right)",
+      "answer1": "\\text{A) }24\\,x^7+25\\,x^4-2\\,x",
+      "answer2": "\\text{B) }14\\,x^6+12\\,x^2-3",
+      "answer3": "\\text{C) }36\\,x^5-4\\,x+6",
+      "answer4": "\\text{D) }-40\\,x^7-6\\,x^5+6\\,x^2",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (6\\,x^6-5\\,x^5+8\\,x\\right)",
+      "answer1": "\\text{A) }36\\,x^5-25\\,x^4+8",
+      "answer2": "\\text{B) }20\\,x^4-9\\,x^2+6",
+      "answer3": "\\text{C) }45\\,x^8+36\\,x^5-28\\,x^3",
+      "answer4": "\\text{D) }15\\,x^4-21\\,x^2-9",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (10\\,x^9+x^8+10\\,x^3\\right)",
+      "answer1": "\\text{A) }30\\,x^5-40\\,x^4-10\\,x",
+      "answer2": "\\text{B) }-42\\,x^5-24\\,x^3+6\\,x^2",
+      "answer3": "\\text{C) }-35\\,x^6+6\\,x^5-3",
+      "answer4": "\\text{D) }90\\,x^8+8\\,x^7+30\\,x^2",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-3\\,x^8-9\\,x^3-6\\,x^2\\right)",
+      "answer1": "\\text{A) }-54\\,x^8+25\\,x^4-12\\,x^3",
+      "answer2": "\\text{B) }18\\,x^8-8\\,x^7+36\\,x^3",
+      "answer3": "\\text{C) }-24\\,x^7-27\\,x^2-12\\,x",
+      "answer4": "\\text{D) }32\\,x^7+8\\,x^3-8\\,x",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (9\\,x^8+3\\,x^3+x^2\\right)",
+      "answer1": "\\text{A) }-7\\,x^6+10\\,x+4",
+      "answer2": "\\text{B) }72\\,x^7+9\\,x^2+2\\,x",
+      "answer3": "\\text{C) }56\\,x^7-36\\,x^5-24\\,x^2",
+      "answer4": "\\text{D) }42\\,x^6+24\\,x^2+1",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-x^7-x^4-6\\,x\\right)",
+      "answer1": "\\text{A) }-35\\,x^6-4\\,x^3+2\\,x",
+      "answer2": "\\text{B) }-7\\,x^6-4\\,x^3-6",
+      "answer3": "\\text{C) }-24\\,x^7+50\\,x^4+6",
+      "answer4": "\\text{D) }6\\,x^5-20\\,x^3+7",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-3\\,x^8-7\\,x^6+5\\,x^5\\right)",
+      "answer1": "\\text{A) }72\\,x^8-32\\,x^7+45\\,x^4",
+      "answer2": "\\text{B) }20\\,x^3-6\\,x^2-14\\,x",
+      "answer3": "\\text{C) }-24\\,x^7-42\\,x^5+25\\,x^4",
+      "answer4": "\\text{D) }-27\\,x^8-63\\,x^6-24\\,x^2",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-8\\,x^8+7\\,x^7+x^2\\right)",
+      "answer1": "\\text{A) }-64\\,x^7+49\\,x^6+2\\,x",
+      "answer2": "\\text{B) }-45\\,x^8-42\\,x^5-9",
+      "answer3": "\\text{C) }-48\\,x^7-28\\,x^6+24\\,x^3",
+      "answer4": "\\text{D) }-32\\,x^7-8\\,x^3-1",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (3\\,x^4+9\\,x^3+6\\,x\\right)",
+      "answer1": "\\text{A) }-25\\,x^4-4\\,x^3-6\\,x^2",
+      "answer2": "\\text{B) }-27\\,x^8+24\\,x^3-1",
+      "answer3": "\\text{C) }12\\,x^3+27\\,x^2+6",
+      "answer4": "\\text{D) }64\\,x^7-35\\,x^4+18\\,x",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-9\\,x^9+6\\,x^6-2\\,x^4\\right)",
+      "answer1": "\\text{A) }-81\\,x^8+36\\,x^5-8\\,x^3",
+      "answer2": "\\text{B) }45\\,x^4-20\\,x^3-4\\,x",
+      "answer3": "\\text{C) }6\\,x^5+6\\,x^2+20\\,x",
+      "answer4": "\\text{D) }-18\\,x^8-10\\,x-5",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (6\\,x^8+2\\,x^7-9\\,x^3\\right)",
+      "answer1": "\\text{A) }48\\,x^7+14\\,x^6-27\\,x^2",
+      "answer2": "\\text{B) }-27\\,x^8+15\\,x^4-4\\,x",
+      "answer3": "\\text{C) }21\\,x^6+10\\,x^4-12\\,x^3",
+      "answer4": "\\text{D) }-54\\,x^8-7\\,x^6-24\\,x^5",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (7\\,x^9+5\\,x^6-5\\,x^2\\right)",
+      "answer1": "\\text{A) }9\\,x^2-6\\,x-5",
+      "answer2": "\\text{B) }63\\,x^8+30\\,x^5-10\\,x",
+      "answer3": "\\text{C) }-16\\,x^7+5\\,x^4+10",
+      "answer4": "\\text{D) }9\\,x^8-72\\,x^7-48\\,x^5",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-4\\,x^8+7\\,x^5+7\\,x^4\\right)",
+      "answer1": "\\text{A) }9\\,x^8-45\\,x^4-4\\,x^3",
+      "answer2": "\\text{B) }-32\\,x^7+35\\,x^4+28\\,x^3",
+      "answer3": "\\text{C) }-24\\,x^5+20\\,x^3-2\\,x",
+      "answer4": "\\text{D) }-18\\,x^8+30\\,x^4+6",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-2\\,x^9-2\\,x^6+8\\,x^5\\right)",
+      "answer1": "\\text{A) }70\\,x^6-20\\,x^3-4",
+      "answer2": "\\text{B) }-18\\,x^8-12\\,x^5+40\\,x^4",
+      "answer3": "\\text{C) }45\\,x^8-56\\,x^7+4\\,x",
+      "answer4": "\\text{D) }18\\,x^5-45\\,x^4-6\\,x^2",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-2\\,x^8+4\\,x^2+4\\,x\\right)",
+      "answer1": "\\text{A) }-63\\,x^8-16\\,x^3+7",
+      "answer2": "\\text{B) }-16\\,x^7+8\\,x+4",
+      "answer3": "\\text{C) }27\\,x^8+8\\,x^7-20\\,x^3",
+      "answer4": "\\text{D) }-72\\,x^8+4\\,x+4",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-5\\,x^8-9\\,x^5-6\\,x^4\\right)",
+      "answer1": "\\text{A) }-40\\,x^7-45\\,x^4-24\\,x^3",
+      "answer2": "\\text{B) }36\\,x^5+30\\,x^4+14\\,x",
+      "answer3": "\\text{C) }-81\\,x^8+35\\,x^6-27\\,x^2",
+      "answer4": "\\text{D) }-10\\,x^4+12\\,x^3-8",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-9\\,x^9+10\\,x^8+7\\,x^3\\right)",
+      "answer1": "\\text{A) }24\\,x^5-28\\,x^3-9\\,x^2",
+      "answer2": "\\text{B) }-81\\,x^8+80\\,x^7+21\\,x^2",
+      "answer3": "\\text{C) }16\\,x^7-2\\,x+10",
+      "answer4": "\\text{D) }28\\,x^6+6\\,x^5+20\\,x",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    >>
+  ]
+}

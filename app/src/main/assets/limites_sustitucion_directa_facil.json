@@ -1,0 +1,1004 @@
+{
+  "limites_sustitucion_directa_facil": [
+    {
+      "question": "\\lim_{x \\to -1} \\left(3\\,x \\right)",
+      "answer1": "\\text{A) }6",
+      "answer2": "\\text{B) }1",
+      "answer3": "\\text{C) }-3",
+      "answer4": "\\text{D) }7",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 0} \\left(-4\\,x^2-5\\,x-3 \\right)",
+      "answer1": "\\text{A) }-3",
+      "answer2": "\\text{B) }3",
+      "answer3": "\\text{C) }14",
+      "answer4": "\\text{D) }-\\infty",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 4} \\left(-9 \\right)",
+      "answer1": "\\text{A) }12",
+      "answer2": "\\text{B) }24",
+      "answer3": "\\text{C) }-9",
+      "answer4": "\\text{D) }4",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -3} \\left(3\\,x^2-8\\,x-2 \\right)",
+      "answer1": "\\text{A) }32",
+      "answer2": "\\text{B) }6",
+      "answer3": "\\text{C) }49",
+      "answer4": "\\text{D) }-11",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -3} \\left(2-8\\,x^2 \\right)",
+      "answer1": "\\text{A) }-61",
+      "answer2": "\\text{B) }73",
+      "answer3": "\\text{C) }-70",
+      "answer4": "\\text{D) }29",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 0} \\left(9\\,x^2-7\\,x+3 \\right)",
+      "answer1": "\\text{A) }5",
+      "answer2": "\\text{B) }7",
+      "answer3": "\\text{C) }3",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 3} \\left(-3\\,x \\right)",
+      "answer1": "\\text{A) }10",
+      "answer2": "\\text{B) }5",
+      "answer3": "\\text{C) }4",
+      "answer4": "\\text{D) }-9",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 2} \\left(-7 \\right)",
+      "answer1": "\\text{A) }-7",
+      "answer2": "\\text{B) }-4",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }-3",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 2} \\left(8 \\right)",
+      "answer1": "\\text{A) }12",
+      "answer2": "\\text{B) }-6",
+      "answer3": "\\text{C) }8",
+      "answer4": "\\text{D) }5",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 1} \\left(5\\,x-9 \\right)",
+      "answer1": "\\text{A) }-4",
+      "answer2": "\\text{B) }3",
+      "answer3": "\\text{C) }-5",
+      "answer4": "\\text{D) }0",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 0} \\left(6-3\\,x \\right)",
+      "answer1": "\\text{A) }1",
+      "answer2": "\\text{B) }14",
+      "answer3": "\\text{C) }6",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -3} \\left(7\\,x-6 \\right)",
+      "answer1": "\\text{A) }-27",
+      "answer2": "\\text{B) }33",
+      "answer3": "\\text{C) }3",
+      "answer4": "\\text{D) }10",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 5} \\left(7\\,x^2+8\\,x \\right)",
+      "answer1": "\\text{A) }220",
+      "answer2": "\\text{B) }-130",
+      "answer3": "\\text{C) }215",
+      "answer4": "\\text{D) }53",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -3} \\left(-8 \\right)",
+      "answer1": "\\text{A) }-5",
+      "answer2": "\\text{B) }7",
+      "answer3": "\\text{C) }-4",
+      "answer4": "\\text{D) }-8",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 1} \\left(10 \\right)",
+      "answer1": "\\text{A) }10",
+      "answer2": "\\text{B) }5",
+      "answer3": "\\text{C) }1",
+      "answer4": "\\text{D) }23",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 4} \\left(-x-2 \\right)",
+      "answer1": "\\text{A) }-6",
+      "answer2": "\\text{B) }2",
+      "answer3": "\\text{C) }7",
+      "answer4": "\\text{D) }1",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 1} \\left(-3\\,x-7 \\right)",
+      "answer1": "\\text{A) }-10",
+      "answer2": "\\text{B) }7",
+      "answer3": "\\text{C) }15",
+      "answer4": "\\text{D) }-16",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 0} \\left(4\\,x+2 \\right)",
+      "answer1": "\\text{A) }2",
+      "answer2": "\\text{B) }4",
+      "answer3": "\\text{C) }7",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -4} \\left(-2\\,x^2+8\\,x-3 \\right)",
+      "answer1": "\\text{A) }34",
+      "answer2": "\\text{B) }71",
+      "answer3": "\\text{C) }-67",
+      "answer4": "\\text{D) }19",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 4} \\left(5-3\\,x \\right)",
+      "answer1": "\\text{A) }2",
+      "answer2": "\\text{B) }-7",
+      "answer3": "\\text{C) }3",
+      "answer4": "\\text{D) }1",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -3} \\left(2 \\right)",
+      "answer1": "\\text{A) }1",
+      "answer2": "\\text{B) }2",
+      "answer3": "\\text{C) }6",
+      "answer4": "\\text{D) }-2",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 5} \\left(-x^2+10\\,x+9 \\right)",
+      "answer1": "\\text{A) }82",
+      "answer2": "\\text{B) }34",
+      "answer3": "\\text{C) }14",
+      "answer4": "\\text{D) }-22",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -3} \\left(-5\\,x^2+10\\,x+5 \\right)",
+      "answer1": "\\text{A) }10",
+      "answer2": "\\text{B) }-19",
+      "answer3": "\\text{C) }-70",
+      "answer4": "\\text{D) }31",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 4} \\left(8\\,x+4 \\right)",
+      "answer1": "\\text{A) }36",
+      "answer2": "\\text{B) }-24",
+      "answer3": "\\text{C) }-31",
+      "answer4": "\\text{D) }11",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -4} \\left(7\\,x-4 \\right)",
+      "answer1": "\\text{A) }1",
+      "answer2": "\\text{B) }12",
+      "answer3": "\\text{C) }3",
+      "answer4": "\\text{D) }-32",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 4} \\left(10\\,x^2+8\\,x+8 \\right)",
+      "answer1": "\\text{A) }15",
+      "answer2": "\\text{B) }33",
+      "answer3": "\\text{C) }200",
+      "answer4": "\\text{D) }53",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 1} \\left(3 \\right)",
+      "answer1": "\\text{A) }4",
+      "answer2": "\\text{B) }7",
+      "answer3": "\\text{C) }3",
+      "answer4": "\\text{D) }10",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 3} \\left(6 \\right)",
+      "answer1": "\\text{A) }6",
+      "answer2": "\\text{B) }-6",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }4",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 2} \\left(0 \\right)",
+      "answer1": "\\text{A) }5",
+      "answer2": "\\text{B) }2",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }7",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 3} \\left(-1 \\right)",
+      "answer1": "\\text{A) }2",
+      "answer2": "\\text{B) }-1",
+      "answer3": "\\text{C) }3",
+      "answer4": "\\text{D) }1",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 3} \\left(6\\,x^2+5\\,x+6 \\right)",
+      "answer1": "\\text{A) }40",
+      "answer2": "\\text{B) }75",
+      "answer3": "\\text{C) }31",
+      "answer4": "\\text{D) }-35",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 5} \\left(6 \\right)",
+      "answer1": "\\text{A) }3",
+      "answer2": "\\text{B) }6",
+      "answer3": "\\text{C) }1",
+      "answer4": "\\text{D) }-2",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 3} \\left(-8 \\right)",
+      "answer1": "\\text{A) }-15",
+      "answer2": "\\text{B) }5",
+      "answer3": "\\text{C) }-8",
+      "answer4": "\\text{D) }0",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 4} \\left(-6 \\right)",
+      "answer1": "\\text{A) }-6",
+      "answer2": "\\text{B) }-1",
+      "answer3": "\\text{C) }1",
+      "answer4": "\\text{D) }0",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 1} \\left(-x^2-8\\,x+5 \\right)",
+      "answer1": "\\text{A) }16",
+      "answer2": "\\text{B) }-4",
+      "answer3": "\\text{C) }3",
+      "answer4": "\\text{D) }-9",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 4} \\left(6-2\\,x \\right)",
+      "answer1": "\\text{A) }-2",
+      "answer2": "\\text{B) }-1",
+      "answer3": "\\text{C) }8",
+      "answer4": "\\text{D) }5",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 3} \\left(9\\,x^2-2\\,x-4 \\right)",
+      "answer1": "\\text{A) }-80",
+      "answer2": "\\text{B) }14",
+      "answer3": "\\text{C) }71",
+      "answer4": "\\text{D) }32",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 0} \\left(7-4\\,x \\right)",
+      "answer1": "\\text{A) }6",
+      "answer2": "\\text{B) }-4",
+      "answer3": "\\text{C) }7",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -4} \\left(8\\,x-5 \\right)",
+      "answer1": "\\text{A) }-37",
+      "answer2": "\\text{B) }32",
+      "answer3": "\\text{C) }5",
+      "answer4": "\\text{D) }17",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 1} \\left(4\\,x-8 \\right)",
+      "answer1": "\\text{A) }7",
+      "answer2": "\\text{B) }8",
+      "answer3": "\\text{C) }-4",
+      "answer4": "\\text{D) }0",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 3} \\left(-4\\,x^2-x-2 \\right)",
+      "answer1": "\\text{A) }-26",
+      "answer2": "\\text{B) }-7",
+      "answer3": "\\text{C) }8",
+      "answer4": "\\text{D) }-41",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -4} \\left(6\\,x^2-6\\,x-1 \\right)",
+      "answer1": "\\text{A) }-85",
+      "answer2": "\\text{B) }-23",
+      "answer3": "\\text{C) }30",
+      "answer4": "\\text{D) }119",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 5} \\left(-6\\,x-9 \\right)",
+      "answer1": "\\text{A) }-31",
+      "answer2": "\\text{B) }-4",
+      "answer3": "\\text{C) }-17",
+      "answer4": "\\text{D) }-39",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 0} \\left(5 \\right)",
+      "answer1": "\\text{A) }-3",
+      "answer2": "\\text{B) }5",
+      "answer3": "\\text{C) }\\infty",
+      "answer4": "\\text{D) }0",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -2} \\left(-7\\,x^2-x+4 \\right)",
+      "answer1": "\\text{A) }4",
+      "answer2": "\\text{B) }-25",
+      "answer3": "\\text{C) }-22",
+      "answer4": "\\text{D) }17",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -2} \\left(5\\,x^2-3\\,x \\right)",
+      "answer1": "\\text{A) }-11",
+      "answer2": "\\text{B) }26",
+      "answer3": "\\text{C) }-6",
+      "answer4": "\\text{D) }22",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 3} \\left(-6 \\right)",
+      "answer1": "\\text{A) }-6",
+      "answer2": "\\text{B) }1",
+      "answer3": "\\text{C) }4",
+      "answer4": "\\text{D) }-2",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 2} \\left(9 \\right)",
+      "answer1": "\\text{A) }10",
+      "answer2": "\\text{B) }0",
+      "answer3": "\\text{C) }9",
+      "answer4": "\\text{D) }7",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 1} \\left(1-9\\,x \\right)",
+      "answer1": "\\text{A) }14",
+      "answer2": "\\text{B) }16",
+      "answer3": "\\text{C) }-8",
+      "answer4": "\\text{D) }-4",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1} \\left(9\\,x+1 \\right)",
+      "answer1": "\\text{A) }-8",
+      "answer2": "\\text{B) }3",
+      "answer3": "\\text{C) }4",
+      "answer4": "\\text{D) }12",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 2} \\left(-1 \\right)",
+      "answer1": "\\text{A) }-1",
+      "answer2": "\\text{B) }3",
+      "answer3": "\\text{C) }5",
+      "answer4": "\\text{D) }3",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1} \\left(2\\,x^2-5\\,x-8 \\right)",
+      "answer1": "\\text{A) }5",
+      "answer2": "\\text{B) }8",
+      "answer3": "\\text{C) }-6",
+      "answer4": "\\text{D) }-1",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -4} \\left(3 \\right)",
+      "answer1": "\\text{A) }0",
+      "answer2": "\\text{B) }3",
+      "answer3": "\\text{C) }-1",
+      "answer4": "\\text{D) }1",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -4} \\left(5\\,x^2+7\\,x-6 \\right)",
+      "answer1": "\\text{A) }59",
+      "answer2": "\\text{B) }46",
+      "answer3": "\\text{C) }-3",
+      "answer4": "\\text{D) }-108",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -3} \\left(10\\,x-5 \\right)",
+      "answer1": "\\text{A) }31",
+      "answer2": "\\text{B) }19",
+      "answer3": "\\text{C) }32",
+      "answer4": "\\text{D) }-35",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 3} \\left(1 \\right)",
+      "answer1": "\\text{A) }6",
+      "answer2": "\\text{B) }1",
+      "answer3": "\\text{C) }2",
+      "answer4": "\\text{D) }1",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1} \\left(-9\\,x^2+8\\,x+6 \\right)",
+      "answer1": "\\text{A) }-11",
+      "answer2": "\\text{B) }23",
+      "answer3": "\\text{C) }2",
+      "answer4": "\\text{D) }17",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1} \\left(7 \\right)",
+      "answer1": "\\text{A) }7",
+      "answer2": "\\text{B) }4",
+      "answer3": "\\text{C) }8",
+      "answer4": "\\text{D) }-6",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 2} \\left(-9\\,x-4 \\right)",
+      "answer1": "\\text{A) }21",
+      "answer2": "\\text{B) }26",
+      "answer3": "\\text{C) }-22",
+      "answer4": "\\text{D) }-9",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 2} \\left(-7 \\right)",
+      "answer1": "\\text{A) }16",
+      "answer2": "\\text{B) }2",
+      "answer3": "\\text{C) }-7",
+      "answer4": "\\text{D) }-4",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1} \\left(3\\,x+8 \\right)",
+      "answer1": "\\text{A) }14",
+      "answer2": "\\text{B) }-1",
+      "answer3": "\\text{C) }8",
+      "answer4": "\\text{D) }5",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 3} \\left(-4\\,x^2-4\\,x+6 \\right)",
+      "answer1": "\\text{A) }-42",
+      "answer2": "\\text{B) }-66",
+      "answer3": "\\text{C) }-55",
+      "answer4": "\\text{D) }-15",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -4} \\left(3 \\right)",
+      "answer1": "\\text{A) }5",
+      "answer2": "\\text{B) }-1",
+      "answer3": "\\text{C) }4",
+      "answer4": "\\text{D) }3",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 4} \\left(-4\\,x-7 \\right)",
+      "answer1": "\\text{A) }-3",
+      "answer2": "\\text{B) }-2",
+      "answer3": "\\text{C) }26",
+      "answer4": "\\text{D) }-23",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1} \\left(7-2\\,x \\right)",
+      "answer1": "\\text{A) }12",
+      "answer2": "\\text{B) }-8",
+      "answer3": "\\text{C) }-6",
+      "answer4": "\\text{D) }9",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 0} \\left(5\\,x^2+6\\,x+10 \\right)",
+      "answer1": "\\text{A) }19",
+      "answer2": "\\text{B) }10",
+      "answer3": "\\text{C) }\\infty",
+      "answer4": "\\text{D) }5",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 3} \\left(9 \\right)",
+      "answer1": "\\text{A) }13",
+      "answer2": "\\text{B) }3",
+      "answer3": "\\text{C) }9",
+      "answer4": "\\text{D) }4",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 4} \\left(-5 \\right)",
+      "answer1": "\\text{A) }-5",
+      "answer2": "\\text{B) }3",
+      "answer3": "\\text{C) }7",
+      "answer4": "\\text{D) }1",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -4} \\left(6 \\right)",
+      "answer1": "\\text{A) }6",
+      "answer2": "\\text{B) }-5",
+      "answer3": "\\text{C) }4",
+      "answer4": "\\text{D) }-1",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -3} \\left(6\\,x^2+9\\,x+10 \\right)",
+      "answer1": "\\text{A) }98",
+      "answer2": "\\text{B) }37",
+      "answer3": "\\text{C) }-6",
+      "answer4": "\\text{D) }99",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -2} \\left(-5\\,x-1 \\right)",
+      "answer1": "\\text{A) }5",
+      "answer2": "\\text{B) }-1",
+      "answer3": "\\text{C) }-6",
+      "answer4": "\\text{D) }9",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 1} \\left(6\\,x^2+6\\,x+1 \\right)",
+      "answer1": "\\text{A) }-7",
+      "answer2": "\\text{B) }23",
+      "answer3": "\\text{C) }-1",
+      "answer4": "\\text{D) }13",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 3} \\left(-5 \\right)",
+      "answer1": "\\text{A) }-2",
+      "answer2": "\\text{B) }5",
+      "answer3": "\\text{C) }-5",
+      "answer4": "\\text{D) }2",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 3} \\left(-8 \\right)",
+      "answer1": "\\text{A) }9",
+      "answer2": "\\text{B) }-3",
+      "answer3": "\\text{C) }2",
+      "answer4": "\\text{D) }-8",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 5} \\left(6\\,x^2+10\\,x-6 \\right)",
+      "answer1": "\\text{A) }-202",
+      "answer2": "\\text{B) }194",
+      "answer3": "\\text{C) }42",
+      "answer4": "\\text{D) }161",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 5} \\left(2-9\\,x \\right)",
+      "answer1": "\\text{A) }-41",
+      "answer2": "\\text{B) }-43",
+      "answer3": "\\text{C) }-8",
+      "answer4": "\\text{D) }4",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -2} \\left(7\\,x+6 \\right)",
+      "answer1": "\\text{A) }-8",
+      "answer2": "\\text{B) }17",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }7",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -3} \\left(2 \\right)",
+      "answer1": "\\text{A) }2",
+      "answer2": "\\text{B) }1",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }0",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -3} \\left(4 \\right)",
+      "answer1": "\\text{A) }4",
+      "answer2": "\\text{B) }1",
+      "answer3": "\\text{C) }7",
+      "answer4": "\\text{D) }3",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 2} \\left(-6 \\right)",
+      "answer1": "\\text{A) }-6",
+      "answer2": "\\text{B) }0",
+      "answer3": "\\text{C) }-2",
+      "answer4": "\\text{D) }1",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 1} \\left(-5\\,x^2+7\\,x+8 \\right)",
+      "answer1": "\\text{A) }-8",
+      "answer2": "\\text{B) }10",
+      "answer3": "\\text{C) }19",
+      "answer4": "\\text{D) }-9",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1} \\left(3\\,x+1 \\right)",
+      "answer1": "\\text{A) }11",
+      "answer2": "\\text{B) }17",
+      "answer3": "\\text{C) }-2",
+      "answer4": "\\text{D) }15",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 5} \\left(-9\\,x^2-6\\,x+9 \\right)",
+      "answer1": "\\text{A) }-246",
+      "answer2": "\\text{B) }-214",
+      "answer3": "\\text{C) }-217",
+      "answer4": "\\text{D) }-44",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 3} \\left(4-8\\,x \\right)",
+      "answer1": "\\text{A) }-20",
+      "answer2": "\\text{B) }11",
+      "answer3": "\\text{C) }-26",
+      "answer4": "\\text{D) }-1",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 2} \\left(-6 \\right)",
+      "answer1": "\\text{A) }3",
+      "answer2": "\\text{B) }-6",
+      "answer3": "\\text{C) }-3",
+      "answer4": "\\text{D) }7",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 4} \\left(-3 \\right)",
+      "answer1": "\\text{A) }-1",
+      "answer2": "\\text{B) }0",
+      "answer3": "\\text{C) }3",
+      "answer4": "\\text{D) }-3",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -4} \\left(-7\\,x^2+6\\,x-6 \\right)",
+      "answer1": "\\text{A) }-104",
+      "answer2": "\\text{B) }117",
+      "answer3": "\\text{C) }-142",
+      "answer4": "\\text{D) }40",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1} \\left(7\\,x^2-9\\,x+3 \\right)",
+      "answer1": "\\text{A) }6",
+      "answer2": "\\text{B) }19",
+      "answer3": "\\text{C) }-19",
+      "answer4": "\\text{D) }7",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -2} \\left(-5 \\right)",
+      "answer1": "\\text{A) }-5",
+      "answer2": "\\text{B) }6",
+      "answer3": "\\text{C) }-3",
+      "answer4": "\\text{D) }5",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1} \\left(7 \\right)",
+      "answer1": "\\text{A) }7",
+      "answer2": "\\text{B) }-6",
+      "answer3": "\\text{C) }12",
+      "answer4": "\\text{D) }-1",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 0} \\left(5-x^2 \\right)",
+      "answer1": "\\text{A) }5",
+      "answer2": "\\text{B) }12",
+      "answer3": "\\text{C) }4",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 0} \\left(4-8\\,x \\right)",
+      "answer1": "\\text{A) }6",
+      "answer2": "\\text{B) }\\infty",
+      "answer3": "\\text{C) }8",
+      "answer4": "\\text{D) }4",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 3} \\left(-6\\,x^2+8\\,x+10 \\right)",
+      "answer1": "\\text{A) }29",
+      "answer2": "\\text{B) }71",
+      "answer3": "\\text{C) }-20",
+      "answer4": "\\text{D) }4",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -3} \\left(3 \\right)",
+      "answer1": "\\text{A) }4",
+      "answer2": "\\text{B) }3",
+      "answer3": "\\text{C) }2",
+      "answer4": "\\text{D) }0",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -4} \\left(-5 \\right)",
+      "answer1": "\\text{A) }-5",
+      "answer2": "\\text{B) }3",
+      "answer3": "\\text{C) }1",
+      "answer4": "\\text{D) }3",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 0} \\left(1 \\right)",
+      "answer1": "\\text{A) }-1",
+      "answer2": "\\text{B) }2",
+      "answer3": "\\text{C) }1",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 5} \\left(-4 \\right)",
+      "answer1": "\\text{A) }10",
+      "answer2": "\\text{B) }4",
+      "answer3": "\\text{C) }-4",
+      "answer4": "\\text{D) }5",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -4} \\left(-2\\,x-4 \\right)",
+      "answer1": "\\text{A) }1",
+      "answer2": "\\text{B) }5",
+      "answer3": "\\text{C) }15",
+      "answer4": "\\text{D) }4",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -3} \\left(-4 \\right)",
+      "answer1": "\\text{A) }11",
+      "answer2": "\\text{B) }8",
+      "answer3": "\\text{C) }-4",
+      "answer4": "\\text{D) }6",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -3} \\left(-9 \\right)",
+      "answer1": "\\text{A) }11",
+      "answer2": "\\text{B) }-9",
+      "answer3": "\\text{C) }7",
+      "answer4": "\\text{D) }2",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    }
+  ]
+}

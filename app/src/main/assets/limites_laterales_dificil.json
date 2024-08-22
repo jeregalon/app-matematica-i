@@ -1,0 +1,34 @@
+{
+  "limites_laterales_dificil": [
+    {
+      "question": "\\lim_{x \\to 0^{+}} \\left (tan^{-1}(ln(x)) \\right)",
+      "answer1": "\\text{A) } \\frac{\\pi}{2}",
+      "answer2": "\\text{B) } ",
+      "answer3": "\\text{C) } ",
+      "answer4": "\\text{D) } ",
+      "correct": "0",
+      "unlock": "3",
+      "difficulty": "hard"
+    },
+    {
+      "question": "\\lim_{x \\to 0^{+}} \\left (tan^{-1}(ln(x)) \\right)",
+      "answer1": "\\text{A) } \\frac{\\pi}{2}",
+      "answer2": "\\text{B) } ",
+      "answer3": "\\text{C) } ",
+      "answer4": "\\text{D) } ",
+      "correct": "0",
+      "unlock": "3",
+      "difficulty": "hard"
+    },
+    {
+      "question": "\\lim_{x \\to 0^{+}} \\left (tan^{-1}(ln(x)) \\right)",
+      "answer1": "\\text{A) } \\frac{\\pi}{2}",
+      "answer2": "\\text{B) } ",
+      "answer3": "\\text{C) } ",
+      "answer4": "\\text{D) } ",
+      "correct": "0",
+      "unlock": "3",
+      "difficulty": "hard"
+    }
+  ]
+}

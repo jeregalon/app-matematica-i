@@ -1,0 +1,2004 @@
+{
+  "derivadas_de_radicales_media": [
+    {
+      "question": "\\frac{d}{dx} \\left (3\\,x^{1/3}+5\\,x^{6/5}\\right)",
+      "answer1": "\\text{A) }\\frac{8}{5\\,x^{1/5}}+12\\,x",
+      "answer2": "\\text{B) }\\frac{1}{x^{2/3}}+6\\,x^{1/5}",
+      "answer3": "\\text{C) }9\\,x^{2/7}+\\frac{2}{3\\,x^{7/9}}",
+      "answer4": "\\text{D) }\\frac{25\\,x^{2/3}}{3}+\\frac{5\\,x^{1/4}}{2}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (4\\,x^4+7\\,x^{9/7}\\right)",
+      "answer1": "\\text{A) }16\\,x^3+9\\,x^{2/7}",
+      "answer2": "\\text{B) }\\frac{5}{2\\,x^{1/6}}+\\frac{8}{3\\,x^{5/9}}",
+      "answer3": "\\text{C) }\\frac{15}{2\\,x^{1/4}}+16\\,x^3",
+      "answer4": "\\text{D) }\\frac{2}{5\\,x^{4/5}}+10\\,x",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (10\\,x^{9/2}+8\\,x^{7/8}\\right)",
+      "answer1": "\\text{A) }45\\,x^{7/2}+\\frac{7}{x^{1/8}}",
+      "answer2": "\\text{B) }\\frac{8}{3\\,x^{1/9}}+\\frac{3}{5\\,x^{2/5}}",
+      "answer3": "\\text{C) }\\frac{3}{2\\,x^{7/10}}+\\frac{25\\,x^{3/2}}{2}",
+      "answer4": "\\text{D) }\\frac{9}{2\\,x^{1/4}}+\\frac{21\\,\\sqrt{x}}{2}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (6\\,x^{5/3}+7\\,x^{8/5}\\right)",
+      "answer1": "\\text{A) }\\frac{10\\,x^{2/3}}{3}+\\frac{5}{3\\,x^{2/3}}",
+      "answer2": "\\text{B) }10\\,x^{2/3}+\\frac{56\\,x^{3/5}}{5}",
+      "answer3": "\\text{C) }\\frac{15}{8\\,x^{5/8}}+\\frac{7\\,x^{5/2}}{2}",
+      "answer4": "\\text{D) }6\\,x+\\frac{5\\,x^{1/4}}{2}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (4\\,x^{9/10}+7\\,x^{7/10}\\right)",
+      "answer1": "\\text{A) }\\frac{18}{5\\,x^{1/10}}+\\frac{49}{10\\,x^{3/10}}",
+      "answer2": "\\text{B) }\\frac{5\\,x^{1/4}}{2}+\\frac{24}{7\\,x^{3/7}}",
+      "answer3": "\\text{C) }\\frac{7}{3\\,x^{2/3}}+\\frac{5\\,x^{1/4}}{2}",
+      "answer4": "\\text{D) }\\frac{2}{3\\,x^{1/3}}+45\\,x^{7/2}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (7\\,x^{9/5}+3\\,x^3\\right)",
+      "answer1": "\\text{A) }\\frac{63\\,x^{4/5}}{5}+9\\,x^2",
+      "answer2": "\\text{B) }\\frac{2}{x^{2/3}}+\\frac{49\\,x^{2/5}}{5}",
+      "answer3": "\\text{C) }\\frac{20\\,x^{7/3}}{3}+5\\,x^{3/2}",
+      "answer4": "\\text{D) }8\\,x+\\frac{30}{7\\,x^{1/7}}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (2\\,x^{1/4}+7\\,x^{3/2}\\right)",
+      "answer1": "\\text{A) }\\frac{24}{5\\,x^{1/5}}+\\frac{5}{2\\,\\sqrt{x}}",
+      "answer2": "\\text{B) }\\frac{50\\,x^{7/3}}{3}+\\frac{4}{7\\,x^{5/7}}",
+      "answer3": "\\text{C) }\\frac{1}{2\\,x^{3/4}}+\\frac{21\\,\\sqrt{x}}{2}",
+      "answer4": "\\text{D) }\\frac{63}{10\\,x^{1/10}}+\\frac{20}{9\\,x^{4/9}}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (10\\,x^{5/3}+5\\,\\sqrt{x}\\right)",
+      "answer1": "\\text{A) }\\frac{50\\,x^{2/3}}{3}+\\frac{5}{2\\,\\sqrt{x}}",
+      "answer2": "\\text{B) }\\frac{10}{3\\,x^{1/3}}+\\frac{6}{x^{1/4}}",
+      "answer3": "\\text{C) }\\frac{64\\,x^{3/5}}{5}+12\\,x^{1/3}",
+      "answer4": "\\text{D) }\\frac{35\\,x^{2/3}}{3}+\\frac{9\\,x^{4/5}}{5}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (3\\,x^{4/3}+4\\,x^{8/9}\\right)",
+      "answer1": "\\text{A) }4\\,x^{1/3}+\\frac{32}{9\\,x^{1/9}}",
+      "answer2": "\\text{B) }10\\,x^{2/3}+\\frac{2}{x^{3/5}}",
+      "answer3": "\\text{C) }14\\,x^{2/5}+\\frac{27}{4\\,x^{1/4}}",
+      "answer4": "\\text{D) }\\frac{5}{4\\,x^{3/4}}+\\frac{72\\,x^{4/5}}{5}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (10\\,x^{5/4}+5\\,\\sqrt{x}\\right)",
+      "answer1": "\\text{A) }\\frac{2}{9\\,x^{7/9}}+\\frac{28\\,x^{1/6}}{3}",
+      "answer2": "\\text{B) }\\frac{25\\,x^{1/4}}{2}+\\frac{5}{2\\,\\sqrt{x}}",
+      "answer3": "\\text{C) }36\\,x^3+\\frac{6}{7\\,x^{4/7}}",
+      "answer4": "\\text{D) }\\frac{80\\,x^{3/7}}{7}+\\frac{8}{9\\,x^{1/9}}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (2\\,x^{7/3}+8\\,x^{3/2}\\right)",
+      "answer1": "\\text{A) }\\frac{54}{7\\,x^{1/7}}+\\frac{3}{2\\,x^{1/4}}",
+      "answer2": "\\text{B) }\\frac{25}{8\\,x^{3/8}}+\\frac{70}{9\\,x^{2/9}}",
+      "answer3": "\\text{C) }\\frac{32\\,x^{1/3}}{3}+\\frac{7}{2\\,\\sqrt{x}}",
+      "answer4": "\\text{D) }\\frac{14\\,x^{4/3}}{3}+12\\,\\sqrt{x}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (8\\,x^{10/9}+3\\,x^{8/9}\\right)",
+      "answer1": "\\text{A) }\\frac{80\\,x^{1/9}}{9}+\\frac{8}{3\\,x^{1/9}}",
+      "answer2": "\\text{B) }15\\,\\sqrt{x}+45\\,x^4",
+      "answer3": "\\text{C) }\\frac{4}{7\\,x^{3/7}}+\\frac{18\\,x^{4/5}}{5}",
+      "answer4": "\\text{D) }\\frac{27\\,\\sqrt{x}}{2}+\\frac{1}{x^{3/4}}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (7\\,x^{4/5}+7\\,x^{2/3}\\right)",
+      "answer1": "\\text{A) }\\frac{8}{7\\,x^{5/7}}+10\\,x^{1/4}",
+      "answer2": "\\text{B) }\\frac{28}{5\\,x^{1/5}}+\\frac{14}{3\\,x^{1/3}}",
+      "answer3": "\\text{C) }\\frac{10}{3\\,x^{1/3}}+\\frac{16}{7\\,x^{3/7}}",
+      "answer4": "\\text{D) }3\\,x^2+\\frac{3}{x^{7/10}}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (6\\,x^{3/10}+8\\,x^{6/5}\\right)",
+      "answer1": "\\text{A) }\\frac{9}{5\\,x^{7/10}}+\\frac{48\\,x^{1/5}}{5}",
+      "answer2": "\\text{B) }\\frac{5}{2\\,x^{3/8}}+\\frac{4}{3\\,x^{2/3}}",
+      "answer3": "\\text{C) }14\\,x+\\frac{49\\,x^{4/3}}{3}",
+      "answer4": "\\text{D) }\\frac{16}{9\\,x^{1/9}}+\\frac{81\\,x^{1/8}}{8}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (6\\,x^{10/7}+2\\,\\sqrt{x}\\right)",
+      "answer1": "\\text{A) }\\frac{4}{3\\,x^{5/9}}+\\frac{36\\,x^{2/7}}{7}",
+      "answer2": "\\text{B) }\\frac{7}{2\\,x^{1/8}}+\\frac{18\\,x^{1/5}}{5}",
+      "answer3": "\\text{C) }\\frac{60\\,x^{3/7}}{7}+\\frac{1}{\\sqrt{x}}",
+      "answer4": "\\text{D) }\\frac{27\\,\\sqrt{x}}{2}+\\frac{80}{9\\,x^{1/9}}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (4\\,x^{9/8}+5\\,x^{5/7}\\right)",
+      "answer1": "\\text{A) }\\frac{36}{5\\,x^{1/5}}+\\frac{6}{5\\,x^{3/5}}",
+      "answer2": "\\text{B) }\\frac{9\\,x^{1/8}}{2}+\\frac{25}{7\\,x^{2/7}}",
+      "answer3": "\\text{C) }\\frac{2}{5\\,x^{3/5}}+2\\,x",
+      "answer4": "\\text{D) }\\frac{35\\,x^{5/2}}{2}+\\frac{2}{x^{3/4}}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (5\\,x^{5/7}+8\\,x^{3/4}\\right)",
+      "answer1": "\\text{A) }\\frac{3}{4\\,x^{3/4}}+\\frac{9}{5\\,x^{4/5}}",
+      "answer2": "\\text{B) }\\frac{25}{7\\,x^{2/7}}+\\frac{6}{x^{1/4}}",
+      "answer3": "\\text{C) }40\\,x^3+\\frac{4}{3\\,x^{1/3}}",
+      "answer4": "\\text{D) }\\frac{14\\,x^{1/6}}{3}+\\frac{60\\,x^{3/7}}{7}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (4\\,x^{6/7}+x^2\\right)",
+      "answer1": "\\text{A) }4\\,x^{1/3}+\\frac{45\\,x^{1/4}}{4}",
+      "answer2": "\\text{B) }\\frac{36}{5\\,x^{1/5}}+\\frac{5}{\\sqrt{x}}",
+      "answer3": "\\text{C) }\\frac{35}{8\\,x^{3/8}}+6\\,\\sqrt{x}",
+      "answer4": "\\text{D) }\\frac{24}{7\\,x^{1/7}}+2\\,x",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (3\\,x^{3/7}+5\\,x^{7/6}\\right)",
+      "answer1": "\\text{A) }\\frac{81\\,x^{1/8}}{8}+\\frac{3}{x^{1/4}}",
+      "answer2": "\\text{B) }\\frac{5}{9\\,x^{4/9}}+45\\,x^{7/2}",
+      "answer3": "\\text{C) }\\frac{9}{7\\,x^{4/7}}+\\frac{35\\,x^{1/6}}{6}",
+      "answer4": "\\text{D) }\\frac{35\\,x^{1/6}}{3}+10\\,x^{3/7}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (8\\,x^{5/6}+10\\,x^{9/10}\\right)",
+      "answer1": "\\text{A) }\\frac{3}{10\\,x^{7/10}}+\\frac{16}{7\\,x^{5/7}}",
+      "answer2": "\\text{B) }\\frac{45\\,x^{1/4}}{4}+\\frac{2}{3\\,x^{1/3}}",
+      "answer3": "\\text{C) }\\frac{21\\,x^{3/4}}{2}+\\frac{2}{x^{2/3}}",
+      "answer4": "\\text{D) }\\frac{20}{3\\,x^{1/6}}+\\frac{9}{x^{1/10}}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (7\\,x^{7/9}+x^2\\right)",
+      "answer1": "\\text{A) }\\frac{45\\,x^{3/2}}{2}+\\frac{50}{9\\,x^{4/9}}",
+      "answer2": "\\text{B) }\\frac{9\\,x^{4/5}}{5}+\\frac{40\\,x^{3/7}}{7}",
+      "answer3": "\\text{C) }\\frac{49}{9\\,x^{2/9}}+2\\,x",
+      "answer4": "\\text{D) }\\frac{25\\,x^{1/4}}{2}+\\frac{28}{5\\,x^{3/10}}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (6\\,x^{9/4}+3\\,x^3\\right)",
+      "answer1": "\\text{A) }14\\,x+\\frac{28\\,x^{1/6}}{3}",
+      "answer2": "\\text{B) }\\frac{3}{5\\,x^{4/5}}+\\frac{40}{9\\,x^{5/9}}",
+      "answer3": "\\text{C) }36\\,x^3+18\\,x^2",
+      "answer4": "\\text{D) }\\frac{27\\,x^{5/4}}{2}+9\\,x^2",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (9\\,x^{5/2}+2\\,x^{2/7}\\right)",
+      "answer1": "\\text{A) }\\frac{4}{3\\,x^{5/9}}+\\frac{28}{9\\,x^{5/9}}",
+      "answer2": "\\text{B) }\\frac{45\\,x^{3/2}}{2}+\\frac{4}{7\\,x^{5/7}}",
+      "answer3": "\\text{C) }\\frac{50\\,x^{2/3}}{3}+\\frac{15}{2\\,x^{1/6}}",
+      "answer4": "\\text{D) }\\frac{35\\,x^{4/3}}{3}+\\frac{32\\,x^{3/5}}{5}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (6\\,x^{5/3}+5\\,x^{10/3}\\right)",
+      "answer1": "\\text{A) }\\frac{20}{7\\,x^{2/7}}+\\frac{50}{7\\,x^{2/7}}",
+      "answer2": "\\text{B) }\\frac{54\\,x^{1/5}}{5}+\\frac{7\\,x^{1/6}}{3}",
+      "answer3": "\\text{C) }10\\,x^{2/3}+\\frac{50\\,x^{7/3}}{3}",
+      "answer4": "\\text{D) }\\frac{56\\,x^{4/3}}{3}+\\frac{9\\,x^{7/2}}{2}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (7\\,x^{3/5}+5\\,x^{5/4}\\right)",
+      "answer1": "\\text{A) }\\frac{35\\,x^{1/6}}{6}+\\frac{32}{9\\,x^{5/9}}",
+      "answer2": "\\text{B) }\\frac{16\\,x^{1/7}}{7}+14\\,x",
+      "answer3": "\\text{C) }\\frac{21}{5\\,x^{2/5}}+\\frac{25\\,x^{1/4}}{4}",
+      "answer4": "\\text{D) }\\frac{5}{\\sqrt{x}}+36\\,x^3",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (8\\,x^{9/4}+x^{3/7}\\right)",
+      "answer1": "\\text{A) }\\frac{12\\,x^{1/5}}{5}+\\frac{28}{9\\,x^{5/9}}",
+      "answer2": "\\text{B) }14\\,x^{4/3}+12\\,x",
+      "answer3": "\\text{C) }\\frac{5}{2\\,\\sqrt{x}}+\\frac{7\\,x^{1/6}}{3}",
+      "answer4": "\\text{D) }18\\,x^{5/4}+\\frac{3}{7\\,x^{4/7}}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (9\\,x^{3/2}+6\\,x^{8/5}\\right)",
+      "answer1": "\\text{A) }\\frac{30\\,x^{3/7}}{7}+\\frac{32\\,x^{1/3}}{3}",
+      "answer2": "\\text{B) }\\frac{7\\,x^{4/3}}{3}+\\frac{14}{5\\,x^{3/10}}",
+      "answer3": "\\text{C) }\\frac{9}{2\\,x^{1/4}}+\\frac{1}{4\\,x^{3/4}}",
+      "answer4": "\\text{D) }\\frac{27\\,\\sqrt{x}}{2}+\\frac{48\\,x^{3/5}}{5}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (5\\,x^2+2\\,x^{5/3}\\right)",
+      "answer1": "\\text{A) }10\\,x+\\frac{10\\,x^{2/3}}{3}",
+      "answer2": "\\text{B) }12\\,\\sqrt{x}+8\\,x^{1/3}",
+      "answer3": "\\text{C) }\\frac{27}{5\\,x^{2/5}}+\\frac{9}{5\\,x^{4/5}}",
+      "answer4": "\\text{D) }\\frac{35\\,x^{3/4}}{2}+\\frac{20}{7\\,x^{2/7}}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (8\\,x^{1/3}+x^{1/3}\\right)",
+      "answer1": "\\text{A) }\\frac{81\\,x^{4/5}}{5}+\\frac{6}{x^{2/5}}",
+      "answer2": "\\text{B) }10\\,x^{7/3}+\\frac{8}{3\\,x^{1/3}}",
+      "answer3": "\\text{C) }\\frac{35\\,x^{1/6}}{3}+14\\,x",
+      "answer4": "\\text{D) }\\frac{8}{3\\,x^{2/3}}+\\frac{1}{3\\,x^{2/3}}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (9\\,x^{2/9}+6\\,x^{9/8}\\right)",
+      "answer1": "\\text{A) }\\frac{2}{x^{7/9}}+\\frac{27\\,x^{1/8}}{4}",
+      "answer2": "\\text{B) }\\frac{20\\,x^{7/3}}{3}+\\frac{6}{5\\,x^{3/5}}",
+      "answer3": "\\text{C) }\\frac{9}{5\\,x^{7/10}}+\\frac{2}{x^{3/5}}",
+      "answer4": "\\text{D) }\\frac{49\\,x^{5/2}}{2}+\\frac{10}{9\\,x^{4/9}}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (9\\,x^2+10\\,x^{3/2}\\right)",
+      "answer1": "\\text{A) }16\\,x^{5/3}+\\frac{10\\,x^{7/3}}{3}",
+      "answer2": "\\text{B) }\\frac{2}{7\\,x^{5/7}}+4\\,x",
+      "answer3": "\\text{C) }\\frac{7}{3\\,x^{2/3}}+\\frac{45\\,x^{2/7}}{7}",
+      "answer4": "\\text{D) }18\\,x+15\\,\\sqrt{x}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (x^{8/9}+2\\,x^{2/5}\\right)",
+      "answer1": "\\text{A) }\\frac{14\\,x^{2/5}}{5}+9\\,x^{5/4}",
+      "answer2": "\\text{B) }\\frac{8}{3\\,x^{1/3}}+\\frac{3}{5\\,x^{2/5}}",
+      "answer3": "\\text{C) }\\frac{54}{7\\,x^{1/7}}+15\\,x^{2/3}",
+      "answer4": "\\text{D) }\\frac{8}{9\\,x^{1/9}}+\\frac{4}{5\\,x^{3/5}}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (9\\,x^5+10\\,x^{5/9}\\right)",
+      "answer1": "\\text{A) }45\\,x^4+\\frac{50}{9\\,x^{4/9}}",
+      "answer2": "\\text{B) }6\\,x+\\frac{1}{2\\,\\sqrt{x}}",
+      "answer3": "\\text{C) }\\frac{10}{7\\,x^{5/7}}+\\frac{5}{2\\,\\sqrt{x}}",
+      "answer4": "\\text{D) }\\frac{2}{3\\,x^{1/3}}+18\\,x",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (2\\,x^{2/5}+10\\,x^{5/4}\\right)",
+      "answer1": "\\text{A) }\\frac{9\\,x^{1/8}}{2}+35\\,x^4",
+      "answer2": "\\text{B) }10\\,x^{1/9}+12\\,x^{1/3}",
+      "answer3": "\\text{C) }\\frac{42\\,x^{1/5}}{5}+\\frac{21}{5\\,x^{3/10}}",
+      "answer4": "\\text{D) }\\frac{4}{5\\,x^{3/5}}+\\frac{25\\,x^{1/4}}{2}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (7\\,x^{3/10}+4\\,x^{3/10}\\right)",
+      "answer1": "\\text{A) }20\\,x+\\frac{3}{4\\,x^{3/4}}",
+      "answer2": "\\text{B) }\\frac{21}{10\\,x^{7/10}}+\\frac{6}{5\\,x^{7/10}}",
+      "answer3": "\\text{C) }\\frac{40}{9\\,x^{4/9}}+\\frac{45\\,x^{5/4}}{2}",
+      "answer4": "\\text{D) }\\frac{40\\,x^{5/3}}{3}+7\\,x^{2/5}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (9\\,x^{5/3}+x^{3/2}\\right)",
+      "answer1": "\\text{A) }\\frac{27\\,x^{2/7}}{7}+\\frac{20}{7\\,x^{5/7}}",
+      "answer2": "\\text{B) }\\frac{32\\,x^{1/3}}{3}+10\\,x^{1/9}",
+      "answer3": "\\text{C) }\\frac{25}{8\\,x^{3/8}}+8\\,x",
+      "answer4": "\\text{D) }15\\,x^{2/3}+\\frac{3\\,\\sqrt{x}}{2}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (7\\,x^{5/4}+8\\,x^{1/5}\\right)",
+      "answer1": "\\text{A) }\\frac{6}{5\\,x^{2/5}}+10\\,x^{1/9}",
+      "answer2": "\\text{B) }\\frac{35\\,x^{1/4}}{4}+\\frac{8}{5\\,x^{4/5}}",
+      "answer3": "\\text{C) }\\frac{10}{3\\,x^{1/3}}+\\frac{45\\,x^{2/7}}{7}",
+      "answer4": "\\text{D) }\\frac{5}{\\sqrt{x}}+12\\,x",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (9\\,x^{4/3}+4\\,x^3\\right)",
+      "answer1": "\\text{A) }\\frac{24\\,x^{1/5}}{5}+\\frac{9}{4\\,x^{5/8}}",
+      "answer2": "\\text{B) }\\frac{15}{8\\,x^{5/8}}+\\frac{4}{\\sqrt{x}}",
+      "answer3": "\\text{C) }12\\,x^{1/3}+12\\,x^2",
+      "answer4": "\\text{D) }4\\,x+\\frac{90\\,x^{3/7}}{7}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (4\\,x^3+9\\,x^{3/7}\\right)",
+      "answer1": "\\text{A) }12\\,x^2+\\frac{27}{7\\,x^{4/7}}",
+      "answer2": "\\text{B) }\\frac{2}{x^{2/3}}+\\frac{8}{x^{1/5}}",
+      "answer3": "\\text{C) }\\frac{32}{5\\,x^{1/5}}+\\frac{10\\,x^{1/9}}{3}",
+      "answer4": "\\text{D) }\\frac{5\\,x^{2/3}}{3}+\\frac{7}{3\\,x^{2/3}}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (5\\,x^{3/2}+6\\,x^{4/9}\\right)",
+      "answer1": "\\text{A) }\\frac{21\\,x^{3/4}}{2}+\\frac{16}{7\\,x^{5/7}}",
+      "answer2": "\\text{B) }\\frac{3}{5\\,x^{7/10}}+\\frac{27}{10\\,x^{7/10}}",
+      "answer3": "\\text{C) }\\frac{50}{7\\,x^{2/7}}+\\frac{40\\,x^{1/3}}{3}",
+      "answer4": "\\text{D) }\\frac{15\\,\\sqrt{x}}{2}+\\frac{8}{3\\,x^{5/9}}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (7\\,x^{5/6}+4\\,x^{8/9}\\right)",
+      "answer1": "\\text{A) }\\frac{18}{5\\,x^{1/10}}+25\\,x^4",
+      "answer2": "\\text{B) }\\frac{35}{6\\,x^{1/6}}+\\frac{32}{9\\,x^{1/9}}",
+      "answer3": "\\text{C) }\\frac{1}{\\sqrt{x}}+\\frac{18}{7\\,x^{5/7}}",
+      "answer4": "\\text{D) }\\frac{8}{3\\,x^{2/3}}+\\frac{1}{2\\,\\sqrt{x}}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (8\\,x^{5/4}+5\\,x^{3/2}\\right)",
+      "answer1": "\\text{A) }\\frac{25\\,x^{1/4}}{4}+\\frac{7\\,x^{5/2}}{2}",
+      "answer2": "\\text{B) }10\\,x^{1/4}+\\frac{15\\,\\sqrt{x}}{2}",
+      "answer3": "\\text{C) }\\frac{27}{5\\,x^{1/10}}+\\frac{9}{5\\,x^{2/5}}",
+      "answer4": "\\text{D) }\\frac{28\\,x^{1/3}}{3}+\\frac{16}{9\\,x^{1/9}}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (5\\,x^{5/6}+10\\,x^3\\right)",
+      "answer1": "\\text{A) }\\frac{25}{6\\,x^{1/6}}+30\\,x^2",
+      "answer2": "\\text{B) }\\frac{8}{5\\,x^{4/5}}+\\frac{36}{5\\,x^{1/5}}",
+      "answer3": "\\text{C) }\\frac{24\\,x^{3/5}}{5}+\\frac{2}{3\\,x^{1/3}}",
+      "answer4": "\\text{D) }\\frac{49}{9\\,x^{2/9}}+\\frac{5}{3\\,x^{1/6}}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (2\\,x^{5/3}+7\\,x^{5/8}\\right)",
+      "answer1": "\\text{A) }\\frac{10\\,x^{2/3}}{3}+\\frac{35}{8\\,x^{3/8}}",
+      "answer2": "\\text{B) }\\frac{21}{10\\,x^{3/10}}+12\\,x^{1/3}",
+      "answer3": "\\text{C) }\\frac{9\\,x^{7/2}}{2}+\\frac{3}{5\\,x^{2/5}}",
+      "answer4": "\\text{D) }\\frac{18}{7\\,x^{5/7}}+8\\,x",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (x^{1/4}+2\\,x^2\\right)",
+      "answer1": "\\text{A) }\\frac{20}{3\\,x^{1/6}}+\\frac{10}{9\\,x^{7/9}}",
+      "answer2": "\\text{B) }\\frac{2}{x^{2/3}}+\\frac{5}{2\\,x^{3/8}}",
+      "answer3": "\\text{C) }\\frac{1}{4\\,x^{3/4}}+4\\,x",
+      "answer4": "\\text{D) }\\frac{36}{5\\,x^{1/5}}+\\frac{2}{5\\,x^{3/5}}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (3\\,x^{7/8}+4\\,x^{1/3}\\right)",
+      "answer1": "\\text{A) }\\frac{21}{8\\,x^{1/8}}+\\frac{4}{3\\,x^{2/3}}",
+      "answer2": "\\text{B) }\\frac{64\\,x^{1/7}}{7}+\\frac{15\\,x^{1/4}}{2}",
+      "answer3": "\\text{C) }\\frac{27}{4\\,x^{1/4}}+6\\,x",
+      "answer4": "\\text{D) }\\frac{10\\,x^{2/3}}{3}+\\frac{48}{7\\,x^{1/7}}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (8\\,x^{6/5}+2\\,x^{7/4}\\right)",
+      "answer1": "\\text{A) }\\frac{63}{10\\,x^{3/10}}+\\frac{16}{5\\,x^{1/5}}",
+      "answer2": "\\text{B) }\\frac{48\\,x^{1/5}}{5}+\\frac{7\\,x^{3/4}}{2}",
+      "answer3": "\\text{C) }\\frac{6}{7\\,x^{5/7}}+\\frac{72\\,x^{2/7}}{7}",
+      "answer4": "\\text{D) }20\\,x+\\frac{12}{5\\,x^{1/5}}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (10\\,x^{5/6}+5\\,x^{5/3}\\right)",
+      "answer1": "\\text{A) }\\frac{25}{3\\,x^{1/6}}+\\frac{25\\,x^{2/3}}{3}",
+      "answer2": "\\text{B) }\\frac{35\\,x^{1/4}}{4}+8\\,x",
+      "answer3": "\\text{C) }\\frac{7\\,x^{3/4}}{2}+\\frac{63\\,x^{7/2}}{2}",
+      "answer4": "\\text{D) }\\frac{8\\,x^{5/3}}{3}+\\frac{21\\,x^{2/5}}{5}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (2\\,x^2+3\\,x^{4/5}\\right)",
+      "answer1": "\\text{A) }\\frac{35}{9\\,x^{2/9}}+9\\,x^{4/5}",
+      "answer2": "\\text{B) }\\frac{3}{4\\,x^{3/4}}+\\frac{2}{3\\,x^{1/3}}",
+      "answer3": "\\text{C) }4\\,x+\\frac{12}{5\\,x^{1/5}}",
+      "answer4": "\\text{D) }\\frac{40\\,x^{1/3}}{3}+\\frac{16}{3\\,x^{1/3}}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (3\\,x^{9/5}+3\\,x^{10/3}\\right)",
+      "answer1": "\\text{A) }8\\,x^{1/7}+\\frac{18\\,x^{4/5}}{5}",
+      "answer2": "\\text{B) }\\frac{2}{x^{4/5}}+15\\,\\sqrt{x}",
+      "answer3": "\\text{C) }\\frac{2}{\\sqrt{x}}+\\frac{45}{7\\,x^{2/7}}",
+      "answer4": "\\text{D) }\\frac{27\\,x^{4/5}}{5}+10\\,x^{7/3}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (9\\,x^{1/4}+10\\,x^{9/10}\\right)",
+      "answer1": "\\text{A) }\\frac{9}{4\\,x^{3/4}}+\\frac{9}{x^{1/10}}",
+      "answer2": "\\text{B) }\\frac{9}{5\\,x^{2/5}}+18\\,x^2",
+      "answer3": "\\text{C) }\\frac{18}{7\\,x^{4/7}}+\\frac{6}{x^{1/4}}",
+      "answer4": "\\text{D) }\\frac{35\\,x^{4/3}}{3}+2\\,x",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (6\\,x^{8/3}+7\\,x^{5/8}\\right)",
+      "answer1": "\\text{A) }\\frac{7}{x^{2/9}}+\\frac{81\\,x^{5/4}}{4}",
+      "answer2": "\\text{B) }5\\,x^4+\\frac{20}{9\\,x^{7/9}}",
+      "answer3": "\\text{C) }16\\,x^{5/3}+\\frac{35}{8\\,x^{3/8}}",
+      "answer4": "\\text{D) }\\frac{3}{2\\,x^{1/4}}+\\frac{3}{5\\,x^{2/5}}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (5\\,x^{2/3}+8\\,x^{8/3}\\right)",
+      "answer1": "\\text{A) }\\frac{3}{\\sqrt{x}}+\\frac{70\\,x^{1/9}}{9}",
+      "answer2": "\\text{B) }\\frac{10}{3\\,x^{1/3}}+\\frac{64\\,x^{5/3}}{3}",
+      "answer3": "\\text{C) }5\\,x^{1/4}+\\frac{5}{\\sqrt{x}}",
+      "answer4": "\\text{D) }14\\,x+\\frac{1}{\\sqrt{x}}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (3\\,x^{4/9}+4\\,x^{4/7}\\right)",
+      "answer1": "\\text{A) }\\frac{4}{3\\,x^{5/9}}+\\frac{16}{7\\,x^{3/7}}",
+      "answer2": "\\text{B) }\\frac{80\\,x^{7/3}}{3}+\\frac{12}{5\\,x^{7/10}}",
+      "answer3": "\\text{C) }\\frac{9\\,x^{1/8}}{2}+\\frac{14}{3\\,x^{1/3}}",
+      "answer4": "\\text{D) }\\frac{18}{5\\,x^{2/5}}+20\\,x^3",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (5\\,x^{2/3}+7\\,x^{3/5}\\right)",
+      "answer1": "\\text{A) }\\frac{9}{2\\,x^{1/4}}+\\frac{2}{\\sqrt{x}}",
+      "answer2": "\\text{B) }\\frac{4}{\\sqrt{x}}+8\\,x^{1/3}",
+      "answer3": "\\text{C) }\\frac{35\\,x^{1/4}}{4}+\\frac{7}{x^{1/8}}",
+      "answer4": "\\text{D) }\\frac{10}{3\\,x^{1/3}}+\\frac{21}{5\\,x^{2/5}}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (2\\,x^{4/7}+3\\,x^{10/7}\\right)",
+      "answer1": "\\text{A) }\\frac{6}{x^{1/4}}+18\\,x^{4/5}",
+      "answer2": "\\text{B) }\\frac{21\\,\\sqrt{x}}{2}+\\frac{2}{\\sqrt{x}}",
+      "answer3": "\\text{C) }\\frac{21}{10\\,x^{3/10}}+\\frac{18}{5\\,x^{2/5}}",
+      "answer4": "\\text{D) }\\frac{8}{7\\,x^{3/7}}+\\frac{30\\,x^{3/7}}{7}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (9\\,x^{7/8}+5\\,x^{5/3}\\right)",
+      "answer1": "\\text{A) }\\frac{8}{5\\,x^{3/5}}+\\frac{64\\,x^{1/7}}{7}",
+      "answer2": "\\text{B) }\\frac{10\\,x^{3/7}}{7}+\\frac{63\\,x^{3/4}}{4}",
+      "answer3": "\\text{C) }\\frac{20}{3\\,x^{1/3}}+3\\,x^2",
+      "answer4": "\\text{D) }\\frac{63}{8\\,x^{1/8}}+\\frac{25\\,x^{2/3}}{3}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (8\\,x^{10/3}+9\\,x^{4/7}\\right)",
+      "answer1": "\\text{A) }\\frac{12}{7\\,x^{1/7}}+\\frac{4}{3\\,x^{7/9}}",
+      "answer2": "\\text{B) }\\frac{15}{4\\,x^{1/4}}+\\frac{24}{5\\,x^{2/5}}",
+      "answer3": "\\text{C) }\\frac{12}{5\\,x^{1/5}}+3\\,\\sqrt{x}",
+      "answer4": "\\text{D) }\\frac{80\\,x^{7/3}}{3}+\\frac{36}{7\\,x^{3/7}}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (2\\,x^{3/10}+2\\,x^{5/7}\\right)",
+      "answer1": "\\text{A) }\\frac{2}{x^{1/3}}+\\frac{2}{5\\,x^{3/5}}",
+      "answer2": "\\text{B) }24\\,x^2+\\frac{4}{x^{1/3}}",
+      "answer3": "\\text{C) }\\frac{81\\,x^{5/4}}{4}+12\\,x^2",
+      "answer4": "\\text{D) }\\frac{3}{5\\,x^{7/10}}+\\frac{10}{7\\,x^{2/7}}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (9\\,x^{3/5}+4\\,\\sqrt{x}\\right)",
+      "answer1": "\\text{A) }\\frac{2}{3\\,x^{2/3}}+20\\,x^{3/2}",
+      "answer2": "\\text{B) }\\frac{7\\,x^{2/5}}{5}+\\frac{27}{10\\,x^{1/10}}",
+      "answer3": "\\text{C) }\\frac{10}{3\\,x^{2/3}}+12\\,x",
+      "answer4": "\\text{D) }\\frac{27}{5\\,x^{2/5}}+\\frac{2}{\\sqrt{x}}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (2\\,x^{8/5}+3\\,x^{2/7}\\right)",
+      "answer1": "\\text{A) }\\frac{7}{2\\,\\sqrt{x}}+\\frac{81\\,x^{4/5}}{5}",
+      "answer2": "\\text{B) }\\frac{35\\,x^{3/4}}{4}+\\frac{14}{5\\,x^{3/10}}",
+      "answer3": "\\text{C) }\\frac{60}{7\\,x^{1/7}}+\\frac{5}{8\\,x^{3/8}}",
+      "answer4": "\\text{D) }\\frac{16\\,x^{3/5}}{5}+\\frac{6}{7\\,x^{5/7}}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (5\\,x^{3/2}+5\\,x^{7/6}\\right)",
+      "answer1": "\\text{A) }\\frac{5}{x^{2/7}}+\\frac{18\\,x^{2/7}}{7}",
+      "answer2": "\\text{B) }\\frac{3}{2\\,x^{3/4}}+\\frac{27}{4\\,x^{1/4}}",
+      "answer3": "\\text{C) }15\\,x^{2/3}+\\frac{2}{\\sqrt{x}}",
+      "answer4": "\\text{D) }\\frac{15\\,\\sqrt{x}}{2}+\\frac{35\\,x^{1/6}}{6}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (4\\,x^{8/7}+8\\,x^{2/3}\\right)",
+      "answer1": "\\text{A) }\\frac{45\\,x^{1/8}}{8}+\\frac{40}{9\\,x^{1/9}}",
+      "answer2": "\\text{B) }\\frac{35}{6\\,x^{1/6}}+15\\,x^{3/2}",
+      "answer3": "\\text{C) }\\frac{6}{x^{1/4}}+10\\,x^{7/3}",
+      "answer4": "\\text{D) }\\frac{32\\,x^{1/7}}{7}+\\frac{16}{3\\,x^{1/3}}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (7\\,x^{3/2}+5\\,x^{7/8}\\right)",
+      "answer1": "\\text{A) }\\frac{21\\,\\sqrt{x}}{2}+\\frac{35}{8\\,x^{1/8}}",
+      "answer2": "\\text{B) }2\\,x+\\frac{16}{9\\,x^{5/9}}",
+      "answer3": "\\text{C) }6\\,x+9\\,x^{2/7}",
+      "answer4": "\\text{D) }\\frac{5}{\\sqrt{x}}+\\frac{64\\,x^{5/3}}{3}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (8\\,x^{3/5}+4\\,x^{7/3}\\right)",
+      "answer1": "\\text{A) }8\\,x^{1/7}+\\frac{1}{2\\,\\sqrt{x}}",
+      "answer2": "\\text{B) }18\\,x^2+5\\,x^{3/2}",
+      "answer3": "\\text{C) }\\frac{5}{\\sqrt{x}}+\\frac{81\\,x^{4/5}}{5}",
+      "answer4": "\\text{D) }\\frac{24}{5\\,x^{2/5}}+\\frac{28\\,x^{4/3}}{3}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (10\\,x^{7/5}+9\\,x^{7/3}\\right)",
+      "answer1": "\\text{A) }9\\,\\sqrt{x}+\\frac{10}{7\\,x^{5/7}}",
+      "answer2": "\\text{B) }14\\,x^{2/5}+21\\,x^{4/3}",
+      "answer3": "\\text{C) }\\frac{14}{5\\,x^{3/5}}+3\\,\\sqrt{x}",
+      "answer4": "\\text{D) }\\frac{2}{3\\,x^{1/3}}+\\frac{16}{5\\,x^{1/5}}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (5\\,x^{4/9}+7\\,x^{10/9}\\right)",
+      "answer1": "\\text{A) }\\frac{20}{9\\,x^{5/9}}+\\frac{70\\,x^{1/9}}{9}",
+      "answer2": "\\text{B) }\\frac{60}{7\\,x^{1/7}}+40\\,x^3",
+      "answer3": "\\text{C) }\\frac{14}{5\\,x^{3/5}}+\\frac{2}{x^{1/3}}",
+      "answer4": "\\text{D) }\\frac{9\\,x^{5/4}}{4}+\\frac{12}{7\\,x^{1/7}}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (2\\,x^{2/5}+7\\,x^{5/4}\\right)",
+      "answer1": "\\text{A) }\\frac{15}{8\\,x^{5/8}}+\\frac{20\\,x^{2/3}}{3}",
+      "answer2": "\\text{B) }40\\,x^3+\\frac{63}{10\\,x^{3/10}}",
+      "answer3": "\\text{C) }\\frac{16\\,x^{1/3}}{3}+\\frac{3}{2\\,x^{3/4}}",
+      "answer4": "\\text{D) }\\frac{4}{5\\,x^{3/5}}+\\frac{35\\,x^{1/4}}{4}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (2\\,\\sqrt{x}+6\\,x^{3/10}\\right)",
+      "answer1": "\\text{A) }40\\,x^4+7\\,x^{5/2}",
+      "answer2": "\\text{B) }\\frac{1}{\\sqrt{x}}+\\frac{9}{5\\,x^{7/10}}",
+      "answer3": "\\text{C) }8\\,x^{1/3}+\\frac{50\\,x^{2/3}}{3}",
+      "answer4": "\\text{D) }\\frac{81\\,x^{5/4}}{4}+\\frac{56\\,x^{5/3}}{3}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (4\\,x^2+8\\,x^{4/5}\\right)",
+      "answer1": "\\text{A) }8\\,x+\\frac{32}{5\\,x^{1/5}}",
+      "answer2": "\\text{B) }\\frac{7}{2\\,\\sqrt{x}}+\\frac{4}{9\\,x^{7/9}}",
+      "answer3": "\\text{C) }\\frac{64\\,x^{1/7}}{7}+20\\,x",
+      "answer4": "\\text{D) }\\frac{5}{x^{4/9}}+\\frac{9}{4\\,x^{5/8}}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (6\\,x^{4/3}+x^{3/4}\\right)",
+      "answer1": "\\text{A) }\\frac{7\\,x^{3/4}}{4}+\\frac{7}{2\\,x^{3/10}}",
+      "answer2": "\\text{B) }\\frac{9\\,x^{1/8}}{2}+15\\,x^{2/3}",
+      "answer3": "\\text{C) }8\\,x^{1/3}+\\frac{3}{4\\,x^{1/4}}",
+      "answer4": "\\text{D) }\\frac{3}{x^{7/10}}+\\frac{27\\,x^{7/2}}{2}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (10\\,x^{9/8}+7\\,x^{2/9}\\right)",
+      "answer1": "\\text{A) }28\\,x^3+\\frac{63\\,x^{3/4}}{4}",
+      "answer2": "\\text{B) }\\frac{18}{7\\,x^{1/7}}+\\frac{8}{7\\,x^{3/7}}",
+      "answer3": "\\text{C) }\\frac{45\\,x^{1/8}}{4}+\\frac{14}{9\\,x^{7/9}}",
+      "answer4": "\\text{D) }10\\,x^{2/3}+\\frac{27\\,x^{4/5}}{5}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (10\\,x^{9/5}+7\\,x^{4/7}\\right)",
+      "answer1": "\\text{A) }18\\,x^{4/5}+\\frac{4}{x^{3/7}}",
+      "answer2": "\\text{B) }\\frac{27}{4\\,x^{1/4}}+12\\,x^{1/3}",
+      "answer3": "\\text{C) }\\frac{16}{9\\,x^{5/9}}+\\frac{15\\,x^{1/4}}{4}",
+      "answer4": "\\text{D) }\\frac{1}{\\sqrt{x}}+\\frac{16}{9\\,x^{7/9}}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (3\\,x^{7/9}+10\\,x^{2/3}\\right)",
+      "answer1": "\\text{A) }\\frac{45\\,x^{7/2}}{2}+\\frac{20}{3\\,x^{1/6}}",
+      "answer2": "\\text{B) }\\frac{2}{7\\,x^{5/7}}+\\frac{16}{9\\,x^{1/9}}",
+      "answer3": "\\text{C) }\\frac{7}{3\\,x^{2/9}}+\\frac{20}{3\\,x^{1/3}}",
+      "answer4": "\\text{D) }\\frac{27}{8\\,x^{5/8}}+9\\,x^{2/7}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (8\\,\\sqrt{x}+5\\,x^{9/10}\\right)",
+      "answer1": "\\text{A) }\\frac{4}{\\sqrt{x}}+\\frac{9}{2\\,x^{1/10}}",
+      "answer2": "\\text{B) }\\frac{8}{x^{1/5}}+6\\,x",
+      "answer3": "\\text{C) }\\frac{8\\,x^{1/3}}{3}+6\\,x^2",
+      "answer4": "\\text{D) }\\frac{2}{5\\,x^{3/5}}+\\frac{7\\,x^{3/4}}{4}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (10\\,x^3+10\\,x^{5/2}\\right)",
+      "answer1": "\\text{A) }\\frac{24}{5\\,x^{1/5}}+\\frac{3}{x^{4/7}}",
+      "answer2": "\\text{B) }30\\,x^2+25\\,x^{3/2}",
+      "answer3": "\\text{C) }\\frac{16}{3\\,x^{1/3}}+\\frac{3}{4\\,x^{3/4}}",
+      "answer4": "\\text{D) }\\frac{10}{9\\,x^{4/9}}+2\\,x",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (x^{10/9}+x^{7/8}\\right)",
+      "answer1": "\\text{A) }\\frac{10\\,x^{1/9}}{9}+\\frac{7}{8\\,x^{1/8}}",
+      "answer2": "\\text{B) }6\\,x^2+\\frac{12}{5\\,x^{1/5}}",
+      "answer3": "\\text{C) }\\frac{9}{2\\,x^{1/4}}+12\\,\\sqrt{x}",
+      "answer4": "\\text{D) }\\frac{63\\,x^{2/5}}{5}+\\frac{8}{x^{1/5}}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (4\\,x^{9/4}+9\\,x^{6/5}\\right)",
+      "answer1": "\\text{A) }9\\,x^{5/4}+\\frac{54\\,x^{1/5}}{5}",
+      "answer2": "\\text{B) }10\\,x^{7/3}+\\frac{7}{2\\,x^{3/10}}",
+      "answer3": "\\text{C) }\\frac{21}{4\\,x^{1/4}}+\\frac{7}{2\\,\\sqrt{x}}",
+      "answer4": "\\text{D) }10\\,x+\\frac{27\\,x^{7/2}}{2}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (4\\,x^{1/5}+4\\,x^{5/9}\\right)",
+      "answer1": "\\text{A) }\\frac{9}{4\\,x^{5/8}}+\\frac{35}{8\\,x^{1/8}}",
+      "answer2": "\\text{B) }\\frac{25\\,x^{3/2}}{2}+\\frac{21\\,\\sqrt{x}}{2}",
+      "answer3": "\\text{C) }\\frac{6\\,x^{1/5}}{5}+4\\,x",
+      "answer4": "\\text{D) }\\frac{4}{5\\,x^{4/5}}+\\frac{20}{9\\,x^{4/9}}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (x^{5/4}+7\\,x^{10/3}\\right)",
+      "answer1": "\\text{A) }3\\,\\sqrt{x}+\\frac{3}{\\sqrt{x}}",
+      "answer2": "\\text{B) }\\frac{80}{9\\,x^{1/9}}+\\frac{81}{10\\,x^{1/10}}",
+      "answer3": "\\text{C) }\\frac{5\\,x^{1/4}}{4}+\\frac{70\\,x^{7/3}}{3}",
+      "answer4": "\\text{D) }\\frac{45}{7\\,x^{2/7}}+\\frac{2}{7\\,x^{5/7}}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (7\\,x^{10/3}+x^2\\right)",
+      "answer1": "\\text{A) }\\frac{6}{7\\,x^{5/7}}+\\frac{8}{7\\,x^{5/7}}",
+      "answer2": "\\text{B) }\\frac{70\\,x^{7/3}}{3}+2\\,x",
+      "answer3": "\\text{C) }\\frac{25\\,x^{1/4}}{4}+\\frac{27\\,x^{1/8}}{8}",
+      "answer4": "\\text{D) }\\frac{81\\,x^{1/8}}{8}+4\\,x",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (6\\,x^3+5\\,x^{8/7}\\right)",
+      "answer1": "\\text{A) }6\\,x^2+\\frac{3}{5\\,x^{2/5}}",
+      "answer2": "\\text{B) }18\\,x^2+\\frac{40\\,x^{1/7}}{7}",
+      "answer3": "\\text{C) }\\frac{56\\,x^{3/5}}{5}+\\frac{50}{9\\,x^{4/9}}",
+      "answer4": "\\text{D) }\\frac{45}{8\\,x^{3/8}}+\\frac{20\\,x^{2/3}}{3}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (x^{8/5}+8\\,x^{5/9}\\right)",
+      "answer1": "\\text{A) }\\frac{21\\,\\sqrt{x}}{2}+\\frac{16\\,x^{3/5}}{5}",
+      "answer2": "\\text{B) }\\frac{5}{3\\,x^{4/9}}+\\frac{9}{2\\,\\sqrt{x}}",
+      "answer3": "\\text{C) }\\frac{72\\,x^{2/7}}{7}+\\frac{12}{7\\,x^{3/7}}",
+      "answer4": "\\text{D) }\\frac{8\\,x^{3/5}}{5}+\\frac{40}{9\\,x^{4/9}}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (7\\,x^3+2\\,x^{3/8}\\right)",
+      "answer1": "\\text{A) }\\frac{4}{x^{3/5}}+\\frac{4}{3\\,x^{5/9}}",
+      "answer2": "\\text{B) }21\\,x^2+\\frac{3}{4\\,x^{5/8}}",
+      "answer3": "\\text{C) }\\frac{15}{4\\,x^{1/4}}+\\frac{25\\,x^{1/4}}{2}",
+      "answer4": "\\text{D) }\\frac{2}{\\sqrt{x}}+\\frac{32\\,x^{5/3}}{3}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (9\\,x^{10/9}+8\\,x^{8/7}\\right)",
+      "answer1": "\\text{A) }\\frac{2}{5\\,x^{3/5}}+30\\,x^2",
+      "answer2": "\\text{B) }\\frac{2}{\\sqrt{x}}+\\frac{1}{\\sqrt{x}}",
+      "answer3": "\\text{C) }\\frac{63\\,x^{7/2}}{2}+\\frac{5\\,x^{1/4}}{4}",
+      "answer4": "\\text{D) }10\\,x^{1/9}+\\frac{64\\,x^{1/7}}{7}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (9\\,x^{7/10}+9\\,x^{2/3}\\right)",
+      "answer1": "\\text{A) }\\frac{15}{2\\,x^{1/4}}+\\frac{50\\,x^{3/7}}{7}",
+      "answer2": "\\text{B) }\\frac{6}{x^{1/4}}+\\frac{35\\,x^{1/4}}{4}",
+      "answer3": "\\text{C) }\\frac{9\\,x^{2/7}}{7}+\\frac{56}{9\\,x^{2/9}}",
+      "answer4": "\\text{D) }\\frac{63}{10\\,x^{3/10}}+\\frac{6}{x^{1/3}}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (10\\,x^{3/10}+5\\,x^3\\right)",
+      "answer1": "\\text{A) }\\frac{14}{3\\,x^{1/3}}+\\frac{4}{3\\,x^{5/9}}",
+      "answer2": "\\text{B) }\\frac{3}{x^{7/10}}+15\\,x^2",
+      "answer3": "\\text{C) }7\\,x^{3/4}+30\\,x^2",
+      "answer4": "\\text{D) }9\\,x^{7/2}+15\\,x^{3/2}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (2\\,x^{2/7}+3\\,x^4\\right)",
+      "answer1": "\\text{A) }\\frac{4}{7\\,x^{5/7}}+12\\,x^3",
+      "answer2": "\\text{B) }18\\,x^2+\\frac{25\\,x^{2/3}}{3}",
+      "answer3": "\\text{C) }\\frac{4}{\\sqrt{x}}+\\frac{40}{9\\,x^{5/9}}",
+      "answer4": "\\text{D) }\\frac{4}{9\\,x^{5/9}}+\\frac{36}{7\\,x^{1/7}}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (8\\,x^4+9\\,x^{10/3}\\right)",
+      "answer1": "\\text{A) }\\frac{35\\,x^{1/4}}{4}+21\\,x^{5/2}",
+      "answer2": "\\text{B) }\\frac{3}{x^{2/5}}+\\frac{8}{3\\,x^{2/3}}",
+      "answer3": "\\text{C) }\\frac{27\\,x^{5/4}}{2}+\\frac{3}{8\\,x^{5/8}}",
+      "answer4": "\\text{D) }32\\,x^3+30\\,x^{7/3}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (5\\,x^{3/2}+7\\,x^{4/9}\\right)",
+      "answer1": "\\text{A) }\\frac{27\\,\\sqrt{x}}{2}+\\frac{10\\,x^{7/3}}{3}",
+      "answer2": "\\text{B) }\\frac{15\\,\\sqrt{x}}{2}+\\frac{28}{9\\,x^{5/9}}",
+      "answer3": "\\text{C) }\\frac{12}{5\\,x^{1/5}}+\\frac{9}{2\\,\\sqrt{x}}",
+      "answer4": "\\text{D) }\\frac{49\\,x^{2/5}}{5}+\\frac{35\\,x^{5/2}}{2}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (8\\,x^{2/3}+4\\,x^{3/4}\\right)",
+      "answer1": "\\text{A) }\\frac{63\\,x^{2/5}}{5}+\\frac{15\\,x^{3/2}}{2}",
+      "answer2": "\\text{B) }\\frac{10\\,x^{2/3}}{3}+\\frac{4}{x^{3/5}}",
+      "answer3": "\\text{C) }\\frac{16}{3\\,x^{1/3}}+\\frac{3}{x^{1/4}}",
+      "answer4": "\\text{D) }\\frac{4}{5\\,x^{1/5}}+6\\,x^2",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (9\\,x^{7/4}+x^{1/3}\\right)",
+      "answer1": "\\text{A) }\\frac{63\\,x^{3/4}}{4}+\\frac{1}{3\\,x^{2/3}}",
+      "answer2": "\\text{B) }\\frac{32}{5\\,x^{1/5}}+4\\,x",
+      "answer3": "\\text{C) }20\\,x+\\frac{54}{7\\,x^{1/7}}",
+      "answer4": "\\text{D) }\\frac{1}{3\\,x^{2/3}}+14\\,x^{3/4}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (9\\,x^{8/3}+x^{2/5}\\right)",
+      "answer1": "\\text{A) }\\frac{6}{5\\,x^{7/10}}+\\frac{15}{4\\,x^{5/8}}",
+      "answer2": "\\text{B) }\\frac{35\\,x^{3/2}}{2}+\\frac{12}{5\\,x^{2/5}}",
+      "answer3": "\\text{C) }24\\,x^{5/3}+\\frac{2}{5\\,x^{3/5}}",
+      "answer4": "\\text{D) }\\frac{15}{4\\,x^{1/4}}+14\\,x",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (6\\,x^{5/3}+2\\,x^{5/3}\\right)",
+      "answer1": "\\text{A) }5\\,x^4+\\frac{49\\,x^{5/2}}{2}",
+      "answer2": "\\text{B) }\\frac{48\\,x^{1/5}}{5}+\\frac{27\\,x^{5/4}}{2}",
+      "answer3": "\\text{C) }12\\,x^{1/3}+\\frac{3}{2\\,x^{5/8}}",
+      "answer4": "\\text{D) }10\\,x^{2/3}+\\frac{10\\,x^{2/3}}{3}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (7\\,x^{2/5}+5\\,x^{1/4}\\right)",
+      "answer1": "\\text{A) }\\frac{7\\,x^{4/3}}{3}+\\frac{27\\,x^{2/7}}{7}",
+      "answer2": "\\text{B) }\\frac{15}{4\\,x^{5/8}}+14\\,x",
+      "answer3": "\\text{C) }12\\,x^{1/3}+15\\,x^{3/2}",
+      "answer4": "\\text{D) }\\frac{14}{5\\,x^{3/5}}+\\frac{5}{4\\,x^{3/4}}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (6\\,x^{2/5}+9\\,x^{7/8}\\right)",
+      "answer1": "\\text{A) }\\frac{8}{3\\,x^{1/3}}+\\frac{20\\,x^{2/3}}{3}",
+      "answer2": "\\text{B) }\\frac{12}{5\\,x^{3/5}}+\\frac{63}{8\\,x^{1/8}}",
+      "answer3": "\\text{C) }\\frac{9}{4\\,x^{3/4}}+\\frac{64\\,x^{5/3}}{3}",
+      "answer4": "\\text{D) }\\frac{70\\,x^{4/3}}{3}+\\frac{8}{3\\,x^{5/9}}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (8\\,x^{8/7}+10\\,x^{4/3}\\right)",
+      "answer1": "\\text{A) }\\frac{7\\,x^{4/3}}{3}+\\frac{8}{5\\,x^{3/5}}",
+      "answer2": "\\text{B) }\\frac{3}{2\\,x^{1/4}}+4\\,x",
+      "answer3": "\\text{C) }\\frac{5}{\\sqrt{x}}+\\frac{3\\,\\sqrt{x}}{2}",
+      "answer4": "\\text{D) }\\frac{64\\,x^{1/7}}{7}+\\frac{40\\,x^{1/3}}{3}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (3\\,x^{1/3}+8\\,x^{2/5}\\right)",
+      "answer1": "\\text{A) }\\frac{40\\,x^{5/3}}{3}+\\frac{15}{8\\,x^{3/8}}",
+      "answer2": "\\text{B) }\\frac{4}{5\\,x^{1/5}}+\\frac{10}{3\\,x^{1/3}}",
+      "answer3": "\\text{C) }\\frac{1}{x^{2/3}}+\\frac{16}{5\\,x^{3/5}}",
+      "answer4": "\\text{D) }\\frac{40\\,x^{3/7}}{7}+\\frac{8}{5\\,x^{3/5}}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (3\\,\\sqrt{x}+x^{3/5}\\right)",
+      "answer1": "\\text{A) }\\frac{45\\,x^{1/8}}{4}+\\frac{3}{4\\,x^{3/4}}",
+      "answer2": "\\text{B) }\\frac{3}{2\\,\\sqrt{x}}+\\frac{3}{5\\,x^{2/5}}",
+      "answer3": "\\text{C) }\\frac{2}{x^{3/5}}+\\frac{25\\,x^{2/3}}{3}",
+      "answer4": "\\text{D) }21\\,x^2+16\\,x^{3/5}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (x^{9/8}+x^2\\right)",
+      "answer1": "\\text{A) }\\frac{9\\,x^{1/8}}{8}+2\\,x",
+      "answer2": "\\text{B) }\\frac{21\\,x^{1/6}}{2}+\\frac{45\\,x^{5/4}}{2}",
+      "answer3": "\\text{C) }4\\,x^{1/3}+\\frac{7}{3\\,x^{2/3}}",
+      "answer4": "\\text{D) }\\frac{12}{7\\,x^{5/7}}+\\frac{7}{5\\,x^{3/10}}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (10\\,x^{7/5}+4\\,x^{3/2}\\right)",
+      "answer1": "\\text{A) }\\frac{80\\,x^{7/3}}{3}+\\frac{6\\,x^{1/5}}{5}",
+      "answer2": "\\text{B) }14\\,x^{2/5}+6\\,\\sqrt{x}",
+      "answer3": "\\text{C) }\\frac{21}{4\\,x^{1/4}}+45\\,x^4",
+      "answer4": "\\text{D) }24\\,x^3+\\frac{32\\,x^{1/3}}{3}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (x^{3/7}+2\\,x^{6/7}\\right)",
+      "answer1": "\\text{A) }\\frac{14\\,x^{4/3}}{3}+\\frac{20}{9\\,x^{4/9}}",
+      "answer2": "\\text{B) }30\\,x^4+\\frac{63}{8\\,x^{1/8}}",
+      "answer3": "\\text{C) }\\frac{3}{7\\,x^{4/7}}+\\frac{12}{7\\,x^{1/7}}",
+      "answer4": "\\text{D) }\\frac{8}{5\\,x^{4/5}}+\\frac{35\\,x^{2/3}}{3}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (10\\,x^{7/3}+10\\,x^{9/8}\\right)",
+      "answer1": "\\text{A) }12\\,x^2+\\frac{20\\,x^{7/3}}{3}",
+      "answer2": "\\text{B) }\\frac{12}{7\\,x^{3/7}}+20\\,x^3",
+      "answer3": "\\text{C) }\\frac{35}{6\\,x^{1/6}}+\\frac{5}{6\\,x^{1/6}}",
+      "answer4": "\\text{D) }\\frac{70\\,x^{4/3}}{3}+\\frac{45\\,x^{1/8}}{4}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (7\\,x^{1/5}+x^{5/3}\\right)",
+      "answer1": "\\text{A) }\\frac{3\\,\\sqrt{x}}{2}+\\frac{32\\,x^{3/5}}{5}",
+      "answer2": "\\text{B) }\\frac{16\\,x^{3/5}}{5}+\\frac{12}{7\\,x^{5/7}}",
+      "answer3": "\\text{C) }\\frac{63}{8\\,x^{1/8}}+\\frac{5}{x^{4/9}}",
+      "answer4": "\\text{D) }\\frac{7}{5\\,x^{4/5}}+\\frac{5\\,x^{2/3}}{3}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (3\\,x^{5/2}+3\\,x^{7/3}\\right)",
+      "answer1": "\\text{A) }\\frac{21}{5\\,x^{2/5}}+\\frac{45}{8\\,x^{3/8}}",
+      "answer2": "\\text{B) }\\frac{4}{5\\,x^{3/5}}+\\frac{32}{9\\,x^{5/9}}",
+      "answer3": "\\text{C) }\\frac{15\\,x^{3/2}}{2}+7\\,x^{4/3}",
+      "answer4": "\\text{D) }\\frac{50\\,x^{3/7}}{7}+15\\,\\sqrt{x}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (9\\,x^{5/7}+9\\,\\sqrt{x}\\right)",
+      "answer1": "\\text{A) }\\frac{4}{x^{1/5}}+\\frac{2}{3\\,x^{2/3}}",
+      "answer2": "\\text{B) }\\frac{16}{5\\,x^{1/5}}+8\\,x^{1/7}",
+      "answer3": "\\text{C) }\\frac{45}{7\\,x^{2/7}}+\\frac{9}{2\\,\\sqrt{x}}",
+      "answer4": "\\text{D) }\\frac{4}{3\\,x^{1/3}}+\\frac{25\\,x^{2/3}}{3}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (4\\,x^{4/5}+9\\,x^{2/5}\\right)",
+      "answer1": "\\text{A) }\\frac{9\\,\\sqrt{x}}{2}+16\\,x",
+      "answer2": "\\text{B) }\\frac{25}{6\\,x^{1/6}}+\\frac{35}{8\\,x^{3/8}}",
+      "answer3": "\\text{C) }\\frac{8}{5\\,x^{4/5}}+\\frac{9}{4\\,x^{1/4}}",
+      "answer4": "\\text{D) }\\frac{16}{5\\,x^{1/5}}+\\frac{18}{5\\,x^{3/5}}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (7\\,x^{1/3}+3\\,x^{10/9}\\right)",
+      "answer1": "\\text{A) }2\\,x+\\frac{8}{3\\,x^{2/3}}",
+      "answer2": "\\text{B) }36\\,x^3+\\frac{16\\,x^{1/3}}{3}",
+      "answer3": "\\text{C) }\\frac{7}{3\\,x^{2/3}}+\\frac{10\\,x^{1/9}}{3}",
+      "answer4": "\\text{D) }\\frac{3}{x^{1/4}}+\\frac{30}{7\\,x^{1/7}}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (2\\,x^{1/3}+10\\,x^{4/5}\\right)",
+      "answer1": "\\text{A) }9\\,x^{1/8}+3\\,\\sqrt{x}",
+      "answer2": "\\text{B) }\\frac{6}{7\\,x^{1/7}}+\\frac{8}{3\\,x^{5/9}}",
+      "answer3": "\\text{C) }\\frac{2}{3\\,x^{2/3}}+\\frac{8}{x^{1/5}}",
+      "answer4": "\\text{D) }10\\,x^{7/3}+\\frac{15\\,x^{3/2}}{2}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (10\\,x^{6/5}+7\\,x^{2/9}\\right)",
+      "answer1": "\\text{A) }\\frac{63\\,x^{1/8}}{8}+\\frac{4}{5\\,x^{3/5}}",
+      "answer2": "\\text{B) }\\frac{4}{3\\,x^{1/3}}+16\\,x^{3/5}",
+      "answer3": "\\text{C) }\\frac{9\\,\\sqrt{x}}{2}+\\frac{14\\,x^{1/6}}{3}",
+      "answer4": "\\text{D) }12\\,x^{1/5}+\\frac{14}{9\\,x^{7/9}}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (2\\,x^{3/4}+x^{7/3}\\right)",
+      "answer1": "\\text{A) }\\frac{35\\,x^{3/4}}{4}+\\frac{5}{2\\,x^{3/8}}",
+      "answer2": "\\text{B) }\\frac{27\\,x^{7/2}}{2}+25\\,x^{3/2}",
+      "answer3": "\\text{C) }\\frac{1}{3\\,x^{2/3}}+\\frac{48\\,x^{1/7}}{7}",
+      "answer4": "\\text{D) }\\frac{3}{2\\,x^{1/4}}+\\frac{7\\,x^{4/3}}{3}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (3\\,x^{4/5}+5\\,x^{7/4}\\right)",
+      "answer1": "\\text{A) }\\frac{2}{3\\,x^{1/3}}+\\frac{30\\,x^{3/7}}{7}",
+      "answer2": "\\text{B) }\\frac{63\\,x^{5/4}}{4}+\\frac{10}{3\\,x^{4/9}}",
+      "answer3": "\\text{C) }\\frac{5}{3\\,x^{2/3}}+\\frac{6}{x^{2/5}}",
+      "answer4": "\\text{D) }\\frac{12}{5\\,x^{1/5}}+\\frac{35\\,x^{3/4}}{4}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (8\\,x^{1/3}+10\\,x^{5/9}\\right)",
+      "answer1": "\\text{A) }\\frac{8}{3\\,x^{2/3}}+\\frac{50}{9\\,x^{4/9}}",
+      "answer2": "\\text{B) }\\frac{3}{2\\,x^{1/4}}+\\frac{80\\,x^{7/3}}{3}",
+      "answer3": "\\text{C) }\\frac{30}{7\\,x^{2/7}}+\\frac{1}{x^{2/3}}",
+      "answer4": "\\text{D) }\\frac{3}{x^{7/10}}+\\frac{35}{8\\,x^{1/8}}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (5\\,x^{2/5}+10\\,x^{5/4}\\right)",
+      "answer1": "\\text{A) }40\\,x^4+10\\,x^{3/2}",
+      "answer2": "\\text{B) }\\frac{16\\,x^{5/3}}{3}+9\\,x^2",
+      "answer3": "\\text{C) }\\frac{2}{3\\,x^{1/3}}+\\frac{28\\,x^{1/6}}{3}",
+      "answer4": "\\text{D) }\\frac{2}{x^{3/5}}+\\frac{25\\,x^{1/4}}{2}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (2\\,x^3+7\\,x^{2/3}\\right)",
+      "answer1": "\\text{A) }6\\,x^2+\\frac{14}{3\\,x^{1/3}}",
+      "answer2": "\\text{B) }\\frac{60}{7\\,x^{1/7}}+\\frac{81\\,x^{4/5}}{5}",
+      "answer3": "\\text{C) }\\frac{7}{3\\,x^{2/3}}+\\frac{25}{4\\,x^{3/8}}",
+      "answer4": "\\text{D) }\\frac{56\\,x^{2/5}}{5}+\\frac{10\\,x^{1/9}}{3}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (9\\,x^{1/5}+9\\,x^{4/5}\\right)",
+      "answer1": "\\text{A) }\\frac{45\\,x^{1/8}}{8}+\\frac{3}{4\\,x^{5/8}}",
+      "answer2": "\\text{B) }15\\,\\sqrt{x}+\\frac{15\\,\\sqrt{x}}{2}",
+      "answer3": "\\text{C) }\\frac{9}{5\\,x^{4/5}}+\\frac{36}{5\\,x^{1/5}}",
+      "answer4": "\\text{D) }\\frac{8}{9\\,x^{1/9}}+\\frac{12}{5\\,x^{1/5}}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (3\\,x^{5/7}+3\\,x^{3/2}\\right)",
+      "answer1": "\\text{A) }\\frac{15}{7\\,x^{2/7}}+\\frac{9\\,\\sqrt{x}}{2}",
+      "answer2": "\\text{B) }\\frac{4}{9\\,x^{7/9}}+\\frac{40\\,x^{3/7}}{7}",
+      "answer3": "\\text{C) }\\frac{63\\,x^{5/2}}{2}+\\frac{45\\,x^{1/8}}{4}",
+      "answer4": "\\text{D) }16\\,x^{5/3}+\\frac{20\\,x^{1/3}}{3}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (4\\,x^{5/3}+8\\,x^{10/7}\\right)",
+      "answer1": "\\text{A) }\\frac{20\\,x^{2/3}}{3}+\\frac{80\\,x^{3/7}}{7}",
+      "answer2": "\\text{B) }\\frac{5}{2\\,x^{3/4}}+\\frac{5}{4\\,x^{3/4}}",
+      "answer3": "\\text{C) }\\frac{21}{5\\,x^{3/10}}+\\frac{8\\,x^{3/5}}{5}",
+      "answer4": "\\text{D) }\\frac{6}{x^{1/3}}+\\frac{21}{10\\,x^{3/10}}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (10\\,x^{9/8}+8\\,x^{5/9}\\right)",
+      "answer1": "\\text{A) }\\frac{45\\,x^{1/8}}{4}+\\frac{40}{9\\,x^{4/9}}",
+      "answer2": "\\text{B) }\\frac{6}{x^{1/3}}+5\\,x^{3/2}",
+      "answer3": "\\text{C) }\\frac{48}{7\\,x^{1/7}}+\\frac{27}{5\\,x^{1/10}}",
+      "answer4": "\\text{D) }4\\,x+\\frac{4\\,x^{1/3}}{3}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (4\\,x^{3/5}+x^{5/6}\\right)",
+      "answer1": "\\text{A) }\\frac{10\\,x^{3/7}}{7}+\\frac{49\\,x^{2/5}}{5}",
+      "answer2": "\\text{B) }\\frac{2}{x^{3/5}}+\\frac{10\\,x^{1/9}}{3}",
+      "answer3": "\\text{C) }\\frac{14}{9\\,x^{2/9}}+\\frac{12}{7\\,x^{1/7}}",
+      "answer4": "\\text{D) }\\frac{12}{5\\,x^{2/5}}+\\frac{5}{6\\,x^{1/6}}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (8\\,x^{3/7}+2\\,x^{5/3}\\right)",
+      "answer1": "\\text{A) }8\\,x^{5/3}+\\frac{54\\,x^{4/5}}{5}",
+      "answer2": "\\text{B) }\\frac{3\\,\\sqrt{x}}{2}+\\frac{7}{9\\,x^{2/9}}",
+      "answer3": "\\text{C) }\\frac{27\\,\\sqrt{x}}{2}+\\frac{16}{5\\,x^{1/5}}",
+      "answer4": "\\text{D) }\\frac{24}{7\\,x^{4/7}}+\\frac{10\\,x^{2/3}}{3}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (7\\,x^{7/3}+10\\,x^{3/7}\\right)",
+      "answer1": "\\text{A) }12\\,x^3+\\frac{27}{5\\,x^{1/10}}",
+      "answer2": "\\text{B) }\\frac{25\\,x^{1/4}}{2}+\\frac{45\\,x^{3/2}}{2}",
+      "answer3": "\\text{C) }\\frac{49\\,x^{4/3}}{3}+\\frac{30}{7\\,x^{4/7}}",
+      "answer4": "\\text{D) }\\frac{3}{5\\,x^{2/5}}+\\frac{3}{4\\,x^{3/4}}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (9\\,x^{9/5}+2\\,x^{3/10}\\right)",
+      "answer1": "\\text{A) }3\\,\\sqrt{x}+\\frac{25\\,x^{2/3}}{3}",
+      "answer2": "\\text{B) }\\frac{5}{7\\,x^{2/7}}+10\\,x^{2/3}",
+      "answer3": "\\text{C) }\\frac{40\\,x^{7/3}}{3}+\\frac{6}{5\\,x^{3/5}}",
+      "answer4": "\\text{D) }\\frac{81\\,x^{4/5}}{5}+\\frac{3}{5\\,x^{7/10}}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (5\\,x^{1/3}+8\\,x^{5/4}\\right)",
+      "answer1": "\\text{A) }\\frac{4}{x^{1/3}}+\\frac{50\\,x^{1/9}}{9}",
+      "answer2": "\\text{B) }\\frac{5}{3\\,x^{2/3}}+10\\,x^{1/4}",
+      "answer3": "\\text{C) }10\\,x^{1/4}+\\frac{4}{3\\,x^{1/3}}",
+      "answer4": "\\text{D) }14\\,x^{2/5}+\\frac{30}{7\\,x^{4/7}}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (6\\,x^{5/7}+8\\,x^{7/8}\\right)",
+      "answer1": "\\text{A) }\\frac{30}{7\\,x^{2/7}}+\\frac{7}{x^{1/8}}",
+      "answer2": "\\text{B) }\\frac{35\\,x^{5/2}}{2}+\\frac{27}{4\\,x^{1/4}}",
+      "answer3": "\\text{C) }\\frac{5\\,x^{1/4}}{4}+\\frac{24}{7\\,x^{1/7}}",
+      "answer4": "\\text{D) }\\frac{8}{5\\,x^{1/5}}+27\\,x^{7/2}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (9\\,x^{9/4}+7\\,x^3\\right)",
+      "answer1": "\\text{A) }\\frac{35}{6\\,x^{1/6}}+\\frac{5\\,x^{3/2}}{2}",
+      "answer2": "\\text{B) }\\frac{8}{x^{1/5}}+\\frac{8}{5\\,x^{1/5}}",
+      "answer3": "\\text{C) }\\frac{81\\,x^{5/4}}{4}+21\\,x^2",
+      "answer4": "\\text{D) }\\frac{35\\,x^{5/2}}{2}+\\frac{21}{5\\,x^{3/10}}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (8\\,x^{4/5}+x^{3/10}\\right)",
+      "answer1": "\\text{A) }\\frac{16\\,x^{5/3}}{3}+5\\,x^{3/2}",
+      "answer2": "\\text{B) }\\frac{32}{5\\,x^{1/5}}+\\frac{3}{10\\,x^{7/10}}",
+      "answer3": "\\text{C) }\\frac{9\\,x^{2/7}}{7}+10\\,x",
+      "answer4": "\\text{D) }\\frac{6}{x^{1/3}}+\\frac{35\\,x^{3/4}}{2}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (7\\,x^{8/3}+x^{5/3}\\right)",
+      "answer1": "\\text{A) }\\frac{2}{5\\,x^{3/5}}+\\frac{6}{x^{1/4}}",
+      "answer2": "\\text{B) }\\frac{24}{7\\,x^{4/7}}+\\frac{6}{5\\,x^{3/5}}",
+      "answer3": "\\text{C) }\\frac{36\\,x^{4/5}}{5}+\\frac{36}{7\\,x^{1/7}}",
+      "answer4": "\\text{D) }\\frac{56\\,x^{5/3}}{3}+\\frac{5\\,x^{2/3}}{3}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (5\\,x^{5/9}+8\\,x^{4/5}\\right)",
+      "answer1": "\\text{A) }\\frac{1}{2\\,\\sqrt{x}}+16\\,x^{5/3}",
+      "answer2": "\\text{B) }20\\,x^4+\\frac{15\\,\\sqrt{x}}{2}",
+      "answer3": "\\text{C) }\\frac{4}{\\sqrt{x}}+\\frac{63}{10\\,x^{3/10}}",
+      "answer4": "\\text{D) }\\frac{25}{9\\,x^{4/9}}+\\frac{32}{5\\,x^{1/5}}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (5\\,x^{5/2}+x^{5/4}\\right)",
+      "answer1": "\\text{A) }\\frac{2}{x^{1/3}}+5\\,x^{1/4}",
+      "answer2": "\\text{B) }\\frac{25\\,x^{3/2}}{2}+\\frac{5\\,x^{1/4}}{4}",
+      "answer3": "\\text{C) }20\\,x+20\\,x",
+      "answer4": "\\text{D) }\\frac{27\\,x^{5/4}}{2}+\\frac{18}{5\\,x^{3/5}}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (6\\,x^{9/5}+9\\,x^{2/7}\\right)",
+      "answer1": "\\text{A) }\\frac{10}{9\\,x^{4/9}}+\\frac{4}{3\\,x^{1/3}}",
+      "answer2": "\\text{B) }\\frac{54\\,x^{4/5}}{5}+\\frac{18}{7\\,x^{5/7}}",
+      "answer3": "\\text{C) }\\frac{100\\,x^{3/7}}{7}+\\frac{25\\,x^{3/2}}{2}",
+      "answer4": "\\text{D) }\\frac{8}{3\\,x^{1/3}}+\\frac{2}{5\\,x^{3/5}}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (3\\,x^{2/3}+4\\,x^{8/7}\\right)",
+      "answer1": "\\text{A) }\\frac{63\\,x^{2/5}}{5}+\\frac{4}{x^{1/3}}",
+      "answer2": "\\text{B) }\\frac{20}{9\\,x^{4/9}}+\\frac{9\\,x^{1/8}}{8}",
+      "answer3": "\\text{C) }\\frac{2}{x^{1/3}}+\\frac{32\\,x^{1/7}}{7}",
+      "answer4": "\\text{D) }\\frac{4}{5\\,x^{1/5}}+\\frac{12}{5\\,x^{1/5}}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (3\\,x^{3/7}+7\\,x^{8/5}\\right)",
+      "answer1": "\\text{A) }\\frac{63}{8\\,x^{1/8}}+10\\,x^{2/3}",
+      "answer2": "\\text{B) }\\frac{35}{6\\,x^{1/6}}+\\frac{10}{9\\,x^{7/9}}",
+      "answer3": "\\text{C) }\\frac{2}{x^{4/5}}+\\frac{12}{7\\,x^{4/7}}",
+      "answer4": "\\text{D) }\\frac{9}{7\\,x^{4/7}}+\\frac{56\\,x^{3/5}}{5}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (10\\,x^{5/9}+9\\,x^{3/10}\\right)",
+      "answer1": "\\text{A) }\\frac{4}{x^{3/7}}+18\\,x^{7/2}",
+      "answer2": "\\text{B) }\\frac{9}{4\\,x^{5/8}}+\\frac{12}{5\\,x^{3/5}}",
+      "answer3": "\\text{C) }\\frac{72\\,x^{3/5}}{5}+\\frac{49\\,x^{4/3}}{3}",
+      "answer4": "\\text{D) }\\frac{50}{9\\,x^{4/9}}+\\frac{27}{10\\,x^{7/10}}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (8\\,x^{6/5}+5\\,x^{5/3}\\right)",
+      "answer1": "\\text{A) }\\frac{5\\,x^{1/4}}{2}+\\frac{9\\,x^{5/4}}{2}",
+      "answer2": "\\text{B) }\\frac{48\\,x^{1/5}}{5}+\\frac{25\\,x^{2/3}}{3}",
+      "answer3": "\\text{C) }9\\,\\sqrt{x}+\\frac{30}{7\\,x^{4/7}}",
+      "answer4": "\\text{D) }20\\,x^4+\\frac{56}{9\\,x^{2/9}}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (7\\,x^{5/6}+8\\,x^{9/10}\\right)",
+      "answer1": "\\text{A) }\\frac{32\\,x^{5/3}}{3}+\\frac{8}{3\\,x^{1/3}}",
+      "answer2": "\\text{B) }\\frac{3}{5\\,x^{7/10}}+8\\,x^{1/7}",
+      "answer3": "\\text{C) }36\\,x^{7/2}+\\frac{3}{2\\,\\sqrt{x}}",
+      "answer4": "\\text{D) }\\frac{35}{6\\,x^{1/6}}+\\frac{36}{5\\,x^{1/10}}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (3\\,x^{3/4}+9\\,x^{2/5}\\right)",
+      "answer1": "\\text{A) }9\\,x^{7/2}+10\\,x^{3/2}",
+      "answer2": "\\text{B) }\\frac{7}{2\\,x^{3/10}}+14\\,x",
+      "answer3": "\\text{C) }\\frac{9}{4\\,x^{1/4}}+\\frac{18}{5\\,x^{3/5}}",
+      "answer4": "\\text{D) }\\frac{40}{7\\,x^{2/7}}+\\frac{5\\,x^{3/2}}{2}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (x^{5/2}+2\\,x^{7/4}\\right)",
+      "answer1": "\\text{A) }\\frac{5\\,x^{3/2}}{2}+\\frac{7\\,x^{3/4}}{2}",
+      "answer2": "\\text{B) }\\frac{4}{x^{3/5}}+\\frac{72\\,x^{3/5}}{5}",
+      "answer3": "\\text{C) }\\frac{6}{x^{1/7}}+\\frac{14}{9\\,x^{7/9}}",
+      "answer4": "\\text{D) }\\frac{16}{3\\,x^{1/9}}+30\\,x^4",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (x^{3/10}+9\\,x^{5/4}\\right)",
+      "answer1": "\\text{A) }\\frac{3}{10\\,x^{7/10}}+\\frac{45\\,x^{1/4}}{4}",
+      "answer2": "\\text{B) }\\frac{27\\,x^{1/8}}{4}+\\frac{15}{8\\,x^{5/8}}",
+      "answer3": "\\text{C) }\\frac{35\\,x^{3/4}}{4}+8\\,x",
+      "answer4": "\\text{D) }27\\,x^2+\\frac{32}{9\\,x^{5/9}}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (9\\,x^{9/10}+3\\,x^{7/4}\\right)",
+      "answer1": "\\text{A) }\\frac{28\\,x^{1/3}}{3}+\\frac{64}{9\\,x^{1/9}}",
+      "answer2": "\\text{B) }\\frac{35\\,x^{3/4}}{2}+\\frac{60}{7\\,x^{1/7}}",
+      "answer3": "\\text{C) }\\frac{81}{10\\,x^{1/10}}+\\frac{21\\,x^{3/4}}{4}",
+      "answer4": "\\text{D) }\\frac{5}{x^{3/8}}+\\frac{25\\,x^{2/3}}{3}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (4\\,x^{4/9}+8\\,x^{5/2}\\right)",
+      "answer1": "\\text{A) }25\\,x^{3/2}+\\frac{3}{2\\,x^{7/10}}",
+      "answer2": "\\text{B) }5\\,x^{3/2}+2\\,x",
+      "answer3": "\\text{C) }\\frac{21}{8\\,x^{5/8}}+\\frac{27\\,x^{1/8}}{4}",
+      "answer4": "\\text{D) }\\frac{16}{9\\,x^{5/9}}+20\\,x^{3/2}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (10\\,x^{9/4}+9\\,x^{3/2}\\right)",
+      "answer1": "\\text{A) }\\frac{28}{5\\,x^{1/5}}+\\frac{40\\,x^{1/3}}{3}",
+      "answer2": "\\text{B) }\\frac{3}{4\\,x^{1/4}}+\\frac{28}{5\\,x^{3/10}}",
+      "answer3": "\\text{C) }\\frac{45\\,x^{5/4}}{2}+\\frac{27\\,\\sqrt{x}}{2}",
+      "answer4": "\\text{D) }\\frac{56\\,x^{4/3}}{3}+9\\,\\sqrt{x}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (3\\,x^{5/2}+10\\,x^2\\right)",
+      "answer1": "\\text{A) }\\frac{1}{2\\,\\sqrt{x}}+\\frac{15\\,x^{1/4}}{4}",
+      "answer2": "\\text{B) }\\frac{1}{x^{4/5}}+\\frac{54}{7\\,x^{1/7}}",
+      "answer3": "\\text{C) }\\frac{16\\,x^{3/5}}{5}+\\frac{16}{5\\,x^{3/5}}",
+      "answer4": "\\text{D) }\\frac{15\\,x^{3/2}}{2}+20\\,x",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (6\\,x^{6/7}+3\\,\\sqrt{x}\\right)",
+      "answer1": "\\text{A) }\\frac{5}{x^{4/9}}+12\\,x",
+      "answer2": "\\text{B) }\\frac{24}{5\\,x^{2/5}}+30\\,x^2",
+      "answer3": "\\text{C) }10\\,x^4+\\frac{5}{4\\,x^{3/4}}",
+      "answer4": "\\text{D) }\\frac{36}{7\\,x^{1/7}}+\\frac{3}{2\\,\\sqrt{x}}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (10\\,\\sqrt{x}+9\\,x^{4/9}\\right)",
+      "answer1": "\\text{A) }\\frac{7\\,x^{1/6}}{3}+5\\,x^{3/2}",
+      "answer2": "\\text{B) }\\frac{24}{7\\,x^{3/7}}+\\frac{7}{x^{3/10}}",
+      "answer3": "\\text{C) }16\\,x^3+9\\,\\sqrt{x}",
+      "answer4": "\\text{D) }\\frac{5}{\\sqrt{x}}+\\frac{4}{x^{5/9}}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (10\\,x^{8/3}+x^{10/3}\\right)",
+      "answer1": "\\text{A) }\\frac{21}{5\\,x^{2/5}}+\\frac{5}{4\\,x^{3/8}}",
+      "answer2": "\\text{B) }18\\,x^{7/2}+\\frac{4}{5\\,x^{4/5}}",
+      "answer3": "\\text{C) }\\frac{7\\,x^{3/4}}{2}+45\\,x^{7/2}",
+      "answer4": "\\text{D) }\\frac{80\\,x^{5/3}}{3}+\\frac{10\\,x^{7/3}}{3}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (2\\,x^{10/9}+10\\,x^{5/3}\\right)",
+      "answer1": "\\text{A) }\\frac{20\\,x^{1/9}}{9}+\\frac{50\\,x^{2/3}}{3}",
+      "answer2": "\\text{B) }21\\,x^2+30\\,x^4",
+      "answer3": "\\text{C) }\\frac{12}{7\\,x^{3/7}}+\\frac{45\\,x^{2/7}}{7}",
+      "answer4": "\\text{D) }14\\,x^{3/4}+\\frac{49\\,x^{3/4}}{4}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (8\\,x^{7/8}+6\\,x^{7/5}\\right)",
+      "answer1": "\\text{A) }12\\,x^2+\\frac{10}{3\\,x^{2/3}}",
+      "answer2": "\\text{B) }14\\,x+\\frac{4}{x^{5/9}}",
+      "answer3": "\\text{C) }\\frac{7}{x^{1/8}}+\\frac{42\\,x^{2/5}}{5}",
+      "answer4": "\\text{D) }\\frac{25\\,x^{1/4}}{2}+\\frac{8}{5\\,x^{1/5}}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (6\\,x^{5/6}+8\\,x^{2/3}\\right)",
+      "answer1": "\\text{A) }\\frac{16}{9\\,x^{1/9}}+\\frac{21}{5\\,x^{2/5}}",
+      "answer2": "\\text{B) }\\frac{3}{2\\,x^{7/10}}+\\frac{5\\,x^{1/4}}{4}",
+      "answer3": "\\text{C) }\\frac{7\\,x^{4/3}}{3}+\\frac{18}{5\\,x^{1/10}}",
+      "answer4": "\\text{D) }\\frac{5}{x^{1/6}}+\\frac{16}{3\\,x^{1/3}}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (8\\,x^{5/7}+7\\,x^{3/5}\\right)",
+      "answer1": "\\text{A) }\\frac{40}{7\\,x^{2/7}}+\\frac{21}{5\\,x^{2/5}}",
+      "answer2": "\\text{B) }20\\,x+\\frac{2}{x^{3/5}}",
+      "answer3": "\\text{C) }\\frac{63\\,x^{5/2}}{2}+\\frac{45}{8\\,x^{3/8}}",
+      "answer4": "\\text{D) }\\frac{9\\,x^{5/4}}{2}+\\frac{7}{3\\,x^{2/9}}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (x^{4/3}+3\\,x^{7/8}\\right)",
+      "answer1": "\\text{A) }\\frac{2}{5\\,x^{4/5}}+\\frac{10}{3\\,x^{1/3}}",
+      "answer2": "\\text{B) }\\frac{4\\,x^{1/3}}{3}+\\frac{21}{8\\,x^{1/8}}",
+      "answer3": "\\text{C) }\\frac{16}{3\\,x^{1/3}}+\\frac{54\\,x^{4/5}}{5}",
+      "answer4": "\\text{D) }\\frac{63\\,x^{3/4}}{4}+\\frac{3}{4\\,x^{1/4}}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (x^{5/3}+6\\,x^{1/4}\\right)",
+      "answer1": "\\text{A) }\\frac{25}{4\\,x^{3/8}}+\\frac{16}{5\\,x^{1/5}}",
+      "answer2": "\\text{B) }\\frac{5\\,x^{2/3}}{3}+\\frac{3}{2\\,x^{3/4}}",
+      "answer3": "\\text{C) }21\\,x^2+\\frac{12}{5\\,x^{7/10}}",
+      "answer4": "\\text{D) }\\frac{14}{5\\,x^{3/10}}+\\frac{70\\,x^{4/3}}{3}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (2\\,x^{3/5}+4\\,x^2\\right)",
+      "answer1": "\\text{A) }\\frac{80\\,x^{5/3}}{3}+\\frac{7}{x^{2/9}}",
+      "answer2": "\\text{B) }\\frac{27\\,x^{5/4}}{4}+\\frac{9}{5\\,x^{2/5}}",
+      "answer3": "\\text{C) }\\frac{6}{5\\,x^{2/5}}+8\\,x",
+      "answer4": "\\text{D) }\\frac{5}{7\\,x^{2/7}}+\\frac{40}{7\\,x^{2/7}}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (3\\,x^2+10\\,x^{2/5}\\right)",
+      "answer1": "\\text{A) }18\\,x+\\frac{40}{9\\,x^{4/9}}",
+      "answer2": "\\text{B) }\\frac{40\\,x^{1/7}}{7}+\\frac{7}{10\\,x^{3/10}}",
+      "answer3": "\\text{C) }\\frac{20}{9\\,x^{7/9}}+\\frac{25\\,x^{1/4}}{4}",
+      "answer4": "\\text{D) }6\\,x+\\frac{4}{x^{3/5}}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (6\\,x^{6/7}+3\\,x^{2/9}\\right)",
+      "answer1": "\\text{A) }\\frac{36}{7\\,x^{1/7}}+\\frac{2}{3\\,x^{7/9}}",
+      "answer2": "\\text{B) }\\frac{8}{5\\,x^{3/5}}+\\frac{9}{5\\,x^{1/10}}",
+      "answer3": "\\text{C) }20\\,x^{3/2}+\\frac{5}{2\\,\\sqrt{x}}",
+      "answer4": "\\text{D) }\\frac{7}{2\\,\\sqrt{x}}+45\\,x^4",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (7\\,x^3+8\\,x^{5/7}\\right)",
+      "answer1": "\\text{A) }21\\,x^2+\\frac{40}{7\\,x^{2/7}}",
+      "answer2": "\\text{B) }\\frac{3}{5\\,x^{2/5}}+14\\,x",
+      "answer3": "\\text{C) }\\frac{63}{8\\,x^{1/8}}+\\frac{72\\,x^{3/5}}{5}",
+      "answer4": "\\text{D) }\\frac{20}{3\\,x^{1/6}}+\\frac{5}{4\\,x^{3/4}}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (10\\,x^{5/6}+7\\,x^{10/3}\\right)",
+      "answer1": "\\text{A) }\\frac{28\\,x^{2/5}}{5}+\\frac{9\\,x^{1/8}}{4}",
+      "answer2": "\\text{B) }10\\,x+4\\,x^3",
+      "answer3": "\\text{C) }\\frac{4}{3\\,x^{1/3}}+\\frac{28}{5\\,x^{3/10}}",
+      "answer4": "\\text{D) }\\frac{25}{3\\,x^{1/6}}+\\frac{70\\,x^{7/3}}{3}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (5\\,x^3+9\\,x^{9/8}\\right)",
+      "answer1": "\\text{A) }\\frac{21}{4\\,x^{1/4}}+20\\,x",
+      "answer2": "\\text{B) }15\\,x^2+\\frac{81\\,x^{1/8}}{8}",
+      "answer3": "\\text{C) }\\frac{4}{3\\,x^{5/9}}+\\frac{28}{9\\,x^{5/9}}",
+      "answer4": "\\text{D) }20\\,x+\\frac{4}{3\\,x^{2/3}}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (3\\,x^{7/10}+3\\,x^{2/9}\\right)",
+      "answer1": "\\text{A) }\\frac{27\\,\\sqrt{x}}{2}+12\\,x^2",
+      "answer2": "\\text{B) }8\\,x+\\frac{9}{2\\,\\sqrt{x}}",
+      "answer3": "\\text{C) }\\frac{2}{x^{3/4}}+\\frac{8}{x^{1/5}}",
+      "answer4": "\\text{D) }\\frac{21}{10\\,x^{3/10}}+\\frac{2}{3\\,x^{7/9}}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (4\\,x^{4/3}+x^{4/5}\\right)",
+      "answer1": "\\text{A) }20\\,x^{3/2}+28\\,x^{5/2}",
+      "answer2": "\\text{B) }\\frac{63\\,x^{1/8}}{8}+\\frac{1}{x^{2/3}}",
+      "answer3": "\\text{C) }\\frac{15}{2\\,x^{1/4}}+\\frac{2}{\\sqrt{x}}",
+      "answer4": "\\text{D) }\\frac{16\\,x^{1/3}}{3}+\\frac{4}{5\\,x^{1/5}}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (3\\,\\sqrt{x}+3\\,x^{1/4}\\right)",
+      "answer1": "\\text{A) }12\\,x+\\frac{25}{7\\,x^{2/7}}",
+      "answer2": "\\text{B) }\\frac{3}{2\\,\\sqrt{x}}+\\frac{3}{4\\,x^{3/4}}",
+      "answer3": "\\text{C) }\\frac{1}{\\sqrt{x}}+\\frac{36}{5\\,x^{1/10}}",
+      "answer4": "\\text{D) }\\frac{40\\,x^{1/9}}{9}+\\frac{28}{9\\,x^{2/9}}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (6\\,x^{10/9}+7\\,x^{3/5}\\right)",
+      "answer1": "\\text{A) }\\frac{20\\,x^{1/9}}{3}+\\frac{21}{5\\,x^{2/5}}",
+      "answer2": "\\text{B) }\\frac{6}{x^{1/3}}+\\frac{40}{9\\,x^{1/9}}",
+      "answer3": "\\text{C) }\\frac{9\\,x^{4/5}}{5}+14\\,x^{2/5}",
+      "answer4": "\\text{D) }14\\,x^{3/4}+15\\,x^{3/2}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (8\\,x^{5/3}+5\\,x^2\\right)",
+      "answer1": "\\text{A) }\\frac{40\\,x^{2/3}}{3}+10\\,x",
+      "answer2": "\\text{B) }\\frac{49\\,x^{3/4}}{4}+\\frac{14}{9\\,x^{2/9}}",
+      "answer3": "\\text{C) }\\frac{36\\,x^{1/5}}{5}+\\frac{27}{4\\,x^{1/4}}",
+      "answer4": "\\text{D) }\\frac{1}{\\sqrt{x}}+\\frac{6}{5\\,x^{3/5}}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (4\\,x^{5/2}+10\\,x^{7/4}\\right)",
+      "answer1": "\\text{A) }8\\,x^{1/7}+\\frac{2}{x^{7/9}}",
+      "answer2": "\\text{B) }10\\,x^{3/2}+\\frac{35\\,x^{3/4}}{2}",
+      "answer3": "\\text{C) }\\frac{9\\,\\sqrt{x}}{2}+10\\,x^4",
+      "answer4": "\\text{D) }\\frac{15\\,x^{1/4}}{2}+\\frac{3}{x^{5/8}}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (7\\,x^{8/7}+2\\,x^{2/7}\\right)",
+      "answer1": "\\text{A) }\\frac{45\\,x^{1/4}}{4}+\\frac{16}{5\\,x^{3/5}}",
+      "answer2": "\\text{B) }20\\,x+\\frac{9}{5\\,x^{2/5}}",
+      "answer3": "\\text{C) }\\frac{8}{5\\,x^{1/5}}+\\frac{35\\,x^{3/4}}{4}",
+      "answer4": "\\text{D) }8\\,x^{1/7}+\\frac{4}{7\\,x^{5/7}}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (4\\,x^{1/4}+2\\,x^{2/3}\\right)",
+      "answer1": "\\text{A) }\\frac{1}{x^{3/4}}+\\frac{4}{3\\,x^{1/3}}",
+      "answer2": "\\text{B) }\\frac{6}{x^{1/7}}+\\frac{20\\,x^{1/3}}{3}",
+      "answer3": "\\text{C) }\\frac{3}{2\\,x^{1/4}}+\\frac{24}{5\\,x^{1/5}}",
+      "answer4": "\\text{D) }\\frac{9\\,\\sqrt{x}}{2}+\\frac{9\\,x^{1/8}}{8}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (9\\,x^{9/5}+7\\,x^{10/7}\\right)",
+      "answer1": "\\text{A) }\\frac{8}{9\\,x^{1/9}}+\\frac{15}{8\\,x^{3/8}}",
+      "answer2": "\\text{B) }\\frac{81\\,x^{4/5}}{5}+10\\,x^{3/7}",
+      "answer3": "\\text{C) }10\\,x^{3/2}+\\frac{36}{5\\,x^{1/5}}",
+      "answer4": "\\text{D) }5\\,x^{2/3}+28\\,x^{5/2}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (4\\,x^{3/10}+x^{2/3}\\right)",
+      "answer1": "\\text{A) }\\frac{6}{5\\,x^{7/10}}+\\frac{2}{3\\,x^{1/3}}",
+      "answer2": "\\text{B) }\\frac{63\\,x^{5/2}}{2}+\\frac{3}{4\\,x^{5/8}}",
+      "answer3": "\\text{C) }\\frac{16}{3\\,x^{1/3}}+\\frac{48\\,x^{1/7}}{7}",
+      "answer4": "\\text{D) }\\frac{3\\,\\sqrt{x}}{2}+\\frac{70\\,x^{1/9}}{9}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (6\\,x^{10/7}+4\\,x^{9/10}\\right)",
+      "answer1": "\\text{A) }\\frac{5}{2\\,\\sqrt{x}}+\\frac{7\\,x^{3/4}}{2}",
+      "answer2": "\\text{B) }\\frac{15\\,x^{3/2}}{2}+36\\,x^3",
+      "answer3": "\\text{C) }\\frac{60\\,x^{3/7}}{7}+\\frac{18}{5\\,x^{1/10}}",
+      "answer4": "\\text{D) }\\frac{2}{\\sqrt{x}}+\\frac{4}{5\\,x^{1/5}}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (3\\,x^{7/5}+6\\,x^{4/7}\\right)",
+      "answer1": "\\text{A) }\\frac{21\\,x^{2/5}}{5}+\\frac{24}{7\\,x^{3/7}}",
+      "answer2": "\\text{B) }\\frac{8}{7\\,x^{5/7}}+25\\,x^4",
+      "answer3": "\\text{C) }50\\,x^4+\\frac{9\\,\\sqrt{x}}{2}",
+      "answer4": "\\text{D) }\\frac{9\\,x^{5/4}}{2}+\\frac{2}{3\\,x^{1/3}}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (2\\,x^{6/5}+9\\,x^{9/10}\\right)",
+      "answer1": "\\text{A) }\\frac{6}{x^{1/4}}+\\frac{64}{9\\,x^{1/9}}",
+      "answer2": "\\text{B) }\\frac{12\\,x^{1/5}}{5}+\\frac{81}{10\\,x^{1/10}}",
+      "answer3": "\\text{C) }\\frac{20\\,x^{1/3}}{3}+4\\,x^{1/3}",
+      "answer4": "\\text{D) }\\frac{100\\,x^{1/9}}{9}+\\frac{42\\,x^{1/5}}{5}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (10\\,x^{9/8}+2\\,x^{10/7}\\right)",
+      "answer1": "\\text{A) }\\frac{27}{4\\,x^{1/4}}+\\frac{3}{2\\,x^{7/10}}",
+      "answer2": "\\text{B) }\\frac{80\\,x^{1/9}}{9}+6\\,\\sqrt{x}",
+      "answer3": "\\text{C) }\\frac{45\\,x^{1/8}}{4}+\\frac{20\\,x^{3/7}}{7}",
+      "answer4": "\\text{D) }\\frac{21}{5\\,x^{2/5}}+\\frac{3}{2\\,x^{3/4}}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (9\\,\\sqrt{x}+7\\,x^{10/7}\\right)",
+      "answer1": "\\text{A) }\\frac{9}{2\\,\\sqrt{x}}+10\\,x^{3/7}",
+      "answer2": "\\text{B) }\\frac{18\\,x^{1/5}}{5}+20\\,x^3",
+      "answer3": "\\text{C) }\\frac{28}{5\\,x^{1/5}}+4\\,x^{1/3}",
+      "answer4": "\\text{D) }\\frac{45\\,x^{7/2}}{2}+\\frac{27}{10\\,x^{7/10}}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (3\\,x^{3/5}+9\\,x^{9/8}\\right)",
+      "answer1": "\\text{A) }\\frac{72\\,x^{3/5}}{5}+\\frac{7}{3\\,x^{2/3}}",
+      "answer2": "\\text{B) }\\frac{45\\,x^{5/4}}{4}+\\frac{12}{5\\,x^{3/5}}",
+      "answer3": "\\text{C) }\\frac{9}{5\\,x^{2/5}}+\\frac{81\\,x^{1/8}}{8}",
+      "answer4": "\\text{D) }\\frac{10}{3\\,x^{2/3}}+\\frac{50}{7\\,x^{2/7}}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (2\\,x^{1/4}+2\\,x^{5/9}\\right)",
+      "answer1": "\\text{A) }\\frac{16}{3\\,x^{1/3}}+\\frac{72\\,x^{3/5}}{5}",
+      "answer2": "\\text{B) }\\frac{1}{2\\,x^{3/4}}+\\frac{10}{9\\,x^{4/9}}",
+      "answer3": "\\text{C) }\\frac{32\\,x^{1/7}}{7}+\\frac{6}{5\\,x^{7/10}}",
+      "answer4": "\\text{D) }\\frac{5}{x^{4/9}}+24\\,x^2",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (8\\,x^{8/7}+2\\,x^{5/4}\\right)",
+      "answer1": "\\text{A) }\\frac{27}{10\\,x^{1/10}}+\\frac{6}{5\\,x^{3/5}}",
+      "answer2": "\\text{B) }\\frac{64\\,x^{1/7}}{7}+\\frac{5\\,x^{1/4}}{2}",
+      "answer3": "\\text{C) }8\\,x+\\frac{16}{5\\,x^{3/5}}",
+      "answer4": "\\text{D) }\\frac{1}{2\\,\\sqrt{x}}+\\frac{27\\,\\sqrt{x}}{2}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (7\\,x^{10/3}+7\\,x^4\\right)",
+      "answer1": "\\text{A) }\\frac{70\\,x^{7/3}}{3}+28\\,x^3",
+      "answer2": "\\text{B) }16\\,x+\\frac{6}{5\\,x^{7/10}}",
+      "answer3": "\\text{C) }\\frac{6}{5\\,x^{2/5}}+\\frac{9}{4\\,x^{1/4}}",
+      "answer4": "\\text{D) }\\frac{27}{5\\,x^{2/5}}+\\frac{20\\,x^{1/3}}{3}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (10\\,\\sqrt{x}+10\\,x^{6/7}\\right)",
+      "answer1": "\\text{A) }\\frac{5}{2\\,\\sqrt{x}}+\\frac{6}{5\\,x^{3/5}}",
+      "answer2": "\\text{B) }\\frac{28}{9\\,x^{2/9}}+\\frac{9\\,x^{1/8}}{8}",
+      "answer3": "\\text{C) }\\frac{5}{\\sqrt{x}}+\\frac{60}{7\\,x^{1/7}}",
+      "answer4": "\\text{D) }\\frac{42\\,x^{1/5}}{5}+\\frac{45\\,x^{3/2}}{2}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (x^{3/4}+8\\,x^{5/2}\\right)",
+      "answer1": "\\text{A) }\\frac{3}{4\\,x^{1/4}}+20\\,x^{3/2}",
+      "answer2": "\\text{B) }\\frac{18\\,x^{2/7}}{7}+\\frac{3}{x^{4/7}}",
+      "answer3": "\\text{C) }\\frac{35\\,x^{1/4}}{4}+18\\,x^2",
+      "answer4": "\\text{D) }4\\,x^{1/3}+\\frac{100\\,x^{1/9}}{9}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (10\\,x^{10/3}+3\\,x^{3/4}\\right)",
+      "answer1": "\\text{A) }\\frac{9\\,\\sqrt{x}}{2}+\\frac{7\\,x^{3/4}}{2}",
+      "answer2": "\\text{B) }\\frac{27\\,\\sqrt{x}}{2}+\\frac{80}{9\\,x^{1/9}}",
+      "answer3": "\\text{C) }\\frac{100\\,x^{7/3}}{3}+\\frac{9}{4\\,x^{1/4}}",
+      "answer4": "\\text{D) }\\frac{28}{5\\,x^{3/10}}+10\\,x",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (6\\,x^{4/3}+4\\,x^{9/2}\\right)",
+      "answer1": "\\text{A) }\\frac{56\\,x^{2/5}}{5}+\\frac{5}{6\\,x^{1/6}}",
+      "answer2": "\\text{B) }\\frac{6}{5\\,x^{2/5}}+\\frac{10\\,x^{1/9}}{3}",
+      "answer3": "\\text{C) }8\\,x^{1/3}+18\\,x^{7/2}",
+      "answer4": "\\text{D) }\\frac{40}{9\\,x^{5/9}}+\\frac{4}{x^{3/5}}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (9\\,x^{3/5}+7\\,x^{3/5}\\right)",
+      "answer1": "\\text{A) }12\\,x+\\frac{40\\,x^{3/7}}{7}",
+      "answer2": "\\text{B) }\\frac{5}{4\\,x^{3/4}}+27\\,x^2",
+      "answer3": "\\text{C) }\\frac{8}{3\\,x^{1/3}}+2\\,x",
+      "answer4": "\\text{D) }\\frac{27}{5\\,x^{2/5}}+\\frac{21}{5\\,x^{2/5}}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (7\\,x^{3/8}+2\\,x^{3/4}\\right)",
+      "answer1": "\\text{A) }\\frac{5\\,x^{1/4}}{2}+\\frac{9}{7\\,x^{4/7}}",
+      "answer2": "\\text{B) }\\frac{21}{8\\,x^{5/8}}+\\frac{3}{2\\,x^{1/4}}",
+      "answer3": "\\text{C) }\\frac{4}{3\\,x^{7/9}}+\\frac{9\\,x^{5/4}}{4}",
+      "answer4": "\\text{D) }7\\,x^{4/3}+40\\,x^4",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (5\\,x^{4/5}+6\\,x^2\\right)",
+      "answer1": "\\text{A) }20\\,x^{3/2}+\\frac{2}{x^{3/5}}",
+      "answer2": "\\text{B) }8\\,x^{5/3}+20\\,x^4",
+      "answer3": "\\text{C) }\\frac{6}{5\\,x^{2/5}}+\\frac{27}{8\\,x^{5/8}}",
+      "answer4": "\\text{D) }\\frac{4}{x^{1/5}}+12\\,x",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (3\\,x^{8/9}+4\\,x^{2/3}\\right)",
+      "answer1": "\\text{A) }\\frac{50\\,x^{7/3}}{3}+10\\,x^{1/4}",
+      "answer2": "\\text{B) }\\frac{3}{x^{1/4}}+\\frac{42\\,x^{1/5}}{5}",
+      "answer3": "\\text{C) }\\frac{8}{3\\,x^{1/9}}+\\frac{8}{3\\,x^{1/3}}",
+      "answer4": "\\text{D) }20\\,x+\\frac{3}{2\\,\\sqrt{x}}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (9\\,x^{3/10}+9\\,x^3\\right)",
+      "answer1": "\\text{A) }\\frac{10\\,x^{3/7}}{7}+\\frac{4}{x^{1/5}}",
+      "answer2": "\\text{B) }\\frac{16}{9\\,x^{7/9}}+\\frac{21}{5\\,x^{2/5}}",
+      "answer3": "\\text{C) }\\frac{27}{10\\,x^{7/10}}+27\\,x^2",
+      "answer4": "\\text{D) }10\\,x+\\frac{9}{7\\,x^{4/7}}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (3\\,x^2+6\\,x^{7/8}\\right)",
+      "answer1": "\\text{A) }\\frac{3}{x^{5/8}}+5\\,x^{2/3}",
+      "answer2": "\\text{B) }\\frac{35\\,x^{1/6}}{3}+\\frac{3}{x^{1/4}}",
+      "answer3": "\\text{C) }\\frac{7}{2\\,\\sqrt{x}}+3\\,\\sqrt{x}",
+      "answer4": "\\text{D) }6\\,x+\\frac{21}{4\\,x^{1/8}}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (5\\,x^{9/7}+x^{5/4}\\right)",
+      "answer1": "\\text{A) }24\\,x^3+18\\,x",
+      "answer2": "\\text{B) }\\frac{5}{x^{4/9}}+\\frac{12}{5\\,x^{2/5}}",
+      "answer3": "\\text{C) }6\\,x+\\frac{6}{7\\,x^{5/7}}",
+      "answer4": "\\text{D) }\\frac{45\\,x^{2/7}}{7}+\\frac{5\\,x^{1/4}}{4}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (4\\,x^{3/2}+5\\,x^{2/5}\\right)",
+      "answer1": "\\text{A) }6\\,\\sqrt{x}+\\frac{2}{x^{3/5}}",
+      "answer2": "\\text{B) }\\frac{4}{5\\,x^{1/5}}+\\frac{3}{2\\,x^{5/8}}",
+      "answer3": "\\text{C) }\\frac{15\\,\\sqrt{x}}{2}+25\\,x^{3/2}",
+      "answer4": "\\text{D) }10\\,x^{2/3}+7\\,x^{1/6}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (10\\,x^{3/4}+3\\,x^{4/9}\\right)",
+      "answer1": "\\text{A) }\\frac{15}{2\\,x^{1/4}}+\\frac{4}{3\\,x^{5/9}}",
+      "answer2": "\\text{B) }16\\,x+20\\,x^{7/3}",
+      "answer3": "\\text{C) }\\frac{4}{9\\,x^{7/9}}+\\frac{7}{8\\,x^{1/8}}",
+      "answer4": "\\text{D) }15\\,x^{2/3}+\\frac{45\\,x^{5/4}}{2}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (9\\,x^{3/4}+4\\,x^{1/3}\\right)",
+      "answer1": "\\text{A) }\\frac{27}{4\\,x^{1/4}}+\\frac{4}{3\\,x^{2/3}}",
+      "answer2": "\\text{B) }\\frac{10\\,x^{7/3}}{3}+\\frac{16\\,x^{1/7}}{7}",
+      "answer3": "\\text{C) }\\frac{35}{6\\,x^{1/6}}+\\frac{4}{x^{3/5}}",
+      "answer4": "\\text{D) }\\frac{4}{3\\,x^{7/9}}+\\frac{35}{9\\,x^{4/9}}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (2\\,\\sqrt{x}+7\\,x^{7/8}\\right)",
+      "answer1": "\\text{A) }30\\,x^2+\\frac{80\\,x^{5/3}}{3}",
+      "answer2": "\\text{B) }\\frac{49\\,x^{3/4}}{4}+\\frac{3\\,\\sqrt{x}}{2}",
+      "answer3": "\\text{C) }\\frac{20}{9\\,x^{4/9}}+\\frac{36\\,x^{2/7}}{7}",
+      "answer4": "\\text{D) }\\frac{1}{\\sqrt{x}}+\\frac{49}{8\\,x^{1/8}}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (7\\,x^{5/4}+5\\,x^{10/3}\\right)",
+      "answer1": "\\text{A) }\\frac{35\\,x^{1/4}}{4}+\\frac{50\\,x^{7/3}}{3}",
+      "answer2": "\\text{B) }8\\,x^3+\\frac{7}{3\\,x^{2/9}}",
+      "answer3": "\\text{C) }\\frac{2}{3\\,x^{1/3}}+\\frac{64\\,x^{1/7}}{7}",
+      "answer4": "\\text{D) }9\\,\\sqrt{x}+\\frac{21}{10\\,x^{7/10}}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (x^{4/7}+4\\,x^{9/4}\\right)",
+      "answer1": "\\text{A) }\\frac{4}{7\\,x^{3/7}}+9\\,x^{5/4}",
+      "answer2": "\\text{B) }\\frac{50\\,x^{2/3}}{3}+15\\,x^4",
+      "answer3": "\\text{C) }\\frac{8}{3\\,x^{1/9}}+\\frac{3}{4\\,x^{5/8}}",
+      "answer4": "\\text{D) }15\\,x^2+\\frac{5\\,x^{2/3}}{3}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (10\\,x^{2/3}+8\\,x^{1/3}\\right)",
+      "answer1": "\\text{A) }\\frac{20}{3\\,x^{1/3}}+\\frac{8}{3\\,x^{2/3}}",
+      "answer2": "\\text{B) }\\frac{10}{7\\,x^{2/7}}+\\frac{3}{4\\,x^{1/4}}",
+      "answer3": "\\text{C) }\\frac{56\\,x^{3/5}}{5}+\\frac{7\\,x^{3/4}}{2}",
+      "answer4": "\\text{D) }\\frac{2}{3\\,x^{1/3}}+\\frac{36\\,x^{4/5}}{5}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (3\\,x^{1/4}+6\\,x^{5/2}\\right)",
+      "answer1": "\\text{A) }\\frac{8}{3\\,x^{1/3}}+\\frac{1}{\\sqrt{x}}",
+      "answer2": "\\text{B) }\\frac{3}{7\\,x^{4/7}}+\\frac{21\\,x^{2/5}}{5}",
+      "answer3": "\\text{C) }27\\,x^2+\\frac{54}{7\\,x^{1/7}}",
+      "answer4": "\\text{D) }\\frac{3}{4\\,x^{3/4}}+15\\,x^{3/2}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (3\\,x^{3/2}+3\\,x^{9/5}\\right)",
+      "answer1": "\\text{A) }30\\,x^{7/3}+\\frac{4}{x^{1/5}}",
+      "answer2": "\\text{B) }20\\,x+\\frac{1}{2\\,\\sqrt{x}}",
+      "answer3": "\\text{C) }\\frac{9\\,\\sqrt{x}}{2}+\\frac{27\\,x^{4/5}}{5}",
+      "answer4": "\\text{D) }\\frac{1}{5\\,x^{4/5}}+\\frac{25\\,x^{1/4}}{2}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (8\\,x^{2/7}+2\\,x^2\\right)",
+      "answer1": "\\text{A) }\\frac{8\\,x^{1/3}}{3}+\\frac{10}{3\\,x^{2/3}}",
+      "answer2": "\\text{B) }\\frac{16}{7\\,x^{5/7}}+4\\,x",
+      "answer3": "\\text{C) }10\\,x^{3/2}+\\frac{16}{3\\,x^{1/9}}",
+      "answer4": "\\text{D) }\\frac{21\\,x^{3/4}}{2}+21\\,x^{4/3}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (3\\,x^{7/3}+9\\,x^{3/2}\\right)",
+      "answer1": "\\text{A) }\\frac{30}{7\\,x^{4/7}}+\\frac{8}{5\\,x^{1/5}}",
+      "answer2": "\\text{B) }7\\,x^{4/3}+\\frac{27\\,\\sqrt{x}}{2}",
+      "answer3": "\\text{C) }\\frac{14}{3\\,x^{1/3}}+\\frac{35}{8\\,x^{1/8}}",
+      "answer4": "\\text{D) }\\frac{5\\,x^{1/4}}{2}+\\frac{2}{\\sqrt{x}}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (3\\,x^{7/5}+4\\,x^{6/5}\\right)",
+      "answer1": "\\text{A) }\\frac{21\\,x^{2/5}}{5}+\\frac{24\\,x^{1/5}}{5}",
+      "answer2": "\\text{B) }\\frac{15\\,\\sqrt{x}}{2}+\\frac{35}{4\\,x^{1/8}}",
+      "answer3": "\\text{C) }\\frac{3}{x^{4/7}}+\\frac{1}{x^{2/3}}",
+      "answer4": "\\text{D) }\\frac{1}{5\\,x^{4/5}}+\\frac{7}{5\\,x^{4/5}}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    }
+  ]
+}

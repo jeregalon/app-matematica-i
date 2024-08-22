@@ -1,0 +1,2234 @@
+{
+  "limites_factorizables_facil": [
+    {
+      "question": "\\lim_{x \\to -3} \\left( \\frac{x^2+4\\,x+3}{x+3} \\right)",
+      "answer1": "\\text{A) }3",
+      "answer2": "\\text{B) }-4",
+      "answer3": "\\text{C) }1",
+      "answer4": "\\text{D) }-2",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 4} \\left( \\frac{x^2-3\\,x-4}{x-4} \\right)",
+      "answer1": "\\text{A) }4",
+      "answer2": "\\text{B) }5",
+      "answer3": "\\text{C) }-2",
+      "answer4": "\\text{D) }-6",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -2} \\left( \\frac{x^2-5\\,x-14}{x+2} \\right)",
+      "answer1": "\\text{A) }-4",
+      "answer2": "\\text{B) }5",
+      "answer3": "\\text{C) }-3",
+      "answer4": "\\text{D) }-9",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 3} \\left( \\frac{x^2+x-12}{x-3} \\right)",
+      "answer1": "\\text{A) }0",
+      "answer2": "\\text{B) }-4",
+      "answer3": "\\text{C) }-6",
+      "answer4": "\\text{D) }7",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 7} \\left( \\frac{x^2-5\\,x-14}{x-7} \\right)",
+      "answer1": "\\text{A) }9",
+      "answer2": "\\text{B) }-5",
+      "answer3": "\\text{C) }-6",
+      "answer4": "\\text{D) }5",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 2} \\left( \\frac{x^2+x-6}{x-2} \\right)",
+      "answer1": "\\text{A) }5",
+      "answer2": "\\text{B) }-5",
+      "answer3": "\\text{C) }-6",
+      "answer4": "\\text{D) }2",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -8} \\left( \\frac{x^2+3\\,x-40}{x+8} \\right)",
+      "answer1": "\\text{A) }0",
+      "answer2": "\\text{B) }3",
+      "answer3": "\\text{C) }-13",
+      "answer4": "\\text{D) }-3",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 1} \\left( \\frac{x^2+3\\,x-4}{x-1} \\right)",
+      "answer1": "\\text{A) }-4",
+      "answer2": "\\text{B) }-3",
+      "answer3": "\\text{C) }-6",
+      "answer4": "\\text{D) }5",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -7} \\left( \\frac{x^2+11\\,x+28}{x+7} \\right)",
+      "answer1": "\\text{A) }2",
+      "answer2": "\\text{B) }-3",
+      "answer3": "\\text{C) }-2",
+      "answer4": "\\text{D) }-1",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 6} \\left( \\frac{x^2-x-30}{x-6} \\right)",
+      "answer1": "\\text{A) }-4",
+      "answer2": "\\text{B) }4",
+      "answer3": "\\text{C) }11",
+      "answer4": "\\text{D) }0",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -4} \\left( \\frac{x^2+13\\,x+36}{x+4} \\right)",
+      "answer1": "\\text{A) }5",
+      "answer2": "\\text{B) }-3",
+      "answer3": "\\text{C) }-1",
+      "answer4": "\\text{D) }-4",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 6} \\left( \\frac{x^2-2\\,x-24}{x-6} \\right)",
+      "answer1": "\\text{A) }10",
+      "answer2": "\\text{B) }-3",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }3",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 7} \\left( \\frac{x^2-7\\,x}{x-7} \\right)",
+      "answer1": "\\text{A) }3",
+      "answer2": "\\text{B) }1",
+      "answer3": "\\text{C) }7",
+      "answer4": "\\text{D) }-2",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -6} \\left( \\frac{x^2+4\\,x-12}{x+6} \\right)",
+      "answer1": "\\text{A) }-6",
+      "answer2": "\\text{B) }-8",
+      "answer3": "\\text{C) }1",
+      "answer4": "\\text{D) }-5",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -7} \\left( \\frac{x^2+3\\,x-28}{x+7} \\right)",
+      "answer1": "\\text{A) }-4",
+      "answer2": "\\text{B) }-5",
+      "answer3": "\\text{C) }-11",
+      "answer4": "\\text{D) }-3",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -9} \\left( \\frac{x^2+2\\,x-63}{x+9} \\right)",
+      "answer1": "\\text{A) }-16",
+      "answer2": "\\text{B) }3",
+      "answer3": "\\text{C) }1",
+      "answer4": "\\text{D) }-2",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 10} \\left( \\frac{x^2-6\\,x-40}{x-10} \\right)",
+      "answer1": "\\text{A) }-5",
+      "answer2": "\\text{B) }0",
+      "answer3": "\\text{C) }-4",
+      "answer4": "\\text{D) }14",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -8} \\left( \\frac{x^2+6\\,x-16}{x+8} \\right)",
+      "answer1": "\\text{A) }0",
+      "answer2": "\\text{B) }3",
+      "answer3": "\\text{C) }2",
+      "answer4": "\\text{D) }-10",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -3} \\left( \\frac{x^2+6\\,x+9}{x+3} \\right)",
+      "answer1": "\\text{A) }-1",
+      "answer2": "\\text{B) }3",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }-4",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 6} \\left( \\frac{x^2-8\\,x+12}{x-6} \\right)",
+      "answer1": "\\text{A) }2",
+      "answer2": "\\text{B) }-4",
+      "answer3": "\\text{C) }-3",
+      "answer4": "\\text{D) }4",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 7} \\left( \\frac{x^2-10\\,x+21}{x-7} \\right)",
+      "answer1": "\\text{A) }-6",
+      "answer2": "\\text{B) }7",
+      "answer3": "\\text{C) }-3",
+      "answer4": "\\text{D) }4",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1} \\left( \\frac{x^2-1}{x+1} \\right)",
+      "answer1": "\\text{A) }3",
+      "answer2": "\\text{B) }-2",
+      "answer3": "\\text{C) }-1",
+      "answer4": "\\text{D) }-4",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 5} \\left( \\frac{x^2-x-20}{x-5} \\right)",
+      "answer1": "\\text{A) }-1",
+      "answer2": "\\text{B) }-4",
+      "answer3": "\\text{C) }-6",
+      "answer4": "\\text{D) }9",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -5} \\left( \\frac{x^2+7\\,x+10}{x+5} \\right)",
+      "answer1": "\\text{A) }0",
+      "answer2": "\\text{B) }-3",
+      "answer3": "\\text{C) }4",
+      "answer4": "\\text{D) }3",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 0} \\left( \\frac{x^2+9\\,x}{x} \\right)",
+      "answer1": "\\text{A) }-2",
+      "answer2": "\\text{B) }-3",
+      "answer3": "\\text{C) }9",
+      "answer4": "\\text{D) }0",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -6} \\left( \\frac{x^2+8\\,x+12}{x+6} \\right)",
+      "answer1": "\\text{A) }-8",
+      "answer2": "\\text{B) }2",
+      "answer3": "\\text{C) }-4",
+      "answer4": "\\text{D) }-7",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -6} \\left( \\frac{x^2+9\\,x+18}{x+6} \\right)",
+      "answer1": "\\text{A) }-6",
+      "answer2": "\\text{B) }-1",
+      "answer3": "\\text{C) }-3",
+      "answer4": "\\text{D) }3",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 3} \\left( \\frac{x^2-7\\,x+12}{x-3} \\right)",
+      "answer1": "\\text{A) }3",
+      "answer2": "\\text{B) }-2",
+      "answer3": "\\text{C) }-1",
+      "answer4": "\\text{D) }1",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 1} \\left( \\frac{x^2+2\\,x-3}{x-1} \\right)",
+      "answer1": "\\text{A) }-4",
+      "answer2": "\\text{B) }3",
+      "answer3": "\\text{C) }4",
+      "answer4": "\\text{D) }2",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 7} \\left( \\frac{x^2+2\\,x-63}{x-7} \\right)",
+      "answer1": "\\text{A) }16",
+      "answer2": "\\text{B) }-5",
+      "answer3": "\\text{C) }-6",
+      "answer4": "\\text{D) }4",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -9} \\left( \\frac{x^2+6\\,x-27}{x+9} \\right)",
+      "answer1": "\\text{A) }4",
+      "answer2": "\\text{B) }-12",
+      "answer3": "\\text{C) }1",
+      "answer4": "\\text{D) }-4",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -3} \\left( \\frac{x^2+4\\,x+3}{x+3} \\right)",
+      "answer1": "\\text{A) }-8",
+      "answer2": "\\text{B) }-2",
+      "answer3": "\\text{C) }11",
+      "answer4": "\\text{D) }-6",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 8} \\left( \\frac{x^2-9\\,x+8}{x-8} \\right)",
+      "answer1": "\\text{A) }-1",
+      "answer2": "\\text{B) }7",
+      "answer3": "\\text{C) }3",
+      "answer4": "\\text{D) }2",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 0} \\left( \\frac{x^2-8\\,x}{x} \\right)",
+      "answer1": "\\text{A) }5",
+      "answer2": "\\text{B) }0",
+      "answer3": "\\text{C) }-2",
+      "answer4": "\\text{D) }-8",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1} \\left( \\frac{x^2+4\\,x+3}{x+1} \\right)",
+      "answer1": "\\text{A) }-6",
+      "answer2": "\\text{B) }-1",
+      "answer3": "\\text{C) }2",
+      "answer4": "\\text{D) }4",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 1} \\left( \\frac{x^2+2\\,x-3}{x-1} \\right)",
+      "answer1": "\\text{A) }-1",
+      "answer2": "\\text{B) }4",
+      "answer3": "\\text{C) }1",
+      "answer4": "\\text{D) }-4",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 2} \\left( \\frac{x^2-10\\,x+16}{x-2} \\right)",
+      "answer1": "\\text{A) }6",
+      "answer2": "\\text{B) }-8",
+      "answer3": "\\text{C) }-9",
+      "answer4": "\\text{D) }-6",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1} \\left( \\frac{x^2+3\\,x+2}{x+1} \\right)",
+      "answer1": "\\text{A) }-6",
+      "answer2": "\\text{B) }3",
+      "answer3": "\\text{C) }1",
+      "answer4": "\\text{D) }-1",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -8} \\left( \\frac{x^2-x-72}{x+8} \\right)",
+      "answer1": "\\text{A) }-6",
+      "answer2": "\\text{B) }3",
+      "answer3": "\\text{C) }-17",
+      "answer4": "\\text{D) }4",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -3} \\left( \\frac{x^2+6\\,x+9}{x+3} \\right)",
+      "answer1": "\\text{A) }2",
+      "answer2": "\\text{B) }0",
+      "answer3": "\\text{C) }3",
+      "answer4": "\\text{D) }-6",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 0} \\left( \\frac{x^2+5\\,x}{x} \\right)",
+      "answer1": "\\text{A) }-3",
+      "answer2": "\\text{B) }1",
+      "answer3": "\\text{C) }-4",
+      "answer4": "\\text{D) }5",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 7} \\left( \\frac{x^2-3\\,x-28}{x-7} \\right)",
+      "answer1": "\\text{A) }2",
+      "answer2": "\\text{B) }3",
+      "answer3": "\\text{C) }11",
+      "answer4": "\\text{D) }-4",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -3} \\left( \\frac{x^2+10\\,x+21}{x+3} \\right)",
+      "answer1": "\\text{A) }2",
+      "answer2": "\\text{B) }4",
+      "answer3": "\\text{C) }-4",
+      "answer4": "\\text{D) }3",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -3} \\left( \\frac{x^2+9\\,x+18}{x+3} \\right)",
+      "answer1": "\\text{A) }-13",
+      "answer2": "\\text{B) }-15",
+      "answer3": "\\text{C) }3",
+      "answer4": "\\text{D) }1",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 4} \\left( \\frac{x^2-5\\,x+4}{x-4} \\right)",
+      "answer1": "\\text{A) }-4",
+      "answer2": "\\text{B) }3",
+      "answer3": "\\text{C) }-3",
+      "answer4": "\\text{D) }0",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 9} \\left( \\frac{x^2-5\\,x-36}{x-9} \\right)",
+      "answer1": "\\text{A) }2",
+      "answer2": "\\text{B) }5",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }13",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -2} \\left( \\frac{x^2+8\\,x+12}{x+2} \\right)",
+      "answer1": "\\text{A) }1",
+      "answer2": "\\text{B) }4",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }-2",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -2} \\left( \\frac{x^2+2\\,x}{x+2} \\right)",
+      "answer1": "\\text{A) }9",
+      "answer2": "\\text{B) }12",
+      "answer3": "\\text{C) }-5",
+      "answer4": "\\text{D) }-2",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 10} \\left( \\frac{x^2-12\\,x+20}{x-10} \\right)",
+      "answer1": "\\text{A) }8",
+      "answer2": "\\text{B) }4",
+      "answer3": "\\text{C) }-6",
+      "answer4": "\\text{D) }0",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 1} \\left( \\frac{x^2+x-2}{x-1} \\right)",
+      "answer1": "\\text{A) }-4",
+      "answer2": "\\text{B) }3",
+      "answer3": "\\text{C) }4",
+      "answer4": "\\text{D) }-2",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -4} \\left( \\frac{x^2+x-12}{x+4} \\right)",
+      "answer1": "\\text{A) }-7",
+      "answer2": "\\text{B) }3",
+      "answer3": "\\text{C) }-3",
+      "answer4": "\\text{D) }1",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 5} \\left( \\frac{x^2-2\\,x-15}{x-5} \\right)",
+      "answer1": "\\text{A) }8",
+      "answer2": "\\text{B) }-3",
+      "answer3": "\\text{C) }1",
+      "answer4": "\\text{D) }-2",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -8} \\left( \\frac{x^2+12\\,x+32}{x+8} \\right)",
+      "answer1": "\\text{A) }3",
+      "answer2": "\\text{B) }-2",
+      "answer3": "\\text{C) }-6",
+      "answer4": "\\text{D) }-4",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 3} \\left( \\frac{x^2-3\\,x}{x-3} \\right)",
+      "answer1": "\\text{A) }-9",
+      "answer2": "\\text{B) }-1",
+      "answer3": "\\text{C) }-2",
+      "answer4": "\\text{D) }3",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 2} \\left( \\frac{x^2-5\\,x+6}{x-2} \\right)",
+      "answer1": "\\text{A) }1",
+      "answer2": "\\text{B) }-3",
+      "answer3": "\\text{C) }2",
+      "answer4": "\\text{D) }-1",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 6} \\left( \\frac{x^2+4\\,x-60}{x-6} \\right)",
+      "answer1": "\\text{A) }-5",
+      "answer2": "\\text{B) }16",
+      "answer3": "\\text{C) }5",
+      "answer4": "\\text{D) }-3",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 6} \\left( \\frac{x^2-12\\,x+36}{x-6} \\right)",
+      "answer1": "\\text{A) }2",
+      "answer2": "\\text{B) }-5",
+      "answer3": "\\text{C) }-3",
+      "answer4": "\\text{D) }0",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 6} \\left( \\frac{x^2-15\\,x+54}{x-6} \\right)",
+      "answer1": "\\text{A) }-5",
+      "answer2": "\\text{B) }-3",
+      "answer3": "\\text{C) }5",
+      "answer4": "\\text{D) }-4",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 2} \\left( \\frac{x^2-9\\,x+14}{x-2} \\right)",
+      "answer1": "\\text{A) }-9",
+      "answer2": "\\text{B) }-5",
+      "answer3": "\\text{C) }-4",
+      "answer4": "\\text{D) }-8",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 1} \\left( \\frac{x^2-4\\,x+3}{x-1} \\right)",
+      "answer1": "\\text{A) }6",
+      "answer2": "\\text{B) }-2",
+      "answer3": "\\text{C) }-3",
+      "answer4": "\\text{D) }-1",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 0} \\left( \\frac{x^2-8\\,x}{x} \\right)",
+      "answer1": "\\text{A) }-4",
+      "answer2": "\\text{B) }-8",
+      "answer3": "\\text{C) }3",
+      "answer4": "\\text{D) }-2",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -5} \\left( \\frac{x^2-3\\,x-40}{x+5} \\right)",
+      "answer1": "\\text{A) }-13",
+      "answer2": "\\text{B) }1",
+      "answer3": "\\text{C) }-4",
+      "answer4": "\\text{D) }-3",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 5} \\left( \\frac{x^2-10\\,x+25}{x-5} \\right)",
+      "answer1": "\\text{A) }-5",
+      "answer2": "\\text{B) }0",
+      "answer3": "\\text{C) }2",
+      "answer4": "\\text{D) }-6",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 4} \\left( \\frac{x^2+4\\,x-32}{x-4} \\right)",
+      "answer1": "\\text{A) }0",
+      "answer2": "\\text{B) }1",
+      "answer3": "\\text{C) }-1",
+      "answer4": "\\text{D) }12",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -2} \\left( \\frac{x^2-x-6}{x+2} \\right)",
+      "answer1": "\\text{A) }-4",
+      "answer2": "\\text{B) }-2",
+      "answer3": "\\text{C) }-5",
+      "answer4": "\\text{D) }-3",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1} \\left( \\frac{x^2-3\\,x-4}{x+1} \\right)",
+      "answer1": "\\text{A) }2",
+      "answer2": "\\text{B) }-2",
+      "answer3": "\\text{C) }-5",
+      "answer4": "\\text{D) }0",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -4} \\left( \\frac{x^2+9\\,x+20}{x+4} \\right)",
+      "answer1": "\\text{A) }7",
+      "answer2": "\\text{B) }-3",
+      "answer3": "\\text{C) }1",
+      "answer4": "\\text{D) }5",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 1} \\left( \\frac{x^2-6\\,x+5}{x-1} \\right)",
+      "answer1": "\\text{A) }7",
+      "answer2": "\\text{B) }3",
+      "answer3": "\\text{C) }-2",
+      "answer4": "\\text{D) }-4",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -3} \\left( \\frac{x^2+8\\,x+15}{x+3} \\right)",
+      "answer1": "\\text{A) }2",
+      "answer2": "\\text{B) }-1",
+      "answer3": "\\text{C) }-5",
+      "answer4": "\\text{D) }-3",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 3} \\left( \\frac{x^2+2\\,x-15}{x-3} \\right)",
+      "answer1": "\\text{A) }8",
+      "answer2": "\\text{B) }1",
+      "answer3": "\\text{C) }-1",
+      "answer4": "\\text{D) }3",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1} \\left( \\frac{x^2-8\\,x-9}{x+1} \\right)",
+      "answer1": "\\text{A) }-4",
+      "answer2": "\\text{B) }4",
+      "answer3": "\\text{C) }-10",
+      "answer4": "\\text{D) }1",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 3} \\left( \\frac{x^2-2\\,x-3}{x-3} \\right)",
+      "answer1": "\\text{A) }5",
+      "answer2": "\\text{B) }4",
+      "answer3": "\\text{C) }-7",
+      "answer4": "\\text{D) }-4",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 5} \\left( \\frac{x^2-3\\,x-10}{x-5} \\right)",
+      "answer1": "\\text{A) }-3",
+      "answer2": "\\text{B) }-4",
+      "answer3": "\\text{C) }7",
+      "answer4": "\\text{D) }0",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -4} \\left( \\frac{x^2+8\\,x+16}{x+4} \\right)",
+      "answer1": "\\text{A) }-3",
+      "answer2": "\\text{B) }-4",
+      "answer3": "\\text{C) }-9",
+      "answer4": "\\text{D) }0",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 3} \\left( \\frac{x^2-2\\,x-3}{x-3} \\right)",
+      "answer1": "\\text{A) }4",
+      "answer2": "\\text{B) }3",
+      "answer3": "\\text{C) }-4",
+      "answer4": "\\text{D) }-1",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -4} \\left( \\frac{x^2+2\\,x-8}{x+4} \\right)",
+      "answer1": "\\text{A) }-4",
+      "answer2": "\\text{B) }-5",
+      "answer3": "\\text{C) }-6",
+      "answer4": "\\text{D) }-2",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -4} \\left( \\frac{x^2+14\\,x+40}{x+4} \\right)",
+      "answer1": "\\text{A) }-1",
+      "answer2": "\\text{B) }-2",
+      "answer3": "\\text{C) }6",
+      "answer4": "\\text{D) }0",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 1} \\left( \\frac{x^2-3\\,x+2}{x-1} \\right)",
+      "answer1": "\\text{A) }6",
+      "answer2": "\\text{B) }-1",
+      "answer3": "\\text{C) }2",
+      "answer4": "\\text{D) }4",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 9} \\left( \\frac{x^2-x-72}{x-9} \\right)",
+      "answer1": "\\text{A) }-5",
+      "answer2": "\\text{B) }-4",
+      "answer3": "\\text{C) }17",
+      "answer4": "\\text{D) }-2",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -2} \\left( \\frac{x^2+2\\,x}{x+2} \\right)",
+      "answer1": "\\text{A) }-2",
+      "answer2": "\\text{B) }4",
+      "answer3": "\\text{C) }2",
+      "answer4": "\\text{D) }3",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 8} \\left( \\frac{x^2-17\\,x+72}{x-8} \\right)",
+      "answer1": "\\text{A) }-3",
+      "answer2": "\\text{B) }-2",
+      "answer3": "\\text{C) }-1",
+      "answer4": "\\text{D) }5",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 10} \\left( \\frac{x^2-10\\,x}{x-10} \\right)",
+      "answer1": "\\text{A) }-2",
+      "answer2": "\\text{B) }10",
+      "answer3": "\\text{C) }4",
+      "answer4": "\\text{D) }-6",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 0} \\left( \\frac{x^2+5\\,x}{x} \\right)",
+      "answer1": "\\text{A) }-4",
+      "answer2": "\\text{B) }4",
+      "answer3": "\\text{C) }5",
+      "answer4": "\\text{D) }-1",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 2} \\left( \\frac{x^2-10\\,x+16}{x-2} \\right)",
+      "answer1": "\\text{A) }-6",
+      "answer2": "\\text{B) }-11",
+      "answer3": "\\text{C) }-13",
+      "answer4": "\\text{D) }-2",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 3} \\left( \\frac{x^2-6\\,x+9}{x-3} \\right)",
+      "answer1": "\\text{A) }-5",
+      "answer2": "\\text{B) }0",
+      "answer3": "\\text{C) }-1",
+      "answer4": "\\text{D) }-2",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -5} \\left( \\frac{x^2-x-30}{x+5} \\right)",
+      "answer1": "\\text{A) }4",
+      "answer2": "\\text{B) }-11",
+      "answer3": "\\text{C) }-4",
+      "answer4": "\\text{D) }-1",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 1} \\left( \\frac{x^2-3\\,x+2}{x-1} \\right)",
+      "answer1": "\\text{A) }-1",
+      "answer2": "\\text{B) }1",
+      "answer3": "\\text{C) }-2",
+      "answer4": "\\text{D) }2",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -2} \\left( \\frac{x^2+12\\,x+20}{x+2} \\right)",
+      "answer1": "\\text{A) }8",
+      "answer2": "\\text{B) }-4",
+      "answer3": "\\text{C) }2",
+      "answer4": "\\text{D) }-2",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 7} \\left( \\frac{x^2-x-42}{x-7} \\right)",
+      "answer1": "\\text{A) }4",
+      "answer2": "\\text{B) }13",
+      "answer3": "\\text{C) }2",
+      "answer4": "\\text{D) }-1",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -6} \\left( \\frac{x^2+11\\,x+30}{x+6} \\right)",
+      "answer1": "\\text{A) }-2",
+      "answer2": "\\text{B) }-1",
+      "answer3": "\\text{C) }5",
+      "answer4": "\\text{D) }-4",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 2} \\left( \\frac{x^2+6\\,x-16}{x-2} \\right)",
+      "answer1": "\\text{A) }3",
+      "answer2": "\\text{B) }0",
+      "answer3": "\\text{C) }-4",
+      "answer4": "\\text{D) }10",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1} \\left( \\frac{x^2-7\\,x-8}{x+1} \\right)",
+      "answer1": "\\text{A) }0",
+      "answer2": "\\text{B) }-2",
+      "answer3": "\\text{C) }-1",
+      "answer4": "\\text{D) }-9",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 0} \\left( \\frac{x^2-8\\,x}{x} \\right)",
+      "answer1": "\\text{A) }-8",
+      "answer2": "\\text{B) }2",
+      "answer3": "\\text{C) }-3",
+      "answer4": "\\text{D) }-4",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -8} \\left( \\frac{x^2+9\\,x+8}{x+8} \\right)",
+      "answer1": "\\text{A) }-7",
+      "answer2": "\\text{B) }-5",
+      "answer3": "\\text{C) }-6",
+      "answer4": "\\text{D) }0",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 2} \\left( \\frac{x^2-9\\,x+14}{x-2} \\right)",
+      "answer1": "\\text{A) }-1",
+      "answer2": "\\text{B) }4",
+      "answer3": "\\text{C) }-5",
+      "answer4": "\\text{D) }0",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 2} \\left( \\frac{x^2-x-2}{x-2} \\right)",
+      "answer1": "\\text{A) }3",
+      "answer2": "\\text{B) }1",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }5",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -4} \\left( \\frac{x^2+x-12}{x+4} \\right)",
+      "answer1": "\\text{A) }-6",
+      "answer2": "\\text{B) }-4",
+      "answer3": "\\text{C) }-7",
+      "answer4": "\\text{D) }5",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -3} \\left( \\frac{x^2+8\\,x+15}{x+3} \\right)",
+      "answer1": "\\text{A) }2",
+      "answer2": "\\text{B) }3",
+      "answer3": "\\text{C) }1",
+      "answer4": "\\text{D) }6",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 0} \\left( \\frac{x^2-2\\,x}{x} \\right)",
+      "answer1": "\\text{A) }-2",
+      "answer2": "\\text{B) }0",
+      "answer3": "\\text{C) }1",
+      "answer4": "\\text{D) }2",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -2} \\left( \\frac{x^2+11\\,x+18}{x+2} \\right)",
+      "answer1": "\\text{A) }-1",
+      "answer2": "\\text{B) }4",
+      "answer3": "\\text{C) }1",
+      "answer4": "\\text{D) }7",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{h \\to 0} \\left (\\frac{(-5+h)^2-25}{h} \\right)",
+      "answer1": "\\text{A) } -10",
+      "answer2": "\\text{B) } ",
+      "answer3": "\\text{C) } ",
+      "answer4": "\\text{D) } ",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{h \\to 0} \\left (\\frac{(2+h)^3-8}{h} \\right)",
+      "answer1": "\\text{A) } ",
+      "answer2": "\\text{B) } 12",
+      "answer3": "\\text{C) } ",
+      "answer4": "\\text{D) } ",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "medium"
+    },
+    {
+      "question": "\\lim_{h \\to 0} \\left (\\frac{(x+h)^3-x^3}{h} \\right)",
+      "answer1": "\\text{A) } ",
+      "answer2": "\\text{B) } ",
+      "answer3": "\\text{C) } ",
+      "answer4": "\\text{D) } 3x^2",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "medium"
+    },
+    {
+      "question": "\\lim_{h \\to 0 } \\left( \\frac{{\\left(h+1\\right)}^2-1}{h} \\right)",
+      "answer1": "\\text{A) }3",
+      "answer2": "\\text{B) }2",
+      "answer3": "\\text{C) }-5",
+      "answer4": "\\text{D) }5",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{h \\to 0 } \\left( \\frac{{\\left(h+2\\right)}^2-4}{h} \\right)",
+      "answer1": "\\text{A) }4",
+      "answer2": "\\text{B) }-2",
+      "answer3": "\\text{C) }3",
+      "answer4": "\\text{D) }2",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{h \\to 0 } \\left( \\frac{{\\left(h+3\\right)}^2-9}{h} \\right)",
+      "answer1": "\\text{A) }-2",
+      "answer2": "\\text{B) }-3",
+      "answer3": "\\text{C) }2",
+      "answer4": "\\text{D) }6",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{h \\to 0 } \\left( \\frac{{\\left(h+4\\right)}^2-16}{h} \\right)",
+      "answer1": "\\text{A) }3",
+      "answer2": "\\text{B) }8",
+      "answer3": "\\text{C) }-4",
+      "answer4": "\\text{D) }-2",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{h \\to 0 } \\left( \\frac{{\\left(h+5\\right)}^2-25}{h} \\right)",
+      "answer1": "\\text{A) }5",
+      "answer2": "\\text{B) }1",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }10",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{h \\to 0 } \\left( \\frac{{\\left(h+6\\right)}^2-36}{h} \\right)",
+      "answer1": "\\text{A) }2",
+      "answer2": "\\text{B) }3",
+      "answer3": "\\text{C) }12",
+      "answer4": "\\text{D) }-1",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{h \\to 0 } \\left( \\frac{{\\left(h+7\\right)}^2-49}{h} \\right)",
+      "answer1": "\\text{A) }14",
+      "answer2": "\\text{B) }7",
+      "answer3": "\\text{C) }-6",
+      "answer4": "\\text{D) }-1",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{h \\to 0 } \\left( \\frac{{\\left(h+8\\right)}^2-64}{h} \\right)",
+      "answer1": "\\text{A) }16",
+      "answer2": "\\text{B) }4",
+      "answer3": "\\text{C) }2",
+      "answer4": "\\text{D) }1",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{h \\to 0 } \\left( \\frac{{\\left(h+9\\right)}^2-81}{h} \\right)",
+      "answer1": "\\text{A) }18",
+      "answer2": "\\text{B) }0",
+      "answer3": "\\text{C) }5",
+      "answer4": "\\text{D) }-1",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{h \\to 0 } \\left( \\frac{{\\left(h+10\\right)}^2-100}{h} \\right)",
+      "answer1": "\\text{A) }20",
+      "answer2": "\\text{B) }2",
+      "answer3": "\\text{C) }-1",
+      "answer4": "\\text{D) }4",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{h \\to 0 } \\left( \\frac{{\\left(h-1\\right)}^2-1}{h} \\right)",
+      "answer1": "\\text{A) }-6",
+      "answer2": "\\text{B) }-4",
+      "answer3": "\\text{C) }-2",
+      "answer4": "\\text{D) }2",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{h \\to 0 } \\left( \\frac{{\\left(h-2\\right)}^2-4}{h} \\right)",
+      "answer1": "\\text{A) }5",
+      "answer2": "\\text{B) }4",
+      "answer3": "\\text{C) }-4",
+      "answer4": "\\text{D) }-2",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{h \\to 0 } \\left( \\frac{{\\left(h-3\\right)}^2-9}{h} \\right)",
+      "answer1": "\\text{A) }1",
+      "answer2": "\\text{B) }-1",
+      "answer3": "\\text{C) }-3",
+      "answer4": "\\text{D) }-6",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{h \\to 0 } \\left( \\frac{{\\left(h-4\\right)}^2-16}{h} \\right)",
+      "answer1": "\\text{A) }0",
+      "answer2": "\\text{B) }-8",
+      "answer3": "\\text{C) }5",
+      "answer4": "\\text{D) }-2",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{h \\to 0 } \\left( \\frac{{\\left(h-5\\right)}^2-25}{h} \\right)",
+      "answer1": "\\text{A) }0",
+      "answer2": "\\text{B) }-2",
+      "answer3": "\\text{C) }-10",
+      "answer4": "\\text{D) }-7",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{h \\to 0 } \\left( \\frac{{\\left(h-6\\right)}^2-36}{h} \\right)",
+      "answer1": "\\text{A) }-3",
+      "answer2": "\\text{B) }1",
+      "answer3": "\\text{C) }-12",
+      "answer4": "\\text{D) }-2",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{h \\to 0 } \\left( \\frac{{\\left(h-7\\right)}^2-49}{h} \\right)",
+      "answer1": "\\text{A) }4",
+      "answer2": "\\text{B) }0",
+      "answer3": "\\text{C) }3",
+      "answer4": "\\text{D) }-14",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{h \\to 0 } \\left( \\frac{{\\left(h-8\\right)}^2-64}{h} \\right)",
+      "answer1": "\\text{A) }-3",
+      "answer2": "\\text{B) }-1",
+      "answer3": "\\text{C) }-16",
+      "answer4": "\\text{D) }1",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{h \\to 0 } \\left( \\frac{{\\left(h-9\\right)}^2-81}{h} \\right)",
+      "answer1": "\\text{A) }0",
+      "answer2": "\\text{B) }-18",
+      "answer3": "\\text{C) }3",
+      "answer4": "\\text{D) }-4",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{h \\to 0 } \\left( \\frac{{\\left(h-10\\right)}^2-100}{h} \\right)",
+      "answer1": "\\text{A) }0",
+      "answer2": "\\text{B) }-2",
+      "answer3": "\\text{C) }-20",
+      "answer4": "\\text{D) }-3",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -3} \\left( \\frac{x^2+x-6}{x+3} \\right)",
+      "answer1": "\\text{A) }-5",
+      "answer2": "\\text{B) }-4",
+      "answer3": "\\text{C) }-3",
+      "answer4": "\\text{D) }-2",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 0} \\left( \\frac{x^2+5\\,x}{x} \\right)",
+      "answer1": "\\text{A) }3",
+      "answer2": "\\text{B) }5",
+      "answer3": "\\text{C) }8",
+      "answer4": "\\text{D) }-8",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 3} \\left( \\frac{x^2-6\\,x+9}{x-3} \\right)",
+      "answer1": "\\text{A) }0",
+      "answer2": "\\text{B) }7",
+      "answer3": "\\text{C) }-7",
+      "answer4": "\\text{D) }3",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 3} \\left( \\frac{x^2-2\\,x-3}{x-3} \\right)",
+      "answer1": "\\text{A) }4",
+      "answer2": "\\text{B) }-2",
+      "answer3": "\\text{C) }-6",
+      "answer4": "\\text{D) }6",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -4} \\left( \\frac{x^2+5\\,x+4}{x+4} \\right)",
+      "answer1": "\\text{A) }-9",
+      "answer2": "\\text{B) }-6",
+      "answer3": "\\text{C) }-3",
+      "answer4": "\\text{D) }3",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1} \\left( \\frac{x^2-x-2}{x+1} \\right)",
+      "answer1": "\\text{A) }-3",
+      "answer2": "\\text{B) }0",
+      "answer3": "\\text{C) }-2",
+      "answer4": "\\text{D) }-1",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -5} \\left( \\frac{x^2+8\\,x+15}{x+5} \\right)",
+      "answer1": "\\text{A) }3",
+      "answer2": "\\text{B) }0",
+      "answer3": "\\text{C) }-5",
+      "answer4": "\\text{D) }-2",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 1} \\left( \\frac{x^2-4\\,x+3}{x-1} \\right)",
+      "answer1": "\\text{A) }-5",
+      "answer2": "\\text{B) }5",
+      "answer3": "\\text{C) }2",
+      "answer4": "\\text{D) }-2",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 6} \\left( \\frac{x^2-6\\,x}{x-6} \\right)",
+      "answer1": "\\text{A) }4",
+      "answer2": "\\text{B) }0",
+      "answer3": "\\text{C) }2",
+      "answer4": "\\text{D) }6",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 9} \\left( \\frac{x^2-11\\,x+18}{x-9} \\right)",
+      "answer1": "\\text{A) }0",
+      "answer2": "\\text{B) }-9",
+      "answer3": "\\text{C) }7",
+      "answer4": "\\text{D) }-7",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -4} \\left( \\frac{x^2+x-12}{x+4} \\right)",
+      "answer1": "\\text{A) }-5",
+      "answer2": "\\text{B) }-2",
+      "answer3": "\\text{C) }-7",
+      "answer4": "\\text{D) }-3",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 4} \\left( \\frac{x^2-2\\,x-8}{x-4} \\right)",
+      "answer1": "\\text{A) }-1",
+      "answer2": "\\text{B) }-5",
+      "answer3": "\\text{C) }6",
+      "answer4": "\\text{D) }-3",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 3} \\left( \\frac{x^2-12\\,x+27}{x-3} \\right)",
+      "answer1": "\\text{A) }4",
+      "answer2": "\\text{B) }-3",
+      "answer3": "\\text{C) }-4",
+      "answer4": "\\text{D) }-6",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -6} \\left( \\frac{x^2+2\\,x-24}{x+6} \\right)",
+      "answer1": "\\text{A) }2",
+      "answer2": "\\text{B) }-2",
+      "answer3": "\\text{C) }-6",
+      "answer4": "\\text{D) }-10",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1} \\left( \\frac{x^2+6\\,x+5}{x+1} \\right)",
+      "answer1": "\\text{A) }-3",
+      "answer2": "\\text{B) }4",
+      "answer3": "\\text{C) }-1",
+      "answer4": "\\text{D) }-4",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -5} \\left( \\frac{x^2+3\\,x-10}{x+5} \\right)",
+      "answer1": "\\text{A) }-5",
+      "answer2": "\\text{B) }-4",
+      "answer3": "\\text{C) }-6",
+      "answer4": "\\text{D) }-7",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 1} \\left( \\frac{x^2-2\\,x+1}{x-1} \\right)",
+      "answer1": "\\text{A) }0",
+      "answer2": "\\text{B) }3",
+      "answer3": "\\text{C) }-1",
+      "answer4": "\\text{D) }4",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 6} \\left( \\frac{x^2+3\\,x-54}{x-6} \\right)",
+      "answer1": "\\text{A) }15",
+      "answer2": "\\text{B) }0",
+      "answer3": "\\text{C) }-3",
+      "answer4": "\\text{D) }3",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 2} \\left( \\frac{x^2-10\\,x+16}{x-2} \\right)",
+      "answer1": "\\text{A) }-2",
+      "answer2": "\\text{B) }3",
+      "answer3": "\\text{C) }-6",
+      "answer4": "\\text{D) }2",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 9} \\left( \\frac{x^2-11\\,x+18}{x-9} \\right)",
+      "answer1": "\\text{A) }7",
+      "answer2": "\\text{B) }-4",
+      "answer3": "\\text{C) }1",
+      "answer4": "\\text{D) }0",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 3} \\left( \\frac{x^2-6\\,x+9}{x-3} \\right)",
+      "answer1": "\\text{A) }-1",
+      "answer2": "\\text{B) }-9",
+      "answer3": "\\text{C) }-6",
+      "answer4": "\\text{D) }0",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 5} \\left( \\frac{x^2-11\\,x+30}{x-5} \\right)",
+      "answer1": "\\text{A) }-2",
+      "answer2": "\\text{B) }4",
+      "answer3": "\\text{C) }-1",
+      "answer4": "\\text{D) }-7",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 6} \\left( \\frac{x^2-36}{x-6} \\right)",
+      "answer1": "\\text{A) }-5",
+      "answer2": "\\text{B) }-2",
+      "answer3": "\\text{C) }-8",
+      "answer4": "\\text{D) }12",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -9} \\left( \\frac{x^2+12\\,x+27}{x+9} \\right)",
+      "answer1": "\\text{A) }5",
+      "answer2": "\\text{B) }7",
+      "answer3": "\\text{C) }1",
+      "answer4": "\\text{D) }-6",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 4} \\left( \\frac{x^2+5\\,x-36}{x-4} \\right)",
+      "answer1": "\\text{A) }2",
+      "answer2": "\\text{B) }13",
+      "answer3": "\\text{C) }5",
+      "answer4": "\\text{D) }-2",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 2} \\left( \\frac{x^2+7\\,x-18}{x-2} \\right)",
+      "answer1": "\\text{A) }-5",
+      "answer2": "\\text{B) }11",
+      "answer3": "\\text{C) }-3",
+      "answer4": "\\text{D) }-1",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 5} \\left( \\frac{x^2-x-20}{x-5} \\right)",
+      "answer1": "\\text{A) }9",
+      "answer2": "\\text{B) }-4",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }2",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -4} \\left( \\frac{x^2-5\\,x-36}{x+4} \\right)",
+      "answer1": "\\text{A) }-13",
+      "answer2": "\\text{B) }3",
+      "answer3": "\\text{C) }-2",
+      "answer4": "\\text{D) }0",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 8} \\left( \\frac{x^2-5\\,x-24}{x-8} \\right)",
+      "answer1": "\\text{A) }11",
+      "answer2": "\\text{B) }-4",
+      "answer3": "\\text{C) }3",
+      "answer4": "\\text{D) }4",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 7} \\left( \\frac{x^2-x-42}{x-7} \\right)",
+      "answer1": "\\text{A) }1",
+      "answer2": "\\text{B) }2",
+      "answer3": "\\text{C) }-4",
+      "answer4": "\\text{D) }13",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 6} \\left( \\frac{x^2-10\\,x+24}{x-6} \\right)",
+      "answer1": "\\text{A) }1",
+      "answer2": "\\text{B) }-5",
+      "answer3": "\\text{C) }2",
+      "answer4": "\\text{D) }4",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 5} \\left( \\frac{x^2-6\\,x+5}{x-5} \\right)",
+      "answer1": "\\text{A) }0",
+      "answer2": "\\text{B) }4",
+      "answer3": "\\text{C) }7",
+      "answer4": "\\text{D) }-4",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -2} \\left( \\frac{x^2+x-2}{x+2} \\right)",
+      "answer1": "\\text{A) }-3",
+      "answer2": "\\text{B) }1",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }-1",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1} \\left( \\frac{x^2-5\\,x-6}{x+1} \\right)",
+      "answer1": "\\text{A) }2",
+      "answer2": "\\text{B) }0",
+      "answer3": "\\text{C) }3",
+      "answer4": "\\text{D) }-7",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 4} \\left( \\frac{x^2-4\\,x}{x-4} \\right)",
+      "answer1": "\\text{A) }-5",
+      "answer2": "\\text{B) }4",
+      "answer3": "\\text{C) }-1",
+      "answer4": "\\text{D) }3",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -5} \\left( \\frac{x^2+10\\,x+25}{x+5} \\right)",
+      "answer1": "\\text{A) }3",
+      "answer2": "\\text{B) }5",
+      "answer3": "\\text{C) }2",
+      "answer4": "\\text{D) }0",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -3} \\left( \\frac{x^2-2\\,x-15}{x+3} \\right)",
+      "answer1": "\\text{A) }-2",
+      "answer2": "\\text{B) }-8",
+      "answer3": "\\text{C) }4",
+      "answer4": "\\text{D) }3",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -2} \\left( \\frac{x^2-3\\,x-10}{x+2} \\right)",
+      "answer1": "\\text{A) }-1",
+      "answer2": "\\text{B) }-7",
+      "answer3": "\\text{C) }5",
+      "answer4": "\\text{D) }-5",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 3} \\left( \\frac{x^2+5\\,x-24}{x-3} \\right)",
+      "answer1": "\\text{A) }2",
+      "answer2": "\\text{B) }5",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }11",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 3} \\left( \\frac{x^2-9}{x-3} \\right)",
+      "answer1": "\\text{A) }6",
+      "answer2": "\\text{B) }-1",
+      "answer3": "\\text{C) }-6",
+      "answer4": "\\text{D) }1",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 0} \\left( \\frac{x^2+7\\,x}{x} \\right)",
+      "answer1": "\\text{A) }7",
+      "answer2": "\\text{B) }-4",
+      "answer3": "\\text{C) }-1",
+      "answer4": "\\text{D) }-3",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 9} \\left( \\frac{x^2-8\\,x-9}{x-9} \\right)",
+      "answer1": "\\text{A) }10",
+      "answer2": "\\text{B) }-2",
+      "answer3": "\\text{C) }-5",
+      "answer4": "\\text{D) }1",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 9} \\left( \\frac{x^2-16\\,x+63}{x-9} \\right)",
+      "answer1": "\\text{A) }-3",
+      "answer2": "\\text{B) }10",
+      "answer3": "\\text{C) }1",
+      "answer4": "\\text{D) }2",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -6} \\left( \\frac{x^2+6\\,x}{x+6} \\right)",
+      "answer1": "\\text{A) }3",
+      "answer2": "\\text{B) }-6",
+      "answer3": "\\text{C) }2",
+      "answer4": "\\text{D) }1",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 2} \\left( \\frac{x^2-4}{x-2} \\right)",
+      "answer1": "\\text{A) }0",
+      "answer2": "\\text{B) }4",
+      "answer3": "\\text{C) }-1",
+      "answer4": "\\text{D) }-6",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 1} \\left( \\frac{x^2+2\\,x-3}{x-1} \\right)",
+      "answer1": "\\text{A) }4",
+      "answer2": "\\text{B) }0",
+      "answer3": "\\text{C) }-6",
+      "answer4": "\\text{D) }3",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 4} \\left( \\frac{x^2-10\\,x+24}{x-4} \\right)",
+      "answer1": "\\text{A) }2",
+      "answer2": "\\text{B) }-1",
+      "answer3": "\\text{C) }-4",
+      "answer4": "\\text{D) }-2",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 5} \\left( \\frac{x^2-4\\,x-5}{x-5} \\right)",
+      "answer1": "\\text{A) }-4",
+      "answer2": "\\text{B) }-5",
+      "answer3": "\\text{C) }6",
+      "answer4": "\\text{D) }-3",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 7} \\left( \\frac{x^2-7\\,x}{x-7} \\right)",
+      "answer1": "\\text{A) }3",
+      "answer2": "\\text{B) }7",
+      "answer3": "\\text{C) }-2",
+      "answer4": "\\text{D) }-4",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 9} \\left( \\frac{x^2-6\\,x-27}{x-9} \\right)",
+      "answer1": "\\text{A) }4",
+      "answer2": "\\text{B) }2",
+      "answer3": "\\text{C) }-4",
+      "answer4": "\\text{D) }12",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 0} \\left( \\frac{x^2-7\\,x}{x} \\right)",
+      "answer1": "\\text{A) }-4",
+      "answer2": "\\text{B) }-1",
+      "answer3": "\\text{C) }-7",
+      "answer4": "\\text{D) }3",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 2} \\left( \\frac{x^2-7\\,x+10}{x-2} \\right)",
+      "answer1": "\\text{A) }4",
+      "answer2": "\\text{B) }5",
+      "answer3": "\\text{C) }3",
+      "answer4": "\\text{D) }-3",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 10} \\left( \\frac{x^2-17\\,x+70}{x-10} \\right)",
+      "answer1": "\\text{A) }3",
+      "answer2": "\\text{B) }-2",
+      "answer3": "\\text{C) }1",
+      "answer4": "\\text{D) }-4",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 10} \\left( \\frac{x^2-6\\,x-40}{x-10} \\right)",
+      "answer1": "\\text{A) }-2",
+      "answer2": "\\text{B) }3",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }14",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 1} \\left( \\frac{x^2-2\\,x+1}{x-1} \\right)",
+      "answer1": "\\text{A) }4",
+      "answer2": "\\text{B) }0",
+      "answer3": "\\text{C) }5",
+      "answer4": "\\text{D) }-6",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 8} \\left( \\frac{x^2-12\\,x+32}{x-8} \\right)",
+      "answer1": "\\text{A) }0",
+      "answer2": "\\text{B) }-4",
+      "answer3": "\\text{C) }4",
+      "answer4": "\\text{D) }3",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -7} \\left( \\frac{x^2-49}{x+7} \\right)",
+      "answer1": "\\text{A) }-1",
+      "answer2": "\\text{B) }-14",
+      "answer3": "\\text{C) }5",
+      "answer4": "\\text{D) }2",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 5} \\left( \\frac{x^2-8\\,x+15}{x-5} \\right)",
+      "answer1": "\\text{A) }3",
+      "answer2": "\\text{B) }-5",
+      "answer3": "\\text{C) }2",
+      "answer4": "\\text{D) }1",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -3} \\left( \\frac{x^2+6\\,x+9}{x+3} \\right)",
+      "answer1": "\\text{A) }3",
+      "answer2": "\\text{B) }-5",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }2",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 1} \\left( \\frac{x^2+2\\,x-3}{x-1} \\right)",
+      "answer1": "\\text{A) }1",
+      "answer2": "\\text{B) }-8",
+      "answer3": "\\text{C) }-1",
+      "answer4": "\\text{D) }4",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -2} \\left( \\frac{x^2+4\\,x+4}{x+2} \\right)",
+      "answer1": "\\text{A) }0",
+      "answer2": "\\text{B) }-4",
+      "answer3": "\\text{C) }-1",
+      "answer4": "\\text{D) }4",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 4} \\left( \\frac{x^2+6\\,x-40}{x-4} \\right)",
+      "answer1": "\\text{A) }-2",
+      "answer2": "\\text{B) }14",
+      "answer3": "\\text{C) }-1",
+      "answer4": "\\text{D) }3",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 7} \\left( \\frac{x^2+x-56}{x-7} \\right)",
+      "answer1": "\\text{A) }15",
+      "answer2": "\\text{B) }4",
+      "answer3": "\\text{C) }-6",
+      "answer4": "\\text{D) }1",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 2} \\left( \\frac{x^2-11\\,x+18}{x-2} \\right)",
+      "answer1": "\\text{A) }-7",
+      "answer2": "\\text{B) }-2",
+      "answer3": "\\text{C) }1",
+      "answer4": "\\text{D) }0",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -7} \\left( \\frac{x^2+11\\,x+28}{x+7} \\right)",
+      "answer1": "\\text{A) }-3",
+      "answer2": "\\text{B) }-2",
+      "answer3": "\\text{C) }1",
+      "answer4": "\\text{D) }0",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -5} \\left( \\frac{x^2-25}{x+5} \\right)",
+      "answer1": "\\text{A) }2",
+      "answer2": "\\text{B) }-2",
+      "answer3": "\\text{C) }-10",
+      "answer4": "\\text{D) }3",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -7} \\left( \\frac{x^2+2\\,x-35}{x+7} \\right)",
+      "answer1": "\\text{A) }4",
+      "answer2": "\\text{B) }-4",
+      "answer3": "\\text{C) }2",
+      "answer4": "\\text{D) }-12",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -2} \\left( \\frac{x^2-2\\,x-8}{x+2} \\right)",
+      "answer1": "\\text{A) }4",
+      "answer2": "\\text{B) }-6",
+      "answer3": "\\text{C) }1",
+      "answer4": "\\text{D) }-4",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 10} \\left( \\frac{x^2-3\\,x-70}{x-10} \\right)",
+      "answer1": "\\text{A) }-6",
+      "answer2": "\\text{B) }17",
+      "answer3": "\\text{C) }8",
+      "answer4": "\\text{D) }3",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1} \\left( \\frac{x^2-7\\,x-8}{x+1} \\right)",
+      "answer1": "\\text{A) }-2",
+      "answer2": "\\text{B) }5",
+      "answer3": "\\text{C) }-1",
+      "answer4": "\\text{D) }-9",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -6} \\left( \\frac{x^2+11\\,x+30}{x+6} \\right)",
+      "answer1": "\\text{A) }-1",
+      "answer2": "\\text{B) }-5",
+      "answer3": "\\text{C) }2",
+      "answer4": "\\text{D) }0",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 4} \\left( \\frac{x^2-13\\,x+36}{x-4} \\right)",
+      "answer1": "\\text{A) }-5",
+      "answer2": "\\text{B) }0",
+      "answer3": "\\text{C) }3",
+      "answer4": "\\text{D) }-3",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -8} \\left( \\frac{x^2+x-56}{x+8} \\right)",
+      "answer1": "\\text{A) }0",
+      "answer2": "\\text{B) }4",
+      "answer3": "\\text{C) }-15",
+      "answer4": "\\text{D) }2",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 0} \\left( \\frac{x^2}{x} \\right)",
+      "answer1": "\\text{A) }2",
+      "answer2": "\\text{B) }5",
+      "answer3": "\\text{C) }-1",
+      "answer4": "\\text{D) }0",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -9} \\left( \\frac{x^2+16\\,x+63}{x+9} \\right)",
+      "answer1": "\\text{A) }-5",
+      "answer2": "\\text{B) }1",
+      "answer3": "\\text{C) }-2",
+      "answer4": "\\text{D) }-3",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 7} \\left( \\frac{x^2-9\\,x+14}{x-7} \\right)",
+      "answer1": "\\text{A) }4",
+      "answer2": "\\text{B) }2",
+      "answer3": "\\text{C) }-3",
+      "answer4": "\\text{D) }5",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 1} \\left( \\frac{x^2-10\\,x+9}{x-1} \\right)",
+      "answer1": "\\text{A) }-8",
+      "answer2": "\\text{B) }4",
+      "answer3": "\\text{C) }-5",
+      "answer4": "\\text{D) }-3",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 0} \\left( \\frac{x^2-4\\,x}{x} \\right)",
+      "answer1": "\\text{A) }-4",
+      "answer2": "\\text{B) }-3",
+      "answer3": "\\text{C) }-5",
+      "answer4": "\\text{D) }0",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -7} \\left( \\frac{x^2+8\\,x+7}{x+7} \\right)",
+      "answer1": "\\text{A) }-5",
+      "answer2": "\\text{B) }-1",
+      "answer3": "\\text{C) }-6",
+      "answer4": "\\text{D) }1",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 7} \\left( \\frac{x^2-14\\,x+49}{x-7} \\right)",
+      "answer1": "\\text{A) }-4",
+      "answer2": "\\text{B) }4",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }8",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 2} \\left( \\frac{x^2-5\\,x+6}{x-2} \\right)",
+      "answer1": "\\text{A) }2",
+      "answer2": "\\text{B) }3",
+      "answer3": "\\text{C) }-3",
+      "answer4": "\\text{D) }-1",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 4} \\left( \\frac{x^2-2\\,x-8}{x-4} \\right)",
+      "answer1": "\\text{A) }6",
+      "answer2": "\\text{B) }-2",
+      "answer3": "\\text{C) }-4",
+      "answer4": "\\text{D) }5",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -5} \\left( \\frac{x^2+4\\,x-5}{x+5} \\right)",
+      "answer1": "\\text{A) }-1",
+      "answer2": "\\text{B) }-3",
+      "answer3": "\\text{C) }6",
+      "answer4": "\\text{D) }-6",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -3} \\left( \\frac{x^2-9}{x+3} \\right)",
+      "answer1": "\\text{A) }-6",
+      "answer2": "\\text{B) }2",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }-4",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -3} \\left( \\frac{x^2-5\\,x-24}{x+3} \\right)",
+      "answer1": "\\text{A) }-11",
+      "answer2": "\\text{B) }-2",
+      "answer3": "\\text{C) }-5",
+      "answer4": "\\text{D) }1",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -3} \\left( \\frac{x^2+11\\,x+24}{x+3} \\right)",
+      "answer1": "\\text{A) }-1",
+      "answer2": "\\text{B) }2",
+      "answer3": "\\text{C) }-6",
+      "answer4": "\\text{D) }5",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 1} \\left( \\frac{x^2+6\\,x-7}{x-1} \\right)",
+      "answer1": "\\text{A) }2",
+      "answer2": "\\text{B) }-1",
+      "answer3": "\\text{C) }1",
+      "answer4": "\\text{D) }8",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 4} \\left( \\frac{x^2-9\\,x+20}{x-4} \\right)",
+      "answer1": "\\text{A) }-7",
+      "answer2": "\\text{B) }7",
+      "answer3": "\\text{C) }-1",
+      "answer4": "\\text{D) }10",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 4} \\left( \\frac{x^2-9\\,x+20}{x-4} \\right)",
+      "answer1": "\\text{A) }4",
+      "answer2": "\\text{B) }-1",
+      "answer3": "\\text{C) }-2",
+      "answer4": "\\text{D) }-4",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -4} \\left( \\frac{x^2+13\\,x+36}{x+4} \\right)",
+      "answer1": "\\text{A) }-8",
+      "answer2": "\\text{B) }4",
+      "answer3": "\\text{C) }5",
+      "answer4": "\\text{D) }-3",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -6} \\left( \\frac{x^2+12\\,x+36}{x+6} \\right)",
+      "answer1": "\\text{A) }-2",
+      "answer2": "\\text{B) }0",
+      "answer3": "\\text{C) }2",
+      "answer4": "\\text{D) }-1",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 4} \\left( \\frac{x^2-7\\,x+12}{x-4} \\right)",
+      "answer1": "\\text{A) }1",
+      "answer2": "\\text{B) }-3",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }-1",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 0} \\left( \\frac{x^2-x}{x} \\right)",
+      "answer1": "\\text{A) }-5",
+      "answer2": "\\text{B) }2",
+      "answer3": "\\text{C) }-1",
+      "answer4": "\\text{D) }3",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 4} \\left( \\frac{x^2+5\\,x-36}{x-4} \\right)",
+      "answer1": "\\text{A) }-2",
+      "answer2": "\\text{B) }13",
+      "answer3": "\\text{C) }-3",
+      "answer4": "\\text{D) }-6",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -9} \\left( \\frac{x^2+6\\,x-27}{x+9} \\right)",
+      "answer1": "\\text{A) }2",
+      "answer2": "\\text{B) }-12",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }3",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 2} \\left( \\frac{x^2-2\\,x}{x-2} \\right)",
+      "answer1": "\\text{A) }1",
+      "answer2": "\\text{B) }4",
+      "answer3": "\\text{C) }2",
+      "answer4": "\\text{D) }-1",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 4} \\left( \\frac{x^2-6\\,x+8}{x-4} \\right)",
+      "answer1": "\\text{A) }3",
+      "answer2": "\\text{B) }4",
+      "answer3": "\\text{C) }-1",
+      "answer4": "\\text{D) }2",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -9} \\left( \\frac{x^2+17\\,x+72}{x+9} \\right)",
+      "answer1": "\\text{A) }-1",
+      "answer2": "\\text{B) }6",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }5",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -7} \\left( \\frac{x^2+16\\,x+63}{x+7} \\right)",
+      "answer1": "\\text{A) }-1",
+      "answer2": "\\text{B) }0",
+      "answer3": "\\text{C) }-4",
+      "answer4": "\\text{D) }2",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -6} \\left( \\frac{x^2+9\\,x+18}{x+6} \\right)",
+      "answer1": "\\text{A) }-3",
+      "answer2": "\\text{B) }2",
+      "answer3": "\\text{C) }-5",
+      "answer4": "\\text{D) }-1",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    }
+  ]
+}

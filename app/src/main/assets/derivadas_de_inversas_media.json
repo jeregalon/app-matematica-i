@@ -1,0 +1,2004 @@
+{
+  "derivadas_de_inversas_media": [
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{3}{x^5}+\\frac{8}{x^4}\\right)",
+      "answer1": "\\text{A) }\\frac{21}{x^4}-\\frac{35}{x^6}",
+      "answer2": "\\text{B) }-\\frac{3}{x^2}+\\frac{5}{x^6}",
+      "answer3": "\\text{C) }\\frac{15}{x^6}-\\frac{32}{x^5}",
+      "answer4": "\\text{D) }-\\frac{2}{x^2}+\\frac{15}{x^6}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{7}{x^2}+\\frac{1}{x^4}\\right)",
+      "answer1": "\\text{A) }\\frac{10}{x^3}+\\frac{8}{x^5}",
+      "answer2": "\\text{B) }-\\frac{2}{x^2}+\\frac{16}{x^5}",
+      "answer3": "\\text{C) }-\\frac{14}{x^3}-\\frac{4}{x^5}",
+      "answer4": "\\text{D) }-\\frac{5}{x^2}-\\frac{12}{x^5}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{5}{x^4}+\\frac{5}{x^5}\\right)",
+      "answer1": "\\text{A) }-\\frac{20}{x^5}-\\frac{25}{x^6}",
+      "answer2": "\\text{B) }-\\frac{6}{x^3}-\\frac{18}{x^4}",
+      "answer3": "\\text{C) }\\frac{14}{x^3}+\\frac{20}{x^6}",
+      "answer4": "\\text{D) }\\frac{6}{x^4}+\\frac{2}{x^2}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{8}{x^2}-\\frac{1}{x}\\right)",
+      "answer1": "\\text{A) }-\\frac{3}{x^2}-\\frac{6}{x^3}",
+      "answer2": "\\text{B) }-\\frac{8}{x^3}+\\frac{16}{x^5}",
+      "answer3": "\\text{C) }\\frac{4}{x^2}-\\frac{4}{x^3}",
+      "answer4": "\\text{D) }-\\frac{16}{x^3}+\\frac{1}{x^2}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{8}{x^4}-\\frac{3}{x^2}\\right)",
+      "answer1": "\\text{A) }-\\frac{6}{x^2}-\\frac{25}{x^6}",
+      "answer2": "\\text{B) }-\\frac{32}{x^5}+\\frac{6}{x^3}",
+      "answer3": "\\text{C) }\\frac{25}{x^6}+\\frac{15}{x^4}",
+      "answer4": "\\text{D) }\\frac{4}{x^3}+\\frac{5}{x^6}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{4}{x^5}+\\frac{7}{x^3}\\right)",
+      "answer1": "\\text{A) }-\\frac{20}{x^6}-\\frac{21}{x^4}",
+      "answer2": "\\text{B) }-\\frac{15}{x^6}-\\frac{3}{x^4}",
+      "answer3": "\\text{C) }\\frac{16}{x^5}+\\frac{15}{x^6}",
+      "answer4": "\\text{D) }-\\frac{3}{x^4}+\\frac{4}{x^3}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{3}{x^5}+\\frac{5}{x^5}\\right)",
+      "answer1": "\\text{A) }\\frac{15}{x^6}-\\frac{25}{x^6}",
+      "answer2": "\\text{B) }-\\frac{18}{x^4}+\\frac{3}{x^2}",
+      "answer3": "\\text{C) }\\frac{2}{x^3}-\\frac{7}{x^2}",
+      "answer4": "\\text{D) }\\frac{4}{x^2}-\\frac{12}{x^5}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{1}{x^2}+\\frac{8}{x^2}\\right)",
+      "answer1": "\\text{A) }-\\frac{2}{x^3}-\\frac{16}{x^3}",
+      "answer2": "\\text{B) }\\frac{14}{x^3}+\\frac{35}{x^6}",
+      "answer3": "\\text{C) }-\\frac{32}{x^5}+\\frac{3}{x^4}",
+      "answer4": "\\text{D) }\\frac{24}{x^5}-\\frac{2}{x^2}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{7}{x^5}+\\frac{5}{x^2}\\right)",
+      "answer1": "\\text{A) }\\frac{28}{x^5}-\\frac{21}{x^4}",
+      "answer2": "\\text{B) }\\frac{18}{x^4}+\\frac{4}{x^5}",
+      "answer3": "\\text{C) }-\\frac{35}{x^6}-\\frac{10}{x^3}",
+      "answer4": "\\text{D) }-\\frac{8}{x^3}-\\frac{24}{x^4}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{2}{x^3}+\\frac{5}{x}\\right)",
+      "answer1": "\\text{A) }-\\frac{10}{x^3}+\\frac{7}{x^2}",
+      "answer2": "\\text{B) }-\\frac{6}{x^4}-\\frac{5}{x^2}",
+      "answer3": "\\text{C) }-\\frac{9}{x^4}+\\frac{12}{x^3}",
+      "answer4": "\\text{D) }-\\frac{18}{x^4}+\\frac{6}{x^3}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{7}{x^2}-\\frac{3}{x^4}\\right)",
+      "answer1": "\\text{A) }\\frac{15}{x^4}-\\frac{5}{x^6}",
+      "answer2": "\\text{B) }-\\frac{6}{x^2}+\\frac{24}{x^5}",
+      "answer3": "\\text{C) }\\frac{4}{x^2}+\\frac{6}{x^4}",
+      "answer4": "\\text{D) }-\\frac{14}{x^3}+\\frac{12}{x^5}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{5}{x^4}+\\frac{2}{x^5}\\right)",
+      "answer1": "\\text{A) }-\\frac{20}{x^5}-\\frac{10}{x^6}",
+      "answer2": "\\text{B) }\\frac{5}{x^2}+\\frac{3}{x^4}",
+      "answer3": "\\text{C) }\\frac{2}{x^2}+\\frac{6}{x^2}",
+      "answer4": "\\text{D) }-\\frac{35}{x^6}-\\frac{15}{x^4}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{4}{x^2}+\\frac{2}{x^2}\\right)",
+      "answer1": "\\text{A) }\\frac{3}{x^2}+\\frac{16}{x^5}",
+      "answer2": "\\text{B) }\\frac{8}{x^3}-\\frac{4}{x^3}",
+      "answer3": "\\text{C) }\\frac{10}{x^6}-\\frac{4}{x^5}",
+      "answer4": "\\text{D) }-\\frac{12}{x^4}+\\frac{35}{x^6}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{7}{x^5}+\\frac{2}{x^3}\\right)",
+      "answer1": "\\text{A) }\\frac{35}{x^6}-\\frac{6}{x^4}",
+      "answer2": "\\text{B) }\\frac{16}{x^5}-\\frac{40}{x^6}",
+      "answer3": "\\text{C) }-\\frac{8}{x^5}-\\frac{6}{x^2}",
+      "answer4": "\\text{D) }\\frac{10}{x^3}-\\frac{25}{x^6}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{6}{x^5}-\\frac{7}{x}\\right)",
+      "answer1": "\\text{A) }-\\frac{4}{x^5}+\\frac{15}{x^6}",
+      "answer2": "\\text{B) }\\frac{30}{x^6}+\\frac{7}{x^2}",
+      "answer3": "\\text{C) }-\\frac{12}{x^3}+\\frac{5}{x^6}",
+      "answer4": "\\text{D) }\\frac{4}{x^3}-\\frac{6}{x^3}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{2}{x^4}+\\frac{3}{x}\\right)",
+      "answer1": "\\text{A) }-\\frac{7}{x^2}-\\frac{6}{x^4}",
+      "answer2": "\\text{B) }\\frac{3}{x^2}-\\frac{35}{x^6}",
+      "answer3": "\\text{C) }\\frac{8}{x^5}-\\frac{3}{x^2}",
+      "answer4": "\\text{D) }-\\frac{15}{x^4}+\\frac{21}{x^4}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{2}{x}+\\frac{3}{x^3}\\right)",
+      "answer1": "\\text{A) }-\\frac{2}{x^2}+\\frac{28}{x^5}",
+      "answer2": "\\text{B) }\\frac{6}{x^2}-\\frac{18}{x^4}",
+      "answer3": "\\text{C) }\\frac{2}{x^2}-\\frac{9}{x^4}",
+      "answer4": "\\text{D) }\\frac{20}{x^5}+\\frac{24}{x^5}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{1}{x^3}+\\frac{4}{x^4}\\right)",
+      "answer1": "\\text{A) }\\frac{12}{x^4}-\\frac{4}{x^3}",
+      "answer2": "\\text{B) }\\frac{3}{x^4}-\\frac{16}{x^5}",
+      "answer3": "\\text{C) }-\\frac{12}{x^5}+\\frac{35}{x^6}",
+      "answer4": "\\text{D) }-\\frac{10}{x^6}+\\frac{9}{x^4}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{1}{x^2}+\\frac{1}{x^3}\\right)",
+      "answer1": "\\text{A) }\\frac{16}{x^5}-\\frac{15}{x^4}",
+      "answer2": "\\text{B) }-\\frac{8}{x^3}-\\frac{24}{x^4}",
+      "answer3": "\\text{C) }-\\frac{24}{x^4}+\\frac{15}{x^4}",
+      "answer4": "\\text{D) }\\frac{2}{x^3}-\\frac{3}{x^4}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{3}{x^5}-\\frac{7}{x^2}\\right)",
+      "answer1": "\\text{A) }-\\frac{12}{x^5}+\\frac{10}{x^6}",
+      "answer2": "\\text{B) }-\\frac{2}{x^3}+\\frac{8}{x^3}",
+      "answer3": "\\text{C) }\\frac{15}{x^6}+\\frac{14}{x^3}",
+      "answer4": "\\text{D) }-\\frac{24}{x^4}-\\frac{2}{x^2}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{4}{x}+\\frac{4}{x^3}\\right)",
+      "answer1": "\\text{A) }\\frac{30}{x^6}+\\frac{12}{x^3}",
+      "answer2": "\\text{B) }-\\frac{32}{x^5}+\\frac{1}{x^2}",
+      "answer3": "\\text{C) }-\\frac{3}{x^4}-\\frac{21}{x^4}",
+      "answer4": "\\text{D) }-\\frac{4}{x^2}-\\frac{12}{x^4}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{6}{x^2}+\\frac{7}{x^3}\\right)",
+      "answer1": "\\text{A) }-\\frac{24}{x^4}+\\frac{14}{x^3}",
+      "answer2": "\\text{B) }-\\frac{7}{x^2}+\\frac{3}{x^2}",
+      "answer3": "\\text{C) }-\\frac{12}{x^3}-\\frac{21}{x^4}",
+      "answer4": "\\text{D) }\\frac{18}{x^4}-\\frac{12}{x^3}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{5}{x^3}+\\frac{4}{x}\\right)",
+      "answer1": "\\text{A) }-\\frac{30}{x^6}-\\frac{3}{x^4}",
+      "answer2": "\\text{B) }\\frac{8}{x^5}+\\frac{4}{x^2}",
+      "answer3": "\\text{C) }\\frac{15}{x^4}-\\frac{4}{x^2}",
+      "answer4": "\\text{D) }-\\frac{20}{x^5}+\\frac{7}{x^2}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{4}{x^4}+\\frac{8}{x^4}\\right)",
+      "answer1": "\\text{A) }\\frac{16}{x^5}-\\frac{25}{x^6}",
+      "answer2": "\\text{B) }-\\frac{16}{x^5}-\\frac{32}{x^5}",
+      "answer3": "\\text{C) }-\\frac{15}{x^4}-\\frac{4}{x^3}",
+      "answer4": "\\text{D) }-\\frac{8}{x^5}+\\frac{14}{x^3}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{1}{x^5}-\\frac{2}{x^4}\\right)",
+      "answer1": "\\text{A) }-\\frac{6}{x^2}-\\frac{14}{x^3}",
+      "answer2": "\\text{B) }-\\frac{5}{x^6}+\\frac{8}{x^5}",
+      "answer3": "\\text{C) }-\\frac{5}{x^2}+\\frac{8}{x^3}",
+      "answer4": "\\text{D) }-\\frac{21}{x^4}+\\frac{18}{x^4}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{7}{x^5}+\\frac{7}{x^2}\\right)",
+      "answer1": "\\text{A) }\\frac{35}{x^6}-\\frac{14}{x^3}",
+      "answer2": "\\text{B) }\\frac{8}{x^5}+\\frac{2}{x^3}",
+      "answer3": "\\text{C) }\\frac{8}{x^3}-\\frac{4}{x^2}",
+      "answer4": "\\text{D) }-\\frac{4}{x^5}-\\frac{20}{x^5}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{7}{x^2}+\\frac{3}{x^3}\\right)",
+      "answer1": "\\text{A) }\\frac{14}{x^3}-\\frac{9}{x^4}",
+      "answer2": "\\text{B) }\\frac{3}{x^2}-\\frac{2}{x^2}",
+      "answer3": "\\text{C) }-\\frac{25}{x^6}+\\frac{10}{x^3}",
+      "answer4": "\\text{D) }-\\frac{16}{x^3}+\\frac{5}{x^6}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{1}{x^3}+\\frac{4}{x^5}\\right)",
+      "answer1": "\\text{A) }\\frac{4}{x^2}+\\frac{12}{x^3}",
+      "answer2": "\\text{B) }\\frac{3}{x^4}+\\frac{6}{x^4}",
+      "answer3": "\\text{C) }-\\frac{3}{x^4}-\\frac{20}{x^6}",
+      "answer4": "\\text{D) }\\frac{3}{x^2}+\\frac{20}{x^5}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{6}{x^2}+\\frac{8}{x^2}\\right)",
+      "answer1": "\\text{A) }-\\frac{18}{x^4}-\\frac{18}{x^4}",
+      "answer2": "\\text{B) }\\frac{4}{x^2}+\\frac{2}{x^3}",
+      "answer3": "\\text{C) }\\frac{12}{x^3}-\\frac{16}{x^3}",
+      "answer4": "\\text{D) }-\\frac{15}{x^6}-\\frac{8}{x^5}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{4}{x^2}+\\frac{2}{x^5}\\right)",
+      "answer1": "\\text{A) }-\\frac{6}{x^2}+\\frac{18}{x^4}",
+      "answer2": "\\text{B) }\\frac{10}{x^3}+\\frac{20}{x^5}",
+      "answer3": "\\text{C) }-\\frac{7}{x^2}+\\frac{6}{x^3}",
+      "answer4": "\\text{D) }-\\frac{8}{x^3}-\\frac{10}{x^6}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{7}{x^4}-\\frac{2}{x^3}\\right)",
+      "answer1": "\\text{A) }\\frac{28}{x^5}+\\frac{6}{x^4}",
+      "answer2": "\\text{B) }\\frac{10}{x^6}-\\frac{10}{x^6}",
+      "answer3": "\\text{C) }\\frac{2}{x^3}-\\frac{12}{x^5}",
+      "answer4": "\\text{D) }-\\frac{8}{x^2}-\\frac{4}{x^2}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{5}{x^2}-\\frac{4}{x^4}\\right)",
+      "answer1": "\\text{A) }-\\frac{10}{x^3}+\\frac{16}{x^5}",
+      "answer2": "\\text{B) }\\frac{5}{x^6}-\\frac{2}{x^2}",
+      "answer3": "\\text{C) }-\\frac{32}{x^5}-\\frac{14}{x^3}",
+      "answer4": "\\text{D) }\\frac{8}{x^3}-\\frac{1}{x^2}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{7}{x^4}+\\frac{5}{x^5}\\right)",
+      "answer1": "\\text{A) }\\frac{12}{x^5}-\\frac{6}{x^2}",
+      "answer2": "\\text{B) }\\frac{18}{x^4}-\\frac{2}{x^2}",
+      "answer3": "\\text{C) }-\\frac{24}{x^5}+\\frac{7}{x^2}",
+      "answer4": "\\text{D) }-\\frac{28}{x^5}-\\frac{25}{x^6}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{3}{x^5}-\\frac{2}{x^2}\\right)",
+      "answer1": "\\text{A) }-\\frac{24}{x^5}-\\frac{8}{x^5}",
+      "answer2": "\\text{B) }\\frac{20}{x^6}+\\frac{20}{x^6}",
+      "answer3": "\\text{C) }-\\frac{15}{x^6}+\\frac{4}{x^3}",
+      "answer4": "\\text{D) }\\frac{7}{x^2}-\\frac{12}{x^5}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{2}{x}-\\frac{2}{x}\\right)",
+      "answer1": "\\text{A) }-\\frac{40}{x^6}+\\frac{15}{x^6}",
+      "answer2": "\\text{B) }\\frac{16}{x^5}-\\frac{20}{x^6}",
+      "answer3": "\\text{C) }-\\frac{2}{x^2}+\\frac{2}{x^2}",
+      "answer4": "\\text{D) }\\frac{12}{x^3}+\\frac{21}{x^4}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{3}{x^5}+\\frac{3}{x}\\right)",
+      "answer1": "\\text{A) }\\frac{16}{x^5}+\\frac{12}{x^4}",
+      "answer2": "\\text{B) }-\\frac{25}{x^6}-\\frac{4}{x^2}",
+      "answer3": "\\text{C) }\\frac{5}{x^2}-\\frac{40}{x^6}",
+      "answer4": "\\text{D) }-\\frac{15}{x^6}-\\frac{3}{x^2}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{6}{x^4}+\\frac{3}{x^3}\\right)",
+      "answer1": "\\text{A) }\\frac{8}{x^5}+\\frac{4}{x^3}",
+      "answer2": "\\text{B) }\\frac{24}{x^5}-\\frac{9}{x^4}",
+      "answer3": "\\text{C) }\\frac{5}{x^6}-\\frac{10}{x^6}",
+      "answer4": "\\text{D) }-\\frac{6}{x^3}+\\frac{15}{x^6}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{4}{x^3}+\\frac{2}{x}\\right)",
+      "answer1": "\\text{A) }\\frac{3}{x^2}+\\frac{18}{x^4}",
+      "answer2": "\\text{B) }-\\frac{4}{x^3}+\\frac{10}{x^3}",
+      "answer3": "\\text{C) }-\\frac{12}{x^4}-\\frac{2}{x^2}",
+      "answer4": "\\text{D) }-\\frac{15}{x^4}+\\frac{28}{x^5}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{4}{x}+\\frac{1}{x^4}\\right)",
+      "answer1": "\\text{A) }\\frac{12}{x^3}-\\frac{8}{x^5}",
+      "answer2": "\\text{B) }\\frac{4}{x^2}-\\frac{4}{x^5}",
+      "answer3": "\\text{C) }-\\frac{25}{x^6}+\\frac{2}{x^2}",
+      "answer4": "\\text{D) }-\\frac{6}{x^4}+\\frac{4}{x^2}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{6}{x^4}+\\frac{4}{x^5}\\right)",
+      "answer1": "\\text{A) }-\\frac{6}{x^4}-\\frac{40}{x^6}",
+      "answer2": "\\text{B) }\\frac{21}{x^4}+\\frac{15}{x^4}",
+      "answer3": "\\text{C) }-\\frac{24}{x^5}-\\frac{20}{x^6}",
+      "answer4": "\\text{D) }-\\frac{5}{x^2}+\\frac{7}{x^2}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{7}{x^4}+\\frac{3}{x^2}\\right)",
+      "answer1": "\\text{A) }-\\frac{6}{x^4}+\\frac{18}{x^4}",
+      "answer2": "\\text{B) }-\\frac{24}{x^4}-\\frac{12}{x^3}",
+      "answer3": "\\text{C) }\\frac{28}{x^5}-\\frac{6}{x^3}",
+      "answer4": "\\text{D) }-\\frac{12}{x^4}+\\frac{16}{x^5}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{1}{x^5}-\\frac{4}{x^5}\\right)",
+      "answer1": "\\text{A) }\\frac{5}{x^6}+\\frac{20}{x^6}",
+      "answer2": "\\text{B) }-\\frac{5}{x^2}+\\frac{15}{x^4}",
+      "answer3": "\\text{C) }\\frac{12}{x^5}+\\frac{35}{x^6}",
+      "answer4": "\\text{D) }-\\frac{4}{x^3}-\\frac{6}{x^3}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{1}{x}+\\frac{5}{x^3}\\right)",
+      "answer1": "\\text{A) }-\\frac{3}{x^2}-\\frac{8}{x^2}",
+      "answer2": "\\text{B) }\\frac{3}{x^4}-\\frac{7}{x^2}",
+      "answer3": "\\text{C) }\\frac{8}{x^5}+\\frac{2}{x^3}",
+      "answer4": "\\text{D) }-\\frac{1}{x^2}-\\frac{15}{x^4}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{5}{x^3}-\\frac{7}{x^5}\\right)",
+      "answer1": "\\text{A) }-\\frac{1}{x^2}-\\frac{10}{x^6}",
+      "answer2": "\\text{B) }\\frac{24}{x^5}+\\frac{10}{x^3}",
+      "answer3": "\\text{C) }-\\frac{32}{x^5}-\\frac{15}{x^4}",
+      "answer4": "\\text{D) }-\\frac{15}{x^4}+\\frac{35}{x^6}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{6}{x^5}-\\frac{5}{x^5}\\right)",
+      "answer1": "\\text{A) }-\\frac{30}{x^6}+\\frac{25}{x^6}",
+      "answer2": "\\text{B) }-\\frac{16}{x^5}+\\frac{2}{x^2}",
+      "answer3": "\\text{C) }-\\frac{8}{x^5}-\\frac{16}{x^3}",
+      "answer4": "\\text{D) }\\frac{6}{x^2}+\\frac{20}{x^6}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{2}{x}+\\frac{6}{x^3}\\right)",
+      "answer1": "\\text{A) }-\\frac{25}{x^6}-\\frac{15}{x^4}",
+      "answer2": "\\text{B) }-\\frac{3}{x^4}-\\frac{2}{x^3}",
+      "answer3": "\\text{C) }\\frac{2}{x^2}-\\frac{18}{x^4}",
+      "answer4": "\\text{D) }\\frac{18}{x^4}+\\frac{2}{x^2}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{5}{x^2}+\\frac{4}{x}\\right)",
+      "answer1": "\\text{A) }\\frac{10}{x^3}-\\frac{4}{x^2}",
+      "answer2": "\\text{B) }\\frac{9}{x^4}+\\frac{4}{x^2}",
+      "answer3": "\\text{C) }\\frac{4}{x^3}-\\frac{35}{x^6}",
+      "answer4": "\\text{D) }-\\frac{18}{x^4}-\\frac{3}{x^4}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{3}{x^3}-\\frac{1}{x^3}\\right)",
+      "answer1": "\\text{A) }-\\frac{24}{x^4}+\\frac{12}{x^3}",
+      "answer2": "\\text{B) }-\\frac{10}{x^3}-\\frac{40}{x^6}",
+      "answer3": "\\text{C) }\\frac{9}{x^4}+\\frac{3}{x^4}",
+      "answer4": "\\text{D) }\\frac{24}{x^5}-\\frac{8}{x^3}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{8}{x^2}+\\frac{3}{x^4}\\right)",
+      "answer1": "\\text{A) }-\\frac{12}{x^4}-\\frac{32}{x^5}",
+      "answer2": "\\text{B) }-\\frac{16}{x^3}-\\frac{12}{x^5}",
+      "answer3": "\\text{C) }-\\frac{5}{x^6}+\\frac{20}{x^5}",
+      "answer4": "\\text{D) }\\frac{4}{x^3}+\\frac{4}{x^5}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{8}{x^5}+\\frac{1}{x^3}\\right)",
+      "answer1": "\\text{A) }\\frac{3}{x^4}-\\frac{10}{x^6}",
+      "answer2": "\\text{B) }-\\frac{40}{x^6}-\\frac{3}{x^4}",
+      "answer3": "\\text{C) }-\\frac{1}{x^2}+\\frac{12}{x^4}",
+      "answer4": "\\text{D) }\\frac{9}{x^4}+\\frac{7}{x^2}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{3}{x^5}+\\frac{1}{x^5}\\right)",
+      "answer1": "\\text{A) }\\frac{5}{x^2}+\\frac{14}{x^3}",
+      "answer2": "\\text{B) }\\frac{2}{x^3}-\\frac{21}{x^4}",
+      "answer3": "\\text{C) }\\frac{12}{x^5}+\\frac{12}{x^3}",
+      "answer4": "\\text{D) }-\\frac{15}{x^6}-\\frac{5}{x^6}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{1}{x^4}+\\frac{7}{x}\\right)",
+      "answer1": "\\text{A) }-\\frac{10}{x^3}+\\frac{12}{x^3}",
+      "answer2": "\\text{B) }\\frac{8}{x^5}-\\frac{24}{x^4}",
+      "answer3": "\\text{C) }\\frac{16}{x^5}-\\frac{25}{x^6}",
+      "answer4": "\\text{D) }-\\frac{4}{x^5}-\\frac{7}{x^2}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{5}{x^4}+\\frac{1}{x^3}\\right)",
+      "answer1": "\\text{A) }-\\frac{20}{x^5}-\\frac{3}{x^4}",
+      "answer2": "\\text{B) }\\frac{16}{x^5}+\\frac{6}{x^2}",
+      "answer3": "\\text{C) }-\\frac{24}{x^4}-\\frac{10}{x^3}",
+      "answer4": "\\text{D) }\\frac{4}{x^5}+\\frac{9}{x^4}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{7}{x^5}+\\frac{5}{x^5}\\right)",
+      "answer1": "\\text{A) }\\frac{4}{x^5}+\\frac{16}{x^5}",
+      "answer2": "\\text{B) }\\frac{4}{x^2}+\\frac{12}{x^5}",
+      "answer3": "\\text{C) }-\\frac{3}{x^2}+\\frac{5}{x^6}",
+      "answer4": "\\text{D) }\\frac{35}{x^6}-\\frac{25}{x^6}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{8}{x^4}+\\frac{7}{x}\\right)",
+      "answer1": "\\text{A) }-\\frac{28}{x^5}+\\frac{4}{x^3}",
+      "answer2": "\\text{B) }-\\frac{32}{x^5}-\\frac{7}{x^2}",
+      "answer3": "\\text{C) }\\frac{5}{x^6}+\\frac{3}{x^4}",
+      "answer4": "\\text{D) }\\frac{18}{x^4}-\\frac{3}{x^2}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{4}{x^3}+\\frac{7}{x}\\right)",
+      "answer1": "\\text{A) }-\\frac{4}{x^5}+\\frac{5}{x^2}",
+      "answer2": "\\text{B) }-\\frac{12}{x^4}-\\frac{7}{x^2}",
+      "answer3": "\\text{C) }\\frac{20}{x^5}+\\frac{12}{x^3}",
+      "answer4": "\\text{D) }-\\frac{35}{x^6}+\\frac{2}{x^2}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{5}{x^2}-\\frac{6}{x^3}\\right)",
+      "answer1": "\\text{A) }\\frac{4}{x^2}-\\frac{7}{x^2}",
+      "answer2": "\\text{B) }\\frac{10}{x^3}+\\frac{18}{x^4}",
+      "answer3": "\\text{C) }-\\frac{16}{x^3}-\\frac{10}{x^6}",
+      "answer4": "\\text{D) }\\frac{2}{x^2}-\\frac{24}{x^5}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{3}{x^5}+\\frac{7}{x^4}\\right)",
+      "answer1": "\\text{A) }-\\frac{15}{x^6}-\\frac{28}{x^5}",
+      "answer2": "\\text{B) }-\\frac{5}{x^2}-\\frac{20}{x^6}",
+      "answer3": "\\text{C) }-\\frac{16}{x^5}-\\frac{10}{x^6}",
+      "answer4": "\\text{D) }\\frac{3}{x^4}+\\frac{24}{x^5}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{1}{x^2}+\\frac{8}{x^5}\\right)",
+      "answer1": "\\text{A) }-\\frac{12}{x^5}-\\frac{10}{x^3}",
+      "answer2": "\\text{B) }-\\frac{10}{x^3}+\\frac{30}{x^6}",
+      "answer3": "\\text{C) }-\\frac{5}{x^6}-\\frac{9}{x^4}",
+      "answer4": "\\text{D) }\\frac{2}{x^3}-\\frac{40}{x^6}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{3}{x}-\\frac{3}{x^3}\\right)",
+      "answer1": "\\text{A) }\\frac{25}{x^6}+\\frac{16}{x^5}",
+      "answer2": "\\text{B) }-\\frac{35}{x^6}-\\frac{16}{x^3}",
+      "answer3": "\\text{C) }-\\frac{40}{x^6}-\\frac{15}{x^6}",
+      "answer4": "\\text{D) }\\frac{3}{x^2}+\\frac{9}{x^4}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{7}{x^2}+\\frac{5}{x^2}\\right)",
+      "answer1": "\\text{A) }\\frac{15}{x^4}+\\frac{6}{x^3}",
+      "answer2": "\\text{B) }\\frac{14}{x^3}-\\frac{10}{x^3}",
+      "answer3": "\\text{C) }\\frac{1}{x^2}-\\frac{1}{x^2}",
+      "answer4": "\\text{D) }-\\frac{12}{x^4}-\\frac{16}{x^5}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{4}{x^4}-\\frac{2}{x^4}\\right)",
+      "answer1": "\\text{A) }-\\frac{7}{x^2}+\\frac{20}{x^5}",
+      "answer2": "\\text{B) }-\\frac{10}{x^6}-\\frac{4}{x^3}",
+      "answer3": "\\text{C) }\\frac{16}{x^5}+\\frac{8}{x^5}",
+      "answer4": "\\text{D) }\\frac{1}{x^2}-\\frac{6}{x^2}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{3}{x^4}+\\frac{3}{x^2}\\right)",
+      "answer1": "\\text{A) }-\\frac{30}{x^6}+\\frac{6}{x^3}",
+      "answer2": "\\text{B) }\\frac{12}{x^5}-\\frac{6}{x^3}",
+      "answer3": "\\text{C) }\\frac{8}{x^5}-\\frac{7}{x^2}",
+      "answer4": "\\text{D) }-\\frac{12}{x^5}+\\frac{12}{x^3}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{3}{x^4}-\\frac{5}{x}\\right)",
+      "answer1": "\\text{A) }\\frac{12}{x^5}+\\frac{5}{x^2}",
+      "answer2": "\\text{B) }-\\frac{6}{x^2}+\\frac{9}{x^4}",
+      "answer3": "\\text{C) }\\frac{20}{x^6}+\\frac{4}{x^5}",
+      "answer4": "\\text{D) }\\frac{24}{x^5}+\\frac{28}{x^5}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{6}{x^3}-\\frac{2}{x^2}\\right)",
+      "answer1": "\\text{A) }\\frac{18}{x^4}+\\frac{4}{x^3}",
+      "answer2": "\\text{B) }-\\frac{20}{x^5}+\\frac{5}{x^2}",
+      "answer3": "\\text{C) }-\\frac{5}{x^6}-\\frac{24}{x^5}",
+      "answer4": "\\text{D) }\\frac{6}{x^4}-\\frac{15}{x^4}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{6}{x^5}-\\frac{7}{x^4}\\right)",
+      "answer1": "\\text{A) }\\frac{35}{x^6}-\\frac{1}{x^2}",
+      "answer2": "\\text{B) }\\frac{5}{x^2}-\\frac{40}{x^6}",
+      "answer3": "\\text{C) }-\\frac{35}{x^6}+\\frac{3}{x^2}",
+      "answer4": "\\text{D) }-\\frac{30}{x^6}+\\frac{28}{x^5}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{3}{x^3}+\\frac{5}{x^4}\\right)",
+      "answer1": "\\text{A) }\\frac{8}{x^5}-\\frac{3}{x^4}",
+      "answer2": "\\text{B) }-\\frac{9}{x^4}-\\frac{20}{x^5}",
+      "answer3": "\\text{C) }-\\frac{20}{x^5}+\\frac{14}{x^3}",
+      "answer4": "\\text{D) }-\\frac{4}{x^5}-\\frac{6}{x^4}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{1}{x^3}+\\frac{7}{x^2}\\right)",
+      "answer1": "\\text{A) }\\frac{4}{x^2}+\\frac{15}{x^4}",
+      "answer2": "\\text{B) }-\\frac{8}{x^5}-\\frac{8}{x^2}",
+      "answer3": "\\text{C) }\\frac{10}{x^3}+\\frac{1}{x^2}",
+      "answer4": "\\text{D) }\\frac{3}{x^4}-\\frac{14}{x^3}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{2}{x}+\\frac{4}{x}\\right)",
+      "answer1": "\\text{A) }-\\frac{9}{x^4}+\\frac{25}{x^6}",
+      "answer2": "\\text{B) }\\frac{14}{x^3}+\\frac{16}{x^5}",
+      "answer3": "\\text{C) }\\frac{2}{x^2}-\\frac{4}{x^2}",
+      "answer4": "\\text{D) }-\\frac{1}{x^2}-\\frac{12}{x^3}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{2}{x}+\\frac{7}{x^3}\\right)",
+      "answer1": "\\text{A) }-\\frac{2}{x^2}-\\frac{21}{x^4}",
+      "answer2": "\\text{B) }-\\frac{7}{x^2}-\\frac{5}{x^2}",
+      "answer3": "\\text{C) }\\frac{15}{x^4}-\\frac{10}{x^6}",
+      "answer4": "\\text{D) }-\\frac{16}{x^5}+\\frac{7}{x^2}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{5}{x}+\\frac{5}{x^5}\\right)",
+      "answer1": "\\text{A) }-\\frac{24}{x^5}+\\frac{10}{x^3}",
+      "answer2": "\\text{B) }-\\frac{24}{x^4}+\\frac{35}{x^6}",
+      "answer3": "\\text{C) }-\\frac{1}{x^2}+\\frac{6}{x^4}",
+      "answer4": "\\text{D) }\\frac{5}{x^2}-\\frac{25}{x^6}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{2}{x^3}+\\frac{6}{x^4}\\right)",
+      "answer1": "\\text{A) }\\frac{6}{x^4}-\\frac{24}{x^5}",
+      "answer2": "\\text{B) }-\\frac{16}{x^5}+\\frac{20}{x^6}",
+      "answer3": "\\text{C) }-\\frac{18}{x^4}-\\frac{15}{x^4}",
+      "answer4": "\\text{D) }\\frac{4}{x^5}+\\frac{10}{x^6}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{5}{x^2}+\\frac{2}{x^5}\\right)",
+      "answer1": "\\text{A) }-\\frac{3}{x^2}-\\frac{40}{x^6}",
+      "answer2": "\\text{B) }\\frac{5}{x^2}+\\frac{6}{x^4}",
+      "answer3": "\\text{C) }-\\frac{10}{x^3}-\\frac{10}{x^6}",
+      "answer4": "\\text{D) }\\frac{12}{x^3}+\\frac{24}{x^5}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{4}{x^3}-\\frac{5}{x^5}\\right)",
+      "answer1": "\\text{A) }-\\frac{1}{x^2}-\\frac{10}{x^3}",
+      "answer2": "\\text{B) }\\frac{6}{x^3}+\\frac{3}{x^2}",
+      "answer3": "\\text{C) }-\\frac{12}{x^4}+\\frac{25}{x^6}",
+      "answer4": "\\text{D) }\\frac{12}{x^3}+\\frac{4}{x^3}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{3}{x}-\\frac{1}{x^4}\\right)",
+      "answer1": "\\text{A) }\\frac{1}{x^2}-\\frac{12}{x^5}",
+      "answer2": "\\text{B) }\\frac{18}{x^4}-\\frac{10}{x^6}",
+      "answer3": "\\text{C) }-\\frac{3}{x^2}+\\frac{4}{x^5}",
+      "answer4": "\\text{D) }-\\frac{4}{x^3}-\\frac{24}{x^4}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{1}{x^2}+\\frac{8}{x^4}\\right)",
+      "answer1": "\\text{A) }-\\frac{2}{x^3}-\\frac{32}{x^5}",
+      "answer2": "\\text{B) }\\frac{8}{x^3}-\\frac{10}{x^6}",
+      "answer3": "\\text{C) }-\\frac{2}{x^2}-\\frac{6}{x^3}",
+      "answer4": "\\text{D) }\\frac{12}{x^5}+\\frac{10}{x^6}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{2}{x^3}-\\frac{7}{x^3}\\right)",
+      "answer1": "\\text{A) }\\frac{8}{x^3}+\\frac{1}{x^2}",
+      "answer2": "\\text{B) }\\frac{6}{x^3}-\\frac{32}{x^5}",
+      "answer3": "\\text{C) }\\frac{6}{x^4}+\\frac{21}{x^4}",
+      "answer4": "\\text{D) }\\frac{3}{x^4}+\\frac{4}{x^3}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{7}{x^3}-\\frac{4}{x^3}\\right)",
+      "answer1": "\\text{A) }\\frac{12}{x^5}-\\frac{10}{x^3}",
+      "answer2": "\\text{B) }-\\frac{30}{x^6}+\\frac{4}{x^5}",
+      "answer3": "\\text{C) }\\frac{3}{x^4}-\\frac{21}{x^4}",
+      "answer4": "\\text{D) }-\\frac{21}{x^4}+\\frac{12}{x^4}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{6}{x^3}+\\frac{2}{x^2}\\right)",
+      "answer1": "\\text{A) }-\\frac{35}{x^6}+\\frac{10}{x^3}",
+      "answer2": "\\text{B) }-\\frac{6}{x^4}+\\frac{8}{x^5}",
+      "answer3": "\\text{C) }\\frac{18}{x^4}-\\frac{4}{x^3}",
+      "answer4": "\\text{D) }-\\frac{24}{x^5}-\\frac{32}{x^5}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{7}{x}-\\frac{3}{x}\\right)",
+      "answer1": "\\text{A) }\\frac{35}{x^6}-\\frac{21}{x^4}",
+      "answer2": "\\text{B) }-\\frac{7}{x^2}+\\frac{3}{x^2}",
+      "answer3": "\\text{C) }\\frac{16}{x^5}-\\frac{15}{x^4}",
+      "answer4": "\\text{D) }\\frac{25}{x^6}+\\frac{35}{x^6}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{7}{x}-\\frac{7}{x^2}\\right)",
+      "answer1": "\\text{A) }\\frac{9}{x^4}+\\frac{12}{x^4}",
+      "answer2": "\\text{B) }-\\frac{7}{x^2}+\\frac{14}{x^3}",
+      "answer3": "\\text{C) }\\frac{24}{x^5}+\\frac{4}{x^3}",
+      "answer4": "\\text{D) }\\frac{10}{x^3}-\\frac{14}{x^3}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{2}{x^2}-\\frac{2}{x}\\right)",
+      "answer1": "\\text{A) }\\frac{5}{x^6}-\\frac{8}{x^3}",
+      "answer2": "\\text{B) }\\frac{4}{x^3}+\\frac{2}{x^2}",
+      "answer3": "\\text{C) }\\frac{12}{x^4}-\\frac{10}{x^3}",
+      "answer4": "\\text{D) }-\\frac{12}{x^4}+\\frac{9}{x^4}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{6}{x}+\\frac{5}{x^3}\\right)",
+      "answer1": "\\text{A) }-\\frac{20}{x^5}+\\frac{12}{x^3}",
+      "answer2": "\\text{B) }-\\frac{15}{x^6}-\\frac{7}{x^2}",
+      "answer3": "\\text{C) }-\\frac{6}{x^2}-\\frac{15}{x^4}",
+      "answer4": "\\text{D) }\\frac{12}{x^5}+\\frac{15}{x^6}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{4}{x^5}-\\frac{5}{x^4}\\right)",
+      "answer1": "\\text{A) }-\\frac{14}{x^3}-\\frac{4}{x^5}",
+      "answer2": "\\text{B) }\\frac{20}{x^6}+\\frac{20}{x^5}",
+      "answer3": "\\text{C) }\\frac{10}{x^6}-\\frac{15}{x^4}",
+      "answer4": "\\text{D) }\\frac{30}{x^6}-\\frac{24}{x^5}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{3}{x^2}-\\frac{4}{x^2}\\right)",
+      "answer1": "\\text{A) }-\\frac{14}{x^3}-\\frac{8}{x^2}",
+      "answer2": "\\text{B) }-\\frac{4}{x^5}+\\frac{6}{x^3}",
+      "answer3": "\\text{C) }-\\frac{6}{x^3}+\\frac{8}{x^3}",
+      "answer4": "\\text{D) }\\frac{35}{x^6}+\\frac{4}{x^5}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{3}{x^5}+\\frac{3}{x^2}\\right)",
+      "answer1": "\\text{A) }-\\frac{2}{x^2}+\\frac{8}{x^5}",
+      "answer2": "\\text{B) }\\frac{8}{x^3}-\\frac{6}{x^4}",
+      "answer3": "\\text{C) }-\\frac{15}{x^6}-\\frac{6}{x^3}",
+      "answer4": "\\text{D) }-\\frac{10}{x^3}+\\frac{16}{x^5}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{1}{x^3}-\\frac{3}{x^5}\\right)",
+      "answer1": "\\text{A) }-\\frac{2}{x^2}+\\frac{7}{x^2}",
+      "answer2": "\\text{B) }-\\frac{35}{x^6}+\\frac{6}{x^4}",
+      "answer3": "\\text{C) }\\frac{12}{x^3}-\\frac{20}{x^6}",
+      "answer4": "\\text{D) }-\\frac{3}{x^4}+\\frac{15}{x^6}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{7}{x^3}-\\frac{7}{x}\\right)",
+      "answer1": "\\text{A) }\\frac{8}{x^3}-\\frac{30}{x^6}",
+      "answer2": "\\text{B) }-\\frac{21}{x^4}+\\frac{7}{x^2}",
+      "answer3": "\\text{C) }\\frac{9}{x^4}+\\frac{12}{x^5}",
+      "answer4": "\\text{D) }-\\frac{24}{x^5}+\\frac{2}{x^2}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{7}{x^3}-\\frac{4}{x^4}\\right)",
+      "answer1": "\\text{A) }-\\frac{4}{x^3}-\\frac{3}{x^2}",
+      "answer2": "\\text{B) }-\\frac{21}{x^4}+\\frac{16}{x^5}",
+      "answer3": "\\text{C) }-\\frac{30}{x^6}-\\frac{4}{x^3}",
+      "answer4": "\\text{D) }-\\frac{15}{x^6}-\\frac{24}{x^4}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{1}{x^2}-\\frac{6}{x^3}\\right)",
+      "answer1": "\\text{A) }\\frac{2}{x^3}+\\frac{18}{x^4}",
+      "answer2": "\\text{B) }-\\frac{30}{x^6}+\\frac{4}{x^2}",
+      "answer3": "\\text{C) }\\frac{7}{x^2}-\\frac{30}{x^6}",
+      "answer4": "\\text{D) }\\frac{18}{x^4}+\\frac{25}{x^6}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{4}{x^3}+\\frac{6}{x^5}\\right)",
+      "answer1": "\\text{A) }-\\frac{16}{x^5}+\\frac{8}{x^3}",
+      "answer2": "\\text{B) }-\\frac{8}{x^5}+\\frac{21}{x^4}",
+      "answer3": "\\text{C) }\\frac{12}{x^4}-\\frac{30}{x^6}",
+      "answer4": "\\text{D) }-\\frac{3}{x^4}-\\frac{20}{x^6}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{1}{x^5}+\\frac{8}{x^2}\\right)",
+      "answer1": "\\text{A) }\\frac{5}{x^6}-\\frac{16}{x^3}",
+      "answer2": "\\text{B) }\\frac{2}{x^2}-\\frac{10}{x^6}",
+      "answer3": "\\text{C) }\\frac{25}{x^6}-\\frac{6}{x^3}",
+      "answer4": "\\text{D) }-\\frac{4}{x^3}+\\frac{6}{x^4}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{4}{x^4}+\\frac{5}{x^2}\\right)",
+      "answer1": "\\text{A) }\\frac{3}{x^4}+\\frac{12}{x^5}",
+      "answer2": "\\text{B) }-\\frac{6}{x^2}+\\frac{25}{x^6}",
+      "answer3": "\\text{C) }\\frac{3}{x^2}-\\frac{40}{x^6}",
+      "answer4": "\\text{D) }\\frac{16}{x^5}-\\frac{10}{x^3}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{3}{x^5}+\\frac{7}{x^4}\\right)",
+      "answer1": "\\text{A) }-\\frac{10}{x^3}-\\frac{3}{x^2}",
+      "answer2": "\\text{B) }\\frac{8}{x^5}+\\frac{10}{x^3}",
+      "answer3": "\\text{C) }\\frac{15}{x^6}-\\frac{28}{x^5}",
+      "answer4": "\\text{D) }\\frac{1}{x^2}-\\frac{24}{x^4}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{5}{x^4}-\\frac{7}{x}\\right)",
+      "answer1": "\\text{A) }-\\frac{8}{x^2}+\\frac{2}{x^3}",
+      "answer2": "\\text{B) }-\\frac{15}{x^6}+\\frac{6}{x^3}",
+      "answer3": "\\text{C) }-\\frac{20}{x^5}+\\frac{7}{x^2}",
+      "answer4": "\\text{D) }\\frac{4}{x^5}-\\frac{10}{x^3}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{4}{x^4}-\\frac{3}{x^3}\\right)",
+      "answer1": "\\text{A) }\\frac{16}{x^5}+\\frac{9}{x^4}",
+      "answer2": "\\text{B) }-\\frac{3}{x^2}+\\frac{20}{x^6}",
+      "answer3": "\\text{C) }-\\frac{8}{x^3}+\\frac{30}{x^6}",
+      "answer4": "\\text{D) }-\\frac{2}{x^2}-\\frac{40}{x^6}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{4}{x^2}-\\frac{5}{x^4}\\right)",
+      "answer1": "\\text{A) }\\frac{3}{x^2}+\\frac{21}{x^4}",
+      "answer2": "\\text{B) }\\frac{4}{x^3}-\\frac{10}{x^3}",
+      "answer3": "\\text{C) }-\\frac{15}{x^4}-\\frac{9}{x^4}",
+      "answer4": "\\text{D) }\\frac{8}{x^3}+\\frac{20}{x^5}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{4}{x^4}+\\frac{8}{x}\\right)",
+      "answer1": "\\text{A) }-\\frac{15}{x^4}-\\frac{24}{x^5}",
+      "answer2": "\\text{B) }-\\frac{28}{x^5}+\\frac{3}{x^4}",
+      "answer3": "\\text{C) }\\frac{6}{x^3}+\\frac{9}{x^4}",
+      "answer4": "\\text{D) }-\\frac{16}{x^5}-\\frac{8}{x^2}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{6}{x^2}+\\frac{1}{x^2}\\right)",
+      "answer1": "\\text{A) }-\\frac{12}{x^3}-\\frac{2}{x^3}",
+      "answer2": "\\text{B) }-\\frac{15}{x^6}-\\frac{40}{x^6}",
+      "answer3": "\\text{C) }\\frac{6}{x^4}-\\frac{6}{x^2}",
+      "answer4": "\\text{D) }\\frac{20}{x^6}+\\frac{14}{x^3}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{7}{x^3}+\\frac{5}{x^3}\\right)",
+      "answer1": "\\text{A) }\\frac{28}{x^5}+\\frac{21}{x^4}",
+      "answer2": "\\text{B) }-\\frac{3}{x^4}-\\frac{2}{x^3}",
+      "answer3": "\\text{C) }-\\frac{21}{x^4}-\\frac{15}{x^4}",
+      "answer4": "\\text{D) }\\frac{20}{x^6}+\\frac{4}{x^3}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{6}{x}+\\frac{5}{x^3}\\right)",
+      "answer1": "\\text{A) }-\\frac{20}{x^5}+\\frac{8}{x^5}",
+      "answer2": "\\text{B) }-\\frac{7}{x^2}-\\frac{8}{x^3}",
+      "answer3": "\\text{C) }\\frac{15}{x^4}-\\frac{21}{x^4}",
+      "answer4": "\\text{D) }-\\frac{6}{x^2}-\\frac{15}{x^4}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{3}{x^5}+\\frac{3}{x^2}\\right)",
+      "answer1": "\\text{A) }-\\frac{6}{x^4}-\\frac{2}{x^3}",
+      "answer2": "\\text{B) }\\frac{6}{x^2}+\\frac{5}{x^2}",
+      "answer3": "\\text{C) }-\\frac{15}{x^6}-\\frac{6}{x^3}",
+      "answer4": "\\text{D) }-\\frac{35}{x^6}-\\frac{6}{x^4}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{7}{x^2}-\\frac{1}{x^4}\\right)",
+      "answer1": "\\text{A) }\\frac{14}{x^3}+\\frac{4}{x^5}",
+      "answer2": "\\text{B) }\\frac{4}{x^2}-\\frac{25}{x^6}",
+      "answer3": "\\text{C) }-\\frac{6}{x^2}-\\frac{24}{x^5}",
+      "answer4": "\\text{D) }-\\frac{8}{x^3}-\\frac{6}{x^4}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{1}{x^3}-\\frac{5}{x^3}\\right)",
+      "answer1": "\\text{A) }-\\frac{18}{x^4}-\\frac{15}{x^4}",
+      "answer2": "\\text{B) }\\frac{3}{x^4}+\\frac{15}{x^4}",
+      "answer3": "\\text{C) }\\frac{15}{x^4}-\\frac{6}{x^3}",
+      "answer4": "\\text{D) }\\frac{14}{x^3}+\\frac{4}{x^5}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{1}{x^3}+\\frac{1}{x^5}\\right)",
+      "answer1": "\\text{A) }-\\frac{2}{x^2}+\\frac{21}{x^4}",
+      "answer2": "\\text{B) }\\frac{12}{x^4}+\\frac{5}{x^6}",
+      "answer3": "\\text{C) }\\frac{10}{x^3}-\\frac{3}{x^2}",
+      "answer4": "\\text{D) }-\\frac{3}{x^4}-\\frac{5}{x^6}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{4}{x^2}+\\frac{8}{x^2}\\right)",
+      "answer1": "\\text{A) }\\frac{8}{x^3}-\\frac{16}{x^3}",
+      "answer2": "\\text{B) }\\frac{6}{x^2}+\\frac{4}{x^2}",
+      "answer3": "\\text{C) }-\\frac{3}{x^2}-\\frac{14}{x^3}",
+      "answer4": "\\text{D) }\\frac{10}{x^3}+\\frac{12}{x^3}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{4}{x^2}-\\frac{4}{x^4}\\right)",
+      "answer1": "\\text{A) }\\frac{5}{x^2}+\\frac{30}{x^6}",
+      "answer2": "\\text{B) }\\frac{18}{x^4}+\\frac{20}{x^5}",
+      "answer3": "\\text{C) }\\frac{3}{x^4}+\\frac{7}{x^2}",
+      "answer4": "\\text{D) }\\frac{8}{x^3}+\\frac{16}{x^5}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{6}{x}+\\frac{6}{x^5}\\right)",
+      "answer1": "\\text{A) }-\\frac{28}{x^5}+\\frac{15}{x^6}",
+      "answer2": "\\text{B) }-\\frac{6}{x^2}-\\frac{30}{x^6}",
+      "answer3": "\\text{C) }-\\frac{6}{x^3}-\\frac{20}{x^5}",
+      "answer4": "\\text{D) }-\\frac{8}{x^3}+\\frac{5}{x^6}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{4}{x^4}+\\frac{1}{x^4}\\right)",
+      "answer1": "\\text{A) }-\\frac{16}{x^5}-\\frac{4}{x^5}",
+      "answer2": "\\text{B) }\\frac{14}{x^3}-\\frac{21}{x^4}",
+      "answer3": "\\text{C) }\\frac{16}{x^5}+\\frac{15}{x^6}",
+      "answer4": "\\text{D) }-\\frac{15}{x^4}+\\frac{12}{x^3}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{3}{x^3}+\\frac{2}{x}\\right)",
+      "answer1": "\\text{A) }-\\frac{16}{x^3}-\\frac{6}{x^3}",
+      "answer2": "\\text{B) }\\frac{9}{x^4}-\\frac{2}{x^2}",
+      "answer3": "\\text{C) }\\frac{10}{x^6}-\\frac{16}{x^5}",
+      "answer4": "\\text{D) }-\\frac{1}{x^2}-\\frac{3}{x^4}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{7}{x^3}+\\frac{5}{x^3}\\right)",
+      "answer1": "\\text{A) }-\\frac{6}{x^4}-\\frac{4}{x^3}",
+      "answer2": "\\text{B) }\\frac{20}{x^5}+\\frac{25}{x^6}",
+      "answer3": "\\text{C) }\\frac{28}{x^5}-\\frac{32}{x^5}",
+      "answer4": "\\text{D) }-\\frac{21}{x^4}-\\frac{15}{x^4}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{7}{x^5}+\\frac{3}{x^3}\\right)",
+      "answer1": "\\text{A) }-\\frac{5}{x^2}+\\frac{21}{x^4}",
+      "answer2": "\\text{B) }\\frac{1}{x^2}+\\frac{2}{x^2}",
+      "answer3": "\\text{C) }-\\frac{8}{x^5}-\\frac{28}{x^5}",
+      "answer4": "\\text{D) }\\frac{35}{x^6}-\\frac{9}{x^4}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{1}{x^3}+\\frac{7}{x}\\right)",
+      "answer1": "\\text{A) }-\\frac{24}{x^4}-\\frac{9}{x^4}",
+      "answer2": "\\text{B) }\\frac{30}{x^6}-\\frac{32}{x^5}",
+      "answer3": "\\text{C) }\\frac{3}{x^4}-\\frac{7}{x^2}",
+      "answer4": "\\text{D) }-\\frac{6}{x^3}+\\frac{28}{x^5}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{3}{x^4}+\\frac{6}{x^3}\\right)",
+      "answer1": "\\text{A) }\\frac{10}{x^3}-\\frac{24}{x^4}",
+      "answer2": "\\text{B) }-\\frac{20}{x^5}-\\frac{12}{x^5}",
+      "answer3": "\\text{C) }-\\frac{12}{x^5}-\\frac{18}{x^4}",
+      "answer4": "\\text{D) }-\\frac{16}{x^5}+\\frac{4}{x^2}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{2}{x^4}-\\frac{3}{x}\\right)",
+      "answer1": "\\text{A) }\\frac{25}{x^6}-\\frac{9}{x^4}",
+      "answer2": "\\text{B) }-\\frac{14}{x^3}-\\frac{28}{x^5}",
+      "answer3": "\\text{C) }-\\frac{8}{x^5}+\\frac{3}{x^2}",
+      "answer4": "\\text{D) }\\frac{4}{x^3}+\\frac{2}{x^3}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{4}{x^2}+\\frac{2}{x^5}\\right)",
+      "answer1": "\\text{A) }\\frac{8}{x^3}-\\frac{10}{x^6}",
+      "answer2": "\\text{B) }-\\frac{16}{x^3}+\\frac{20}{x^5}",
+      "answer3": "\\text{C) }\\frac{18}{x^4}-\\frac{28}{x^5}",
+      "answer4": "\\text{D) }-\\frac{12}{x^4}+\\frac{14}{x^3}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{3}{x^4}-\\frac{5}{x^5}\\right)",
+      "answer1": "\\text{A) }-\\frac{12}{x^5}+\\frac{25}{x^6}",
+      "answer2": "\\text{B) }\\frac{8}{x^5}-\\frac{25}{x^6}",
+      "answer3": "\\text{C) }-\\frac{24}{x^4}-\\frac{4}{x^5}",
+      "answer4": "\\text{D) }-\\frac{2}{x^2}+\\frac{16}{x^5}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{4}{x^3}-\\frac{4}{x^3}\\right)",
+      "answer1": "\\text{A) }-\\frac{32}{x^5}-\\frac{21}{x^4}",
+      "answer2": "\\text{B) }-\\frac{12}{x^4}+\\frac{14}{x^3}",
+      "answer3": "\\text{C) }-\\frac{6}{x^3}-\\frac{5}{x^2}",
+      "answer4": "\\text{D) }\\frac{12}{x^4}+\\frac{12}{x^4}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{4}{x^2}-\\frac{3}{x^5}\\right)",
+      "answer1": "\\text{A) }-\\frac{4}{x^3}+\\frac{10}{x^3}",
+      "answer2": "\\text{B) }\\frac{15}{x^6}+\\frac{7}{x^2}",
+      "answer3": "\\text{C) }\\frac{8}{x^3}+\\frac{15}{x^6}",
+      "answer4": "\\text{D) }-\\frac{1}{x^2}+\\frac{4}{x^5}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{2}{x^4}-\\frac{7}{x}\\right)",
+      "answer1": "\\text{A) }-\\frac{6}{x^2}-\\frac{5}{x^2}",
+      "answer2": "\\text{B) }\\frac{21}{x^4}-\\frac{2}{x^3}",
+      "answer3": "\\text{C) }-\\frac{8}{x^5}+\\frac{7}{x^2}",
+      "answer4": "\\text{D) }\\frac{3}{x^4}+\\frac{6}{x^3}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{3}{x^3}+\\frac{7}{x^5}\\right)",
+      "answer1": "\\text{A) }-\\frac{12}{x^3}+\\frac{12}{x^3}",
+      "answer2": "\\text{B) }\\frac{2}{x^3}+\\frac{3}{x^2}",
+      "answer3": "\\text{C) }\\frac{9}{x^4}-\\frac{35}{x^6}",
+      "answer4": "\\text{D) }\\frac{28}{x^5}-\\frac{16}{x^3}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{3}{x^2}+\\frac{2}{x^3}\\right)",
+      "answer1": "\\text{A) }-\\frac{14}{x^3}+\\frac{3}{x^4}",
+      "answer2": "\\text{B) }\\frac{35}{x^6}-\\frac{40}{x^6}",
+      "answer3": "\\text{C) }\\frac{6}{x^3}-\\frac{6}{x^4}",
+      "answer4": "\\text{D) }-\\frac{4}{x^3}-\\frac{20}{x^6}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{8}{x}-\\frac{5}{x^3}\\right)",
+      "answer1": "\\text{A) }\\frac{9}{x^4}+\\frac{5}{x^6}",
+      "answer2": "\\text{B) }\\frac{7}{x^2}-\\frac{16}{x^5}",
+      "answer3": "\\text{C) }\\frac{12}{x^4}+\\frac{4}{x^3}",
+      "answer4": "\\text{D) }-\\frac{8}{x^2}+\\frac{15}{x^4}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{4}{x^2}-\\frac{7}{x}\\right)",
+      "answer1": "\\text{A) }-\\frac{28}{x^5}-\\frac{5}{x^6}",
+      "answer2": "\\text{B) }\\frac{8}{x^3}+\\frac{7}{x^2}",
+      "answer3": "\\text{C) }-\\frac{2}{x^2}+\\frac{12}{x^5}",
+      "answer4": "\\text{D) }-\\frac{4}{x^5}-\\frac{16}{x^3}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{7}{x^3}-\\frac{5}{x^4}\\right)",
+      "answer1": "\\text{A) }-\\frac{4}{x^2}-\\frac{35}{x^6}",
+      "answer2": "\\text{B) }-\\frac{21}{x^4}+\\frac{20}{x^5}",
+      "answer3": "\\text{C) }\\frac{4}{x^5}+\\frac{4}{x^2}",
+      "answer4": "\\text{D) }-\\frac{1}{x^2}+\\frac{1}{x^2}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{3}{x^3}+\\frac{1}{x^3}\\right)",
+      "answer1": "\\text{A) }-\\frac{20}{x^5}+\\frac{3}{x^4}",
+      "answer2": "\\text{B) }\\frac{28}{x^5}-\\frac{24}{x^5}",
+      "answer3": "\\text{C) }-\\frac{9}{x^4}-\\frac{3}{x^4}",
+      "answer4": "\\text{D) }-\\frac{24}{x^5}-\\frac{21}{x^4}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{2}{x^2}-\\frac{7}{x^2}\\right)",
+      "answer1": "\\text{A) }-\\frac{4}{x^3}+\\frac{14}{x^3}",
+      "answer2": "\\text{B) }-\\frac{4}{x^2}-\\frac{20}{x^5}",
+      "answer3": "\\text{C) }\\frac{12}{x^5}+\\frac{2}{x^3}",
+      "answer4": "\\text{D) }-\\frac{40}{x^6}+\\frac{8}{x^5}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{3}{x^4}-\\frac{3}{x}\\right)",
+      "answer1": "\\text{A) }\\frac{16}{x^5}-\\frac{12}{x^3}",
+      "answer2": "\\text{B) }-\\frac{18}{x^4}+\\frac{24}{x^5}",
+      "answer3": "\\text{C) }\\frac{5}{x^6}+\\frac{2}{x^3}",
+      "answer4": "\\text{D) }\\frac{12}{x^5}+\\frac{3}{x^2}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{8}{x^5}+\\frac{7}{x^3}\\right)",
+      "answer1": "\\text{A) }\\frac{20}{x^5}+\\frac{9}{x^4}",
+      "answer2": "\\text{B) }-\\frac{2}{x^2}+\\frac{4}{x^5}",
+      "answer3": "\\text{C) }\\frac{7}{x^2}+\\frac{14}{x^3}",
+      "answer4": "\\text{D) }-\\frac{40}{x^6}-\\frac{21}{x^4}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{6}{x}+\\frac{1}{x^5}\\right)",
+      "answer1": "\\text{A) }-\\frac{6}{x^2}-\\frac{5}{x^6}",
+      "answer2": "\\text{B) }\\frac{4}{x^2}-\\frac{18}{x^4}",
+      "answer3": "\\text{C) }\\frac{2}{x^2}-\\frac{14}{x^3}",
+      "answer4": "\\text{D) }-\\frac{5}{x^6}+\\frac{6}{x^2}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{5}{x^5}-\\frac{4}{x^5}\\right)",
+      "answer1": "\\text{A) }-\\frac{25}{x^6}+\\frac{20}{x^6}",
+      "answer2": "\\text{B) }-\\frac{24}{x^4}+\\frac{2}{x^2}",
+      "answer3": "\\text{C) }-\\frac{7}{x^2}-\\frac{16}{x^3}",
+      "answer4": "\\text{D) }-\\frac{6}{x^4}+\\frac{5}{x^2}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{6}{x^4}+\\frac{6}{x^3}\\right)",
+      "answer1": "\\text{A) }-\\frac{8}{x^3}-\\frac{10}{x^3}",
+      "answer2": "\\text{B) }-\\frac{24}{x^5}-\\frac{18}{x^4}",
+      "answer3": "\\text{C) }-\\frac{25}{x^6}+\\frac{30}{x^6}",
+      "answer4": "\\text{D) }\\frac{24}{x^5}-\\frac{24}{x^4}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{3}{x^4}-\\frac{1}{x}\\right)",
+      "answer1": "\\text{A) }\\frac{12}{x^5}+\\frac{1}{x^2}",
+      "answer2": "\\text{B) }-\\frac{12}{x^3}+\\frac{7}{x^2}",
+      "answer3": "\\text{C) }\\frac{12}{x^3}+\\frac{8}{x^5}",
+      "answer4": "\\text{D) }-\\frac{14}{x^3}-\\frac{10}{x^6}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{3}{x}-\\frac{3}{x^3}\\right)",
+      "answer1": "\\text{A) }\\frac{2}{x^2}-\\frac{28}{x^5}",
+      "answer2": "\\text{B) }\\frac{3}{x^2}+\\frac{9}{x^4}",
+      "answer3": "\\text{C) }-\\frac{7}{x^2}+\\frac{12}{x^3}",
+      "answer4": "\\text{D) }-\\frac{8}{x^2}+\\frac{10}{x^6}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{4}{x^4}-\\frac{3}{x^3}\\right)",
+      "answer1": "\\text{A) }-\\frac{24}{x^4}+\\frac{14}{x^3}",
+      "answer2": "\\text{B) }-\\frac{6}{x^3}-\\frac{2}{x^2}",
+      "answer3": "\\text{C) }-\\frac{5}{x^6}+\\frac{24}{x^5}",
+      "answer4": "\\text{D) }-\\frac{16}{x^5}+\\frac{9}{x^4}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{6}{x^3}+\\frac{4}{x^4}\\right)",
+      "answer1": "\\text{A) }-\\frac{18}{x^4}-\\frac{16}{x^5}",
+      "answer2": "\\text{B) }-\\frac{12}{x^4}-\\frac{24}{x^4}",
+      "answer3": "\\text{C) }-\\frac{9}{x^4}+\\frac{8}{x^5}",
+      "answer4": "\\text{D) }\\frac{10}{x^6}+\\frac{8}{x^3}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{7}{x^5}-\\frac{2}{x^2}\\right)",
+      "answer1": "\\text{A) }\\frac{6}{x^3}+\\frac{3}{x^4}",
+      "answer2": "\\text{B) }\\frac{12}{x^4}-\\frac{10}{x^3}",
+      "answer3": "\\text{C) }\\frac{35}{x^6}+\\frac{4}{x^3}",
+      "answer4": "\\text{D) }\\frac{10}{x^3}-\\frac{28}{x^5}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{3}{x}+\\frac{6}{x^5}\\right)",
+      "answer1": "\\text{A) }-\\frac{30}{x^6}-\\frac{4}{x^3}",
+      "answer2": "\\text{B) }\\frac{1}{x^2}-\\frac{10}{x^3}",
+      "answer3": "\\text{C) }\\frac{16}{x^5}+\\frac{15}{x^6}",
+      "answer4": "\\text{D) }-\\frac{3}{x^2}-\\frac{30}{x^6}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{7}{x^4}-\\frac{5}{x}\\right)",
+      "answer1": "\\text{A) }\\frac{4}{x^5}-\\frac{8}{x^3}",
+      "answer2": "\\text{B) }\\frac{4}{x^3}+\\frac{35}{x^6}",
+      "answer3": "\\text{C) }\\frac{28}{x^5}+\\frac{5}{x^2}",
+      "answer4": "\\text{D) }-\\frac{5}{x^2}-\\frac{8}{x^5}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{5}{x^4}+\\frac{2}{x^3}\\right)",
+      "answer1": "\\text{A) }\\frac{8}{x^3}+\\frac{12}{x^5}",
+      "answer2": "\\text{B) }-\\frac{25}{x^6}+\\frac{5}{x^2}",
+      "answer3": "\\text{C) }-\\frac{4}{x^5}-\\frac{8}{x^2}",
+      "answer4": "\\text{D) }\\frac{20}{x^5}-\\frac{6}{x^4}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{1}{x}-\\frac{3}{x}\\right)",
+      "answer1": "\\text{A) }\\frac{14}{x^3}-\\frac{3}{x^2}",
+      "answer2": "\\text{B) }\\frac{4}{x^5}-\\frac{2}{x^3}",
+      "answer3": "\\text{C) }\\frac{6}{x^3}-\\frac{15}{x^4}",
+      "answer4": "\\text{D) }-\\frac{1}{x^2}+\\frac{3}{x^2}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{7}{x^5}-\\frac{4}{x^4}\\right)",
+      "answer1": "\\text{A) }\\frac{4}{x^3}+\\frac{10}{x^3}",
+      "answer2": "\\text{B) }-\\frac{35}{x^6}+\\frac{16}{x^5}",
+      "answer3": "\\text{C) }\\frac{12}{x^4}-\\frac{25}{x^6}",
+      "answer4": "\\text{D) }-\\frac{12}{x^4}-\\frac{8}{x^3}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{2}{x}+\\frac{2}{x}\\right)",
+      "answer1": "\\text{A) }-\\frac{4}{x^2}-\\frac{25}{x^6}",
+      "answer2": "\\text{B) }-\\frac{5}{x^6}+\\frac{2}{x^2}",
+      "answer3": "\\text{C) }-\\frac{2}{x^2}-\\frac{2}{x^2}",
+      "answer4": "\\text{D) }\\frac{6}{x^4}-\\frac{14}{x^3}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{2}{x^2}-\\frac{4}{x^5}\\right)",
+      "answer1": "\\text{A) }\\frac{4}{x^3}+\\frac{20}{x^6}",
+      "answer2": "\\text{B) }-\\frac{5}{x^6}-\\frac{20}{x^5}",
+      "answer3": "\\text{C) }\\frac{21}{x^4}-\\frac{40}{x^6}",
+      "answer4": "\\text{D) }-\\frac{6}{x^4}+\\frac{15}{x^6}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{6}{x}+\\frac{6}{x}\\right)",
+      "answer1": "\\text{A) }\\frac{3}{x^2}-\\frac{12}{x^5}",
+      "answer2": "\\text{B) }\\frac{15}{x^4}+\\frac{15}{x^6}",
+      "answer3": "\\text{C) }-\\frac{6}{x^2}-\\frac{6}{x^2}",
+      "answer4": "\\text{D) }-\\frac{8}{x^2}+\\frac{3}{x^4}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{7}{x^4}-\\frac{6}{x^2}\\right)",
+      "answer1": "\\text{A) }\\frac{1}{x^2}+\\frac{3}{x^2}",
+      "answer2": "\\text{B) }\\frac{20}{x^6}-\\frac{2}{x^3}",
+      "answer3": "\\text{C) }-\\frac{3}{x^4}+\\frac{1}{x^2}",
+      "answer4": "\\text{D) }\\frac{28}{x^5}+\\frac{12}{x^3}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{5}{x^5}+\\frac{5}{x^4}\\right)",
+      "answer1": "\\text{A) }\\frac{3}{x^2}+\\frac{3}{x^2}",
+      "answer2": "\\text{B) }-\\frac{3}{x^2}-\\frac{8}{x^2}",
+      "answer3": "\\text{C) }\\frac{1}{x^2}+\\frac{8}{x^5}",
+      "answer4": "\\text{D) }\\frac{25}{x^6}-\\frac{20}{x^5}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{3}{x^2}+\\frac{2}{x^3}\\right)",
+      "answer1": "\\text{A) }-\\frac{18}{x^4}-\\frac{12}{x^4}",
+      "answer2": "\\text{B) }-\\frac{4}{x^2}+\\frac{10}{x^3}",
+      "answer3": "\\text{C) }\\frac{21}{x^4}-\\frac{24}{x^4}",
+      "answer4": "\\text{D) }-\\frac{6}{x^3}-\\frac{6}{x^4}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{8}{x^5}+\\frac{5}{x^5}\\right)",
+      "answer1": "\\text{A) }-\\frac{6}{x^4}-\\frac{24}{x^4}",
+      "answer2": "\\text{B) }-\\frac{3}{x^4}-\\frac{30}{x^6}",
+      "answer3": "\\text{C) }-\\frac{12}{x^5}+\\frac{25}{x^6}",
+      "answer4": "\\text{D) }-\\frac{40}{x^6}-\\frac{25}{x^6}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{4}{x^3}+\\frac{3}{x^5}\\right)",
+      "answer1": "\\text{A) }-\\frac{12}{x^4}-\\frac{15}{x^6}",
+      "answer2": "\\text{B) }-\\frac{2}{x^3}+\\frac{30}{x^6}",
+      "answer3": "\\text{C) }-\\frac{4}{x^3}+\\frac{2}{x^3}",
+      "answer4": "\\text{D) }-\\frac{5}{x^2}-\\frac{8}{x^3}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{8}{x^3}+\\frac{3}{x^2}\\right)",
+      "answer1": "\\text{A) }\\frac{5}{x^2}+\\frac{2}{x^3}",
+      "answer2": "\\text{B) }-\\frac{6}{x^3}-\\frac{1}{x^2}",
+      "answer3": "\\text{C) }-\\frac{24}{x^4}-\\frac{6}{x^3}",
+      "answer4": "\\text{D) }-\\frac{28}{x^5}+\\frac{12}{x^5}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{3}{x^3}+\\frac{5}{x}\\right)",
+      "answer1": "\\text{A) }\\frac{5}{x^2}+\\frac{7}{x^2}",
+      "answer2": "\\text{B) }\\frac{9}{x^4}-\\frac{5}{x^2}",
+      "answer3": "\\text{C) }\\frac{2}{x^3}-\\frac{40}{x^6}",
+      "answer4": "\\text{D) }-\\frac{8}{x^2}+\\frac{6}{x^4}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{4}{x}-\\frac{6}{x^4}\\right)",
+      "answer1": "\\text{A) }-\\frac{5}{x^2}-\\frac{32}{x^5}",
+      "answer2": "\\text{B) }-\\frac{4}{x^2}+\\frac{24}{x^5}",
+      "answer3": "\\text{C) }-\\frac{2}{x^2}+\\frac{12}{x^5}",
+      "answer4": "\\text{D) }\\frac{1}{x^2}-\\frac{4}{x^3}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{1}{x^5}-\\frac{3}{x}\\right)",
+      "answer1": "\\text{A) }\\frac{5}{x^6}+\\frac{3}{x^2}",
+      "answer2": "\\text{B) }-\\frac{8}{x^5}-\\frac{18}{x^4}",
+      "answer3": "\\text{C) }-\\frac{16}{x^5}-\\frac{15}{x^6}",
+      "answer4": "\\text{D) }-\\frac{25}{x^6}+\\frac{3}{x^4}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{2}{x^5}+\\frac{2}{x^2}\\right)",
+      "answer1": "\\text{A) }\\frac{12}{x^5}-\\frac{4}{x^2}",
+      "answer2": "\\text{B) }-\\frac{16}{x^3}-\\frac{35}{x^6}",
+      "answer3": "\\text{C) }-\\frac{10}{x^6}-\\frac{4}{x^3}",
+      "answer4": "\\text{D) }-\\frac{6}{x^3}+\\frac{4}{x^5}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{5}{x^2}+\\frac{7}{x}\\right)",
+      "answer1": "\\text{A) }-\\frac{10}{x^3}-\\frac{7}{x^2}",
+      "answer2": "\\text{B) }\\frac{16}{x^5}-\\frac{15}{x^4}",
+      "answer3": "\\text{C) }-\\frac{8}{x^2}+\\frac{10}{x^3}",
+      "answer4": "\\text{D) }-\\frac{6}{x^3}-\\frac{10}{x^6}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{2}{x^5}+\\frac{4}{x^4}\\right)",
+      "answer1": "\\text{A) }\\frac{2}{x^3}+\\frac{30}{x^6}",
+      "answer2": "\\text{B) }\\frac{6}{x^4}-\\frac{30}{x^6}",
+      "answer3": "\\text{C) }\\frac{30}{x^6}+\\frac{15}{x^4}",
+      "answer4": "\\text{D) }-\\frac{10}{x^6}-\\frac{16}{x^5}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{1}{x^3}-\\frac{5}{x^3}\\right)",
+      "answer1": "\\text{A) }\\frac{12}{x^5}-\\frac{7}{x^2}",
+      "answer2": "\\text{B) }-\\frac{16}{x^5}+\\frac{5}{x^6}",
+      "answer3": "\\text{C) }-\\frac{3}{x^4}+\\frac{15}{x^4}",
+      "answer4": "\\text{D) }\\frac{35}{x^6}-\\frac{8}{x^2}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{7}{x^3}-\\frac{1}{x^5}\\right)",
+      "answer1": "\\text{A) }-\\frac{21}{x^4}+\\frac{5}{x^6}",
+      "answer2": "\\text{B) }\\frac{2}{x^3}-\\frac{18}{x^4}",
+      "answer3": "\\text{C) }\\frac{4}{x^3}-\\frac{2}{x^3}",
+      "answer4": "\\text{D) }-\\frac{24}{x^4}-\\frac{12}{x^5}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{5}{x^2}+\\frac{3}{x}\\right)",
+      "answer1": "\\text{A) }-\\frac{25}{x^6}-\\frac{4}{x^5}",
+      "answer2": "\\text{B) }\\frac{3}{x^4}+\\frac{12}{x^5}",
+      "answer3": "\\text{C) }\\frac{10}{x^3}-\\frac{3}{x^2}",
+      "answer4": "\\text{D) }-\\frac{3}{x^2}-\\frac{8}{x^5}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{6}{x}+\\frac{7}{x}\\right)",
+      "answer1": "\\text{A) }-\\frac{35}{x^6}+\\frac{3}{x^4}",
+      "answer2": "\\text{B) }\\frac{6}{x^2}-\\frac{7}{x^2}",
+      "answer3": "\\text{C) }\\frac{12}{x^4}+\\frac{24}{x^5}",
+      "answer4": "\\text{D) }-\\frac{6}{x^4}+\\frac{6}{x^4}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{3}{x}-\\frac{2}{x^3}\\right)",
+      "answer1": "\\text{A) }\\frac{6}{x^4}+\\frac{18}{x^4}",
+      "answer2": "\\text{B) }-\\frac{16}{x^3}+\\frac{20}{x^6}",
+      "answer3": "\\text{C) }\\frac{20}{x^5}-\\frac{5}{x^6}",
+      "answer4": "\\text{D) }-\\frac{3}{x^2}+\\frac{6}{x^4}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{4}{x^5}+\\frac{8}{x^2}\\right)",
+      "answer1": "\\text{A) }-\\frac{40}{x^6}-\\frac{5}{x^6}",
+      "answer2": "\\text{B) }\\frac{20}{x^6}-\\frac{16}{x^3}",
+      "answer3": "\\text{C) }\\frac{2}{x^3}-\\frac{6}{x^4}",
+      "answer4": "\\text{D) }\\frac{21}{x^4}+\\frac{3}{x^4}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{6}{x^4}+\\frac{7}{x^3}\\right)",
+      "answer1": "\\text{A) }-\\frac{12}{x^5}-\\frac{15}{x^4}",
+      "answer2": "\\text{B) }\\frac{20}{x^6}-\\frac{12}{x^5}",
+      "answer3": "\\text{C) }-\\frac{24}{x^5}-\\frac{21}{x^4}",
+      "answer4": "\\text{D) }-\\frac{4}{x^2}+\\frac{6}{x^2}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{1}{x^2}+\\frac{1}{x^2}\\right)",
+      "answer1": "\\text{A) }\\frac{25}{x^6}-\\frac{18}{x^4}",
+      "answer2": "\\text{B) }\\frac{2}{x^3}-\\frac{2}{x^3}",
+      "answer3": "\\text{C) }\\frac{20}{x^6}-\\frac{6}{x^3}",
+      "answer4": "\\text{D) }-\\frac{9}{x^4}+\\frac{28}{x^5}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{6}{x^5}-\\frac{1}{x^4}\\right)",
+      "answer1": "\\text{A) }\\frac{10}{x^6}+\\frac{20}{x^6}",
+      "answer2": "\\text{B) }\\frac{20}{x^6}-\\frac{24}{x^4}",
+      "answer3": "\\text{C) }-\\frac{30}{x^6}+\\frac{4}{x^5}",
+      "answer4": "\\text{D) }-\\frac{2}{x^2}+\\frac{7}{x^2}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{4}{x^2}+\\frac{1}{x}\\right)",
+      "answer1": "\\text{A) }-\\frac{24}{x^4}+\\frac{4}{x^2}",
+      "answer2": "\\text{B) }\\frac{8}{x^3}-\\frac{1}{x^2}",
+      "answer3": "\\text{C) }-\\frac{21}{x^4}+\\frac{21}{x^4}",
+      "answer4": "\\text{D) }-\\frac{3}{x^4}-\\frac{6}{x^3}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{6}{x^5}-\\frac{3}{x^3}\\right)",
+      "answer1": "\\text{A) }\\frac{6}{x^4}+\\frac{2}{x^3}",
+      "answer2": "\\text{B) }-\\frac{30}{x^6}-\\frac{10}{x^6}",
+      "answer3": "\\text{C) }\\frac{12}{x^5}+\\frac{5}{x^2}",
+      "answer4": "\\text{D) }\\frac{30}{x^6}+\\frac{9}{x^4}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{3}{x^5}+\\frac{1}{x^2}\\right)",
+      "answer1": "\\text{A) }\\frac{4}{x^5}-\\frac{8}{x^5}",
+      "answer2": "\\text{B) }-\\frac{15}{x^6}-\\frac{2}{x^3}",
+      "answer3": "\\text{C) }-\\frac{7}{x^2}+\\frac{12}{x^3}",
+      "answer4": "\\text{D) }\\frac{21}{x^4}-\\frac{7}{x^2}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{1}{x^2}-\\frac{4}{x^4}\\right)",
+      "answer1": "\\text{A) }-\\frac{35}{x^6}-\\frac{12}{x^4}",
+      "answer2": "\\text{B) }\\frac{9}{x^4}-\\frac{32}{x^5}",
+      "answer3": "\\text{C) }-\\frac{12}{x^3}+\\frac{4}{x^3}",
+      "answer4": "\\text{D) }\\frac{2}{x^3}+\\frac{16}{x^5}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{5}{x}-\\frac{5}{x^2}\\right)",
+      "answer1": "\\text{A) }\\frac{21}{x^4}-\\frac{12}{x^5}",
+      "answer2": "\\text{B) }-\\frac{5}{x^2}+\\frac{10}{x^3}",
+      "answer3": "\\text{C) }\\frac{3}{x^4}+\\frac{1}{x^2}",
+      "answer4": "\\text{D) }\\frac{20}{x^6}+\\frac{28}{x^5}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{3}{x^2}-\\frac{6}{x^3}\\right)",
+      "answer1": "\\text{A) }-\\frac{12}{x^4}-\\frac{24}{x^5}",
+      "answer2": "\\text{B) }-\\frac{15}{x^4}+\\frac{14}{x^3}",
+      "answer3": "\\text{C) }\\frac{9}{x^4}-\\frac{4}{x^2}",
+      "answer4": "\\text{D) }-\\frac{6}{x^3}+\\frac{18}{x^4}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{8}{x^2}+\\frac{6}{x^3}\\right)",
+      "answer1": "\\text{A) }\\frac{1}{x^2}-\\frac{5}{x^2}",
+      "answer2": "\\text{B) }\\frac{4}{x^3}+\\frac{20}{x^6}",
+      "answer3": "\\text{C) }-\\frac{16}{x^3}-\\frac{18}{x^4}",
+      "answer4": "\\text{D) }\\frac{25}{x^6}+\\frac{5}{x^2}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{3}{x}-\\frac{1}{x}\\right)",
+      "answer1": "\\text{A) }\\frac{8}{x^5}+\\frac{6}{x^3}",
+      "answer2": "\\text{B) }\\frac{3}{x^2}+\\frac{12}{x^4}",
+      "answer3": "\\text{C) }-\\frac{3}{x^2}+\\frac{1}{x^2}",
+      "answer4": "\\text{D) }-\\frac{4}{x^2}-\\frac{5}{x^6}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{6}{x^2}+\\frac{4}{x^5}\\right)",
+      "answer1": "\\text{A) }-\\frac{12}{x^3}-\\frac{20}{x^6}",
+      "answer2": "\\text{B) }-\\frac{15}{x^4}+\\frac{2}{x^2}",
+      "answer3": "\\text{C) }-\\frac{8}{x^3}+\\frac{4}{x^2}",
+      "answer4": "\\text{D) }\\frac{9}{x^4}+\\frac{3}{x^2}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{1}{x^3}+\\frac{5}{x^5}\\right)",
+      "answer1": "\\text{A) }\\frac{8}{x^5}+\\frac{35}{x^6}",
+      "answer2": "\\text{B) }\\frac{3}{x^4}-\\frac{25}{x^6}",
+      "answer3": "\\text{C) }\\frac{7}{x^2}+\\frac{6}{x^4}",
+      "answer4": "\\text{D) }-\\frac{10}{x^6}-\\frac{12}{x^5}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{8}{x^5}+\\frac{6}{x^3}\\right)",
+      "answer1": "\\text{A) }\\frac{20}{x^6}+\\frac{25}{x^6}",
+      "answer2": "\\text{B) }-\\frac{40}{x^6}-\\frac{18}{x^4}",
+      "answer3": "\\text{C) }-\\frac{20}{x^5}+\\frac{12}{x^5}",
+      "answer4": "\\text{D) }\\frac{14}{x^3}+\\frac{3}{x^4}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{1}{x^2}+\\frac{6}{x^3}\\right)",
+      "answer1": "\\text{A) }\\frac{16}{x^5}+\\frac{6}{x^4}",
+      "answer2": "\\text{B) }-\\frac{4}{x^2}-\\frac{9}{x^4}",
+      "answer3": "\\text{C) }-\\frac{2}{x^3}-\\frac{18}{x^4}",
+      "answer4": "\\text{D) }\\frac{12}{x^3}+\\frac{12}{x^3}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{6}{x^4}+\\frac{8}{x^4}\\right)",
+      "answer1": "\\text{A) }\\frac{3}{x^4}-\\frac{18}{x^4}",
+      "answer2": "\\text{B) }-\\frac{24}{x^5}-\\frac{32}{x^5}",
+      "answer3": "\\text{C) }-\\frac{1}{x^2}+\\frac{2}{x^2}",
+      "answer4": "\\text{D) }-\\frac{10}{x^6}+\\frac{12}{x^5}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{4}{x^5}-\\frac{5}{x^4}\\right)",
+      "answer1": "\\text{A) }-\\frac{2}{x^2}-\\frac{12}{x^3}",
+      "answer2": "\\text{B) }\\frac{12}{x^5}+\\frac{3}{x^2}",
+      "answer3": "\\text{C) }-\\frac{4}{x^2}+\\frac{12}{x^3}",
+      "answer4": "\\text{D) }\\frac{20}{x^6}+\\frac{20}{x^5}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{7}{x^4}-\\frac{7}{x^5}\\right)",
+      "answer1": "\\text{A) }-\\frac{7}{x^2}+\\frac{2}{x^3}",
+      "answer2": "\\text{B) }\\frac{3}{x^2}-\\frac{30}{x^6}",
+      "answer3": "\\text{C) }\\frac{28}{x^5}+\\frac{35}{x^6}",
+      "answer4": "\\text{D) }\\frac{20}{x^6}-\\frac{12}{x^4}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{4}{x}-\\frac{2}{x^5}\\right)",
+      "answer1": "\\text{A) }\\frac{4}{x^2}+\\frac{10}{x^6}",
+      "answer2": "\\text{B) }\\frac{8}{x^5}-\\frac{1}{x^2}",
+      "answer3": "\\text{C) }-\\frac{20}{x^5}-\\frac{35}{x^6}",
+      "answer4": "\\text{D) }\\frac{21}{x^4}-\\frac{2}{x^2}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{6}{x}-\\frac{2}{x^2}\\right)",
+      "answer1": "\\text{A) }-\\frac{7}{x^2}-\\frac{9}{x^4}",
+      "answer2": "\\text{B) }-\\frac{15}{x^4}-\\frac{30}{x^6}",
+      "answer3": "\\text{C) }-\\frac{10}{x^6}+\\frac{12}{x^4}",
+      "answer4": "\\text{D) }-\\frac{6}{x^2}+\\frac{4}{x^3}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{3}{x^2}+\\frac{8}{x^2}\\right)",
+      "answer1": "\\text{A) }\\frac{14}{x^3}-\\frac{10}{x^6}",
+      "answer2": "\\text{B) }-\\frac{6}{x^3}-\\frac{16}{x^3}",
+      "answer3": "\\text{C) }\\frac{18}{x^4}-\\frac{15}{x^4}",
+      "answer4": "\\text{D) }\\frac{3}{x^2}-\\frac{9}{x^4}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{7}{x^3}+\\frac{4}{x^5}\\right)",
+      "answer1": "\\text{A) }-\\frac{21}{x^4}-\\frac{20}{x^6}",
+      "answer2": "\\text{B) }\\frac{5}{x^6}-\\frac{4}{x^3}",
+      "answer3": "\\text{C) }-\\frac{24}{x^4}-\\frac{8}{x^2}",
+      "answer4": "\\text{D) }-\\frac{30}{x^6}-\\frac{7}{x^2}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{2}{x^3}+\\frac{4}{x^4}\\right)",
+      "answer1": "\\text{A) }\\frac{6}{x^4}-\\frac{16}{x^5}",
+      "answer2": "\\text{B) }\\frac{20}{x^6}-\\frac{28}{x^5}",
+      "answer3": "\\text{C) }\\frac{7}{x^2}-\\frac{10}{x^3}",
+      "answer4": "\\text{D) }-\\frac{15}{x^6}+\\frac{28}{x^5}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{2}{x^3}+\\frac{7}{x^3}\\right)",
+      "answer1": "\\text{A) }-\\frac{30}{x^6}+\\frac{2}{x^2}",
+      "answer2": "\\text{B) }\\frac{24}{x^5}+\\frac{20}{x^5}",
+      "answer3": "\\text{C) }\\frac{21}{x^4}-\\frac{10}{x^3}",
+      "answer4": "\\text{D) }\\frac{6}{x^4}-\\frac{21}{x^4}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{1}{x^2}+\\frac{8}{x^3}\\right)",
+      "answer1": "\\text{A) }-\\frac{8}{x^3}+\\frac{7}{x^2}",
+      "answer2": "\\text{B) }\\frac{3}{x^2}+\\frac{15}{x^6}",
+      "answer3": "\\text{C) }\\frac{6}{x^4}-\\frac{8}{x^5}",
+      "answer4": "\\text{D) }-\\frac{2}{x^3}-\\frac{24}{x^4}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{2}{x^4}+\\frac{5}{x}\\right)",
+      "answer1": "\\text{A) }\\frac{16}{x^5}-\\frac{40}{x^6}",
+      "answer2": "\\text{B) }-\\frac{8}{x^5}-\\frac{5}{x^2}",
+      "answer3": "\\text{C) }-\\frac{2}{x^3}+\\frac{16}{x^5}",
+      "answer4": "\\text{D) }\\frac{2}{x^3}-\\frac{15}{x^6}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{6}{x^2}+\\frac{4}{x^2}\\right)",
+      "answer1": "\\text{A) }\\frac{12}{x^3}-\\frac{8}{x^3}",
+      "answer2": "\\text{B) }-\\frac{5}{x^6}+\\frac{20}{x^5}",
+      "answer3": "\\text{C) }\\frac{21}{x^4}+\\frac{18}{x^4}",
+      "answer4": "\\text{D) }\\frac{2}{x^2}+\\frac{4}{x^3}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{5}{x^5}+\\frac{4}{x^3}\\right)",
+      "answer1": "\\text{A) }\\frac{25}{x^6}-\\frac{12}{x^4}",
+      "answer2": "\\text{B) }\\frac{14}{x^3}-\\frac{4}{x^3}",
+      "answer3": "\\text{C) }-\\frac{21}{x^4}-\\frac{24}{x^4}",
+      "answer4": "\\text{D) }-\\frac{2}{x^3}+\\frac{25}{x^6}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{4}{x}-\\frac{5}{x^3}\\right)",
+      "answer1": "\\text{A) }\\frac{5}{x^2}+\\frac{10}{x^6}",
+      "answer2": "\\text{B) }\\frac{4}{x^2}+\\frac{15}{x^4}",
+      "answer3": "\\text{C) }-\\frac{5}{x^6}-\\frac{12}{x^4}",
+      "answer4": "\\text{D) }-\\frac{40}{x^6}-\\frac{10}{x^6}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{8}{x^5}-\\frac{7}{x}\\right)",
+      "answer1": "\\text{A) }-\\frac{30}{x^6}+\\frac{15}{x^6}",
+      "answer2": "\\text{B) }-\\frac{40}{x^6}+\\frac{7}{x^2}",
+      "answer3": "\\text{C) }\\frac{35}{x^6}-\\frac{4}{x^5}",
+      "answer4": "\\text{D) }\\frac{20}{x^5}+\\frac{10}{x^3}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{2}{x^3}+\\frac{1}{x}\\right)",
+      "answer1": "\\text{A) }\\frac{14}{x^3}+\\frac{6}{x^3}",
+      "answer2": "\\text{B) }-\\frac{25}{x^6}-\\frac{10}{x^6}",
+      "answer3": "\\text{C) }\\frac{30}{x^6}-\\frac{15}{x^6}",
+      "answer4": "\\text{D) }\\frac{6}{x^4}-\\frac{1}{x^2}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{4}{x^5}+\\frac{4}{x^2}\\right)",
+      "answer1": "\\text{A) }-\\frac{10}{x^6}+\\frac{12}{x^3}",
+      "answer2": "\\text{B) }\\frac{20}{x^6}-\\frac{8}{x^3}",
+      "answer3": "\\text{C) }\\frac{6}{x^3}+\\frac{8}{x^3}",
+      "answer4": "\\text{D) }-\\frac{5}{x^2}-\\frac{4}{x^5}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{8}{x^2}+\\frac{3}{x^3}\\right)",
+      "answer1": "\\text{A) }\\frac{24}{x^5}-\\frac{10}{x^3}",
+      "answer2": "\\text{B) }-\\frac{5}{x^6}-\\frac{12}{x^4}",
+      "answer3": "\\text{C) }-\\frac{16}{x^3}-\\frac{9}{x^4}",
+      "answer4": "\\text{D) }\\frac{10}{x^3}+\\frac{12}{x^3}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{1}{x^2}+\\frac{3}{x^3}\\right)",
+      "answer1": "\\text{A) }\\frac{25}{x^6}+\\frac{6}{x^4}",
+      "answer2": "\\text{B) }\\frac{2}{x^3}-\\frac{9}{x^4}",
+      "answer3": "\\text{C) }-\\frac{4}{x^3}+\\frac{12}{x^3}",
+      "answer4": "\\text{D) }\\frac{28}{x^5}-\\frac{12}{x^4}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{7}{x}-\\frac{3}{x^3}\\right)",
+      "answer1": "\\text{A) }-\\frac{10}{x^6}-\\frac{6}{x^2}",
+      "answer2": "\\text{B) }\\frac{6}{x^2}-\\frac{4}{x^5}",
+      "answer3": "\\text{C) }-\\frac{7}{x^2}+\\frac{9}{x^4}",
+      "answer4": "\\text{D) }-\\frac{30}{x^6}-\\frac{6}{x^3}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (\\frac{6}{x^4}-\\frac{5}{x^5}\\right)",
+      "answer1": "\\text{A) }-\\frac{6}{x^3}+\\frac{6}{x^4}",
+      "answer2": "\\text{B) }-\\frac{24}{x^5}+\\frac{25}{x^6}",
+      "answer3": "\\text{C) }\\frac{6}{x^2}-\\frac{8}{x^5}",
+      "answer4": "\\text{D) }\\frac{5}{x^6}-\\frac{16}{x^3}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-\\frac{6}{x^3}-\\frac{3}{x}\\right)",
+      "answer1": "\\text{A) }-\\frac{21}{x^4}-\\frac{30}{x^6}",
+      "answer2": "\\text{B) }\\frac{20}{x^6}-\\frac{4}{x^2}",
+      "answer3": "\\text{C) }\\frac{18}{x^4}+\\frac{3}{x^2}",
+      "answer4": "\\text{D) }\\frac{10}{x^3}+\\frac{30}{x^6}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    }
+  ]
+}

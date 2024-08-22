@@ -1,0 +1,104 @@
+{
+  "limites_laterales_media": [
+    {
+      "question": "\\lim_{x \\to 0^{+}} \\left (\\frac{1}{x} - \\frac{1}{\\left |x \\right |} \\right)",
+      "answer1": "\\text{A) } ",
+      "answer2": "\\text{B) } 0",
+      "answer3": "\\text{C) } ",
+      "answer4": "\\text{D) } ",
+      "correct": "1",
+      "unlock": "3",
+      "difficulty": "medium"
+    },
+    {
+      "question": "g(x) = \\frac{x^2+x-6}{\\left |x-2 \\right |} \\\\ \\lim_{x \\to 2^{+}} \\left (g(x) \\right)",
+      "answer1": "\\text{A) } 5",
+      "answer2": "\\text{B) } ",
+      "answer3": "\\text{C) } 1",
+      "answer4": "\\text{D) } ",
+      "correct": "0",
+      "unlock": "3",
+      "difficulty": "medium-hard"
+    },
+    {
+      "question": "g(x) = \\frac{x^2+x-6}{\\left |x-2 \\right |} \\\\ \\lim_{x \\to 2^{-}} \\left (g(x) \\right)",
+      "answer1": "\\text{A) } -1",
+      "answer2": "\\text{B) } ",
+      "answer3": "\\text{C) } ",
+      "answer4": "\\text{D) } -5",
+      "correct": "3",
+      "unlock": "3",
+      "difficulty": "medium-hard"
+    },
+    {
+      "question": "g(x) = \\begin{cases} x & \\text{ si } x < 1 \\\\ 3 & \\text{ si } x = 1 \\\\ 2-x^2 & \\text{ si } 1 < x \\le 2 \\\\ x-3 & \\text{ si } x > 2 \\end{cases} \\\\ \\text{halle: } \\lim_{x \\to 1^{-}} \\left (g(x) \\right)",
+      "answer1": "\\text{A) } ",
+      "answer2": "\\text{B) } ",
+      "answer3": "\\text{C) } 1",
+      "answer4": "\\text{D) } ",
+      "correct": "2",
+      "unlock": "3",
+      "difficulty": "medium-hard"
+    },
+    {
+      "question": "g(x) = \\begin{cases} x & \\text{ si } x < 1 \\\\ 3 & \\text{ si } x = 1 \\\\ 2-x^2 & \\text{ si } 1 < x \\le 2 \\\\ x-3 & \\text{ si } x > 2 \\end{cases} \\\\ \\text{halle: } \\lim_{x \\to 1} \\left (g(x) \\right)",
+      "answer1": "\\text{A) } 1",
+      "answer2": "\\text{B) } ",
+      "answer3": "\\text{C) } ",
+      "answer4": "\\text{D) } ",
+      "correct": "0",
+      "unlock": "3",
+      "difficulty": "medium-hard"
+    },
+    {
+      "question": "g(x) = \\begin{cases} x & \\text{ si } x < 1 \\\\ 3 & \\text{ si } x = 1 \\\\ 2-x^2 & \\text{ si } 1 < x \\le 2 \\\\ x-3 & \\text{ si } x > 2 \\end{cases} \\\\ \\text{halle: } g(1))",
+      "answer1": "\\text{A) } ",
+      "answer2": "\\text{B) } 3",
+      "answer3": "\\text{C) } ",
+      "answer4": "\\text{D) } ",
+      "correct": "1",
+      "unlock": "3",
+      "difficulty": "medium-hard"
+    },
+    {
+      "question": "g(x) = \\begin{cases} x & \\text{ si } x < 1 \\\\ 3 & \\text{ si } x = 1 \\\\ 2-x^2 & \\text{ si } 1 < x \\le 2 \\\\ x-3 & \\text{ si } x > 2 \\end{cases} \\\\ \\text{halle: } \\lim_{x \\to 2^{-}} \\left (g(x) \\right)",
+      "answer1": "\\text{A) } ",
+      "answer2": "\\text{B) } ",
+      "answer3": "\\text{C) } -2",
+      "answer4": "\\text{D) }  0",
+      "correct": "2",
+      "unlock": "3",
+      "difficulty": "medium-hard"
+    },
+    {
+      "question": "g(x) = \\begin{cases} x & \\text{ si } x < 1 \\\\ 3 & \\text{ si } x = 1 \\\\ 2-x^2 & \\text{ si } 1 < x \\le 2 \\\\ x-3 & \\text{ si } x > 2 \\end{cases} \\\\ \\text{halle: } \\lim_{x \\to 2^{+}} \\left (g(x) \\right)",
+      "answer1": "\\text{A) } ",
+      "answer2": "\\text{B) } -1",
+      "answer3": "\\text{C) } ",
+      "answer4": "\\text{D) } ",
+      "correct": "1",
+      "unlock": "3",
+      "difficulty": "medium-hard"
+    },
+    {
+      "question": "g(x) = \\begin{cases} x & \\text{ si } x < 1 \\\\ 3 & \\text{ si } x = 1 \\\\ 2-x^2 & \\text{ si } 1 < x \\le 2 \\\\ x-3 & \\text{ si } x > 2 \\end{cases} \\\\ \\text{halle: } \\lim_{x \\to 2} \\left (g(x) \\right)",
+      "answer1": "\\text{A) } ",
+      "answer2": "\\text{B) } ",
+      "answer3": "\\text{C) } ",
+      "answer4": "\\text{D) NO EXISTE }",
+      "correct": "3",
+      "unlock": "3",
+      "difficulty": "medium-hard"
+    },
+    {
+      "question": "\\lim_{x \\to 0.5^{-}} \\left (\\frac{2x-1}{\\left |2x^3-x^2 \\right |} \\right)",
+      "answer1": "\\text{A) }  4",
+      "answer2": "\\text{B) } -4",
+      "answer3": "\\text{C) } ",
+      "answer4": "\\text{D) NO EXISTE }",
+      "correct": "3",
+      "unlock": "3",
+      "difficulty": "medium-hard"
+    }
+  ]
+}

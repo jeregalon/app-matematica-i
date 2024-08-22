@@ -1,0 +1,684 @@
+{
+  "limites_al_infinito_media": [
+    {
+      "question": "\\lim_{t \\to \\infty} \\left (\\frac{\\sqrt{t}+t^2}{2t-t^2} \\right)",
+      "answer1": "\\text{A) } ",
+      "answer2": "\\text{B) } ",
+      "answer3": "\\text{C) } ",
+      "answer4": "\\text{D) } -1",
+      "correct": "3",
+      "unlock": "5",
+      "difficulty": "medium"
+    },
+    {
+      "question": "\\lim_{t \\to \\infty} \\left (\\frac{t-t\\sqrt{t}}{2t^{\\frac{3}{2}}+3t-5} \\right)",
+      "answer1": "\\text{A) } -\\frac{1}{2}",
+      "answer2": "\\text{B) } ",
+      "answer3": "\\text{C) } ",
+      "answer4": "\\text{D) } ",
+      "correct": "0",
+      "unlock": "5",
+      "difficulty": "medium-hard"
+    },
+    {
+      "question": "\\lim_{x \\to \\infty} \\left (\\frac{(2x^2+1)^2}{(x-1)^2(x^2+x)} \\right)",
+      "answer1": "\\text{A) } ",
+      "answer2": "\\text{B) } 4",
+      "answer3": "\\text{C) } ",
+      "answer4": "\\text{D) } ",
+      "correct": "1",
+      "unlock": "5",
+      "difficulty": "medium-hard"
+    },
+    {
+      "question": "\\lim_{x \\to \\infty} \\left (\\frac{x^2}{\\sqrt{x^4+1}} \\right)",
+      "answer1": "\\text{A) } ",
+      "answer2": "\\text{B) } ",
+      "answer3": "\\text{C) } ",
+      "answer4": "\\text{D) } 1",
+      "correct": "3",
+      "unlock": "5",
+      "difficulty": "easy-medium"
+    },
+    {
+      "question": "\\lim_{x \\to \\infty} \\left (\\frac{\\sqrt{9x^6-x}}{x^3+1} \\right)",
+      "answer1": "\\text{A) } ",
+      "answer2": "\\text{B) } ",
+      "answer3": "\\text{C) } 3",
+      "answer4": "\\text{D) } ",
+      "correct": "2",
+      "unlock": "5",
+      "difficulty": "medium"
+    },
+    {
+      "question": "\\lim_{x \\to -\\infty} \\left (\\frac{\\sqrt{9x^6-x}}{x^3+1} \\right)",
+      "answer1": "\\text{A) } -3",
+      "answer2": "\\text{B) } ",
+      "answer3": "\\text{C) } ",
+      "answer4": "\\text{D) } ",
+      "correct": "0",
+      "unlock": "5",
+      "difficulty": "medium-hard"
+    },
+    {
+      "question": "\\lim_{x \\to \\infty} \\left (\\sqrt{9x^2+x}-3x \\right)",
+      "answer1": "\\text{A) } ",
+      "answer2": "\\text{B) } \\frac{1}{6}",
+      "answer3": "\\text{C) } ",
+      "answer4": "\\text{D) } ",
+      "correct": "1",
+      "unlock": "5",
+      "difficulty": "medium-hard"
+    },
+    {
+      "question": "\\lim_{x \\to \\infty} \\left (e^{-x}+2cos3x \\right)",
+      "answer1": "\\text{A) } ",
+      "answer2": "\\text{B) NO EXISTE }",
+      "answer3": "\\text{C) } ",
+      "answer4": "\\text{D) } ",
+      "correct": "1",
+      "unlock": "5",
+      "difficulty": "medium-hard"
+    },
+    {
+      "question": "\\lim_{x \\to -\\infty} \\left (x^4+x^5 \\right)",
+      "answer1": "\\text{A) } -\\infty",
+      "answer2": "\\text{B) } ",
+      "answer3": "\\text{C) } ",
+      "answer4": "\\text{D) } ",
+      "correct": "0",
+      "unlock": "5",
+      "difficulty": "easy-medium"
+    },
+    {
+      "question": "\\lim_{x \\to -\\infty} \\left (\\frac{1+x^6}{x^4+1} \\right)",
+      "answer1": "\\text{A) } ",
+      "answer2": "\\text{B) } ",
+      "answer3": "\\text{C) } ",
+      "answer4": "\\text{D) } \\infty",
+      "correct": "3",
+      "unlock": "5",
+      "difficulty": "easy-medium"
+    },
+    {
+      "question": "\\lim_{x \\to \\infty} \\left (arctan(e^{x}) \\right)",
+      "answer1": "\\text{A) } ",
+      "answer2": "\\text{B) } \\frac{\\pi}{2}",
+      "answer3": "\\text{C) } ",
+      "answer4": "\\text{D) } ",
+      "correct": "1",
+      "unlock": "5",
+      "difficulty": "medium"
+    },
+    {
+      "question": "\\lim_{x \\to \\infty} \\left (\\frac{e^{3x}-e^{-3x}}{e^{3x}+e^{-3x}} \\right)",
+      "answer1": "\\text{A) } 1",
+      "answer2": "\\text{B) } ",
+      "answer3": "\\text{C) } ",
+      "answer4": "\\text{D) } ",
+      "correct": "0",
+      "unlock": "5",
+      "difficulty": "medium-hard"
+    },
+    {
+      "question": "\\lim_{x \\to \\infty} \\left (\\frac{1-e^{x}}{1+2e^{x}} \\right)",
+      "answer1": "\\text{A) } ",
+      "answer2": "\\text{B) } ",
+      "answer3": "\\text{C) } -\\frac{1}{2}",
+      "answer4": "\\text{D) } ",
+      "correct": "2",
+      "unlock": "5",
+      "difficulty": "easy-medium"
+    },
+    {
+      "question": "\\lim_{x \\to \\infty} \\left (2x^3-x^4 \\right)",
+      "answer1": "\\text{A) } ",
+      "answer2": "\\text{B) } ",
+      "answer3": "\\text{C) } -\\infty",
+      "answer4": "\\text{D) } ",
+      "correct": "2",
+      "unlock": "5",
+      "difficulty": "easy-medium"
+    },
+    {
+      "question": "\\lim_{x \\to \\infty} \\left (x^4-x^6 \\right)",
+      "answer1": "\\text{A) } ",
+      "answer2": "\\text{B) } -\\infty",
+      "answer3": "\\text{C) } ",
+      "answer4": "\\text{D) } ",
+      "correct": "1",
+      "unlock": "5",
+      "difficulty": "easy-medium"
+    },
+    {
+      "question": "\\lim_{x \\to -\\infty} \\left (x^{3}(x+2)^{2}(x-1) \\right)",
+      "answer1": "\\text{A) } ",
+      "answer2": "\\text{B) } ",
+      "answer3": "\\text{C) } ",
+      "answer4": "\\text{D) } \\infty",
+      "correct": "3",
+      "unlock": "5",
+      "difficulty": "medium"
+    },
+    {
+      "question": "\\lim_{x \\to \\infty} \\left (3-x)(1+x)^{2}(1-x \\right)^{4}",
+      "answer1": "\\text{A) } -\\infty",
+      "answer2": "\\text{B) } ",
+      "answer3": "\\text{C) } ",
+      "answer4": "\\text{D) } ",
+      "correct": "0",
+      "unlock": "5",
+      "difficulty": "medium"
+    },
+    {
+      "question": "\\lim_{x \\to -\\infty} \\left (x^{2}(x^2-1)^{2}(x+2) \\right)",
+      "answer1": "\\text{A) } ",
+      "answer2": "\\text{B) } -\\infty",
+      "answer3": "\\text{C) } ",
+      "answer4": "\\text{D) } ",
+      "correct": "1",
+      "unlock": "5",
+      "difficulty": "medium"
+    },
+    {
+      "question": "\\lim_{x \\to -\\infty} \\left( -4\\,x^7+6\\,x^6-2 \\right)",
+      "answer1": "\\text{A) }-3",
+      "answer2": "\\text{B) }-\\infty",
+      "answer3": "\\text{C) }3",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -\\infty} \\left( 2\\,x^6+x^4+3\\,x^3 \\right)",
+      "answer1": "\\text{A) }-1",
+      "answer2": "\\text{B) }-\\infty",
+      "answer3": "\\text{C) }10",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -\\infty} \\left( 5\\,x^7+6\\,x^3+7\\,x+6 \\right)",
+      "answer1": "\\text{A) }-\\infty",
+      "answer2": "\\text{B) }-8",
+      "answer3": "\\text{C) }-1",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -\\infty} \\left( -9\\,x^7+10\\,x^6+9\\,x^2 \\right)",
+      "answer1": "\\text{A) }-5",
+      "answer2": "\\text{B) }-\\infty",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to \\infty} \\left( -4\\,x^8-9\\,x^7+2\\,x^3-6\\,x^2 \\right)",
+      "answer1": "\\text{A) }-8",
+      "answer2": "\\text{B) }-1",
+      "answer3": "\\text{C) }-\\infty",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -\\infty} \\left( 7\\,x^4+x^2+3\\,x \\right)",
+      "answer1": "\\text{A) }1",
+      "answer2": "\\text{B) }-\\infty",
+      "answer3": "\\text{C) }-2",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to \\infty} \\left( 3\\,x^9+8\\,x^6-x^4+5\\,x^3 \\right)",
+      "answer1": "\\text{A) }2",
+      "answer2": "\\text{B) }1",
+      "answer3": "\\text{C) }\\infty",
+      "answer4": "\\text{D) }-\\infty",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -\\infty} \\left( -8\\,x^8+x^6+8\\,x^5 \\right)",
+      "answer1": "\\text{A) }3",
+      "answer2": "\\text{B) }-\\infty",
+      "answer3": "\\text{C) }\\infty",
+      "answer4": "\\text{D) }7",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -\\infty} \\left( -x^9-x^7-8\\,x^2+2 \\right)",
+      "answer1": "\\text{A) }3",
+      "answer2": "\\text{B) }-\\infty",
+      "answer3": "\\text{C) }2",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to \\infty} \\left( -9\\,x^8-5\\,x^6+8\\,x^3-5\\,x^2 \\right)",
+      "answer1": "\\text{A) }-\\infty",
+      "answer2": "\\text{B) }8",
+      "answer3": "\\text{C) }-4",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to \\infty} \\left( 4\\,x^9-6\\,x^7+7\\,x^5-5\\,x^3 \\right)",
+      "answer1": "\\text{A) }-7",
+      "answer2": "\\text{B) }4",
+      "answer3": "\\text{C) }\\infty",
+      "answer4": "\\text{D) }-\\infty",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to \\infty} \\left( 9\\,x^7-7\\,x^6+x^3+8\\,x \\right)",
+      "answer1": "\\text{A) }-1",
+      "answer2": "\\text{B) }6",
+      "answer3": "\\text{C) }\\infty",
+      "answer4": "\\text{D) }-\\infty",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to \\infty} \\left( 9\\,x^6+8\\,x^2+x+9 \\right)",
+      "answer1": "\\text{A) }9",
+      "answer2": "\\text{B) }-\\infty",
+      "answer3": "\\text{C) }-4",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to \\infty} \\left( 6\\,x^8-11\\,x^6+9 \\right)",
+      "answer1": "\\text{A) }10",
+      "answer2": "\\text{B) }-4",
+      "answer3": "\\text{C) }\\infty",
+      "answer4": "\\text{D) }-\\infty",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -\\infty} \\left( -5\\,x^7+2\\,x^6+2\\,x+8 \\right)",
+      "answer1": "\\text{A) }-4",
+      "answer2": "\\text{B) }0",
+      "answer3": "\\text{C) }\\infty",
+      "answer4": "\\text{D) }-\\infty",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -\\infty} \\left( -7\\,x^3+12\\,x^2+5 \\right)",
+      "answer1": "\\text{A) }-6",
+      "answer2": "\\text{B) }5",
+      "answer3": "\\text{C) }\\infty",
+      "answer4": "\\text{D) }-\\infty",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -\\infty} \\left( -4\\,x^9+9\\,x^5-5\\,x^3-9 \\right)",
+      "answer1": "\\text{A) }\\infty",
+      "answer2": "\\text{B) }-9",
+      "answer3": "\\text{C) }7",
+      "answer4": "\\text{D) }-\\infty",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -\\infty} \\left( -3\\,x^7+6\\,x^6+10\\,x^3+2\\,x \\right)",
+      "answer1": "\\text{A) }6",
+      "answer2": "\\text{B) }-2",
+      "answer3": "\\text{C) }\\infty",
+      "answer4": "\\text{D) }-\\infty",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -\\infty} \\left( -x^9-8\\,x^7-1 \\right)",
+      "answer1": "\\text{A) }\\infty",
+      "answer2": "\\text{B) }-2",
+      "answer3": "\\text{C) }-7",
+      "answer4": "\\text{D) }-\\infty",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -\\infty} \\left( -8\\,x^9+5\\,x^2-8\\,x+3 \\right)",
+      "answer1": "\\text{A) }\\infty",
+      "answer2": "\\text{B) }-5",
+      "answer3": "\\text{C) }-3",
+      "answer4": "\\text{D) }-\\infty",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to \\infty} \\left( -x^8+3\\,x^6-2\\,x^2+6 \\right)",
+      "answer1": "\\text{A) }-8",
+      "answer2": "\\text{B) }\\infty",
+      "answer3": "\\text{C) }5",
+      "answer4": "\\text{D) }-\\infty",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -\\infty} \\left( -9\\,x^6-8\\,x^4-5\\,x^2+5\\,x \\right)",
+      "answer1": "\\text{A) }6",
+      "answer2": "\\text{B) }\\infty",
+      "answer3": "\\text{C) }9",
+      "answer4": "\\text{D) }-\\infty",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to \\infty} \\left( 6\\,x^9-11\\,x^7+x^2 \\right)",
+      "answer1": "\\text{A) }-3",
+      "answer2": "\\text{B) }6",
+      "answer3": "\\text{C) }\\infty",
+      "answer4": "\\text{D) }-\\infty",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to \\infty} \\left( 9\\,x^9-8\\,x^7-6\\,x \\right)",
+      "answer1": "\\text{A) }-2",
+      "answer2": "\\text{B) }-3",
+      "answer3": "\\text{C) }\\infty",
+      "answer4": "\\text{D) }-\\infty",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -\\infty} \\left( -2\\,x^9+13\\,x^6-6\\,x \\right)",
+      "answer1": "\\text{A) }-8",
+      "answer2": "\\text{B) }\\infty",
+      "answer3": "\\text{C) }-\\infty",
+      "answer4": "\\text{D) }2",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to \\infty} \\left( 4\\,x^9-7\\,x^6-6\\,x^4-7\\,x^2 \\right)",
+      "answer1": "\\text{A) }-6",
+      "answer2": "\\text{B) }\\infty",
+      "answer3": "\\text{C) }-\\infty",
+      "answer4": "\\text{D) }-8",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -\\infty} \\left( 3\\,x^9-2\\,x^8+10\\,x^7+7\\,x^3 \\right)",
+      "answer1": "\\text{A) }1",
+      "answer2": "\\text{B) }-\\infty",
+      "answer3": "\\text{C) }\\infty",
+      "answer4": "\\text{D) }6",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -\\infty} \\left( 6\\,x^9-7\\,x^7+3\\,x^6+2\\,x^3 \\right)",
+      "answer1": "\\text{A) }-6",
+      "answer2": "\\text{B) }-\\infty",
+      "answer3": "\\text{C) }\\infty",
+      "answer4": "\\text{D) }-1",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to \\infty} \\left( -8\\,x^7-7\\,x^5+3\\,x+6 \\right)",
+      "answer1": "\\text{A) }-\\infty",
+      "answer2": "\\text{B) }3",
+      "answer3": "\\text{C) }-8",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to \\infty} \\left( -6\\,x^6-4\\,x^3-7\\,x^2 \\right)",
+      "answer1": "\\text{A) }-\\infty",
+      "answer2": "\\text{B) }-5",
+      "answer3": "\\text{C) }-8",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to \\infty} \\left( 11\\,x^9+6\\,x^5+7\\,x^4 \\right)",
+      "answer1": "\\text{A) }4",
+      "answer2": "\\text{B) }\\infty",
+      "answer3": "\\text{C) }-\\infty",
+      "answer4": "\\text{D) }6",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to \\infty} \\left( 9\\,x^8-7\\,x^7-3\\,x^5 \\right)",
+      "answer1": "\\text{A) }\\infty",
+      "answer2": "\\text{B) }-5",
+      "answer3": "\\text{C) }2",
+      "answer4": "\\text{D) }-\\infty",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to \\infty} \\left( 6\\,x^9-9\\,x^7-9\\,x^2-2\\,x \\right)",
+      "answer1": "\\text{A) }10",
+      "answer2": "\\text{B) }-\\infty",
+      "answer3": "\\text{C) }9",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -\\infty} \\left( -x^9-3\\,x^3-7\\,x^2-8\\,x \\right)",
+      "answer1": "\\text{A) }-1",
+      "answer2": "\\text{B) }-7",
+      "answer3": "\\text{C) }\\infty",
+      "answer4": "\\text{D) }-\\infty",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -\\infty} \\left( x^7-2\\,x^6 \\right)",
+      "answer1": "\\text{A) }-4",
+      "answer2": "\\text{B) }-9",
+      "answer3": "\\text{C) }-\\infty",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to \\infty} \\left( 15\\,x^5+4\\,x^4+2\\,x \\right)",
+      "answer1": "\\text{A) }9",
+      "answer2": "\\text{B) }2",
+      "answer3": "\\text{C) }\\infty",
+      "answer4": "\\text{D) }-\\infty",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -\\infty} \\left( -8\\,x^8-4\\,x^5+6\\,x \\right)",
+      "answer1": "\\text{A) }-9",
+      "answer2": "\\text{B) }\\infty",
+      "answer3": "\\text{C) }4",
+      "answer4": "\\text{D) }-\\infty",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to \\infty} \\left( -4\\,x^5+x^3+2\\,x \\right)",
+      "answer1": "\\text{A) }3",
+      "answer2": "\\text{B) }10",
+      "answer3": "\\text{C) }-\\infty",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -\\infty} \\left( -9\\,x^8-2\\,x^4-3\\,x^2-2 \\right)",
+      "answer1": "\\text{A) }9",
+      "answer2": "\\text{B) }1",
+      "answer3": "\\text{C) }-\\infty",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to \\infty} \\left( -4\\,x^5+16\\,x^4-2\\,x^3 \\right)",
+      "answer1": "\\text{A) }-6",
+      "answer2": "\\text{B) }-\\infty",
+      "answer3": "\\text{C) }\\infty",
+      "answer4": "\\text{D) }7",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to \\infty} \\left( -x^8+5\\,x^7-3\\,x \\right)",
+      "answer1": "\\text{A) }1",
+      "answer2": "\\text{B) }\\infty",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }-\\infty",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to \\infty} \\left( 3\\,x^9+x^7+5\\,x^3-8\\,x^2 \\right)",
+      "answer1": "\\text{A) }\\infty",
+      "answer2": "\\text{B) }-3",
+      "answer3": "\\text{C) }-6",
+      "answer4": "\\text{D) }-\\infty",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to \\infty} \\left( 5\\,x^7-2\\,x^5-7\\,x \\right)",
+      "answer1": "\\text{A) }-1",
+      "answer2": "\\text{B) }\\infty",
+      "answer3": "\\text{C) }-\\infty",
+      "answer4": "\\text{D) }4",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to \\infty} \\left( 3\\,x^9-4\\,x^5+6\\,x^4+6\\,x \\right)",
+      "answer1": "\\text{A) }-2",
+      "answer2": "\\text{B) }\\infty",
+      "answer3": "\\text{C) }-\\infty",
+      "answer4": "\\text{D) }-1",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -\\infty} \\left( 4\\,x^8-5\\,x^6+10\\,x \\right)",
+      "answer1": "\\text{A) }0",
+      "answer2": "\\text{B) }-\\infty",
+      "answer3": "\\text{C) }7",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to \\infty} \\left( -9\\,x^4-7\\,x^3-8\\,x^2-6\\,x \\right)",
+      "answer1": "\\text{A) }5",
+      "answer2": "\\text{B) }\\infty",
+      "answer3": "\\text{C) }6",
+      "answer4": "\\text{D) }-\\infty",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -\\infty} \\left( 6\\,x^9-6\\,x^6-9\\,x^2-7\\,x \\right)",
+      "answer1": "\\text{A) }-9",
+      "answer2": "\\text{B) }-3",
+      "answer3": "\\text{C) }-\\infty",
+      "answer4": "\\text{D) }\\infty",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to \\infty} \\left( 7\\,x^4+13\\,x^3-9\\,x \\right)",
+      "answer1": "\\text{A) }\\infty",
+      "answer2": "\\text{B) }-4",
+      "answer3": "\\text{C) }2",
+      "answer4": "\\text{D) }-\\infty",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -\\infty} \\left( -9\\,x^7-x^5-9\\,x^3 \\right)",
+      "answer1": "\\text{A) }-4",
+      "answer2": "\\text{B) }\\infty",
+      "answer3": "\\text{C) }-\\infty",
+      "answer4": "\\text{D) }2",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -\\infty} \\left( -2\\,x^4-6\\,x+6 \\right)",
+      "answer1": "\\text{A) }1",
+      "answer2": "\\text{B) }\\infty",
+      "answer3": "\\text{C) }-7",
+      "answer4": "\\text{D) }-\\infty",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    }
+  ]
+}

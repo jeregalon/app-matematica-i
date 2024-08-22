@@ -1,0 +1,2004 @@
+{
+  "derivadas_de_exponenciales_facil": [
+    {
+      "question": "\\frac{d}{dx} \\left (-3\\,{\\mathrm{e}}^{2\\,x}\\right)",
+      "answer1": "\\text{A) }-2\\,{\\mathrm{e}}^x",
+      "answer2": "\\text{B) }-7\\,{\\mathrm{e}}^{-7\\,x}",
+      "answer3": "\\text{C) }-7\\,{\\mathrm{e}}^{-7\\,x}",
+      "answer4": "\\text{D) }-6\\,{\\mathrm{e}}^{2\\,x}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (3\\,{\\mathrm{e}}^x\\right)",
+      "answer1": "\\text{A) }3\\,{\\mathrm{e}}^x",
+      "answer2": "\\text{B) }40\\,{\\mathrm{e}}^{10\\,x}",
+      "answer3": "\\text{C) }-36\\,{\\mathrm{e}}^{9\\,x}",
+      "answer4": "\\text{D) }-40\\,{\\mathrm{e}}^{-5\\,x}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-3\\,{\\mathrm{e}}^{2\\,x}\\right)",
+      "answer1": "\\text{A) }-36\\,{\\mathrm{e}}^{-9\\,x}",
+      "answer2": "\\text{B) }-12\\,{\\mathrm{e}}^{6\\,x}",
+      "answer3": "\\text{C) }45\\,{\\mathrm{e}}^{9\\,x}",
+      "answer4": "\\text{D) }-6\\,{\\mathrm{e}}^{2\\,x}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (4\\,{\\mathrm{e}}^{3\\,x}\\right)",
+      "answer1": "\\text{A) }2\\,{\\mathrm{e}}^{2\\,x}",
+      "answer2": "\\text{B) }-40\\,{\\mathrm{e}}^{10\\,x}",
+      "answer3": "\\text{C) }2\\,{\\mathrm{e}}^{-2\\,x}",
+      "answer4": "\\text{D) }12\\,{\\mathrm{e}}^{3\\,x}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (4\\,{\\mathrm{e}}^{8\\,x}\\right)",
+      "answer1": "\\text{A) }-10\\,{\\mathrm{e}}^{-2\\,x}",
+      "answer2": "\\text{B) }9\\,{\\mathrm{e}}^{-9\\,x}",
+      "answer3": "\\text{C) }3\\,{\\mathrm{e}}^{-3\\,x}",
+      "answer4": "\\text{D) }32\\,{\\mathrm{e}}^{8\\,x}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-2\\,{\\mathrm{e}}^{5\\,x}\\right)",
+      "answer1": "\\text{A) }-10\\,{\\mathrm{e}}^{5\\,x}",
+      "answer2": "\\text{B) }10\\,{\\mathrm{e}}^{2\\,x}",
+      "answer3": "\\text{C) }-40\\,{\\mathrm{e}}^{-8\\,x}",
+      "answer4": "\\text{D) }-9\\,{\\mathrm{e}}^{-9\\,x}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-5\\,{\\mathrm{e}}^x\\right)",
+      "answer1": "\\text{A) }-5\\,{\\mathrm{e}}^x",
+      "answer2": "\\text{B) }-5\\,{\\mathrm{e}}^{5\\,x}",
+      "answer3": "\\text{C) }-5\\,{\\mathrm{e}}^{-5\\,x}",
+      "answer4": "\\text{D) }36\\,{\\mathrm{e}}^{-9\\,x}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (3\\,{\\mathrm{e}}^{-7\\,x}\\right)",
+      "answer1": "\\text{A) }-21\\,{\\mathrm{e}}^{-7\\,x}",
+      "answer2": "\\text{B) }9\\,{\\mathrm{e}}^{-3\\,x}",
+      "answer3": "\\text{C) }4\\,{\\mathrm{e}}^{-x}",
+      "answer4": "\\text{D) }-6\\,{\\mathrm{e}}^{3\\,x}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (2\\,{\\mathrm{e}}^{-6\\,x}\\right)",
+      "answer1": "\\text{A) }-12\\,{\\mathrm{e}}^{-6\\,x}",
+      "answer2": "\\text{B) }-36\\,{\\mathrm{e}}^{9\\,x}",
+      "answer3": "\\text{C) }-{\\mathrm{e}}^{-x}",
+      "answer4": "\\text{D) }-6\\,{\\mathrm{e}}^{2\\,x}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-2\\,{\\mathrm{e}}^{-7\\,x}\\right)",
+      "answer1": "\\text{A) }-24\\,{\\mathrm{e}}^{-8\\,x}",
+      "answer2": "\\text{B) }14\\,{\\mathrm{e}}^{-7\\,x}",
+      "answer3": "\\text{C) }40\\,{\\mathrm{e}}^{8\\,x}",
+      "answer4": "\\text{D) }3\\,{\\mathrm{e}}^{-3\\,x}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-{\\mathrm{e}}^{-x}\\right)",
+      "answer1": "\\text{A) }-40\\,{\\mathrm{e}}^{10\\,x}",
+      "answer2": "\\text{B) }-25\\,{\\mathrm{e}}^{-5\\,x}",
+      "answer3": "\\text{C) }-21\\,{\\mathrm{e}}^{7\\,x}",
+      "answer4": "\\text{D) }{\\mathrm{e}}^{-x}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (5\\,{\\mathrm{e}}^{6\\,x}\\right)",
+      "answer1": "\\text{A) }-15\\,{\\mathrm{e}}^{5\\,x}",
+      "answer2": "\\text{B) }20\\,{\\mathrm{e}}^{10\\,x}",
+      "answer3": "\\text{C) }-4\\,{\\mathrm{e}}^{-4\\,x}",
+      "answer4": "\\text{D) }30\\,{\\mathrm{e}}^{6\\,x}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-{\\mathrm{e}}^{-5\\,x}\\right)",
+      "answer1": "\\text{A) }-4\\,{\\mathrm{e}}^{-x}",
+      "answer2": "\\text{B) }8\\,{\\mathrm{e}}^{-8\\,x}",
+      "answer3": "\\text{C) }-4\\,{\\mathrm{e}}^{-2\\,x}",
+      "answer4": "\\text{D) }5\\,{\\mathrm{e}}^{-5\\,x}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-2\\,{\\mathrm{e}}^{6\\,x}\\right)",
+      "answer1": "\\text{A) }-4\\,{\\mathrm{e}}^{-x}",
+      "answer2": "\\text{B) }-8\\,{\\mathrm{e}}^{-8\\,x}",
+      "answer3": "\\text{C) }-12\\,{\\mathrm{e}}^{6\\,x}",
+      "answer4": "\\text{D) }-4\\,{\\mathrm{e}}^{2\\,x}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (5\\,{\\mathrm{e}}^{4\\,x}\\right)",
+      "answer1": "\\text{A) }8\\,{\\mathrm{e}}^{-8\\,x}",
+      "answer2": "\\text{B) }-24\\,{\\mathrm{e}}^{-8\\,x}",
+      "answer3": "\\text{C) }-24\\,{\\mathrm{e}}^{6\\,x}",
+      "answer4": "\\text{D) }20\\,{\\mathrm{e}}^{4\\,x}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-4\\,{\\mathrm{e}}^{-8\\,x}\\right)",
+      "answer1": "\\text{A) }-{\\mathrm{e}}^{-x}",
+      "answer2": "\\text{B) }36\\,{\\mathrm{e}}^{-9\\,x}",
+      "answer3": "\\text{C) }32\\,{\\mathrm{e}}^{-8\\,x}",
+      "answer4": "\\text{D) }14\\,{\\mathrm{e}}^{-7\\,x}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-7\\,{\\mathrm{e}}^{-x}\\right)",
+      "answer1": "\\text{A) }10\\,{\\mathrm{e}}^{2\\,x}",
+      "answer2": "\\text{B) }30\\,{\\mathrm{e}}^{10\\,x}",
+      "answer3": "\\text{C) }7\\,{\\mathrm{e}}^{-x}",
+      "answer4": "\\text{D) }{\\mathrm{e}}^x",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (2\\,{\\mathrm{e}}^{6\\,x}\\right)",
+      "answer1": "\\text{A) }-16\\,{\\mathrm{e}}^{-4\\,x}",
+      "answer2": "\\text{B) }12\\,{\\mathrm{e}}^{6\\,x}",
+      "answer3": "\\text{C) }-18\\,{\\mathrm{e}}^{-6\\,x}",
+      "answer4": "\\text{D) }10\\,{\\mathrm{e}}^{5\\,x}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-{\\mathrm{e}}^{10\\,x}\\right)",
+      "answer1": "\\text{A) }24\\,{\\mathrm{e}}^{-8\\,x}",
+      "answer2": "\\text{B) }-16\\,{\\mathrm{e}}^{-8\\,x}",
+      "answer3": "\\text{C) }-10\\,{\\mathrm{e}}^{10\\,x}",
+      "answer4": "\\text{D) }-9\\,{\\mathrm{e}}^{3\\,x}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (4\\,{\\mathrm{e}}^{3\\,x}\\right)",
+      "answer1": "\\text{A) }24\\,{\\mathrm{e}}^{-6\\,x}",
+      "answer2": "\\text{B) }12\\,{\\mathrm{e}}^{3\\,x}",
+      "answer3": "\\text{C) }3\\,{\\mathrm{e}}^x",
+      "answer4": "\\text{D) }16\\,{\\mathrm{e}}^{4\\,x}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left ({\\mathrm{e}}^{-2\\,x}\\right)",
+      "answer1": "\\text{A) }-2\\,{\\mathrm{e}}^{-2\\,x}",
+      "answer2": "\\text{B) }4\\,{\\mathrm{e}}^{2\\,x}",
+      "answer3": "\\text{C) }-18\\,{\\mathrm{e}}^{-6\\,x}",
+      "answer4": "\\text{D) }-2\\,{\\mathrm{e}}^{-2\\,x}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (5\\,{\\mathrm{e}}^{8\\,x}\\right)",
+      "answer1": "\\text{A) }-3\\,{\\mathrm{e}}^{-3\\,x}",
+      "answer2": "\\text{B) }54\\,{\\mathrm{e}}^{9\\,x}",
+      "answer3": "\\text{C) }7\\,{\\mathrm{e}}^{-7\\,x}",
+      "answer4": "\\text{D) }40\\,{\\mathrm{e}}^{8\\,x}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-3\\,{\\mathrm{e}}^{-5\\,x}\\right)",
+      "answer1": "\\text{A) }-9\\,{\\mathrm{e}}^{3\\,x}",
+      "answer2": "\\text{B) }-8\\,{\\mathrm{e}}^{-8\\,x}",
+      "answer3": "\\text{C) }-6\\,{\\mathrm{e}}^{3\\,x}",
+      "answer4": "\\text{D) }15\\,{\\mathrm{e}}^{-5\\,x}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-3\\,{\\mathrm{e}}^{6\\,x}\\right)",
+      "answer1": "\\text{A) }15\\,{\\mathrm{e}}^{3\\,x}",
+      "answer2": "\\text{B) }6\\,{\\mathrm{e}}^{-6\\,x}",
+      "answer3": "\\text{C) }-18\\,{\\mathrm{e}}^{6\\,x}",
+      "answer4": "\\text{D) }40\\,{\\mathrm{e}}^{5\\,x}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-4\\,{\\mathrm{e}}^{-7\\,x}\\right)",
+      "answer1": "\\text{A) }-12\\,{\\mathrm{e}}^{-6\\,x}",
+      "answer2": "\\text{B) }{\\mathrm{e}}^x",
+      "answer3": "\\text{C) }-8\\,{\\mathrm{e}}^{2\\,x}",
+      "answer4": "\\text{D) }28\\,{\\mathrm{e}}^{-7\\,x}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (3\\,{\\mathrm{e}}^{-4\\,x}\\right)",
+      "answer1": "\\text{A) }24\\,{\\mathrm{e}}^{-6\\,x}",
+      "answer2": "\\text{B) }-5\\,{\\mathrm{e}}^{-5\\,x}",
+      "answer3": "\\text{C) }-21\\,{\\mathrm{e}}^{7\\,x}",
+      "answer4": "\\text{D) }-12\\,{\\mathrm{e}}^{-4\\,x}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left ({\\mathrm{e}}^{2\\,x}\\right)",
+      "answer1": "\\text{A) }-35\\,{\\mathrm{e}}^{-7\\,x}",
+      "answer2": "\\text{B) }32\\,{\\mathrm{e}}^{8\\,x}",
+      "answer3": "\\text{C) }2\\,{\\mathrm{e}}^{2\\,x}",
+      "answer4": "\\text{D) }12\\,{\\mathrm{e}}^{-6\\,x}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-3\\,{\\mathrm{e}}^{-7\\,x}\\right)",
+      "answer1": "\\text{A) }21\\,{\\mathrm{e}}^{-7\\,x}",
+      "answer2": "\\text{B) }{\\mathrm{e}}^{-x}",
+      "answer3": "\\text{C) }-16\\,{\\mathrm{e}}^{4\\,x}",
+      "answer4": "\\text{D) }10\\,{\\mathrm{e}}^{10\\,x}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (5\\,{\\mathrm{e}}^{4\\,x}\\right)",
+      "answer1": "\\text{A) }20\\,{\\mathrm{e}}^{5\\,x}",
+      "answer2": "\\text{B) }20\\,{\\mathrm{e}}^{4\\,x}",
+      "answer3": "\\text{C) }-56\\,{\\mathrm{e}}^{8\\,x}",
+      "answer4": "\\text{D) }-6\\,{\\mathrm{e}}^{-2\\,x}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left ({\\mathrm{e}}^{-2\\,x}\\right)",
+      "answer1": "\\text{A) }-32\\,{\\mathrm{e}}^{8\\,x}",
+      "answer2": "\\text{B) }-24\\,{\\mathrm{e}}^{-8\\,x}",
+      "answer3": "\\text{C) }30\\,{\\mathrm{e}}^{6\\,x}",
+      "answer4": "\\text{D) }-2\\,{\\mathrm{e}}^{-2\\,x}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (2\\,{\\mathrm{e}}^{8\\,x}\\right)",
+      "answer1": "\\text{A) }16\\,{\\mathrm{e}}^{-8\\,x}",
+      "answer2": "\\text{B) }40\\,{\\mathrm{e}}^{8\\,x}",
+      "answer3": "\\text{C) }16\\,{\\mathrm{e}}^{8\\,x}",
+      "answer4": "\\text{D) }-16\\,{\\mathrm{e}}^{4\\,x}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-2\\,{\\mathrm{e}}^{-9\\,x}\\right)",
+      "answer1": "\\text{A) }63\\,{\\mathrm{e}}^{-9\\,x}",
+      "answer2": "\\text{B) }3\\,{\\mathrm{e}}^{3\\,x}",
+      "answer3": "\\text{C) }18\\,{\\mathrm{e}}^{-9\\,x}",
+      "answer4": "\\text{D) }-12\\,{\\mathrm{e}}^{-4\\,x}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (3\\,{\\mathrm{e}}^x\\right)",
+      "answer1": "\\text{A) }-35\\,{\\mathrm{e}}^{-7\\,x}",
+      "answer2": "\\text{B) }24\\,{\\mathrm{e}}^{6\\,x}",
+      "answer3": "\\text{C) }24\\,{\\mathrm{e}}^{4\\,x}",
+      "answer4": "\\text{D) }3\\,{\\mathrm{e}}^x",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left ({\\mathrm{e}}^{-7\\,x}\\right)",
+      "answer1": "\\text{A) }27\\,{\\mathrm{e}}^{9\\,x}",
+      "answer2": "\\text{B) }-7\\,{\\mathrm{e}}^{-7\\,x}",
+      "answer3": "\\text{C) }16\\,{\\mathrm{e}}^{-4\\,x}",
+      "answer4": "\\text{D) }35\\,{\\mathrm{e}}^{7\\,x}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (3\\,{\\mathrm{e}}^{10\\,x}\\right)",
+      "answer1": "\\text{A) }-6\\,{\\mathrm{e}}^{3\\,x}",
+      "answer2": "\\text{B) }27\\,{\\mathrm{e}}^{9\\,x}",
+      "answer3": "\\text{C) }-28\\,{\\mathrm{e}}^{-7\\,x}",
+      "answer4": "\\text{D) }30\\,{\\mathrm{e}}^{10\\,x}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-2\\,{\\mathrm{e}}^{-2\\,x}\\right)",
+      "answer1": "\\text{A) }-32\\,{\\mathrm{e}}^{-8\\,x}",
+      "answer2": "\\text{B) }6\\,{\\mathrm{e}}^{-6\\,x}",
+      "answer3": "\\text{C) }-24\\,{\\mathrm{e}}^{-8\\,x}",
+      "answer4": "\\text{D) }4\\,{\\mathrm{e}}^{-2\\,x}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (4\\,{\\mathrm{e}}^{3\\,x}\\right)",
+      "answer1": "\\text{A) }32\\,{\\mathrm{e}}^{8\\,x}",
+      "answer2": "\\text{B) }12\\,{\\mathrm{e}}^{3\\,x}",
+      "answer3": "\\text{C) }3\\,{\\mathrm{e}}^{3\\,x}",
+      "answer4": "\\text{D) }-6\\,{\\mathrm{e}}^{6\\,x}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (2\\,{\\mathrm{e}}^{2\\,x}\\right)",
+      "answer1": "\\text{A) }-40\\,{\\mathrm{e}}^{-8\\,x}",
+      "answer2": "\\text{B) }3\\,{\\mathrm{e}}^x",
+      "answer3": "\\text{C) }-3\\,{\\mathrm{e}}^{-x}",
+      "answer4": "\\text{D) }4\\,{\\mathrm{e}}^{2\\,x}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (3\\,{\\mathrm{e}}^{2\\,x}\\right)",
+      "answer1": "\\text{A) }-21\\,{\\mathrm{e}}^{7\\,x}",
+      "answer2": "\\text{B) }-3\\,{\\mathrm{e}}^{-x}",
+      "answer3": "\\text{C) }6\\,{\\mathrm{e}}^{2\\,x}",
+      "answer4": "\\text{D) }6\\,{\\mathrm{e}}^{-3\\,x}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (2\\,{\\mathrm{e}}^{8\\,x}\\right)",
+      "answer1": "\\text{A) }-6\\,{\\mathrm{e}}^{-2\\,x}",
+      "answer2": "\\text{B) }16\\,{\\mathrm{e}}^{8\\,x}",
+      "answer3": "\\text{C) }-30\\,{\\mathrm{e}}^{6\\,x}",
+      "answer4": "\\text{D) }-2\\,{\\mathrm{e}}^x",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-4\\,{\\mathrm{e}}^{-6\\,x}\\right)",
+      "answer1": "\\text{A) }-30\\,{\\mathrm{e}}^{-6\\,x}",
+      "answer2": "\\text{B) }4\\,{\\mathrm{e}}^{-4\\,x}",
+      "answer3": "\\text{C) }-6\\,{\\mathrm{e}}^{3\\,x}",
+      "answer4": "\\text{D) }24\\,{\\mathrm{e}}^{-6\\,x}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left ({\\mathrm{e}}^{-6\\,x}\\right)",
+      "answer1": "\\text{A) }36\\,{\\mathrm{e}}^{-9\\,x}",
+      "answer2": "\\text{B) }12\\,{\\mathrm{e}}^{4\\,x}",
+      "answer3": "\\text{C) }-{\\mathrm{e}}^x",
+      "answer4": "\\text{D) }-6\\,{\\mathrm{e}}^{-6\\,x}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-3\\,{\\mathrm{e}}^{4\\,x}\\right)",
+      "answer1": "\\text{A) }18\\,{\\mathrm{e}}^{6\\,x}",
+      "answer2": "\\text{B) }27\\,{\\mathrm{e}}^{9\\,x}",
+      "answer3": "\\text{C) }-12\\,{\\mathrm{e}}^{4\\,x}",
+      "answer4": "\\text{D) }-20\\,{\\mathrm{e}}^{10\\,x}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (2\\,{\\mathrm{e}}^{9\\,x}\\right)",
+      "answer1": "\\text{A) }18\\,{\\mathrm{e}}^{9\\,x}",
+      "answer2": "\\text{B) }-20\\,{\\mathrm{e}}^{10\\,x}",
+      "answer3": "\\text{C) }-27\\,{\\mathrm{e}}^{9\\,x}",
+      "answer4": "\\text{D) }-30\\,{\\mathrm{e}}^{-6\\,x}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-2\\,{\\mathrm{e}}^x\\right)",
+      "answer1": "\\text{A) }12\\,{\\mathrm{e}}^{3\\,x}",
+      "answer2": "\\text{B) }-2\\,{\\mathrm{e}}^x",
+      "answer3": "\\text{C) }{\\mathrm{e}}^{-x}",
+      "answer4": "\\text{D) }9\\,{\\mathrm{e}}^{3\\,x}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left ({\\mathrm{e}}^{8\\,x}\\right)",
+      "answer1": "\\text{A) }36\\,{\\mathrm{e}}^{-9\\,x}",
+      "answer2": "\\text{B) }-21\\,{\\mathrm{e}}^{7\\,x}",
+      "answer3": "\\text{C) }24\\,{\\mathrm{e}}^{-8\\,x}",
+      "answer4": "\\text{D) }8\\,{\\mathrm{e}}^{8\\,x}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (4\\,{\\mathrm{e}}^{-9\\,x}\\right)",
+      "answer1": "\\text{A) }20\\,{\\mathrm{e}}^{10\\,x}",
+      "answer2": "\\text{B) }16\\,{\\mathrm{e}}^{-8\\,x}",
+      "answer3": "\\text{C) }-36\\,{\\mathrm{e}}^{-9\\,x}",
+      "answer4": "\\text{D) }-5\\,{\\mathrm{e}}^{5\\,x}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (9\\,{\\mathrm{e}}^{-9\\,x}\\right)",
+      "answer1": "\\text{A) }-10\\,{\\mathrm{e}}^{-5\\,x}",
+      "answer2": "\\text{B) }-81\\,{\\mathrm{e}}^{-9\\,x}",
+      "answer3": "\\text{C) }2\\,{\\mathrm{e}}^{2\\,x}",
+      "answer4": "\\text{D) }-7\\,{\\mathrm{e}}^{-7\\,x}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-{\\mathrm{e}}^{3\\,x}\\right)",
+      "answer1": "\\text{A) }-6\\,{\\mathrm{e}}^{-2\\,x}",
+      "answer2": "\\text{B) }-3\\,{\\mathrm{e}}^{3\\,x}",
+      "answer3": "\\text{C) }-12\\,{\\mathrm{e}}^{4\\,x}",
+      "answer4": "\\text{D) }4\\,{\\mathrm{e}}^{4\\,x}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (2\\,{\\mathrm{e}}^{-5\\,x}\\right)",
+      "answer1": "\\text{A) }3\\,{\\mathrm{e}}^{-3\\,x}",
+      "answer2": "\\text{B) }-35\\,{\\mathrm{e}}^{-7\\,x}",
+      "answer3": "\\text{C) }-9\\,{\\mathrm{e}}^{-9\\,x}",
+      "answer4": "\\text{D) }-10\\,{\\mathrm{e}}^{-5\\,x}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-2\\,{\\mathrm{e}}^{-x}\\right)",
+      "answer1": "\\text{A) }-4\\,{\\mathrm{e}}^x",
+      "answer2": "\\text{B) }2\\,{\\mathrm{e}}^{-x}",
+      "answer3": "\\text{C) }3\\,{\\mathrm{e}}^x",
+      "answer4": "\\text{D) }-36\\,{\\mathrm{e}}^{-9\\,x}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (4\\,{\\mathrm{e}}^x\\right)",
+      "answer1": "\\text{A) }-36\\,{\\mathrm{e}}^{9\\,x}",
+      "answer2": "\\text{B) }4\\,{\\mathrm{e}}^x",
+      "answer3": "\\text{C) }-3\\,{\\mathrm{e}}^{-x}",
+      "answer4": "\\text{D) }27\\,{\\mathrm{e}}^{9\\,x}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (3\\,{\\mathrm{e}}^{7\\,x}\\right)",
+      "answer1": "\\text{A) }21\\,{\\mathrm{e}}^{7\\,x}",
+      "answer2": "\\text{B) }8\\,{\\mathrm{e}}^{2\\,x}",
+      "answer3": "\\text{C) }-5\\,{\\mathrm{e}}^{5\\,x}",
+      "answer4": "\\text{D) }-{\\mathrm{e}}^{-x}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-2\\,{\\mathrm{e}}^{8\\,x}\\right)",
+      "answer1": "\\text{A) }-16\\,{\\mathrm{e}}^{8\\,x}",
+      "answer2": "\\text{B) }12\\,{\\mathrm{e}}^{3\\,x}",
+      "answer3": "\\text{C) }-21\\,{\\mathrm{e}}^{-7\\,x}",
+      "answer4": "\\text{D) }-6\\,{\\mathrm{e}}^{-6\\,x}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-4\\,{\\mathrm{e}}^{9\\,x}\\right)",
+      "answer1": "\\text{A) }-4\\,{\\mathrm{e}}^{4\\,x}",
+      "answer2": "\\text{B) }-36\\,{\\mathrm{e}}^{9\\,x}",
+      "answer3": "\\text{C) }4\\,{\\mathrm{e}}^{2\\,x}",
+      "answer4": "\\text{D) }-6\\,{\\mathrm{e}}^{-6\\,x}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-2\\,{\\mathrm{e}}^{-5\\,x}\\right)",
+      "answer1": "\\text{A) }9\\,{\\mathrm{e}}^{-9\\,x}",
+      "answer2": "\\text{B) }-2\\,{\\mathrm{e}}^{2\\,x}",
+      "answer3": "\\text{C) }10\\,{\\mathrm{e}}^{-5\\,x}",
+      "answer4": "\\text{D) }-8\\,{\\mathrm{e}}^{-8\\,x}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (4\\,{\\mathrm{e}}^{6\\,x}\\right)",
+      "answer1": "\\text{A) }24\\,{\\mathrm{e}}^{6\\,x}",
+      "answer2": "\\text{B) }-30\\,{\\mathrm{e}}^{10\\,x}",
+      "answer3": "\\text{C) }9\\,{\\mathrm{e}}^{9\\,x}",
+      "answer4": "\\text{D) }-12\\,{\\mathrm{e}}^{-6\\,x}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-4\\,{\\mathrm{e}}^{-6\\,x}\\right)",
+      "answer1": "\\text{A) }24\\,{\\mathrm{e}}^{-6\\,x}",
+      "answer2": "\\text{B) }-7\\,{\\mathrm{e}}^{-7\\,x}",
+      "answer3": "\\text{C) }-8\\,{\\mathrm{e}}^{2\\,x}",
+      "answer4": "\\text{D) }-30\\,{\\mathrm{e}}^{-6\\,x}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-3\\,{\\mathrm{e}}^{-8\\,x}\\right)",
+      "answer1": "\\text{A) }-28\\,{\\mathrm{e}}^{-7\\,x}",
+      "answer2": "\\text{B) }24\\,{\\mathrm{e}}^{-8\\,x}",
+      "answer3": "\\text{C) }3\\,{\\mathrm{e}}^{3\\,x}",
+      "answer4": "\\text{D) }-3\\,{\\mathrm{e}}^{-x}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-4\\,{\\mathrm{e}}^{-7\\,x}\\right)",
+      "answer1": "\\text{A) }28\\,{\\mathrm{e}}^{-7\\,x}",
+      "answer2": "\\text{B) }24\\,{\\mathrm{e}}^{-6\\,x}",
+      "answer3": "\\text{C) }24\\,{\\mathrm{e}}^{8\\,x}",
+      "answer4": "\\text{D) }7\\,{\\mathrm{e}}^{7\\,x}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-2\\,{\\mathrm{e}}^{4\\,x}\\right)",
+      "answer1": "\\text{A) }-8\\,{\\mathrm{e}}^{4\\,x}",
+      "answer2": "\\text{B) }-25\\,{\\mathrm{e}}^{-5\\,x}",
+      "answer3": "\\text{C) }3\\,{\\mathrm{e}}^x",
+      "answer4": "\\text{D) }24\\,{\\mathrm{e}}^{8\\,x}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (5\\,{\\mathrm{e}}^{-9\\,x}\\right)",
+      "answer1": "\\text{A) }-2\\,{\\mathrm{e}}^{2\\,x}",
+      "answer2": "\\text{B) }8\\,{\\mathrm{e}}^{8\\,x}",
+      "answer3": "\\text{C) }3\\,{\\mathrm{e}}^{-x}",
+      "answer4": "\\text{D) }-45\\,{\\mathrm{e}}^{-9\\,x}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-{\\mathrm{e}}^{3\\,x}\\right)",
+      "answer1": "\\text{A) }35\\,{\\mathrm{e}}^{7\\,x}",
+      "answer2": "\\text{B) }40\\,{\\mathrm{e}}^{10\\,x}",
+      "answer3": "\\text{C) }-3\\,{\\mathrm{e}}^{3\\,x}",
+      "answer4": "\\text{D) }-12\\,{\\mathrm{e}}^{4\\,x}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (4\\,{\\mathrm{e}}^{4\\,x}\\right)",
+      "answer1": "\\text{A) }36\\,{\\mathrm{e}}^{9\\,x}",
+      "answer2": "\\text{B) }16\\,{\\mathrm{e}}^{4\\,x}",
+      "answer3": "\\text{C) }12\\,{\\mathrm{e}}^{-4\\,x}",
+      "answer4": "\\text{D) }9\\,{\\mathrm{e}}^{-9\\,x}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (5\\,{\\mathrm{e}}^{-9\\,x}\\right)",
+      "answer1": "\\text{A) }-45\\,{\\mathrm{e}}^{-9\\,x}",
+      "answer2": "\\text{B) }4\\,{\\mathrm{e}}^x",
+      "answer3": "\\text{C) }40\\,{\\mathrm{e}}^{8\\,x}",
+      "answer4": "\\text{D) }6\\,{\\mathrm{e}}^{-2\\,x}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-{\\mathrm{e}}^{-3\\,x}\\right)",
+      "answer1": "\\text{A) }-12\\,{\\mathrm{e}}^{6\\,x}",
+      "answer2": "\\text{B) }3\\,{\\mathrm{e}}^{-3\\,x}",
+      "answer3": "\\text{C) }14\\,{\\mathrm{e}}^{7\\,x}",
+      "answer4": "\\text{D) }25\\,{\\mathrm{e}}^{5\\,x}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-4\\,{\\mathrm{e}}^{8\\,x}\\right)",
+      "answer1": "\\text{A) }27\\,{\\mathrm{e}}^{-9\\,x}",
+      "answer2": "\\text{B) }-32\\,{\\mathrm{e}}^{8\\,x}",
+      "answer3": "\\text{C) }6\\,{\\mathrm{e}}^{6\\,x}",
+      "answer4": "\\text{D) }-35\\,{\\mathrm{e}}^{-7\\,x}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-3\\,{\\mathrm{e}}^{10\\,x}\\right)",
+      "answer1": "\\text{A) }-30\\,{\\mathrm{e}}^{10\\,x}",
+      "answer2": "\\text{B) }45\\,{\\mathrm{e}}^{9\\,x}",
+      "answer3": "\\text{C) }20\\,{\\mathrm{e}}^{4\\,x}",
+      "answer4": "\\text{D) }-6\\,{\\mathrm{e}}^{-2\\,x}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left ({\\mathrm{e}}^x\\right)",
+      "answer1": "\\text{A) }-28\\,{\\mathrm{e}}^{-7\\,x}",
+      "answer2": "\\text{B) }9\\,{\\mathrm{e}}^{3\\,x}",
+      "answer3": "\\text{C) }15\\,{\\mathrm{e}}^{3\\,x}",
+      "answer4": "\\text{D) }{\\mathrm{e}}^x",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (5\\,{\\mathrm{e}}^{-5\\,x}\\right)",
+      "answer1": "\\text{A) }3\\,{\\mathrm{e}}^x",
+      "answer2": "\\text{B) }20\\,{\\mathrm{e}}^{4\\,x}",
+      "answer3": "\\text{C) }12\\,{\\mathrm{e}}^{4\\,x}",
+      "answer4": "\\text{D) }-25\\,{\\mathrm{e}}^{-5\\,x}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left ({\\mathrm{e}}^{9\\,x}\\right)",
+      "answer1": "\\text{A) }-6\\,{\\mathrm{e}}^{-2\\,x}",
+      "answer2": "\\text{B) }9\\,{\\mathrm{e}}^{9\\,x}",
+      "answer3": "\\text{C) }-18\\,{\\mathrm{e}}^{6\\,x}",
+      "answer4": "\\text{D) }-24\\,{\\mathrm{e}}^{8\\,x}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (3\\,{\\mathrm{e}}^{10\\,x}\\right)",
+      "answer1": "\\text{A) }30\\,{\\mathrm{e}}^{10\\,x}",
+      "answer2": "\\text{B) }12\\,{\\mathrm{e}}^{3\\,x}",
+      "answer3": "\\text{C) }15\\,{\\mathrm{e}}^{3\\,x}",
+      "answer4": "\\text{D) }24\\,{\\mathrm{e}}^{8\\,x}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-3\\,{\\mathrm{e}}^{7\\,x}\\right)",
+      "answer1": "\\text{A) }45\\,{\\mathrm{e}}^{9\\,x}",
+      "answer2": "\\text{B) }6\\,{\\mathrm{e}}^{-3\\,x}",
+      "answer3": "\\text{C) }-21\\,{\\mathrm{e}}^{7\\,x}",
+      "answer4": "\\text{D) }2\\,{\\mathrm{e}}^{2\\,x}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left ({\\mathrm{e}}^{-6\\,x}\\right)",
+      "answer1": "\\text{A) }-6\\,{\\mathrm{e}}^{-6\\,x}",
+      "answer2": "\\text{B) }16\\,{\\mathrm{e}}^{-8\\,x}",
+      "answer3": "\\text{C) }-20\\,{\\mathrm{e}}^{10\\,x}",
+      "answer4": "\\text{D) }30\\,{\\mathrm{e}}^{6\\,x}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left ({\\mathrm{e}}^{-8\\,x}\\right)",
+      "answer1": "\\text{A) }-6\\,{\\mathrm{e}}^{6\\,x}",
+      "answer2": "\\text{B) }-8\\,{\\mathrm{e}}^{-8\\,x}",
+      "answer3": "\\text{C) }-35\\,{\\mathrm{e}}^{-7\\,x}",
+      "answer4": "\\text{D) }14\\,{\\mathrm{e}}^{7\\,x}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left ({\\mathrm{e}}^{8\\,x}\\right)",
+      "answer1": "\\text{A) }-45\\,{\\mathrm{e}}^{-9\\,x}",
+      "answer2": "\\text{B) }-{\\mathrm{e}}^x",
+      "answer3": "\\text{C) }8\\,{\\mathrm{e}}^{8\\,x}",
+      "answer4": "\\text{D) }30\\,{\\mathrm{e}}^{10\\,x}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-2\\,{\\mathrm{e}}^{10\\,x}\\right)",
+      "answer1": "\\text{A) }-8\\,{\\mathrm{e}}^{8\\,x}",
+      "answer2": "\\text{B) }25\\,{\\mathrm{e}}^{5\\,x}",
+      "answer3": "\\text{C) }10\\,{\\mathrm{e}}^{10\\,x}",
+      "answer4": "\\text{D) }-20\\,{\\mathrm{e}}^{10\\,x}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-{\\mathrm{e}}^{5\\,x}\\right)",
+      "answer1": "\\text{A) }-5\\,{\\mathrm{e}}^{5\\,x}",
+      "answer2": "\\text{B) }45\\,{\\mathrm{e}}^{9\\,x}",
+      "answer3": "\\text{C) }36\\,{\\mathrm{e}}^{-9\\,x}",
+      "answer4": "\\text{D) }-9\\,{\\mathrm{e}}^{-9\\,x}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-4\\,{\\mathrm{e}}^{6\\,x}\\right)",
+      "answer1": "\\text{A) }-12\\,{\\mathrm{e}}^{4\\,x}",
+      "answer2": "\\text{B) }-30\\,{\\mathrm{e}}^{10\\,x}",
+      "answer3": "\\text{C) }21\\,{\\mathrm{e}}^{7\\,x}",
+      "answer4": "\\text{D) }-24\\,{\\mathrm{e}}^{6\\,x}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (4\\,{\\mathrm{e}}^{8\\,x}\\right)",
+      "answer1": "\\text{A) }-32\\,{\\mathrm{e}}^{-8\\,x}",
+      "answer2": "\\text{B) }-14\\,{\\mathrm{e}}^{-7\\,x}",
+      "answer3": "\\text{C) }32\\,{\\mathrm{e}}^{8\\,x}",
+      "answer4": "\\text{D) }4\\,{\\mathrm{e}}^{-4\\,x}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-{\\mathrm{e}}^{-8\\,x}\\right)",
+      "answer1": "\\text{A) }8\\,{\\mathrm{e}}^{-8\\,x}",
+      "answer2": "\\text{B) }10\\,{\\mathrm{e}}^{-5\\,x}",
+      "answer3": "\\text{C) }12\\,{\\mathrm{e}}^{4\\,x}",
+      "answer4": "\\text{D) }21\\,{\\mathrm{e}}^{-7\\,x}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (3\\,{\\mathrm{e}}^{2\\,x}\\right)",
+      "answer1": "\\text{A) }-28\\,{\\mathrm{e}}^{-7\\,x}",
+      "answer2": "\\text{B) }16\\,{\\mathrm{e}}^{-8\\,x}",
+      "answer3": "\\text{C) }6\\,{\\mathrm{e}}^{2\\,x}",
+      "answer4": "\\text{D) }-8\\,{\\mathrm{e}}^{-4\\,x}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-3\\,{\\mathrm{e}}^x\\right)",
+      "answer1": "\\text{A) }28\\,{\\mathrm{e}}^{-7\\,x}",
+      "answer2": "\\text{B) }15\\,{\\mathrm{e}}^{3\\,x}",
+      "answer3": "\\text{C) }-3\\,{\\mathrm{e}}^x",
+      "answer4": "\\text{D) }-6\\,{\\mathrm{e}}^{3\\,x}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-{\\mathrm{e}}^{7\\,x}\\right)",
+      "answer1": "\\text{A) }-7\\,{\\mathrm{e}}^{7\\,x}",
+      "answer2": "\\text{B) }15\\,{\\mathrm{e}}^{-5\\,x}",
+      "answer3": "\\text{C) }8\\,{\\mathrm{e}}^{8\\,x}",
+      "answer4": "\\text{D) }8\\,{\\mathrm{e}}^{2\\,x}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (5\\,{\\mathrm{e}}^{6\\,x}\\right)",
+      "answer1": "\\text{A) }-24\\,{\\mathrm{e}}^{8\\,x}",
+      "answer2": "\\text{B) }30\\,{\\mathrm{e}}^{6\\,x}",
+      "answer3": "\\text{C) }-10\\,{\\mathrm{e}}^{-5\\,x}",
+      "answer4": "\\text{D) }-8\\,{\\mathrm{e}}^{8\\,x}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-{\\mathrm{e}}^{-x}\\right)",
+      "answer1": "\\text{A) }{\\mathrm{e}}^{-x}",
+      "answer2": "\\text{B) }-18\\,{\\mathrm{e}}^{-6\\,x}",
+      "answer3": "\\text{C) }6\\,{\\mathrm{e}}^{3\\,x}",
+      "answer4": "\\text{D) }-8\\,{\\mathrm{e}}^{-2\\,x}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (4\\,{\\mathrm{e}}^{5\\,x}\\right)",
+      "answer1": "\\text{A) }5\\,{\\mathrm{e}}^{5\\,x}",
+      "answer2": "\\text{B) }6\\,{\\mathrm{e}}^{2\\,x}",
+      "answer3": "\\text{C) }20\\,{\\mathrm{e}}^{5\\,x}",
+      "answer4": "\\text{D) }16\\,{\\mathrm{e}}^{4\\,x}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (2\\,{\\mathrm{e}}^{10\\,x}\\right)",
+      "answer1": "\\text{A) }2\\,{\\mathrm{e}}^{-x}",
+      "answer2": "\\text{B) }14\\,{\\mathrm{e}}^{7\\,x}",
+      "answer3": "\\text{C) }-18\\,{\\mathrm{e}}^{6\\,x}",
+      "answer4": "\\text{D) }20\\,{\\mathrm{e}}^{10\\,x}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-{\\mathrm{e}}^{-9\\,x}\\right)",
+      "answer1": "\\text{A) }-48\\,{\\mathrm{e}}^{8\\,x}",
+      "answer2": "\\text{B) }9\\,{\\mathrm{e}}^{-9\\,x}",
+      "answer3": "\\text{C) }-8\\,{\\mathrm{e}}^{-4\\,x}",
+      "answer4": "\\text{D) }18\\,{\\mathrm{e}}^{-9\\,x}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-2\\,{\\mathrm{e}}^{6\\,x}\\right)",
+      "answer1": "\\text{A) }36\\,{\\mathrm{e}}^{-9\\,x}",
+      "answer2": "\\text{B) }9\\,{\\mathrm{e}}^{9\\,x}",
+      "answer3": "\\text{C) }-12\\,{\\mathrm{e}}^{6\\,x}",
+      "answer4": "\\text{D) }6\\,{\\mathrm{e}}^{3\\,x}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (5\\,{\\mathrm{e}}^{-5\\,x}\\right)",
+      "answer1": "\\text{A) }-12\\,{\\mathrm{e}}^{-6\\,x}",
+      "answer2": "\\text{B) }-36\\,{\\mathrm{e}}^{-9\\,x}",
+      "answer3": "\\text{C) }-36\\,{\\mathrm{e}}^{-9\\,x}",
+      "answer4": "\\text{D) }-25\\,{\\mathrm{e}}^{-5\\,x}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-2\\,{\\mathrm{e}}^{-6\\,x}\\right)",
+      "answer1": "\\text{A) }12\\,{\\mathrm{e}}^{-6\\,x}",
+      "answer2": "\\text{B) }18\\,{\\mathrm{e}}^{9\\,x}",
+      "answer3": "\\text{C) }-10\\,{\\mathrm{e}}^{-5\\,x}",
+      "answer4": "\\text{D) }-10\\,{\\mathrm{e}}^{-2\\,x}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-2\\,{\\mathrm{e}}^{9\\,x}\\right)",
+      "answer1": "\\text{A) }15\\,{\\mathrm{e}}^{-5\\,x}",
+      "answer2": "\\text{B) }8\\,{\\mathrm{e}}^{2\\,x}",
+      "answer3": "\\text{C) }-9\\,{\\mathrm{e}}^{-9\\,x}",
+      "answer4": "\\text{D) }-18\\,{\\mathrm{e}}^{9\\,x}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-{\\mathrm{e}}^{-3\\,x}\\right)",
+      "answer1": "\\text{A) }8\\,{\\mathrm{e}}^{4\\,x}",
+      "answer2": "\\text{B) }3\\,{\\mathrm{e}}^{-3\\,x}",
+      "answer3": "\\text{C) }-12\\,{\\mathrm{e}}^{2\\,x}",
+      "answer4": "\\text{D) }8\\,{\\mathrm{e}}^{-4\\,x}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (5\\,{\\mathrm{e}}^{-5\\,x}\\right)",
+      "answer1": "\\text{A) }-9\\,{\\mathrm{e}}^{-3\\,x}",
+      "answer2": "\\text{B) }-6\\,{\\mathrm{e}}^{-2\\,x}",
+      "answer3": "\\text{C) }-8\\,{\\mathrm{e}}^{-2\\,x}",
+      "answer4": "\\text{D) }-25\\,{\\mathrm{e}}^{-5\\,x}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (3\\,{\\mathrm{e}}^{-x}\\right)",
+      "answer1": "\\text{A) }-9\\,{\\mathrm{e}}^{-3\\,x}",
+      "answer2": "\\text{B) }-3\\,{\\mathrm{e}}^{-x}",
+      "answer3": "\\text{C) }8\\,{\\mathrm{e}}^{-8\\,x}",
+      "answer4": "\\text{D) }2\\,{\\mathrm{e}}^{-x}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-3\\,{\\mathrm{e}}^{-4\\,x}\\right)",
+      "answer1": "\\text{A) }-32\\,{\\mathrm{e}}^{8\\,x}",
+      "answer2": "\\text{B) }-8\\,{\\mathrm{e}}^{4\\,x}",
+      "answer3": "\\text{C) }12\\,{\\mathrm{e}}^{-4\\,x}",
+      "answer4": "\\text{D) }-30\\,{\\mathrm{e}}^{10\\,x}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (4\\,{\\mathrm{e}}^{5\\,x}\\right)",
+      "answer1": "\\text{A) }8\\,{\\mathrm{e}}^{-4\\,x}",
+      "answer2": "\\text{B) }20\\,{\\mathrm{e}}^{5\\,x}",
+      "answer3": "\\text{C) }6\\,{\\mathrm{e}}^{6\\,x}",
+      "answer4": "\\text{D) }-9\\,{\\mathrm{e}}^{-3\\,x}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (4\\,{\\mathrm{e}}^{-8\\,x}\\right)",
+      "answer1": "\\text{A) }-32\\,{\\mathrm{e}}^{-8\\,x}",
+      "answer2": "\\text{B) }6\\,{\\mathrm{e}}^{-3\\,x}",
+      "answer3": "\\text{C) }-5\\,{\\mathrm{e}}^{5\\,x}",
+      "answer4": "\\text{D) }-32\\,{\\mathrm{e}}^{-8\\,x}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-4\\,{\\mathrm{e}}^{-6\\,x}\\right)",
+      "answer1": "\\text{A) }20\\,{\\mathrm{e}}^{-5\\,x}",
+      "answer2": "\\text{B) }25\\,{\\mathrm{e}}^{5\\,x}",
+      "answer3": "\\text{C) }24\\,{\\mathrm{e}}^{-6\\,x}",
+      "answer4": "\\text{D) }-8\\,{\\mathrm{e}}^x",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (2\\,{\\mathrm{e}}^{-x}\\right)",
+      "answer1": "\\text{A) }4\\,{\\mathrm{e}}^x",
+      "answer2": "\\text{B) }-2\\,{\\mathrm{e}}^{-x}",
+      "answer3": "\\text{C) }-2\\,{\\mathrm{e}}^x",
+      "answer4": "\\text{D) }-21\\,{\\mathrm{e}}^{7\\,x}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (4\\,{\\mathrm{e}}^{-8\\,x}\\right)",
+      "answer1": "\\text{A) }-32\\,{\\mathrm{e}}^{-8\\,x}",
+      "answer2": "\\text{B) }27\\,{\\mathrm{e}}^{9\\,x}",
+      "answer3": "\\text{C) }-60\\,{\\mathrm{e}}^{10\\,x}",
+      "answer4": "\\text{D) }-4\\,{\\mathrm{e}}^{-x}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (5\\,{\\mathrm{e}}^{-9\\,x}\\right)",
+      "answer1": "\\text{A) }-45\\,{\\mathrm{e}}^{-9\\,x}",
+      "answer2": "\\text{B) }9\\,{\\mathrm{e}}^{-3\\,x}",
+      "answer3": "\\text{C) }28\\,{\\mathrm{e}}^{-7\\,x}",
+      "answer4": "\\text{D) }-9\\,{\\mathrm{e}}^{-3\\,x}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-6\\,{\\mathrm{e}}^{-3\\,x}\\right)",
+      "answer1": "\\text{A) }-4\\,{\\mathrm{e}}^{-4\\,x}",
+      "answer2": "\\text{B) }18\\,{\\mathrm{e}}^{-3\\,x}",
+      "answer3": "\\text{C) }-6\\,{\\mathrm{e}}^{-3\\,x}",
+      "answer4": "\\text{D) }-14\\,{\\mathrm{e}}^{7\\,x}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-2\\,{\\mathrm{e}}^{4\\,x}\\right)",
+      "answer1": "\\text{A) }-16\\,{\\mathrm{e}}^{4\\,x}",
+      "answer2": "\\text{B) }-8\\,{\\mathrm{e}}^{-8\\,x}",
+      "answer3": "\\text{C) }16\\,{\\mathrm{e}}^{-4\\,x}",
+      "answer4": "\\text{D) }-8\\,{\\mathrm{e}}^{4\\,x}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (3\\,{\\mathrm{e}}^{3\\,x}\\right)",
+      "answer1": "\\text{A) }9\\,{\\mathrm{e}}^{3\\,x}",
+      "answer2": "\\text{B) }15\\,{\\mathrm{e}}^{5\\,x}",
+      "answer3": "\\text{C) }6\\,{\\mathrm{e}}^{6\\,x}",
+      "answer4": "\\text{D) }-3\\,{\\mathrm{e}}^{3\\,x}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-2\\,{\\mathrm{e}}^{-9\\,x}\\right)",
+      "answer1": "\\text{A) }-24\\,{\\mathrm{e}}^{-8\\,x}",
+      "answer2": "\\text{B) }7\\,{\\mathrm{e}}^{-7\\,x}",
+      "answer3": "\\text{C) }-42\\,{\\mathrm{e}}^{7\\,x}",
+      "answer4": "\\text{D) }18\\,{\\mathrm{e}}^{-9\\,x}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-2\\,{\\mathrm{e}}^{-7\\,x}\\right)",
+      "answer1": "\\text{A) }4\\,{\\mathrm{e}}^{-4\\,x}",
+      "answer2": "\\text{B) }14\\,{\\mathrm{e}}^{-7\\,x}",
+      "answer3": "\\text{C) }12\\,{\\mathrm{e}}^{3\\,x}",
+      "answer4": "\\text{D) }20\\,{\\mathrm{e}}^{10\\,x}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-{\\mathrm{e}}^{8\\,x}\\right)",
+      "answer1": "\\text{A) }18\\,{\\mathrm{e}}^{9\\,x}",
+      "answer2": "\\text{B) }-16\\,{\\mathrm{e}}^{4\\,x}",
+      "answer3": "\\text{C) }3\\,{\\mathrm{e}}^{-3\\,x}",
+      "answer4": "\\text{D) }-8\\,{\\mathrm{e}}^{8\\,x}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (5\\,{\\mathrm{e}}^{-8\\,x}\\right)",
+      "answer1": "\\text{A) }-35\\,{\\mathrm{e}}^{-7\\,x}",
+      "answer2": "\\text{B) }-30\\,{\\mathrm{e}}^{10\\,x}",
+      "answer3": "\\text{C) }-16\\,{\\mathrm{e}}^{4\\,x}",
+      "answer4": "\\text{D) }-40\\,{\\mathrm{e}}^{-8\\,x}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-4\\,{\\mathrm{e}}^{-3\\,x}\\right)",
+      "answer1": "\\text{A) }30\\,{\\mathrm{e}}^{6\\,x}",
+      "answer2": "\\text{B) }-20\\,{\\mathrm{e}}^{10\\,x}",
+      "answer3": "\\text{C) }24\\,{\\mathrm{e}}^{6\\,x}",
+      "answer4": "\\text{D) }12\\,{\\mathrm{e}}^{-3\\,x}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-{\\mathrm{e}}^{5\\,x}\\right)",
+      "answer1": "\\text{A) }-5\\,{\\mathrm{e}}^{5\\,x}",
+      "answer2": "\\text{B) }-8\\,{\\mathrm{e}}^{-4\\,x}",
+      "answer3": "\\text{C) }-9\\,{\\mathrm{e}}^{9\\,x}",
+      "answer4": "\\text{D) }-16\\,{\\mathrm{e}}^{4\\,x}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (4\\,{\\mathrm{e}}^{-5\\,x}\\right)",
+      "answer1": "\\text{A) }-15\\,{\\mathrm{e}}^{-3\\,x}",
+      "answer2": "\\text{B) }-20\\,{\\mathrm{e}}^{-5\\,x}",
+      "answer3": "\\text{C) }-18\\,{\\mathrm{e}}^{6\\,x}",
+      "answer4": "\\text{D) }-12\\,{\\mathrm{e}}^{3\\,x}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-4\\,{\\mathrm{e}}^{10\\,x}\\right)",
+      "answer1": "\\text{A) }-6\\,{\\mathrm{e}}^{2\\,x}",
+      "answer2": "\\text{B) }-9\\,{\\mathrm{e}}^{-3\\,x}",
+      "answer3": "\\text{C) }12\\,{\\mathrm{e}}^{6\\,x}",
+      "answer4": "\\text{D) }-40\\,{\\mathrm{e}}^{10\\,x}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (2\\,{\\mathrm{e}}^{-5\\,x}\\right)",
+      "answer1": "\\text{A) }-14\\,{\\mathrm{e}}^{7\\,x}",
+      "answer2": "\\text{B) }-10\\,{\\mathrm{e}}^{-5\\,x}",
+      "answer3": "\\text{C) }4\\,{\\mathrm{e}}^{-x}",
+      "answer4": "\\text{D) }-{\\mathrm{e}}^x",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left ({\\mathrm{e}}^{-8\\,x}\\right)",
+      "answer1": "\\text{A) }-25\\,{\\mathrm{e}}^{-5\\,x}",
+      "answer2": "\\text{B) }-4\\,{\\mathrm{e}}^{4\\,x}",
+      "answer3": "\\text{C) }-8\\,{\\mathrm{e}}^{-8\\,x}",
+      "answer4": "\\text{D) }-18\\,{\\mathrm{e}}^{-6\\,x}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (5\\,{\\mathrm{e}}^{5\\,x}\\right)",
+      "answer1": "\\text{A) }36\\,{\\mathrm{e}}^{-9\\,x}",
+      "answer2": "\\text{B) }6\\,{\\mathrm{e}}^{-6\\,x}",
+      "answer3": "\\text{C) }25\\,{\\mathrm{e}}^{5\\,x}",
+      "answer4": "\\text{D) }-8\\,{\\mathrm{e}}^{8\\,x}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (9\\,{\\mathrm{e}}^{-8\\,x}\\right)",
+      "answer1": "\\text{A) }-72\\,{\\mathrm{e}}^{-8\\,x}",
+      "answer2": "\\text{B) }-27\\,{\\mathrm{e}}^{9\\,x}",
+      "answer3": "\\text{C) }6\\,{\\mathrm{e}}^{-2\\,x}",
+      "answer4": "\\text{D) }16\\,{\\mathrm{e}}^{-8\\,x}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-4\\,{\\mathrm{e}}^{5\\,x}\\right)",
+      "answer1": "\\text{A) }6\\,{\\mathrm{e}}^{6\\,x}",
+      "answer2": "\\text{B) }-20\\,{\\mathrm{e}}^{5\\,x}",
+      "answer3": "\\text{C) }6\\,{\\mathrm{e}}^{-6\\,x}",
+      "answer4": "\\text{D) }-20\\,{\\mathrm{e}}^{10\\,x}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (5\\,{\\mathrm{e}}^{-x}\\right)",
+      "answer1": "\\text{A) }5\\,{\\mathrm{e}}^{-5\\,x}",
+      "answer2": "\\text{B) }-5\\,{\\mathrm{e}}^{-x}",
+      "answer3": "\\text{C) }-25\\,{\\mathrm{e}}^{-5\\,x}",
+      "answer4": "\\text{D) }5\\,{\\mathrm{e}}^{-5\\,x}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (10\\,{\\mathrm{e}}^{9\\,x}\\right)",
+      "answer1": "\\text{A) }90\\,{\\mathrm{e}}^{9\\,x}",
+      "answer2": "\\text{B) }2\\,{\\mathrm{e}}^{2\\,x}",
+      "answer3": "\\text{C) }-8\\,{\\mathrm{e}}^{2\\,x}",
+      "answer4": "\\text{D) }-8\\,{\\mathrm{e}}^{-2\\,x}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (2\\,{\\mathrm{e}}^{10\\,x}\\right)",
+      "answer1": "\\text{A) }-2\\,{\\mathrm{e}}^{-x}",
+      "answer2": "\\text{B) }4\\,{\\mathrm{e}}^{2\\,x}",
+      "answer3": "\\text{C) }20\\,{\\mathrm{e}}^{10\\,x}",
+      "answer4": "\\text{D) }9\\,{\\mathrm{e}}^{3\\,x}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (5\\,{\\mathrm{e}}^{3\\,x}\\right)",
+      "answer1": "\\text{A) }3\\,{\\mathrm{e}}^x",
+      "answer2": "\\text{B) }15\\,{\\mathrm{e}}^{3\\,x}",
+      "answer3": "\\text{C) }-8\\,{\\mathrm{e}}^{-2\\,x}",
+      "answer4": "\\text{D) }10\\,{\\mathrm{e}}^{5\\,x}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (4\\,{\\mathrm{e}}^{-5\\,x}\\right)",
+      "answer1": "\\text{A) }30\\,{\\mathrm{e}}^{6\\,x}",
+      "answer2": "\\text{B) }50\\,{\\mathrm{e}}^{10\\,x}",
+      "answer3": "\\text{C) }6\\,{\\mathrm{e}}^{-3\\,x}",
+      "answer4": "\\text{D) }-20\\,{\\mathrm{e}}^{-5\\,x}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (2\\,{\\mathrm{e}}^{7\\,x}\\right)",
+      "answer1": "\\text{A) }-2\\,{\\mathrm{e}}^x",
+      "answer2": "\\text{B) }14\\,{\\mathrm{e}}^{7\\,x}",
+      "answer3": "\\text{C) }5\\,{\\mathrm{e}}^{5\\,x}",
+      "answer4": "\\text{D) }-49\\,{\\mathrm{e}}^{-7\\,x}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (4\\,{\\mathrm{e}}^{4\\,x}\\right)",
+      "answer1": "\\text{A) }45\\,{\\mathrm{e}}^{9\\,x}",
+      "answer2": "\\text{B) }-8\\,{\\mathrm{e}}^{-8\\,x}",
+      "answer3": "\\text{C) }16\\,{\\mathrm{e}}^{4\\,x}",
+      "answer4": "\\text{D) }-60\\,{\\mathrm{e}}^{10\\,x}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (4\\,{\\mathrm{e}}^{3\\,x}\\right)",
+      "answer1": "\\text{A) }-80\\,{\\mathrm{e}}^{10\\,x}",
+      "answer2": "\\text{B) }-12\\,{\\mathrm{e}}^{-6\\,x}",
+      "answer3": "\\text{C) }12\\,{\\mathrm{e}}^{3\\,x}",
+      "answer4": "\\text{D) }-8\\,{\\mathrm{e}}^{8\\,x}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left ({\\mathrm{e}}^{-x}\\right)",
+      "answer1": "\\text{A) }-{\\mathrm{e}}^{-x}",
+      "answer2": "\\text{B) }15\\,{\\mathrm{e}}^{-5\\,x}",
+      "answer3": "\\text{C) }-2\\,{\\mathrm{e}}^x",
+      "answer4": "\\text{D) }-{\\mathrm{e}}^{-x}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-{\\mathrm{e}}^{3\\,x}\\right)",
+      "answer1": "\\text{A) }-3\\,{\\mathrm{e}}^{3\\,x}",
+      "answer2": "\\text{B) }8\\,{\\mathrm{e}}^{-4\\,x}",
+      "answer3": "\\text{C) }-7\\,{\\mathrm{e}}^{7\\,x}",
+      "answer4": "\\text{D) }2\\,{\\mathrm{e}}^{2\\,x}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-3\\,{\\mathrm{e}}^{3\\,x}\\right)",
+      "answer1": "\\text{A) }36\\,{\\mathrm{e}}^{9\\,x}",
+      "answer2": "\\text{B) }-9\\,{\\mathrm{e}}^{3\\,x}",
+      "answer3": "\\text{C) }27\\,{\\mathrm{e}}^{-9\\,x}",
+      "answer4": "\\text{D) }-35\\,{\\mathrm{e}}^{-7\\,x}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left ({\\mathrm{e}}^{4\\,x}\\right)",
+      "answer1": "\\text{A) }4\\,{\\mathrm{e}}^{4\\,x}",
+      "answer2": "\\text{B) }-4\\,{\\mathrm{e}}^x",
+      "answer3": "\\text{C) }24\\,{\\mathrm{e}}^{3\\,x}",
+      "answer4": "\\text{D) }-9\\,{\\mathrm{e}}^{3\\,x}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-{\\mathrm{e}}^x\\right)",
+      "answer1": "\\text{A) }-{\\mathrm{e}}^x",
+      "answer2": "\\text{B) }16\\,{\\mathrm{e}}^{4\\,x}",
+      "answer3": "\\text{C) }-21\\,{\\mathrm{e}}^{-7\\,x}",
+      "answer4": "\\text{D) }8\\,{\\mathrm{e}}^{8\\,x}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (2\\,{\\mathrm{e}}^{-8\\,x}\\right)",
+      "answer1": "\\text{A) }12\\,{\\mathrm{e}}^{3\\,x}",
+      "answer2": "\\text{B) }-16\\,{\\mathrm{e}}^{-8\\,x}",
+      "answer3": "\\text{C) }12\\,{\\mathrm{e}}^{3\\,x}",
+      "answer4": "\\text{D) }-35\\,{\\mathrm{e}}^{-7\\,x}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (2\\,{\\mathrm{e}}^{-8\\,x}\\right)",
+      "answer1": "\\text{A) }-16\\,{\\mathrm{e}}^{-8\\,x}",
+      "answer2": "\\text{B) }20\\,{\\mathrm{e}}^{10\\,x}",
+      "answer3": "\\text{C) }6\\,{\\mathrm{e}}^{2\\,x}",
+      "answer4": "\\text{D) }-8\\,{\\mathrm{e}}^{4\\,x}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (3\\,{\\mathrm{e}}^{-5\\,x}\\right)",
+      "answer1": "\\text{A) }-8\\,{\\mathrm{e}}^{-4\\,x}",
+      "answer2": "\\text{B) }-15\\,{\\mathrm{e}}^{-5\\,x}",
+      "answer3": "\\text{C) }12\\,{\\mathrm{e}}^{-6\\,x}",
+      "answer4": "\\text{D) }-15\\,{\\mathrm{e}}^{5\\,x}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (4\\,{\\mathrm{e}}^{-2\\,x}\\right)",
+      "answer1": "\\text{A) }-4\\,{\\mathrm{e}}^{-4\\,x}",
+      "answer2": "\\text{B) }-8\\,{\\mathrm{e}}^{-2\\,x}",
+      "answer3": "\\text{C) }-8\\,{\\mathrm{e}}^{8\\,x}",
+      "answer4": "\\text{D) }18\\,{\\mathrm{e}}^{-6\\,x}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (4\\,{\\mathrm{e}}^{9\\,x}\\right)",
+      "answer1": "\\text{A) }36\\,{\\mathrm{e}}^{9\\,x}",
+      "answer2": "\\text{B) }-8\\,{\\mathrm{e}}^{2\\,x}",
+      "answer3": "\\text{C) }-24\\,{\\mathrm{e}}^{8\\,x}",
+      "answer4": "\\text{D) }12\\,{\\mathrm{e}}^{-6\\,x}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-{\\mathrm{e}}^{2\\,x}\\right)",
+      "answer1": "\\text{A) }28\\,{\\mathrm{e}}^{7\\,x}",
+      "answer2": "\\text{B) }8\\,{\\mathrm{e}}^{-2\\,x}",
+      "answer3": "\\text{C) }-2\\,{\\mathrm{e}}^{2\\,x}",
+      "answer4": "\\text{D) }-27\\,{\\mathrm{e}}^{3\\,x}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-2\\,{\\mathrm{e}}^{-x}\\right)",
+      "answer1": "\\text{A) }-20\\,{\\mathrm{e}}^{10\\,x}",
+      "answer2": "\\text{B) }2\\,{\\mathrm{e}}^{-x}",
+      "answer3": "\\text{C) }-27\\,{\\mathrm{e}}^{-9\\,x}",
+      "answer4": "\\text{D) }12\\,{\\mathrm{e}}^{-4\\,x}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-3\\,{\\mathrm{e}}^{8\\,x}\\right)",
+      "answer1": "\\text{A) }28\\,{\\mathrm{e}}^{-7\\,x}",
+      "answer2": "\\text{B) }-12\\,{\\mathrm{e}}^{6\\,x}",
+      "answer3": "\\text{C) }-24\\,{\\mathrm{e}}^{8\\,x}",
+      "answer4": "\\text{D) }-20\\,{\\mathrm{e}}^{-5\\,x}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (4\\,{\\mathrm{e}}^{9\\,x}\\right)",
+      "answer1": "\\text{A) }-8\\,{\\mathrm{e}}^{-2\\,x}",
+      "answer2": "\\text{B) }-5\\,{\\mathrm{e}}^{-x}",
+      "answer3": "\\text{C) }36\\,{\\mathrm{e}}^{9\\,x}",
+      "answer4": "\\text{D) }9\\,{\\mathrm{e}}^{-3\\,x}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (5\\,{\\mathrm{e}}^{9\\,x}\\right)",
+      "answer1": "\\text{A) }-32\\,{\\mathrm{e}}^{8\\,x}",
+      "answer2": "\\text{B) }45\\,{\\mathrm{e}}^{9\\,x}",
+      "answer3": "\\text{C) }36\\,{\\mathrm{e}}^{-4\\,x}",
+      "answer4": "\\text{D) }9\\,{\\mathrm{e}}^{9\\,x}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-4\\,{\\mathrm{e}}^{-7\\,x}\\right)",
+      "answer1": "\\text{A) }10\\,{\\mathrm{e}}^{-5\\,x}",
+      "answer2": "\\text{B) }24\\,{\\mathrm{e}}^{6\\,x}",
+      "answer3": "\\text{C) }28\\,{\\mathrm{e}}^{-7\\,x}",
+      "answer4": "\\text{D) }2\\,{\\mathrm{e}}^{-2\\,x}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left ({\\mathrm{e}}^{-3\\,x}\\right)",
+      "answer1": "\\text{A) }-3\\,{\\mathrm{e}}^{-3\\,x}",
+      "answer2": "\\text{B) }-16\\,{\\mathrm{e}}^{-4\\,x}",
+      "answer3": "\\text{C) }-10\\,{\\mathrm{e}}^{-2\\,x}",
+      "answer4": "\\text{D) }-8\\,{\\mathrm{e}}^{-4\\,x}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (5\\,{\\mathrm{e}}^x\\right)",
+      "answer1": "\\text{A) }24\\,{\\mathrm{e}}^{8\\,x}",
+      "answer2": "\\text{B) }6\\,{\\mathrm{e}}^{3\\,x}",
+      "answer3": "\\text{C) }30\\,{\\mathrm{e}}^{10\\,x}",
+      "answer4": "\\text{D) }5\\,{\\mathrm{e}}^x",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (3\\,{\\mathrm{e}}^{-7\\,x}\\right)",
+      "answer1": "\\text{A) }-21\\,{\\mathrm{e}}^{-7\\,x}",
+      "answer2": "\\text{B) }9\\,{\\mathrm{e}}^{-9\\,x}",
+      "answer3": "\\text{C) }20\\,{\\mathrm{e}}^{10\\,x}",
+      "answer4": "\\text{D) }15\\,{\\mathrm{e}}^{5\\,x}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-{\\mathrm{e}}^{2\\,x}\\right)",
+      "answer1": "\\text{A) }-2\\,{\\mathrm{e}}^{2\\,x}",
+      "answer2": "\\text{B) }49\\,{\\mathrm{e}}^{7\\,x}",
+      "answer3": "\\text{C) }-4\\,{\\mathrm{e}}^{4\\,x}",
+      "answer4": "\\text{D) }-7\\,{\\mathrm{e}}^{-7\\,x}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-3\\,{\\mathrm{e}}^{-5\\,x}\\right)",
+      "answer1": "\\text{A) }-12\\,{\\mathrm{e}}^{3\\,x}",
+      "answer2": "\\text{B) }10\\,{\\mathrm{e}}^{10\\,x}",
+      "answer3": "\\text{C) }30\\,{\\mathrm{e}}^{10\\,x}",
+      "answer4": "\\text{D) }15\\,{\\mathrm{e}}^{-5\\,x}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-2\\,{\\mathrm{e}}^{9\\,x}\\right)",
+      "answer1": "\\text{A) }9\\,{\\mathrm{e}}^{-3\\,x}",
+      "answer2": "\\text{B) }-18\\,{\\mathrm{e}}^{9\\,x}",
+      "answer3": "\\text{C) }-18\\,{\\mathrm{e}}^{-6\\,x}",
+      "answer4": "\\text{D) }-30\\,{\\mathrm{e}}^{-6\\,x}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-{\\mathrm{e}}^{-4\\,x}\\right)",
+      "answer1": "\\text{A) }-4\\,{\\mathrm{e}}^{2\\,x}",
+      "answer2": "\\text{B) }-5\\,{\\mathrm{e}}^{5\\,x}",
+      "answer3": "\\text{C) }-40\\,{\\mathrm{e}}^{-8\\,x}",
+      "answer4": "\\text{D) }4\\,{\\mathrm{e}}^{-4\\,x}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (3\\,{\\mathrm{e}}^{2\\,x}\\right)",
+      "answer1": "\\text{A) }4\\,{\\mathrm{e}}^{-4\\,x}",
+      "answer2": "\\text{B) }6\\,{\\mathrm{e}}^{2\\,x}",
+      "answer3": "\\text{C) }-32\\,{\\mathrm{e}}^{-8\\,x}",
+      "answer4": "\\text{D) }-16\\,{\\mathrm{e}}^{4\\,x}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-{\\mathrm{e}}^{10\\,x}\\right)",
+      "answer1": "\\text{A) }15\\,{\\mathrm{e}}^{-5\\,x}",
+      "answer2": "\\text{B) }12\\,{\\mathrm{e}}^{3\\,x}",
+      "answer3": "\\text{C) }-10\\,{\\mathrm{e}}^{10\\,x}",
+      "answer4": "\\text{D) }2\\,{\\mathrm{e}}^{-2\\,x}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (3\\,{\\mathrm{e}}^{5\\,x}\\right)",
+      "answer1": "\\text{A) }15\\,{\\mathrm{e}}^{5\\,x}",
+      "answer2": "\\text{B) }-45\\,{\\mathrm{e}}^{-9\\,x}",
+      "answer3": "\\text{C) }-45\\,{\\mathrm{e}}^{5\\,x}",
+      "answer4": "\\text{D) }6\\,{\\mathrm{e}}^{2\\,x}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-4\\,{\\mathrm{e}}^{10\\,x}\\right)",
+      "answer1": "\\text{A) }-12\\,{\\mathrm{e}}^{-4\\,x}",
+      "answer2": "\\text{B) }-40\\,{\\mathrm{e}}^{10\\,x}",
+      "answer3": "\\text{C) }7\\,{\\mathrm{e}}^{-7\\,x}",
+      "answer4": "\\text{D) }-14\\,{\\mathrm{e}}^{7\\,x}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-{\\mathrm{e}}^{4\\,x}\\right)",
+      "answer1": "\\text{A) }12\\,{\\mathrm{e}}^{3\\,x}",
+      "answer2": "\\text{B) }-4\\,{\\mathrm{e}}^{4\\,x}",
+      "answer3": "\\text{C) }-24\\,{\\mathrm{e}}^{6\\,x}",
+      "answer4": "\\text{D) }-18\\,{\\mathrm{e}}^{-9\\,x}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (4\\,{\\mathrm{e}}^{-4\\,x}\\right)",
+      "answer1": "\\text{A) }-20\\,{\\mathrm{e}}^{5\\,x}",
+      "answer2": "\\text{B) }24\\,{\\mathrm{e}}^{8\\,x}",
+      "answer3": "\\text{C) }-16\\,{\\mathrm{e}}^{-4\\,x}",
+      "answer4": "\\text{D) }27\\,{\\mathrm{e}}^{9\\,x}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (5\\,{\\mathrm{e}}^{10\\,x}\\right)",
+      "answer1": "\\text{A) }54\\,{\\mathrm{e}}^{9\\,x}",
+      "answer2": "\\text{B) }7\\,{\\mathrm{e}}^{7\\,x}",
+      "answer3": "\\text{C) }36\\,{\\mathrm{e}}^{9\\,x}",
+      "answer4": "\\text{D) }50\\,{\\mathrm{e}}^{10\\,x}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (5\\,{\\mathrm{e}}^{-x}\\right)",
+      "answer1": "\\text{A) }8\\,{\\mathrm{e}}^{2\\,x}",
+      "answer2": "\\text{B) }40\\,{\\mathrm{e}}^{10\\,x}",
+      "answer3": "\\text{C) }6\\,{\\mathrm{e}}^{-6\\,x}",
+      "answer4": "\\text{D) }-5\\,{\\mathrm{e}}^{-x}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-4\\,{\\mathrm{e}}^{4\\,x}\\right)",
+      "answer1": "\\text{A) }-8\\,{\\mathrm{e}}^{2\\,x}",
+      "answer2": "\\text{B) }15\\,{\\mathrm{e}}^{3\\,x}",
+      "answer3": "\\text{C) }{\\mathrm{e}}^{-x}",
+      "answer4": "\\text{D) }-16\\,{\\mathrm{e}}^{4\\,x}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left ({\\mathrm{e}}^{-4\\,x}\\right)",
+      "answer1": "\\text{A) }24\\,{\\mathrm{e}}^{6\\,x}",
+      "answer2": "\\text{B) }6\\,{\\mathrm{e}}^{2\\,x}",
+      "answer3": "\\text{C) }-4\\,{\\mathrm{e}}^{-4\\,x}",
+      "answer4": "\\text{D) }-4\\,{\\mathrm{e}}^{-4\\,x}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (5\\,{\\mathrm{e}}^{4\\,x}\\right)",
+      "answer1": "\\text{A) }24\\,{\\mathrm{e}}^{8\\,x}",
+      "answer2": "\\text{B) }-25\\,{\\mathrm{e}}^{-5\\,x}",
+      "answer3": "\\text{C) }16\\,{\\mathrm{e}}^{-8\\,x}",
+      "answer4": "\\text{D) }20\\,{\\mathrm{e}}^{4\\,x}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (3\\,{\\mathrm{e}}^{-7\\,x}\\right)",
+      "answer1": "\\text{A) }7\\,{\\mathrm{e}}^{7\\,x}",
+      "answer2": "\\text{B) }-8\\,{\\mathrm{e}}^{-2\\,x}",
+      "answer3": "\\text{C) }-21\\,{\\mathrm{e}}^{-7\\,x}",
+      "answer4": "\\text{D) }14\\,{\\mathrm{e}}^{-7\\,x}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left ({\\mathrm{e}}^{-9\\,x}\\right)",
+      "answer1": "\\text{A) }-6\\,{\\mathrm{e}}^{6\\,x}",
+      "answer2": "\\text{B) }8\\,{\\mathrm{e}}^{2\\,x}",
+      "answer3": "\\text{C) }-9\\,{\\mathrm{e}}^{-9\\,x}",
+      "answer4": "\\text{D) }-6\\,{\\mathrm{e}}^{2\\,x}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-5\\,{\\mathrm{e}}^{-4\\,x}\\right)",
+      "answer1": "\\text{A) }35\\,{\\mathrm{e}}^{7\\,x}",
+      "answer2": "\\text{B) }14\\,{\\mathrm{e}}^{7\\,x}",
+      "answer3": "\\text{C) }20\\,{\\mathrm{e}}^{-4\\,x}",
+      "answer4": "\\text{D) }20\\,{\\mathrm{e}}^{4\\,x}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (2\\,{\\mathrm{e}}^{-8\\,x}\\right)",
+      "answer1": "\\text{A) }40\\,{\\mathrm{e}}^{8\\,x}",
+      "answer2": "\\text{B) }-6\\,{\\mathrm{e}}^{-3\\,x}",
+      "answer3": "\\text{C) }-16\\,{\\mathrm{e}}^{-8\\,x}",
+      "answer4": "\\text{D) }8\\,{\\mathrm{e}}^{-8\\,x}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (2\\,{\\mathrm{e}}^{5\\,x}\\right)",
+      "answer1": "\\text{A) }10\\,{\\mathrm{e}}^{5\\,x}",
+      "answer2": "\\text{B) }24\\,{\\mathrm{e}}^{-6\\,x}",
+      "answer3": "\\text{C) }-20\\,{\\mathrm{e}}^{10\\,x}",
+      "answer4": "\\text{D) }50\\,{\\mathrm{e}}^{10\\,x}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-3\\,{\\mathrm{e}}^{2\\,x}\\right)",
+      "answer1": "\\text{A) }-6\\,{\\mathrm{e}}^{2\\,x}",
+      "answer2": "\\text{B) }4\\,{\\mathrm{e}}^{4\\,x}",
+      "answer3": "\\text{C) }2\\,{\\mathrm{e}}^{-2\\,x}",
+      "answer4": "\\text{D) }7\\,{\\mathrm{e}}^{-7\\,x}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left ({\\mathrm{e}}^{-3\\,x}\\right)",
+      "answer1": "\\text{A) }-5\\,{\\mathrm{e}}^{-x}",
+      "answer2": "\\text{B) }25\\,{\\mathrm{e}}^{5\\,x}",
+      "answer3": "\\text{C) }5\\,{\\mathrm{e}}^{5\\,x}",
+      "answer4": "\\text{D) }-3\\,{\\mathrm{e}}^{-3\\,x}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (4\\,{\\mathrm{e}}^{7\\,x}\\right)",
+      "answer1": "\\text{A) }6\\,{\\mathrm{e}}^{-2\\,x}",
+      "answer2": "\\text{B) }8\\,{\\mathrm{e}}^{-2\\,x}",
+      "answer3": "\\text{C) }-6\\,{\\mathrm{e}}^{3\\,x}",
+      "answer4": "\\text{D) }28\\,{\\mathrm{e}}^{7\\,x}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-2\\,{\\mathrm{e}}^{-9\\,x}\\right)",
+      "answer1": "\\text{A) }6\\,{\\mathrm{e}}^{2\\,x}",
+      "answer2": "\\text{B) }18\\,{\\mathrm{e}}^{-9\\,x}",
+      "answer3": "\\text{C) }2\\,{\\mathrm{e}}^{-x}",
+      "answer4": "\\text{D) }15\\,{\\mathrm{e}}^{3\\,x}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (2\\,{\\mathrm{e}}^{-6\\,x}\\right)",
+      "answer1": "\\text{A) }28\\,{\\mathrm{e}}^{7\\,x}",
+      "answer2": "\\text{B) }-6\\,{\\mathrm{e}}^{-x}",
+      "answer3": "\\text{C) }-12\\,{\\mathrm{e}}^{-6\\,x}",
+      "answer4": "\\text{D) }-18\\,{\\mathrm{e}}^{-6\\,x}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (2\\,{\\mathrm{e}}^{-6\\,x}\\right)",
+      "answer1": "\\text{A) }-25\\,{\\mathrm{e}}^{-5\\,x}",
+      "answer2": "\\text{B) }-12\\,{\\mathrm{e}}^{-6\\,x}",
+      "answer3": "\\text{C) }-42\\,{\\mathrm{e}}^{-7\\,x}",
+      "answer4": "\\text{D) }12\\,{\\mathrm{e}}^{-3\\,x}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (10\\,{\\mathrm{e}}^{-6\\,x}\\right)",
+      "answer1": "\\text{A) }7\\,{\\mathrm{e}}^{7\\,x}",
+      "answer2": "\\text{B) }-60\\,{\\mathrm{e}}^{-6\\,x}",
+      "answer3": "\\text{C) }-8\\,{\\mathrm{e}}^{8\\,x}",
+      "answer4": "\\text{D) }8\\,{\\mathrm{e}}^{2\\,x}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (5\\,{\\mathrm{e}}^{2\\,x}\\right)",
+      "answer1": "\\text{A) }12\\,{\\mathrm{e}}^{4\\,x}",
+      "answer2": "\\text{B) }-14\\,{\\mathrm{e}}^{7\\,x}",
+      "answer3": "\\text{C) }10\\,{\\mathrm{e}}^{2\\,x}",
+      "answer4": "\\text{D) }-36\\,{\\mathrm{e}}^{-9\\,x}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-2\\,{\\mathrm{e}}^{5\\,x}\\right)",
+      "answer1": "\\text{A) }4\\,{\\mathrm{e}}^{-4\\,x}",
+      "answer2": "\\text{B) }6\\,{\\mathrm{e}}^x",
+      "answer3": "\\text{C) }-5\\,{\\mathrm{e}}^{-5\\,x}",
+      "answer4": "\\text{D) }-10\\,{\\mathrm{e}}^{5\\,x}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (5\\,{\\mathrm{e}}^{3\\,x}\\right)",
+      "answer1": "\\text{A) }-56\\,{\\mathrm{e}}^{7\\,x}",
+      "answer2": "\\text{B) }15\\,{\\mathrm{e}}^{3\\,x}",
+      "answer3": "\\text{C) }12\\,{\\mathrm{e}}^{6\\,x}",
+      "answer4": "\\text{D) }40\\,{\\mathrm{e}}^{10\\,x}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (4\\,{\\mathrm{e}}^{10\\,x}\\right)",
+      "answer1": "\\text{A) }16\\,{\\mathrm{e}}^{-8\\,x}",
+      "answer2": "\\text{B) }25\\,{\\mathrm{e}}^{5\\,x}",
+      "answer3": "\\text{C) }40\\,{\\mathrm{e}}^{10\\,x}",
+      "answer4": "\\text{D) }50\\,{\\mathrm{e}}^{5\\,x}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left ({\\mathrm{e}}^{8\\,x}\\right)",
+      "answer1": "\\text{A) }-40\\,{\\mathrm{e}}^{-8\\,x}",
+      "answer2": "\\text{B) }12\\,{\\mathrm{e}}^{-3\\,x}",
+      "answer3": "\\text{C) }18\\,{\\mathrm{e}}^{-6\\,x}",
+      "answer4": "\\text{D) }8\\,{\\mathrm{e}}^{8\\,x}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (2\\,{\\mathrm{e}}^{-9\\,x}\\right)",
+      "answer1": "\\text{A) }-20\\,{\\mathrm{e}}^{-5\\,x}",
+      "answer2": "\\text{B) }-32\\,{\\mathrm{e}}^{8\\,x}",
+      "answer3": "\\text{C) }-35\\,{\\mathrm{e}}^{-5\\,x}",
+      "answer4": "\\text{D) }-18\\,{\\mathrm{e}}^{-9\\,x}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (5\\,{\\mathrm{e}}^{2\\,x}\\right)",
+      "answer1": "\\text{A) }15\\,{\\mathrm{e}}^{3\\,x}",
+      "answer2": "\\text{B) }6\\,{\\mathrm{e}}^{2\\,x}",
+      "answer3": "\\text{C) }10\\,{\\mathrm{e}}^{2\\,x}",
+      "answer4": "\\text{D) }-27\\,{\\mathrm{e}}^{9\\,x}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (5\\,{\\mathrm{e}}^{-2\\,x}\\right)",
+      "answer1": "\\text{A) }16\\,{\\mathrm{e}}^{4\\,x}",
+      "answer2": "\\text{B) }-10\\,{\\mathrm{e}}^{5\\,x}",
+      "answer3": "\\text{C) }7\\,{\\mathrm{e}}^{-7\\,x}",
+      "answer4": "\\text{D) }-10\\,{\\mathrm{e}}^{-2\\,x}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (7\\,{\\mathrm{e}}^{7\\,x}\\right)",
+      "answer1": "\\text{A) }-9\\,{\\mathrm{e}}^{9\\,x}",
+      "answer2": "\\text{B) }12\\,{\\mathrm{e}}^{-6\\,x}",
+      "answer3": "\\text{C) }49\\,{\\mathrm{e}}^{7\\,x}",
+      "answer4": "\\text{D) }45\\,{\\mathrm{e}}^{-9\\,x}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (2\\,{\\mathrm{e}}^{4\\,x}\\right)",
+      "answer1": "\\text{A) }4\\,{\\mathrm{e}}^{4\\,x}",
+      "answer2": "\\text{B) }16\\,{\\mathrm{e}}^{8\\,x}",
+      "answer3": "\\text{C) }-16\\,{\\mathrm{e}}^{4\\,x}",
+      "answer4": "\\text{D) }8\\,{\\mathrm{e}}^{4\\,x}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-2\\,{\\mathrm{e}}^{-8\\,x}\\right)",
+      "answer1": "\\text{A) }-8\\,{\\mathrm{e}}^{4\\,x}",
+      "answer2": "\\text{B) }-6\\,{\\mathrm{e}}^{6\\,x}",
+      "answer3": "\\text{C) }6\\,{\\mathrm{e}}^{-6\\,x}",
+      "answer4": "\\text{D) }16\\,{\\mathrm{e}}^{-8\\,x}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (3\\,{\\mathrm{e}}^{2\\,x}\\right)",
+      "answer1": "\\text{A) }-6\\,{\\mathrm{e}}^{3\\,x}",
+      "answer2": "\\text{B) }-20\\,{\\mathrm{e}}^{-4\\,x}",
+      "answer3": "\\text{C) }-2\\,{\\mathrm{e}}^{-x}",
+      "answer4": "\\text{D) }6\\,{\\mathrm{e}}^{2\\,x}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (5\\,{\\mathrm{e}}^{6\\,x}\\right)",
+      "answer1": "\\text{A) }-{\\mathrm{e}}^{-x}",
+      "answer2": "\\text{B) }15\\,{\\mathrm{e}}^{-5\\,x}",
+      "answer3": "\\text{C) }30\\,{\\mathrm{e}}^{6\\,x}",
+      "answer4": "\\text{D) }30\\,{\\mathrm{e}}^{10\\,x}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (4\\,{\\mathrm{e}}^{-5\\,x}\\right)",
+      "answer1": "\\text{A) }-72\\,{\\mathrm{e}}^{9\\,x}",
+      "answer2": "\\text{B) }-20\\,{\\mathrm{e}}^{-5\\,x}",
+      "answer3": "\\text{C) }-28\\,{\\mathrm{e}}^{7\\,x}",
+      "answer4": "\\text{D) }-6\\,{\\mathrm{e}}^{-3\\,x}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left ({\\mathrm{e}}^{-5\\,x}\\right)",
+      "answer1": "\\text{A) }-5\\,{\\mathrm{e}}^{-5\\,x}",
+      "answer2": "\\text{B) }-4\\,{\\mathrm{e}}^{-2\\,x}",
+      "answer3": "\\text{C) }3\\,{\\mathrm{e}}^{-3\\,x}",
+      "answer4": "\\text{D) }-12\\,{\\mathrm{e}}^{6\\,x}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (5\\,{\\mathrm{e}}^{9\\,x}\\right)",
+      "answer1": "\\text{A) }2\\,{\\mathrm{e}}^{-x}",
+      "answer2": "\\text{B) }10\\,{\\mathrm{e}}^{-5\\,x}",
+      "answer3": "\\text{C) }10\\,{\\mathrm{e}}^{-5\\,x}",
+      "answer4": "\\text{D) }45\\,{\\mathrm{e}}^{9\\,x}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (2\\,{\\mathrm{e}}^{-6\\,x}\\right)",
+      "answer1": "\\text{A) }2\\,{\\mathrm{e}}^{-x}",
+      "answer2": "\\text{B) }-12\\,{\\mathrm{e}}^{-6\\,x}",
+      "answer3": "\\text{C) }-24\\,{\\mathrm{e}}^{8\\,x}",
+      "answer4": "\\text{D) }40\\,{\\mathrm{e}}^{10\\,x}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-3\\,{\\mathrm{e}}^{-8\\,x}\\right)",
+      "answer1": "\\text{A) }-18\\,{\\mathrm{e}}^{-9\\,x}",
+      "answer2": "\\text{B) }-18\\,{\\mathrm{e}}^{-9\\,x}",
+      "answer3": "\\text{C) }8\\,{\\mathrm{e}}^{-4\\,x}",
+      "answer4": "\\text{D) }24\\,{\\mathrm{e}}^{-8\\,x}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (4\\,{\\mathrm{e}}^{-8\\,x}\\right)",
+      "answer1": "\\text{A) }-15\\,{\\mathrm{e}}^{-5\\,x}",
+      "answer2": "\\text{B) }27\\,{\\mathrm{e}}^{-9\\,x}",
+      "answer3": "\\text{C) }5\\,{\\mathrm{e}}^{5\\,x}",
+      "answer4": "\\text{D) }-32\\,{\\mathrm{e}}^{-8\\,x}",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-8\\,{\\mathrm{e}}^{-6\\,x}\\right)",
+      "answer1": "\\text{A) }48\\,{\\mathrm{e}}^{-6\\,x}",
+      "answer2": "\\text{B) }-8\\,{\\mathrm{e}}^{8\\,x}",
+      "answer3": "\\text{C) }8\\,{\\mathrm{e}}^{-2\\,x}",
+      "answer4": "\\text{D) }14\\,{\\mathrm{e}}^{7\\,x}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (3\\,{\\mathrm{e}}^{-8\\,x}\\right)",
+      "answer1": "\\text{A) }-24\\,{\\mathrm{e}}^{-8\\,x}",
+      "answer2": "\\text{B) }8\\,{\\mathrm{e}}^{-4\\,x}",
+      "answer3": "\\text{C) }15\\,{\\mathrm{e}}^{3\\,x}",
+      "answer4": "\\text{D) }5\\,{\\mathrm{e}}^{5\\,x}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (4\\,{\\mathrm{e}}^x\\right)",
+      "answer1": "\\text{A) }-18\\,{\\mathrm{e}}^{-9\\,x}",
+      "answer2": "\\text{B) }4\\,{\\mathrm{e}}^x",
+      "answer3": "\\text{C) }18\\,{\\mathrm{e}}^{-9\\,x}",
+      "answer4": "\\text{D) }24\\,{\\mathrm{e}}^{-6\\,x}",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-4\\,{\\mathrm{e}}^{2\\,x}\\right)",
+      "answer1": "\\text{A) }-8\\,{\\mathrm{e}}^{2\\,x}",
+      "answer2": "\\text{B) }-18\\,{\\mathrm{e}}^{9\\,x}",
+      "answer3": "\\text{C) }-8\\,{\\mathrm{e}}^{2\\,x}",
+      "answer4": "\\text{D) }2\\,{\\mathrm{e}}^{-2\\,x}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (2\\,{\\mathrm{e}}^{2\\,x}\\right)",
+      "answer1": "\\text{A) }4\\,{\\mathrm{e}}^{2\\,x}",
+      "answer2": "\\text{B) }18\\,{\\mathrm{e}}^{6\\,x}",
+      "answer3": "\\text{C) }12\\,{\\mathrm{e}}^{-6\\,x}",
+      "answer4": "\\text{D) }-5\\,{\\mathrm{e}}^{5\\,x}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (-9\\,{\\mathrm{e}}^{-8\\,x}\\right)",
+      "answer1": "\\text{A) }72\\,{\\mathrm{e}}^{-8\\,x}",
+      "answer2": "\\text{B) }21\\,{\\mathrm{e}}^{7\\,x}",
+      "answer3": "\\text{C) }45\\,{\\mathrm{e}}^{9\\,x}",
+      "answer4": "\\text{D) }-14\\,{\\mathrm{e}}^{-7\\,x}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (3\\,{\\mathrm{e}}^{5\\,x}\\right)",
+      "answer1": "\\text{A) }15\\,{\\mathrm{e}}^{5\\,x}",
+      "answer2": "\\text{B) }10\\,{\\mathrm{e}}^{5\\,x}",
+      "answer3": "\\text{C) }-12\\,{\\mathrm{e}}^{6\\,x}",
+      "answer4": "\\text{D) }-5\\,{\\mathrm{e}}^{-x}",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\frac{d}{dx} \\left (4\\,{\\mathrm{e}}^{8\\,x}\\right)",
+      "answer1": "\\text{A) }-35\\,{\\mathrm{e}}^{-7\\,x}",
+      "answer2": "\\text{B) }-16\\,{\\mathrm{e}}^{-8\\,x}",
+      "answer3": "\\text{C) }32\\,{\\mathrm{e}}^{8\\,x}",
+      "answer4": "\\text{D) }21\\,{\\mathrm{e}}^{-7\\,x}",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    }
+  ]
+}
