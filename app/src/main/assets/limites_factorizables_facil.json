@@ -1001,36 +1001,6 @@
       "difficulty": "easy"
     },
     {
-      "question": "\\lim_{h \\to 0} \\left (\\frac{(-5+h)^2-25}{h} \\right)",
-      "answer1": "\\text{A) } -10",
-      "answer2": "\\text{B) } ",
-      "answer3": "\\text{C) } ",
-      "answer4": "\\text{D) } ",
-      "correct": "0",
-      "unlock": "1",
-      "difficulty": "easy"
-    },
-    {
-      "question": "\\lim_{h \\to 0} \\left (\\frac{(2+h)^3-8}{h} \\right)",
-      "answer1": "\\text{A) } ",
-      "answer2": "\\text{B) } 12",
-      "answer3": "\\text{C) } ",
-      "answer4": "\\text{D) } ",
-      "correct": "1",
-      "unlock": "1",
-      "difficulty": "medium"
-    },
-    {
-      "question": "\\lim_{h \\to 0} \\left (\\frac{(x+h)^3-x^3}{h} \\right)",
-      "answer1": "\\text{A) } ",
-      "answer2": "\\text{B) } ",
-      "answer3": "\\text{C) } ",
-      "answer4": "\\text{D) } 3x^2",
-      "correct": "3",
-      "unlock": "1",
-      "difficulty": "medium"
-    },
-    {
       "question": "\\lim_{h \\to 0 } \\left( \\frac{{\\left(h+1\\right)}^2-1}{h} \\right)",
       "answer1": "\\text{A) }3",
       "answer2": "\\text{B) }2",

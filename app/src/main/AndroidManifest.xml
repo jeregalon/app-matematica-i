@@ -2,6 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools">
 
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
     <uses-permission android:name="android.permission.INTERNET" />
 
     <application
@@ -15,66 +16,80 @@
         android:theme="@style/Theme.Prueba4"
         tools:targetApi="31">
         <activity
-            android:name=".ComposeActivity"
+            android:name=".RankingActivity"
             android:exported="false"
-            android:label="@string/title_activity_compose"
+            android:label="@string/title_activity_ranking"
             android:theme="@style/Theme.Prueba4" />
         <activity
-            android:name=".RegisterActivity"
-            android:exported="false" />
+            android:name=".SignUpActivity"
+            android:exported="false"
+            android:label="@string/title_activity_sign_up"
+            android:theme="@style/Theme.Prueba4" />
         <activity
-            android:name=".AuthActivity"
-            android:exported="false" />
+            android:name=".SupabaseActivity"
+            android:exported="false"
+            android:label="@string/title_activity_sign_up"
+            android:theme="@style/Theme.Prueba4" />
         <activity
-            android:name=".Tutoriales_Derivadas.TutDer5Activity"
-            android:exported="false" />
-        <activity
-            android:name=".Tutoriales_Derivadas.TutDer8Activity"
-            android:exported="false" />
-        <activity
-            android:name=".Tutoriales_Derivadas.TutDer7Activity"
-            android:exported="false" />
-        <activity
-            android:name=".Tutoriales_Derivadas.TutDer3Activity"
-            android:exported="false" />
-        <activity
-            android:name=".Tutoriales_Limites.TutLim6Activity"
-            android:exported="false" />
-        <activity
-            android:name=".Tutoriales_Derivadas.TutDer6Activity"
-            android:exported="false" />
-        <activity
-            android:name=".Tutoriales_Derivadas.TutDer2Activity"
-            android:exported="false" />
-        <activity
-            android:name=".Tutoriales_Derivadas.TutDer4Activity"
-            android:exported="false" />
-        <activity
-            android:name=".Tutoriales_Derivadas.TutDer1Activity"
-            android:exported="false" />
-        <activity
-            android:name=".Tutoriales_Limites.TutLim5Activity"
-            android:exported="false" />
-        <activity
-            android:name=".Tutoriales_Limites.TutLim2Activity"
-            android:exported="false" />
-        <activity
-            android:name=".Tutoriales_Limites.TutLim4Activity"
-            android:exported="false" />
-        <activity
-            android:name=".Tutoriales_Limites.TutLim3Activity"
-            android:exported="false" />
-        <activity
-            android:name=".Tutoriales_Limites.TutLim1Activity"
-            android:exported="false" />
-        <activity
-            android:name=".TemasActivity"
-            android:exported="false" />
+            android:name=".SignInActivity"
+            android:exported="false"
+            android:label="@string/title_activity_sign_up"
+            android:theme="@style/Theme.Prueba4" />
         <activity
             android:name=".MainActivity"
+            android:exported="false"
+            android:label="@string/title_activity_main"
+            android:theme="@style/Theme.Prueba4" />
+        <activity
+            android:name=".tutoriales_derivadas.TutDer5Activity"
+            android:exported="false" />
+        <activity
+            android:name=".tutoriales_derivadas.TutDer8Activity"
+            android:exported="false" />
+        <activity
+            android:name=".tutoriales_derivadas.TutDer7Activity"
+            android:exported="false" />
+        <activity
+            android:name=".tutoriales_derivadas.TutDer3Activity"
+            android:exported="false" />
+        <activity
+            android:name=".tutoriales_derivadas.TutDer6Activity"
+            android:exported="false" />
+        <activity
+            android:name=".tutoriales_derivadas.TutDer2Activity"
+            android:exported="false" />
+        <activity
+            android:name=".tutoriales_derivadas.TutDer4Activity"
+            android:exported="false" />
+        <activity
+            android:name=".tutoriales_derivadas.TutDer1Activity"
+            android:exported="false" />
+        <activity
+            android:name=".tutoriales_limites.TutLim5Activity"
+            android:exported="false" />
+        <activity
+            android:name=".tutoriales_limites.TutLim6Activity"
+            android:exported="false" />
+        <activity
+            android:name=".tutoriales_limites.TutLim4Activity"
+            android:exported="false" />
+        <activity
+            android:name=".tutoriales_limites.TutLim2Activity"
+            android:exported="false" />
+        <activity
+            android:name=".tutoriales_limites.TutLim3Activity"
+            android:exported="false" />
+        <activity
+            android:name=".tutoriales_limites.TutLim1Activity"
             android:exported="false" />
         <activity
             android:name=".QuestionActivity"
+            android:exported="false" />
+        <activity
+            android:name=".LevelsDerivatesActivity"
+            android:exported="false" />
+        <activity
+            android:name=".LevelsLimitsActivity"
             android:exported="false" />
         <activity
             android:name=".SplashActivity"

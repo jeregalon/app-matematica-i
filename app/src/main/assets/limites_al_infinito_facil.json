@@ -301,66 +301,6 @@
       "difficulty": "easy"
     },
     {
-      "question": "\\lim_{x \\to \\infty} \\left (\\frac{3x^2-x+4}{2x^2+5x-8} \\right)",
-      "answer1": "\\text{A) } ",
-      "answer2": "\\text{B) } ",
-      "answer3": "\\text{C) } \\frac{3}{2}",
-      "answer4": "\\text{D) } ",
-      "correct": "2",
-      "unlock": "5",
-      "difficulty": "easy"
-    },
-    {
-      "question": "\\lim_{x \\to \\infty} \\left (\\frac{3x-2}{2x+1} \\right)",
-      "answer1": "\\text{A) } ",
-      "answer2": "\\text{B) } ",
-      "answer3": "\\text{C) } ",
-      "answer4": "\\text{D) } \\frac{3}{2}",
-      "correct": "3",
-      "unlock": "5",
-      "difficulty": "easy"
-    },
-    {
-      "question": "\\lim_{x \\to -\\infty} \\left (\\frac{x-2}{x^2+1} \\right)",
-      "answer1": "\\text{A) } 0",
-      "answer2": "\\text{B) } ",
-      "answer3": "\\text{C) } ",
-      "answer4": "\\text{D) } ",
-      "correct": "0",
-      "unlock": "5",
-      "difficulty": "easy"
-    },
-    {
-      "question": "\\lim_{x \\to -\\infty} \\left (\\frac{4x^3+6x^2-2}{2x^3-4x+5} \\right)",
-      "answer1": "\\text{A) } ",
-      "answer2": "\\text{B) } 2",
-      "answer3": "\\text{C) } ",
-      "answer4": "\\text{D) } ",
-      "correct": "1",
-      "unlock": "5",
-      "difficulty": "easy"
-    },
-    {
-      "question": "\\lim_{x \\to \\infty} \\left (\\sqrt{x^2+1} \\right)",
-      "answer1": "\\text{A) } \\infty",
-      "answer2": "\\text{B) } ",
-      "answer3": "\\text{C) } ",
-      "answer4": "\\text{D) } ",
-      "correct": "0",
-      "unlock": "5",
-      "difficulty": "easy"
-    },
-    {
-      "question": "\\lim_{x \\to \\infty} \\left (\\frac{x^4-3x^2+x}{x^3-x+2} \\right)",
-      "answer1": "\\text{A) } ",
-      "answer2": "\\text{B) } ",
-      "answer3": "\\text{C) } ",
-      "answer4": "\\text{D) } \\infty",
-      "correct": "3",
-      "unlock": "5",
-      "difficulty": "easy"
-    },
-    {
       "question": "\\lim_{x \\to \\infty} \\left( -\\frac{-7\\,x^2+9\\,x+3}{8\\,x^2+4\\,x-1} \\right)",
       "answer1": "\\text{A) }\\frac{7}{8}",
       "answer2": "\\text{B) }\\frac{3}{2}",

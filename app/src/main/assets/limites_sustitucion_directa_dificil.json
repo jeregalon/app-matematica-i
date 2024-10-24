@@ -1,0 +1,2004 @@
+{
+  "limites_sustitucion_directa_dificil": [
+    {
+      "question": "\\lim_{x \\to 5} \\left(4\\,x^4+9\\,x^3-5\\,x^2+10\\,x-6 \\right)",
+      "answer1": "\\text{A) }3544",
+      "answer2": "\\text{B) }-2428",
+      "answer3": "\\text{C) }-2671",
+      "answer4": "\\text{D) }727",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 5} \\left(-2\\,x^3+5\\,x^2+3\\,x \\right)",
+      "answer1": "\\text{A) }-110",
+      "answer2": "\\text{B) }-106",
+      "answer3": "\\text{C) }-113",
+      "answer4": "\\text{D) }-16",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 0} \\left(-9\\,x^4-3\\,x^3-3\\,x^2+9\\,x-5 \\right)",
+      "answer1": "\\text{A) }8",
+      "answer2": "\\text{B) }-5",
+      "answer3": "\\text{C) }-Inf",
+      "answer4": "\\text{D) }20",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 1} \\left(-3\\,x^3+2\\,x^2+2\\,x-8 \\right)",
+      "answer1": "\\text{A) }-7",
+      "answer2": "\\text{B) }0",
+      "answer3": "\\text{C) }11",
+      "answer4": "\\text{D) }-1",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -2} \\left(-x^4+x^3+3\\,x^2+8\\,x-7 \\right)",
+      "answer1": "\\text{A) }28",
+      "answer2": "\\text{B) }-35",
+      "answer3": "\\text{C) }25",
+      "answer4": "\\text{D) }49",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 4} \\left(7\\,x^4-2\\,x^3+3\\,x^2+10\\,x+7 \\right)",
+      "answer1": "\\text{A) }-1612",
+      "answer2": "\\text{B) }456",
+      "answer3": "\\text{C) }2014",
+      "answer4": "\\text{D) }1759",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 3} \\left(5\\,x^3+4\\,x^2+7\\,x-4 \\right)",
+      "answer1": "\\text{A) }132",
+      "answer2": "\\text{B) }-73",
+      "answer3": "\\text{C) }188",
+      "answer4": "\\text{D) }70",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -3} \\left(6\\,x^4+3\\,x^3+9\\,x^2+3\\,x+8 \\right)",
+      "answer1": "\\text{A) }579",
+      "answer2": "\\text{B) }505",
+      "answer3": "\\text{C) }485",
+      "answer4": "\\text{D) }-147",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 3} \\left(8\\,x^4-5\\,x^3-7\\,x^2+7\\,x-1 \\right)",
+      "answer1": "\\text{A) }-31",
+      "answer2": "\\text{B) }-578",
+      "answer3": "\\text{C) }470",
+      "answer4": "\\text{D) }168",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 5} \\left(10\\,x^4-9\\,x^3-2\\,x^2+x+5 \\right)",
+      "answer1": "\\text{A) }-6237",
+      "answer2": "\\text{B) }1027",
+      "answer3": "\\text{C) }6213",
+      "answer4": "\\text{D) }5085",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 4} \\left(-3\\,x^3+4\\,x^2+8\\,x+8 \\right)",
+      "answer1": "\\text{A) }93",
+      "answer2": "\\text{B) }-61",
+      "answer3": "\\text{C) }-88",
+      "answer4": "\\text{D) }-11",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -2} \\left(7\\,x^4-7\\,x^3-4\\,x^2-8\\,x+4 \\right)",
+      "answer1": "\\text{A) }172",
+      "answer2": "\\text{B) }-6",
+      "answer3": "\\text{C) }-141",
+      "answer4": "\\text{D) }-72",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 3} \\left(8\\,x^3-3\\,x^2-3\\,x-1 \\right)",
+      "answer1": "\\text{A) }201",
+      "answer2": "\\text{B) }66",
+      "answer3": "\\text{C) }212",
+      "answer4": "\\text{D) }179",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -2} \\left(-x^3+6\\,x^2-2\\,x-9 \\right)",
+      "answer1": "\\text{A) }-2",
+      "answer2": "\\text{B) }-7",
+      "answer3": "\\text{C) }18",
+      "answer4": "\\text{D) }27",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -2} \\left(-x^3+2\\,x^2-6\\,x+6 \\right)",
+      "answer1": "\\text{A) }13",
+      "answer2": "\\text{B) }34",
+      "answer3": "\\text{C) }-8",
+      "answer4": "\\text{D) }-20",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1} \\left(-6\\,x^3+2\\,x^2+4\\,x+4 \\right)",
+      "answer1": "\\text{A) }12",
+      "answer2": "\\text{B) }13",
+      "answer3": "\\text{C) }8",
+      "answer4": "\\text{D) }0",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 4} \\left(-7\\,x^3+7\\,x^2-5\\,x+1 \\right)",
+      "answer1": "\\text{A) }366",
+      "answer2": "\\text{B) }456",
+      "answer3": "\\text{C) }-355",
+      "answer4": "\\text{D) }-79",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1} \\left(-3\\,x^3-5\\,x^2-6 \\right)",
+      "answer1": "\\text{A) }3",
+      "answer2": "\\text{B) }10",
+      "answer3": "\\text{C) }-8",
+      "answer4": "\\text{D) }13",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -4} \\left(6\\,x^4-2\\,x^3+3\\,x^2-5\\,x-4 \\right)",
+      "answer1": "\\text{A) }-1604",
+      "answer2": "\\text{B) }-421",
+      "answer3": "\\text{C) }-1635",
+      "answer4": "\\text{D) }1728",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 5} \\left(-8\\,x^4-7\\,x^3+10\\,x^2-8\\,x+4 \\right)",
+      "answer1": "\\text{A) }-6163",
+      "answer2": "\\text{B) }-1119",
+      "answer3": "\\text{C) }-909",
+      "answer4": "\\text{D) }-5661",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 3} \\left(-3\\,x^4-4\\,x^3-9\\,x^2+10 \\right)",
+      "answer1": "\\text{A) }-100",
+      "answer2": "\\text{B) }-134",
+      "answer3": "\\text{C) }244",
+      "answer4": "\\text{D) }-422",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -3} \\left(-8\\,x^4-9\\,x^3-x \\right)",
+      "answer1": "\\text{A) }-881",
+      "answer2": "\\text{B) }-402",
+      "answer3": "\\text{C) }141",
+      "answer4": "\\text{D) }-238",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -2} \\left(10\\,x^3-5\\,x^2-2\\,x-5 \\right)",
+      "answer1": "\\text{A) }-65",
+      "answer2": "\\text{B) }56",
+      "answer3": "\\text{C) }11",
+      "answer4": "\\text{D) }-101",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 1} \\left(3\\,x^4+5\\,x^3+8\\,x^2-2\\,x+5 \\right)",
+      "answer1": "\\text{A) }26",
+      "answer2": "\\text{B) }14",
+      "answer3": "\\text{C) }19",
+      "answer4": "\\text{D) }28",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 4} \\left(-x^3-6\\,x^2+10\\,x+1 \\right)",
+      "answer1": "\\text{A) }-31",
+      "answer2": "\\text{B) }-119",
+      "answer3": "\\text{C) }-23",
+      "answer4": "\\text{D) }-95",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -2} \\left(-2\\,x^3+7\\,x^2+x+2 \\right)",
+      "answer1": "\\text{A) }44",
+      "answer2": "\\text{B) }42",
+      "answer3": "\\text{C) }-7",
+      "answer4": "\\text{D) }-18",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -3} \\left(x^3+8\\,x^2+4\\,x+6 \\right)",
+      "answer1": "\\text{A) }80",
+      "answer2": "\\text{B) }51",
+      "answer3": "\\text{C) }39",
+      "answer4": "\\text{D) }-5",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -3} \\left(4\\,x^3-6\\,x^2+6\\,x-5 \\right)",
+      "answer1": "\\text{A) }-185",
+      "answer2": "\\text{B) }36",
+      "answer3": "\\text{C) }81",
+      "answer4": "\\text{D) }71",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 4} \\left(-5\\,x^4-6\\,x^3-9\\,x^2-3\\,x+2 \\right)",
+      "answer1": "\\text{A) }524",
+      "answer2": "\\text{B) }1431",
+      "answer3": "\\text{C) }-1818",
+      "answer4": "\\text{D) }-447",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -3} \\left(9\\,x^4+8\\,x^3-2\\,x^2+9\\,x-1 \\right)",
+      "answer1": "\\text{A) }710",
+      "answer2": "\\text{B) }-144",
+      "answer3": "\\text{C) }967",
+      "answer4": "\\text{D) }467",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 1} \\left(4\\,x^3-4\\,x^2-9\\,x+9 \\right)",
+      "answer1": "\\text{A) }-1",
+      "answer2": "\\text{B) }7",
+      "answer3": "\\text{C) }10",
+      "answer4": "\\text{D) }0",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -4} \\left(4\\,x^2+2\\,x-7 \\right)",
+      "answer1": "\\text{A) }70",
+      "answer2": "\\text{B) }49",
+      "answer3": "\\text{C) }-8",
+      "answer4": "\\text{D) }20",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 1} \\left(5\\,x^3+9\\,x^2-8\\,x-4 \\right)",
+      "answer1": "\\text{A) }6",
+      "answer2": "\\text{B) }-8",
+      "answer3": "\\text{C) }2",
+      "answer4": "\\text{D) }14",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 1} \\left(-9\\,x^4-x^3-9\\,x^2+5\\,x+6 \\right)",
+      "answer1": "\\text{A) }-8",
+      "answer2": "\\text{B) }11",
+      "answer3": "\\text{C) }27",
+      "answer4": "\\text{D) }1",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 5} \\left(6\\,x^4+8\\,x^3+6\\,x^2+9\\,x+1 \\right)",
+      "answer1": "\\text{A) }1170",
+      "answer2": "\\text{B) }4946",
+      "answer3": "\\text{C) }1004",
+      "answer4": "\\text{D) }4760",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 4} \\left(2\\,x^3+8\\,x^2+2\\,x-4 \\right)",
+      "answer1": "\\text{A) }252",
+      "answer2": "\\text{B) }77",
+      "answer3": "\\text{C) }132",
+      "answer4": "\\text{D) }260",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -4} \\left(-2\\,x^4-4\\,x^3-7\\,x^2+4\\,x+2 \\right)",
+      "answer1": "\\text{A) }-111",
+      "answer2": "\\text{B) }-382",
+      "answer3": "\\text{C) }103",
+      "answer4": "\\text{D) }-612",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -3} \\left(x^3+3\\,x^2+5\\,x-9 \\right)",
+      "answer1": "\\text{A) }-12",
+      "answer2": "\\text{B) }-7",
+      "answer3": "\\text{C) }-24",
+      "answer4": "\\text{D) }14",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1} \\left(-x^4+9\\,x^3+8\\,x^2+7\\,x-9 \\right)",
+      "answer1": "\\text{A) }-18",
+      "answer2": "\\text{B) }11",
+      "answer3": "\\text{C) }14",
+      "answer4": "\\text{D) }24",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 5} \\left(-3\\,x^3-x^2+6\\,x-7 \\right)",
+      "answer1": "\\text{A) }-377",
+      "answer2": "\\text{B) }28",
+      "answer3": "\\text{C) }-369",
+      "answer4": "\\text{D) }-65",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 1} \\left(-4\\,x^4+5\\,x^3+6\\,x+1 \\right)",
+      "answer1": "\\text{A) }30",
+      "answer2": "\\text{B) }44",
+      "answer3": "\\text{C) }34",
+      "answer4": "\\text{D) }8",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -2} \\left(-6\\,x^4+9\\,x^3+x^2+10\\,x-2 \\right)",
+      "answer1": "\\text{A) }104",
+      "answer2": "\\text{B) }108",
+      "answer3": "\\text{C) }-157",
+      "answer4": "\\text{D) }-186",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 0} \\left(-8\\,x^3-3\\,x^2+6\\,x \\right)",
+      "answer1": "\\text{A) }0",
+      "answer2": "\\text{B) }8",
+      "answer3": "\\text{C) }7",
+      "answer4": "\\text{D) }NaN",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1} \\left(10\\,x^4+3\\,x^3+8\\,x^2-5\\,x+4 \\right)",
+      "answer1": "\\text{A) }-10",
+      "answer2": "\\text{B) }20",
+      "answer3": "\\text{C) }24",
+      "answer4": "\\text{D) }-19",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -2} \\left(7\\,x^3+10\\,x^2-7\\,x+8 \\right)",
+      "answer1": "\\text{A) }11",
+      "answer2": "\\text{B) }4",
+      "answer3": "\\text{C) }78",
+      "answer4": "\\text{D) }6",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1} \\left(10\\,x^3-8\\,x-6 \\right)",
+      "answer1": "\\text{A) }2",
+      "answer2": "\\text{B) }-8",
+      "answer3": "\\text{C) }33",
+      "answer4": "\\text{D) }23",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 4} \\left(-7\\,x^4-x^3-9\\,x^2-8\\,x+5 \\right)",
+      "answer1": "\\text{A) }-2025",
+      "answer2": "\\text{B) }-2027",
+      "answer3": "\\text{C) }-494",
+      "answer4": "\\text{D) }1912",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 5} \\left(x^4+4\\,x^3-3\\,x-4 \\right)",
+      "answer1": "\\text{A) }123",
+      "answer2": "\\text{B) }228",
+      "answer3": "\\text{C) }-113",
+      "answer4": "\\text{D) }1106",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 2} \\left(5\\,x^3+8\\,x^2-x+1 \\right)",
+      "answer1": "\\text{A) }71",
+      "answer2": "\\text{B) }-64",
+      "answer3": "\\text{C) }9",
+      "answer4": "\\text{D) }44",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 4} \\left(-2\\,x^3+6\\,x+4 \\right)",
+      "answer1": "\\text{A) }137",
+      "answer2": "\\text{B) }-143",
+      "answer3": "\\text{C) }-100",
+      "answer4": "\\text{D) }-18",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -2} \\left(6\\,x^3+4\\,x^2-2\\,x-3 \\right)",
+      "answer1": "\\text{A) }-1",
+      "answer2": "\\text{B) }-31",
+      "answer3": "\\text{C) }20",
+      "answer4": "\\text{D) }45",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 5} \\left(-3\\,x^4-2\\,x^3+2\\,x^2+9\\,x-4 \\right)",
+      "answer1": "\\text{A) }2136",
+      "answer2": "\\text{B) }-398",
+      "answer3": "\\text{C) }-1817",
+      "answer4": "\\text{D) }-2034",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -4} \\left(x^4+8\\,x^3+4\\,x^2-7\\,x+1 \\right)",
+      "answer1": "\\text{A) }263",
+      "answer2": "\\text{B) }769",
+      "answer3": "\\text{C) }-163",
+      "answer4": "\\text{D) }46",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 5} \\left(-4\\,x^4-6\\,x^3-8\\,x^2-x+5 \\right)",
+      "answer1": "\\text{A) }3056",
+      "answer2": "\\text{B) }-3450",
+      "answer3": "\\text{C) }-680",
+      "answer4": "\\text{D) }1764",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1} \\left(2\\,x^3+x^2-2\\,x+8 \\right)",
+      "answer1": "\\text{A) }29",
+      "answer2": "\\text{B) }37",
+      "answer3": "\\text{C) }9",
+      "answer4": "\\text{D) }4",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 5} \\left(x^4-4\\,x^3+8\\,x^2+9\\,x+7 \\right)",
+      "answer1": "\\text{A) }-266",
+      "answer2": "\\text{B) }87",
+      "answer3": "\\text{C) }-1104",
+      "answer4": "\\text{D) }377",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 3} \\left(-7\\,x^4+2\\,x^3+10\\,x^2+7\\,x+6 \\right)",
+      "answer1": "\\text{A) }504",
+      "answer2": "\\text{B) }-396",
+      "answer3": "\\text{C) }-122",
+      "answer4": "\\text{D) }460",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1} \\left(4\\,x^3+7\\,x^2+4\\,x-7 \\right)",
+      "answer1": "\\text{A) }6",
+      "answer2": "\\text{B) }17",
+      "answer3": "\\text{C) }33",
+      "answer4": "\\text{D) }-8",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -4} \\left(3\\,x^4-7\\,x^3+4\\,x-8 \\right)",
+      "answer1": "\\text{A) }783",
+      "answer2": "\\text{B) }-289",
+      "answer3": "\\text{C) }335",
+      "answer4": "\\text{D) }1192",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -2} \\left(9\\,x^3-x^2-8\\,x+4 \\right)",
+      "answer1": "\\text{A) }-81",
+      "answer2": "\\text{B) }36",
+      "answer3": "\\text{C) }12",
+      "answer4": "\\text{D) }-56",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -2} \\left(-3\\,x^4+5\\,x^3+9\\,x^2+4\\,x \\right)",
+      "answer1": "\\text{A) }11",
+      "answer2": "\\text{B) }-60",
+      "answer3": "\\text{C) }40",
+      "answer4": "\\text{D) }-66",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -2} \\left(-4\\,x^4+6\\,x^3+x^2-6\\,x+1 \\right)",
+      "answer1": "\\text{A) }-43",
+      "answer2": "\\text{B) }59",
+      "answer3": "\\text{C) }33",
+      "answer4": "\\text{D) }-95",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 2} \\left(-5\\,x^3+10\\,x^2+7\\,x+3 \\right)",
+      "answer1": "\\text{A) }86",
+      "answer2": "\\text{B) }83",
+      "answer3": "\\text{C) }17",
+      "answer4": "\\text{D) }17",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 2} \\left(7\\,x^3+9\\,x^2+7\\,x \\right)",
+      "answer1": "\\text{A) }18",
+      "answer2": "\\text{B) }106",
+      "answer3": "\\text{C) }61",
+      "answer4": "\\text{D) }101",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1} \\left(-2\\,x^4-x^3-8\\,x^2+4\\,x+5 \\right)",
+      "answer1": "\\text{A) }-8",
+      "answer2": "\\text{B) }8",
+      "answer3": "\\text{C) }-5",
+      "answer4": "\\text{D) }19",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -2} \\left(4\\,x^4-5\\,x^3+6\\,x-2 \\right)",
+      "answer1": "\\text{A) }90",
+      "answer2": "\\text{B) }32",
+      "answer3": "\\text{C) }11",
+      "answer4": "\\text{D) }-40",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 2} \\left(4\\,x^3+x^2-2\\,x+4 \\right)",
+      "answer1": "\\text{A) }-2",
+      "answer2": "\\text{B) }7",
+      "answer3": "\\text{C) }36",
+      "answer4": "\\text{D) }26",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 0} \\left(-2\\,x^4+3\\,x^3+8\\,x^2+3 \\right)",
+      "answer1": "\\text{A) }3",
+      "answer2": "\\text{B) }13",
+      "answer3": "\\text{C) }18",
+      "answer4": "\\text{D) }Inf",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 1} \\left(-6\\,x^4-9\\,x^3+6\\,x^2+x-3 \\right)",
+      "answer1": "\\text{A) }9",
+      "answer2": "\\text{B) }16",
+      "answer3": "\\text{C) }-11",
+      "answer4": "\\text{D) }3",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 5} \\left(2\\,x^3-9\\,x^2-3 \\right)",
+      "answer1": "\\text{A) }8",
+      "answer2": "\\text{B) }235",
+      "answer3": "\\text{C) }22",
+      "answer4": "\\text{D) }9",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 1} \\left(3\\,x^3-4\\,x^2-6\\,x-2 \\right)",
+      "answer1": "\\text{A) }7",
+      "answer2": "\\text{B) }-9",
+      "answer3": "\\text{C) }2",
+      "answer4": "\\text{D) }6",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 0} \\left(10\\,x^4-8\\,x^3+4\\,x^2-x-7 \\right)",
+      "answer1": "\\text{A) }21",
+      "answer2": "\\text{B) }-7",
+      "answer3": "\\text{C) }-Inf",
+      "answer4": "\\text{D) }13",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 2} \\left(-2\\,x^3-8\\,x^2-7\\,x+3 \\right)",
+      "answer1": "\\text{A) }-59",
+      "answer2": "\\text{B) }23",
+      "answer3": "\\text{C) }38",
+      "answer4": "\\text{D) }-22",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -2} \\left(-7\\,x^3-5\\,x^2-5\\,x+9 \\right)",
+      "answer1": "\\text{A) }15",
+      "answer2": "\\text{B) }100",
+      "answer3": "\\text{C) }55",
+      "answer4": "\\text{D) }-18",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 0} \\left(6\\,x^4+x^3-8\\,x^2+8\\,x-4 \\right)",
+      "answer1": "\\text{A) }-4",
+      "answer2": "\\text{B) }3",
+      "answer3": "\\text{C) }2",
+      "answer4": "\\text{D) }-Inf",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -4} \\left(-7\\,x^4-8\\,x^3-7\\,x^2-9\\,x-6 \\right)",
+      "answer1": "\\text{A) }495",
+      "answer2": "\\text{B) }1365",
+      "answer3": "\\text{C) }-1362",
+      "answer4": "\\text{D) }352",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -4} \\left(9\\,x^4-9\\,x^3+7\\,x^2-4 \\right)",
+      "answer1": "\\text{A) }2988",
+      "answer2": "\\text{B) }2198",
+      "answer3": "\\text{C) }1734",
+      "answer4": "\\text{D) }-739",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 1} \\left(-7\\,x^4-8\\,x^3-8\\,x^2-9\\,x+10 \\right)",
+      "answer1": "\\text{A) }16",
+      "answer2": "\\text{B) }-12",
+      "answer3": "\\text{C) }29",
+      "answer4": "\\text{D) }-22",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 5} \\left(2\\,x^4-6\\,x^3-5\\,x^2-5 \\right)",
+      "answer1": "\\text{A) }1253",
+      "answer2": "\\text{B) }370",
+      "answer3": "\\text{C) }78",
+      "answer4": "\\text{D) }-617",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -2} \\left(9\\,x^3+4\\,x^2-2\\,x-1 \\right)",
+      "answer1": "\\text{A) }-53",
+      "answer2": "\\text{B) }-76",
+      "answer3": "\\text{C) }-48",
+      "answer4": "\\text{D) }37",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 2} \\left(-2\\,x^3-6\\,x^2+8\\,x-1 \\right)",
+      "answer1": "\\text{A) }-21",
+      "answer2": "\\text{B) }-4",
+      "answer3": "\\text{C) }5",
+      "answer4": "\\text{D) }-25",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 0} \\left(-9\\,x^4+x^3-x^2-5\\,x-5 \\right)",
+      "answer1": "\\text{A) }4",
+      "answer2": "\\text{B) }3",
+      "answer3": "\\text{C) }-5",
+      "answer4": "\\text{D) }-Inf",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 3} \\left(6\\,x^4-4\\,x^3+3\\,x^2+8\\,x+3 \\right)",
+      "answer1": "\\text{A) }432",
+      "answer2": "\\text{B) }95",
+      "answer3": "\\text{C) }436",
+      "answer4": "\\text{D) }151",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 5} \\left(5\\,x^3-3\\,x^2-3\\,x+7 \\right)",
+      "answer1": "\\text{A) }542",
+      "answer2": "\\text{B) }94",
+      "answer3": "\\text{C) }-631",
+      "answer4": "\\text{D) }115",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 2} \\left(-6\\,x^4-2\\,x^3-3\\,x^2+9\\,x+7 \\right)",
+      "answer1": "\\text{A) }83",
+      "answer2": "\\text{B) }-39",
+      "answer3": "\\text{C) }-103",
+      "answer4": "\\text{D) }-99",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 1} \\left(9\\,x^4+6\\,x^3-6\\,x^2+10\\,x-3 \\right)",
+      "answer1": "\\text{A) }6",
+      "answer2": "\\text{B) }18",
+      "answer3": "\\text{C) }16",
+      "answer4": "\\text{D) }26",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -2} \\left(9\\,x^4-5\\,x^3+3\\,x^2+3 \\right)",
+      "answer1": "\\text{A) }-172",
+      "answer2": "\\text{B) }-91",
+      "answer3": "\\text{C) }131",
+      "answer4": "\\text{D) }199",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 2} \\left(-4\\,x^4-x^3+9\\,x^2+x-8 \\right)",
+      "answer1": "\\text{A) }-42",
+      "answer2": "\\text{B) }113",
+      "answer3": "\\text{C) }0",
+      "answer4": "\\text{D) }-8",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 0} \\left(-5\\,x^3+9\\,x^2+5\\,x-7 \\right)",
+      "answer1": "\\text{A) }14",
+      "answer2": "\\text{B) }-7",
+      "answer3": "\\text{C) }-Inf",
+      "answer4": "\\text{D) }15",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -4} \\left(-7\\,x^4+3\\,x^3-4\\,x^2+x+1 \\right)",
+      "answer1": "\\text{A) }1926",
+      "answer2": "\\text{B) }523",
+      "answer3": "\\text{C) }-1851",
+      "answer4": "\\text{D) }-2051",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 0} \\left(-8\\,x^4-x^3+4\\,x^2-4\\,x+8 \\right)",
+      "answer1": "\\text{A) }2",
+      "answer2": "\\text{B) }8",
+      "answer3": "\\text{C) }Inf",
+      "answer4": "\\text{D) }22",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1} \\left(-9\\,x^3+x^2+10\\,x+5 \\right)",
+      "answer1": "\\text{A) }-2",
+      "answer2": "\\text{B) }4",
+      "answer3": "\\text{C) }10",
+      "answer4": "\\text{D) }5",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 3} \\left(-7\\,x^4-2\\,x^3+7\\,x^2-7\\,x+3 \\right)",
+      "answer1": "\\text{A) }604",
+      "answer2": "\\text{B) }-187",
+      "answer3": "\\text{C) }107",
+      "answer4": "\\text{D) }-576",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -4} \\left(-2\\,x^4-6\\,x^3-8\\,x^2-6\\,x-2 \\right)",
+      "answer1": "\\text{A) }548",
+      "answer2": "\\text{B) }-234",
+      "answer3": "\\text{C) }69",
+      "answer4": "\\text{D) }518",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -2} \\left(3\\,x^3-9\\,x^2+6\\,x+5 \\right)",
+      "answer1": "\\text{A) }-67",
+      "answer2": "\\text{B) }37",
+      "answer3": "\\text{C) }-38",
+      "answer4": "\\text{D) }43",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 0} \\left(2\\,x^4-9\\,x^3+9\\,x^2+3\\,x+4 \\right)",
+      "answer1": "\\text{A) }4",
+      "answer2": "\\text{B) }19",
+      "answer3": "\\text{C) }16",
+      "answer4": "\\text{D) }Inf",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -4} \\left(-5\\,x^4+9\\,x^3+x^2-8\\,x+8 \\right)",
+      "answer1": "\\text{A) }-1800",
+      "answer2": "\\text{B) }1286",
+      "answer3": "\\text{C) }-593",
+      "answer4": "\\text{D) }460",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 3} \\left(x^4+3\\,x^3+2\\,x^2-6 \\right)",
+      "answer1": "\\text{A) }157",
+      "answer2": "\\text{B) }9",
+      "answer3": "\\text{C) }174",
+      "answer4": "\\text{D) }74",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 1} \\left(-6\\,x^3-5\\,x^2+5\\,x+6 \\right)",
+      "answer1": "\\text{A) }15",
+      "answer2": "\\text{B) }8",
+      "answer3": "\\text{C) }20",
+      "answer4": "\\text{D) }0",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 4} \\left(-5\\,x^4-2\\,x^3+5\\,x^2-6\\,x-3 \\right)",
+      "answer1": "\\text{A) }1443",
+      "answer2": "\\text{B) }-332",
+      "answer3": "\\text{C) }79",
+      "answer4": "\\text{D) }-1355",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 3} \\left(5\\,x^4-x^3-5\\,x^2+9\\,x+7 \\right)",
+      "answer1": "\\text{A) }466",
+      "answer2": "\\text{B) }367",
+      "answer3": "\\text{C) }132",
+      "answer4": "\\text{D) }350",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 0} \\left(-5\\,x^3-4\\,x^2-4\\,x-1 \\right)",
+      "answer1": "\\text{A) }6",
+      "answer2": "\\text{B) }5",
+      "answer3": "\\text{C) }-1",
+      "answer4": "\\text{D) }-Inf",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -2} \\left(9\\,x^3+8\\,x^2+3\\,x+8 \\right)",
+      "answer1": "\\text{A) }90",
+      "answer2": "\\text{B) }26",
+      "answer3": "\\text{C) }-13",
+      "answer4": "\\text{D) }-38",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 0} \\left(x^4-4\\,x^3-2\\,x^2+x+1 \\right)",
+      "answer1": "\\text{A) }13",
+      "answer2": "\\text{B) }Inf",
+      "answer3": "\\text{C) }10",
+      "answer4": "\\text{D) }1",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 3} \\left(x^4+9\\,x^3-4\\,x^2+9\\,x+2 \\right)",
+      "answer1": "\\text{A) }163",
+      "answer2": "\\text{B) }317",
+      "answer3": "\\text{C) }116",
+      "answer4": "\\text{D) }13",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 2} \\left(x^4-6\\,x^3-3\\,x^2-7\\,x+8 \\right)",
+      "answer1": "\\text{A) }48",
+      "answer2": "\\text{B) }-50",
+      "answer3": "\\text{C) }-11",
+      "answer4": "\\text{D) }1",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 4} \\left(-9\\,x^3-6\\,x^2+9\\,x-7 \\right)",
+      "answer1": "\\text{A) }-643",
+      "answer2": "\\text{B) }-429",
+      "answer3": "\\text{C) }621",
+      "answer4": "\\text{D) }-153",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 0} \\left(-4\\,x^4-6\\,x^3+8\\,x^2-9\\,x-9 \\right)",
+      "answer1": "\\text{A) }7",
+      "answer2": "\\text{B) }21",
+      "answer3": "\\text{C) }-9",
+      "answer4": "\\text{D) }-Inf",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 2} \\left(9\\,x^3+4\\,x^2-4\\,x+6 \\right)",
+      "answer1": "\\text{A) }70",
+      "answer2": "\\text{B) }1",
+      "answer3": "\\text{C) }86",
+      "answer4": "\\text{D) }51",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1} \\left(3\\,x^4+6\\,x^3-6\\,x^2+6 \\right)",
+      "answer1": "\\text{A) }-3",
+      "answer2": "\\text{B) }19",
+      "answer3": "\\text{C) }1",
+      "answer4": "\\text{D) }14",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -4} \\left(3\\,x^4-8\\,x^3+4\\,x^2+x+9 \\right)",
+      "answer1": "\\text{A) }-47",
+      "answer2": "\\text{B) }-329",
+      "answer3": "\\text{C) }-704",
+      "answer4": "\\text{D) }1349",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1} \\left(-2\\,x^4+4\\,x^2-4\\,x-7 \\right)",
+      "answer1": "\\text{A) }11",
+      "answer2": "\\text{B) }13",
+      "answer3": "\\text{C) }-1",
+      "answer4": "\\text{D) }8",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 5} \\left(6\\,x^4+5\\,x^3+2\\,x^2-6\\,x+3 \\right)",
+      "answer1": "\\text{A) }3112",
+      "answer2": "\\text{B) }891",
+      "answer3": "\\text{C) }3183",
+      "answer4": "\\text{D) }4398",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1} \\left(6\\,x^4+5\\,x^3-x^2+3\\,x-8 \\right)",
+      "answer1": "\\text{A) }-11",
+      "answer2": "\\text{B) }5",
+      "answer3": "\\text{C) }7",
+      "answer4": "\\text{D) }25",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -2} \\left(2\\,x^3+7\\,x^2+3\\,x+2 \\right)",
+      "answer1": "\\text{A) }-21",
+      "answer2": "\\text{B) }27",
+      "answer3": "\\text{C) }8",
+      "answer4": "\\text{D) }4",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1} \\left(10\\,x^4+7\\,x^3-x^2+7\\,x-1 \\right)",
+      "answer1": "\\text{A) }-6",
+      "answer2": "\\text{B) }-1",
+      "answer3": "\\text{C) }-12",
+      "answer4": "\\text{D) }15",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 1} \\left(-5\\,x^3+3\\,x^2-5\\,x+2 \\right)",
+      "answer1": "\\text{A) }-7",
+      "answer2": "\\text{B) }1",
+      "answer3": "\\text{C) }7",
+      "answer4": "\\text{D) }-5",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 0} \\left(-4\\,x^3-3\\,x^2+4\\,x+1 \\right)",
+      "answer1": "\\text{A) }8",
+      "answer2": "\\text{B) }Inf",
+      "answer3": "\\text{C) }10",
+      "answer4": "\\text{D) }1",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 3} \\left(8\\,x^3+2\\,x^2+x+7 \\right)",
+      "answer1": "\\text{A) }244",
+      "answer2": "\\text{B) }-216",
+      "answer3": "\\text{C) }-8",
+      "answer4": "\\text{D) }84",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1} \\left(x^2+7\\,x+10 \\right)",
+      "answer1": "\\text{A) }4",
+      "answer2": "\\text{B) }0",
+      "answer3": "\\text{C) }12",
+      "answer4": "\\text{D) }3",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 0} \\left(-9\\,x^4+x^3-2\\,x^2+6\\,x-6 \\right)",
+      "answer1": "\\text{A) }5",
+      "answer2": "\\text{B) }21",
+      "answer3": "\\text{C) }-6",
+      "answer4": "\\text{D) }-Inf",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 0} \\left(-4\\,x^4-8\\,x^3+7\\,x^2-3\\,x+2 \\right)",
+      "answer1": "\\text{A) }17",
+      "answer2": "\\text{B) }2",
+      "answer3": "\\text{C) }Inf",
+      "answer4": "\\text{D) }19",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 5} \\left(-3\\,x^3-3\\,x^2+x-4 \\right)",
+      "answer1": "\\text{A) }-449",
+      "answer2": "\\text{B) }-366",
+      "answer3": "\\text{C) }459",
+      "answer4": "\\text{D) }-80",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 4} \\left(5\\,x^3-7\\,x^2-x+2 \\right)",
+      "answer1": "\\text{A) }14",
+      "answer2": "\\text{B) }220",
+      "answer3": "\\text{C) }206",
+      "answer4": "\\text{D) }63",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1} \\left(-2\\,x^3+7\\,x^2+x+9 \\right)",
+      "answer1": "\\text{A) }21",
+      "answer2": "\\text{B) }-5",
+      "answer3": "\\text{C) }22",
+      "answer4": "\\text{D) }17",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1} \\left(-8\\,x^3+x^2-8\\,x-1 \\right)",
+      "answer1": "\\text{A) }10",
+      "answer2": "\\text{B) }-9",
+      "answer3": "\\text{C) }6",
+      "answer4": "\\text{D) }16",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -2} \\left(-5\\,x^3-8\\,x^2+5\\,x+8 \\right)",
+      "answer1": "\\text{A) }45",
+      "answer2": "\\text{B) }-84",
+      "answer3": "\\text{C) }6",
+      "answer4": "\\text{D) }9",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -2} \\left(9\\,x^4-8\\,x^2+x-6 \\right)",
+      "answer1": "\\text{A) }-127",
+      "answer2": "\\text{B) }-42",
+      "answer3": "\\text{C) }41",
+      "answer4": "\\text{D) }104",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1} \\left(-8\\,x^3-x^2-5\\,x+10 \\right)",
+      "answer1": "\\text{A) }4",
+      "answer2": "\\text{B) }22",
+      "answer3": "\\text{C) }-13",
+      "answer4": "\\text{D) }-7",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -3} \\left(-3\\,x^4-x^3-3\\,x^2+9\\,x+4 \\right)",
+      "answer1": "\\text{A) }250",
+      "answer2": "\\text{B) }207",
+      "answer3": "\\text{C) }-266",
+      "answer4": "\\text{D) }100",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 2} \\left(7\\,x^4-5\\,x^3-3\\,x^2-5\\,x-9 \\right)",
+      "answer1": "\\text{A) }-50",
+      "answer2": "\\text{B) }41",
+      "answer3": "\\text{C) }25",
+      "answer4": "\\text{D) }-61",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 2} \\left(8\\,x^4+3\\,x^3+8\\,x^2-3\\,x+3 \\right)",
+      "answer1": "\\text{A) }-21",
+      "answer2": "\\text{B) }103",
+      "answer3": "\\text{C) }154",
+      "answer4": "\\text{D) }181",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 3} \\left(5\\,x^4+3\\,x^3+7\\,x^2-2\\,x+8 \\right)",
+      "answer1": "\\text{A) }551",
+      "answer2": "\\text{B) }-45",
+      "answer3": "\\text{C) }320",
+      "answer4": "\\text{D) }193",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 0} \\left(5\\,x^4+9\\,x^3-9\\,x^2+7\\,x+7 \\right)",
+      "answer1": "\\text{A) }7",
+      "answer2": "\\text{B) }25",
+      "answer3": "\\text{C) }27",
+      "answer4": "\\text{D) }Inf",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 1} \\left(3\\,x^4+2\\,x^3-5\\,x^2-4\\,x+6 \\right)",
+      "answer1": "\\text{A) }5",
+      "answer2": "\\text{B) }2",
+      "answer3": "\\text{C) }6",
+      "answer4": "\\text{D) }7",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 1} \\left(3\\,x^3-5\\,x^2-6\\,x-9 \\right)",
+      "answer1": "\\text{A) }-4",
+      "answer2": "\\text{B) }2",
+      "answer3": "\\text{C) }-17",
+      "answer4": "\\text{D) }-12",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -4} \\left(-9\\,x^3+5\\,x^2+7\\,x+2 \\right)",
+      "answer1": "\\text{A) }534",
+      "answer2": "\\text{B) }630",
+      "answer3": "\\text{C) }-150",
+      "answer4": "\\text{D) }582",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 2} \\left(5\\,x^3+5\\,x^2+3\\,x-2 \\right)",
+      "answer1": "\\text{A) }-7",
+      "answer2": "\\text{B) }64",
+      "answer3": "\\text{C) }40",
+      "answer4": "\\text{D) }-47",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 3} \\left(-2\\,x^4+4\\,x^3+6\\,x^2-6\\,x+4 \\right)",
+      "answer1": "\\text{A) }315",
+      "answer2": "\\text{B) }7",
+      "answer3": "\\text{C) }-193",
+      "answer4": "\\text{D) }-14",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -2} \\left(3\\,x^4-3\\,x^3-4\\,x^2-9\\,x+8 \\right)",
+      "answer1": "\\text{A) }-52",
+      "answer2": "\\text{B) }82",
+      "answer3": "\\text{C) }-22",
+      "answer4": "\\text{D) }-10",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 5} \\left(-9\\,x^3-4\\,x^2+8\\,x-6 \\right)",
+      "answer1": "\\text{A) }149",
+      "answer2": "\\text{B) }97",
+      "answer3": "\\text{C) }-1191",
+      "answer4": "\\text{D) }-229",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -4} \\left(2\\,x^4+2\\,x^3+9\\,x^2-8\\,x+4 \\right)",
+      "answer1": "\\text{A) }-149",
+      "answer2": "\\text{B) }416",
+      "answer3": "\\text{C) }564",
+      "answer4": "\\text{D) }-127",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 1} \\left(5\\,x^4+x^3+8\\,x^2-7\\,x+4 \\right)",
+      "answer1": "\\text{A) }11",
+      "answer2": "\\text{B) }8",
+      "answer3": "\\text{C) }16",
+      "answer4": "\\text{D) }44",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 3} \\left(-3\\,x^3+8\\,x^2+x+2 \\right)",
+      "answer1": "\\text{A) }164",
+      "answer2": "\\text{B) }-4",
+      "answer3": "\\text{C) }7",
+      "answer4": "\\text{D) }8",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1} \\left(-5\\,x^4+7\\,x^3+8\\,x^2+9\\,x+2 \\right)",
+      "answer1": "\\text{A) }22",
+      "answer2": "\\text{B) }21",
+      "answer3": "\\text{C) }9",
+      "answer4": "\\text{D) }-11",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -4} \\left(x^3-7\\,x^2+8\\,x-5 \\right)",
+      "answer1": "\\text{A) }-55",
+      "answer2": "\\text{B) }60",
+      "answer3": "\\text{C) }183",
+      "answer4": "\\text{D) }-213",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 2} \\left(-4\\,x^3-9\\,x^2-4\\,x-2 \\right)",
+      "answer1": "\\text{A) }3",
+      "answer2": "\\text{B) }21",
+      "answer3": "\\text{C) }-78",
+      "answer4": "\\text{D) }-30",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 3} \\left(2\\,x^4-5\\,x^3-x^2-4\\,x+7 \\right)",
+      "answer1": "\\text{A) }132",
+      "answer2": "\\text{B) }13",
+      "answer3": "\\text{C) }17",
+      "answer4": "\\text{D) }-161",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -2} \\left(x^4-7\\,x^3+9\\,x^2+9 \\right)",
+      "answer1": "\\text{A) }19",
+      "answer2": "\\text{B) }-43",
+      "answer3": "\\text{C) }81",
+      "answer4": "\\text{D) }117",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 5} \\left(8\\,x^3-4\\,x^2-6\\,x+5 \\right)",
+      "answer1": "\\text{A) }1037",
+      "answer2": "\\text{B) }875",
+      "answer3": "\\text{C) }187",
+      "answer4": "\\text{D) }989",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1} \\left(-7\\,x^3-7\\,x-4 \\right)",
+      "answer1": "\\text{A) }10",
+      "answer2": "\\text{B) }4",
+      "answer3": "\\text{C) }2",
+      "answer4": "\\text{D) }-3",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 2} \\left(-5\\,x^4+5\\,x^3+8\\,x^2-5\\,x+5 \\right)",
+      "answer1": "\\text{A) }21",
+      "answer2": "\\text{B) }-93",
+      "answer3": "\\text{C) }-13",
+      "answer4": "\\text{D) }10",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -2} \\left(-4\\,x^4+8\\,x^3+7\\,x^2+3\\,x+5 \\right)",
+      "answer1": "\\text{A) }34",
+      "answer2": "\\text{B) }36",
+      "answer3": "\\text{C) }-101",
+      "answer4": "\\text{D) }63",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -3} \\left(-9\\,x^3+5\\,x^2-3\\,x+4 \\right)",
+      "answer1": "\\text{A) }-46",
+      "answer2": "\\text{B) }301",
+      "answer3": "\\text{C) }-93",
+      "answer4": "\\text{D) }-182",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 5} \\left(x^4-7\\,x^3-9\\,x^2+9\\,x+3 \\right)",
+      "answer1": "\\text{A) }532",
+      "answer2": "\\text{B) }-250",
+      "answer3": "\\text{C) }-427",
+      "answer4": "\\text{D) }-77",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 2} \\left(8\\,x^4-6\\,x^3-8\\,x^2-8\\,x-9 \\right)",
+      "answer1": "\\text{A) }197",
+      "answer2": "\\text{B) }123",
+      "answer3": "\\text{C) }23",
+      "answer4": "\\text{D) }26",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -4} \\left(-x^3-4\\,x^2+2\\,x+7 \\right)",
+      "answer1": "\\text{A) }86",
+      "answer2": "\\text{B) }1",
+      "answer3": "\\text{C) }-130",
+      "answer4": "\\text{D) }-1",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 2} \\left(7\\,x^4+2\\,x^3+6\\,x^2-3\\,x-7 \\right)",
+      "answer1": "\\text{A) }139",
+      "answer2": "\\text{B) }2",
+      "answer3": "\\text{C) }-86",
+      "answer4": "\\text{D) }81",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 0} \\left(-4\\,x^4+x^2-9\\,x+8 \\right)",
+      "answer1": "\\text{A) }3",
+      "answer2": "\\text{B) }-2",
+      "answer3": "\\text{C) }8",
+      "answer4": "\\text{D) }Inf",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 1} \\left(4\\,x^3-5\\,x^2-x+9 \\right)",
+      "answer1": "\\text{A) }13",
+      "answer2": "\\text{B) }-9",
+      "answer3": "\\text{C) }7",
+      "answer4": "\\text{D) }16",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 5} \\left(2\\,x^4-3\\,x^3-5\\,x^2+3\\,x-4 \\right)",
+      "answer1": "\\text{A) }877",
+      "answer2": "\\text{B) }761",
+      "answer3": "\\text{C) }156",
+      "answer4": "\\text{D) }-502",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 2} \\left(10\\,x^3+10\\,x^2+5\\,x+5 \\right)",
+      "answer1": "\\text{A) }23",
+      "answer2": "\\text{B) }73",
+      "answer3": "\\text{C) }-74",
+      "answer4": "\\text{D) }135",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -2} \\left(-5\\,x^4-3\\,x^3-8\\,x^2-2\\,x-4 \\right)",
+      "answer1": "\\text{A) }-88",
+      "answer2": "\\text{B) }108",
+      "answer3": "\\text{C) }-82",
+      "answer4": "\\text{D) }56",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 3} \\left(-4\\,x^3-5\\,x^2-7\\,x \\right)",
+      "answer1": "\\text{A) }50",
+      "answer2": "\\text{B) }-52",
+      "answer3": "\\text{C) }-167",
+      "answer4": "\\text{D) }-174",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -4} \\left(-x^4+2\\,x^3+6\\,x^2+3\\,x+6 \\right)",
+      "answer1": "\\text{A) }-294",
+      "answer2": "\\text{B) }-83",
+      "answer3": "\\text{C) }-30",
+      "answer4": "\\text{D) }84",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 1} \\left(-9\\,x^4-6\\,x^3-4\\,x^2-3\\,x+5 \\right)",
+      "answer1": "\\text{A) }20",
+      "answer2": "\\text{B) }-9",
+      "answer3": "\\text{C) }18",
+      "answer4": "\\text{D) }-17",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -2} \\left(10\\,x^4-7\\,x^3-3\\,x^2-2\\,x \\right)",
+      "answer1": "\\text{A) }-90",
+      "answer2": "\\text{B) }-99",
+      "answer3": "\\text{C) }-148",
+      "answer4": "\\text{D) }208",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -3} \\left(-9\\,x^3-7\\,x^2+8\\,x+6 \\right)",
+      "answer1": "\\text{A) }162",
+      "answer2": "\\text{B) }306",
+      "answer3": "\\text{C) }222",
+      "answer4": "\\text{D) }-45",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 5} \\left(-5\\,x^4-9\\,x^3+10\\,x^2+5\\,x+10 \\right)",
+      "answer1": "\\text{A) }-3965",
+      "answer2": "\\text{B) }-1760",
+      "answer3": "\\text{C) }4043",
+      "answer4": "\\text{D) }-788",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -3} \\left(3\\,x^3-x^2-4\\,x-5 \\right)",
+      "answer1": "\\text{A) }-2",
+      "answer2": "\\text{B) }-83",
+      "answer3": "\\text{C) }39",
+      "answer4": "\\text{D) }12",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 5} \\left(-2\\,x^4-6\\,x^3-8\\,x^2-5\\,x+9 \\right)",
+      "answer1": "\\text{A) }341",
+      "answer2": "\\text{B) }-2216",
+      "answer3": "\\text{C) }-433",
+      "answer4": "\\text{D) }-476",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 4} \\left(-5\\,x^3+4\\,x^2+10\\,x-1 \\right)",
+      "answer1": "\\text{A) }-246",
+      "answer2": "\\text{B) }-217",
+      "answer3": "\\text{C) }-47",
+      "answer4": "\\text{D) }327",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -2} \\left(6\\,x^3+5\\,x^2+x+2 \\right)",
+      "answer1": "\\text{A) }36",
+      "answer2": "\\text{B) }9",
+      "answer3": "\\text{C) }-28",
+      "answer4": "\\text{D) }25",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 2} \\left(-x^3+4\\,x^2-3\\,x+9 \\right)",
+      "answer1": "\\text{A) }11",
+      "answer2": "\\text{B) }18",
+      "answer3": "\\text{C) }-11",
+      "answer4": "\\text{D) }18",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 1} \\left(x^3+8\\,x^2-x+2 \\right)",
+      "answer1": "\\text{A) }10",
+      "answer2": "\\text{B) }0",
+      "answer3": "\\text{C) }9",
+      "answer4": "\\text{D) }16",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -3} \\left(7\\,x^3+4\\,x^2+6\\,x-2 \\right)",
+      "answer1": "\\text{A) }-173",
+      "answer2": "\\text{B) }234",
+      "answer3": "\\text{C) }230",
+      "answer4": "\\text{D) }64",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 4} \\left(8\\,x^3-2\\,x^2-8 \\right)",
+      "answer1": "\\text{A) }526",
+      "answer2": "\\text{B) }127",
+      "answer3": "\\text{C) }33",
+      "answer4": "\\text{D) }472",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -3} \\left(-4\\,x^4+5\\,x^3+4\\,x^2-x-1 \\right)",
+      "answer1": "\\text{A) }-421",
+      "answer2": "\\text{B) }301",
+      "answer3": "\\text{C) }-350",
+      "answer4": "\\text{D) }153",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 5} \\left(-x^4-x^3-3\\,x^2+9\\,x+5 \\right)",
+      "answer1": "\\text{A) }754",
+      "answer2": "\\text{B) }-775",
+      "answer3": "\\text{C) }-144",
+      "answer4": "\\text{D) }555",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 3} \\left(5\\,x^3-2\\,x^2-x-9 \\right)",
+      "answer1": "\\text{A) }-99",
+      "answer2": "\\text{B) }42",
+      "answer3": "\\text{C) }-130",
+      "answer4": "\\text{D) }105",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 5} \\left(-7\\,x^3-8\\,x^2-2\\,x+2 \\right)",
+      "answer1": "\\text{A) }-176",
+      "answer2": "\\text{B) }-199",
+      "answer3": "\\text{C) }-1",
+      "answer4": "\\text{D) }-1083",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 2} \\left(9\\,x^4+4\\,x^3-3\\,x^2+5\\,x-4 \\right)",
+      "answer1": "\\text{A) }170",
+      "answer2": "\\text{B) }-29",
+      "answer3": "\\text{C) }185",
+      "answer4": "\\text{D) }92",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -3} \\left(-6\\,x^3+9\\,x^2+6 \\right)",
+      "answer1": "\\text{A) }165",
+      "answer2": "\\text{B) }170",
+      "answer3": "\\text{C) }249",
+      "answer4": "\\text{D) }-72",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 0} \\left(x^3+6\\,x^2+2\\,x-3 \\right)",
+      "answer1": "\\text{A) }12",
+      "answer2": "\\text{B) }-3",
+      "answer3": "\\text{C) }-Inf",
+      "answer4": "\\text{D) }9",
+      "correct": "1",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1} \\left(3\\,x^4-x^3+7\\,x^2+2\\,x+7 \\right)",
+      "answer1": "\\text{A) }16",
+      "answer2": "\\text{B) }20",
+      "answer3": "\\text{C) }8",
+      "answer4": "\\text{D) }-8",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 0} \\left(7\\,x^3+9\\,x^2+6\\,x+10 \\right)",
+      "answer1": "\\text{A) }7",
+      "answer2": "\\text{B) }15",
+      "answer3": "\\text{C) }10",
+      "answer4": "\\text{D) }Inf",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 4} \\left(-6\\,x^4-5\\,x^3-7\\,x^2+7\\,x+5 \\right)",
+      "answer1": "\\text{A) }250",
+      "answer2": "\\text{B) }37",
+      "answer3": "\\text{C) }-1935",
+      "answer4": "\\text{D) }-474",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 5} \\left(-9\\,x^3-7\\,x^2+3\\,x-9 \\right)",
+      "answer1": "\\text{A) }174",
+      "answer2": "\\text{B) }-248",
+      "answer3": "\\text{C) }180",
+      "answer4": "\\text{D) }-1294",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -2} \\left(-5\\,x^2+x-5 \\right)",
+      "answer1": "\\text{A) }-27",
+      "answer2": "\\text{B) }-14",
+      "answer3": "\\text{C) }29",
+      "answer4": "\\text{D) }23",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -2} \\left(-3\\,x^3+3\\,x^2-x-1 \\right)",
+      "answer1": "\\text{A) }-24",
+      "answer2": "\\text{B) }29",
+      "answer3": "\\text{C) }37",
+      "answer4": "\\text{D) }-8",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 5} \\left(-4\\,x^4+6\\,x^3-8\\,x^2-2 \\right)",
+      "answer1": "\\text{A) }-2486",
+      "answer2": "\\text{B) }-378",
+      "answer3": "\\text{C) }1559",
+      "answer4": "\\text{D) }-1952",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 2} \\left(-x^3+6\\,x^2-x+2 \\right)",
+      "answer1": "\\text{A) }16",
+      "answer2": "\\text{B) }36",
+      "answer3": "\\text{C) }31",
+      "answer4": "\\text{D) }15",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1} \\left(-2\\,x-1 \\right)",
+      "answer1": "\\text{A) }16",
+      "answer2": "\\text{B) }14",
+      "answer3": "\\text{C) }21",
+      "answer4": "\\text{D) }1",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1} \\left(-4\\,x^3-7\\,x^2-8\\,x+7 \\right)",
+      "answer1": "\\text{A) }12",
+      "answer2": "\\text{B) }5",
+      "answer3": "\\text{C) }41",
+      "answer4": "\\text{D) }-2",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 2} \\left(9\\,x^3-7\\,x^2+4\\,x-6 \\right)",
+      "answer1": "\\text{A) }46",
+      "answer2": "\\text{B) }13",
+      "answer3": "\\text{C) }4",
+      "answer4": "\\text{D) }37",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 1} \\left(-9\\,x^3+2\\,x^2+2\\,x-9 \\right)",
+      "answer1": "\\text{A) }-14",
+      "answer2": "\\text{B) }11",
+      "answer3": "\\text{C) }16",
+      "answer4": "\\text{D) }-5",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -3} \\left(8\\,x^3+3\\,x^2-x-7 \\right)",
+      "answer1": "\\text{A) }-182",
+      "answer2": "\\text{B) }72",
+      "answer3": "\\text{C) }-221",
+      "answer4": "\\text{D) }-193",
+      "correct": "3",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -1} \\left(4\\,x^3-7\\,x^2+9\\,x-1 \\right)",
+      "answer1": "\\text{A) }13",
+      "answer2": "\\text{B) }6",
+      "answer3": "\\text{C) }-21",
+      "answer4": "\\text{D) }30",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to 3} \\left(-5\\,x^4+10\\,x^3-2\\,x^2+7 \\right)",
+      "answer1": "\\text{A) }-146",
+      "answer2": "\\text{B) }26",
+      "answer3": "\\text{C) }-233",
+      "answer4": "\\text{D) }-41",
+      "correct": "0",
+      "unlock": "1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "\\lim_{x \\to -2} \\left(-9\\,x^4-9\\,x^3+9\\,x^2-x+6 \\right)",
+      "answer1": "\\text{A) }-212",
+      "answer2": "\\text{B) }-235",
+      "answer3": "\\text{C) }-28",
+      "answer4": "\\text{D) }27",
+      "correct": "2",
+      "unlock": "1",
+      "difficulty": "easy"
+    }
+  ]
+}

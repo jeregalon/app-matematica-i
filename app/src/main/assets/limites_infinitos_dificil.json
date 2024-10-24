@@ -1,26 +1,6 @@
 {
   "limites_infinitos_dificil": [
     {
-      "question": "\\lim_{x \\to 2^{-}} \\left (\\frac{x^2-2x}{x^2-4x+4} \\right)",
-      "answer1": "\\text{A) } -\\infty",
-      "answer2": "\\text{B) } ",
-      "answer3": "\\text{C) } ",
-      "answer4": "\\text{D) } ",
-      "correct": "0",
-      "unlock": "4",
-      "difficulty": "hard"
-    },
-    {
-      "question": "\\lim_{x \\to 2^{+}} \\left (\\frac{x^2-2x-8}{x^2-5x+6} \\right)",
-      "answer1": "\\text{A) } ",
-      "answer2": "\\text{B) } \\infty",
-      "answer3": "\\text{C) } ",
-      "answer4": "\\text{D) } ",
-      "correct": "1",
-      "unlock": "4",
-      "difficulty": "hard"
-    },
-    {
       "question": "\\lim_{x \\to -2^{+}} \\left( \\frac{8\\,x^2+5\\,x+10}{2\\,x^3+8\\,x^2+10\\,x+4} \\right)",
       "answer1": "\\text{A) }NO EXISTE",
       "answer2": "\\text{B) }-\\infty",

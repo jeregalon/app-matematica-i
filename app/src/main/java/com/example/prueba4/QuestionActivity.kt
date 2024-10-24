@@ -1,612 +1,557 @@
-/*TODO
-*  Poner un log in*/
+package com.example.prueba4
 
-package com.example.prueba4;
-
-import static java.lang.Integer.parseInt;
-
-import androidx.annotation.NonNull;
-import androidx.appcompat.app.AlertDialog;
-import androidx.appcompat.app.AppCompatActivity;
-import androidx.constraintlayout.widget.ConstraintLayout;
-
-import android.animation.Animator;
-import android.content.DialogInterface;
-import android.content.Intent;
-import android.graphics.Color;
-import android.graphics.drawable.ColorDrawable;
-import android.os.Bundle;
-import android.os.Handler;
-import android.view.LayoutInflater;
-import android.view.View;
-import android.view.animation.DecelerateInterpolator;
-import android.widget.Button;
-import android.widget.ImageView;
-import android.widget.LinearLayout;
-import android.widget.ProgressBar;
-import android.widget.TextView;
-
-import com.example.prueba4.Clases.Drawable;
-import com.example.prueba4.Clases.QuestionsItem;
-
-import org.json.JSONArray;
-import org.json.JSONException;
-import org.json.JSONObject;
-
-import java.io.File;
-import java.io.FileInputStream;
-import java.io.FileOutputStream;
-import java.io.IOException;
-import java.io.InputStream;
-import java.io.ObjectInputStream;
-import java.io.ObjectOutputStream;
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.List;
-
-import ru.noties.jlatexmath.JLatexMathView;
+import QuestionViewModel
+import android.animation.Animator
+import android.content.Intent
+import android.graphics.Color
+import android.graphics.drawable.ColorDrawable
+import android.os.Bundle
+import android.os.Handler
+import android.view.View
+import android.view.animation.DecelerateInterpolator
+import android.widget.Button
+import android.widget.ImageView
+import android.widget.LinearLayout
+import android.widget.ProgressBar
+import android.widget.TextView
+import androidx.activity.OnBackPressedCallback
+import androidx.activity.viewModels
+import androidx.appcompat.app.AlertDialog
+import androidx.appcompat.app.AppCompatActivity
+import androidx.compose.material.Text
+import androidx.compose.runtime.Composable
+import androidx.compose.ui.Modifier
+import androidx.compose.ui.platform.ComposeView
+import androidx.compose.ui.platform.LocalContext
+import androidx.compose.ui.text.font.FontWeight
+import androidx.compose.ui.unit.sp
+import androidx.constraintlayout.widget.ConstraintLayout
+import androidx.lifecycle.viewModelScope
+import androidx.lifecycle.viewmodel.compose.viewModel
+import com.example.prueba4._backend.SupabaseAuthViewModel
+import com.example.prueba4._backend.data.model.UserState
+import com.example.prueba4._backend.data.network.SupabaseClient.client
+import com.example.prueba4.classes.Drawable
+import com.example.prueba4.classes.QuestionsItem
+import com.example.prueba4.ui.theme.WhiteColor
+import io.github.jan.supabase.gotrue.auth
+import io.github.jan.supabase.gotrue.providers.builtin.Email
+import kotlinx.coroutines.launch
+import kotlinx.serialization.json.buildJsonObject
+import kotlinx.serialization.json.jsonObject
+import kotlinx.serialization.json.put
+import org.json.JSONException
+import org.json.JSONObject
+import ru.noties.jlatexmath.JLatexMathView
+import java.io.IOException
+import java.util.Collections
+import kotlin.math.floor
 
 // Actividad del quiz de preguntas y respuestas
-public class QuestionActivity extends AppCompatActivity {
-    private JLatexMathView latex1, latex2, latex3, latex4, latex5;
+class QuestionActivity : AppCompatActivity() {
+    private lateinit var latex1: JLatexMathView
+    private lateinit var latex2: JLatexMathView
+    private lateinit var latex3: JLatexMathView
+    private lateinit var latex4: JLatexMathView
+    private lateinit var latex5: JLatexMathView
+
     // Textos, en LaTex, de la pregunta y las opciones de respuesta
-    List<QuestionsItem> listaDePreguntas = null;
-    int packDePreguntas = 1;
-    int currentQuestion = 0;
-    int currentPackQuestion = 0;
-    int currentPack = 0;
-    int totalPreguntas = 9;
-    int preguntasxPack = 3;
-    int correct = 0, wrong = 0;
+    lateinit var listaDePreguntas: MutableList<QuestionsItem?>
+    var packDePreguntas: Int = 1
+    var currentQuestion: Int = 0
+    var currentPackQuestion: Int = 0
+    var currentPack: Int = 0
+    var totalPreguntas: Int = 9
+    var preguntasxPack: Int = 3
+    var correct: Int = 0
+    var wrong: Int = 0
+
     // Conteo de preguntas correctas e incorrectas
-    int numVidas = 3;
-    int categoria = 1;
+    var numVidas: Int = 3
+    var derMode: Boolean = true
+
     // Contenido que se va a ejercitar (límites '0', derivadas '1' o integrales '2')
-    int tema = 1;
-    int countAnimation = 0;
-    boolean loadingQuestions = false;
-    Button nextqu;
+    var level: Int = 1
+    var countAnimation: Int = 0
+    var loadingQuestions: Boolean = false
+    lateinit var nextqu: Button
+
     // Botón de Siguiente Pregunta (Next Question)
-    ProgressBar pb;
+    lateinit var pb: ProgressBar
+
     // Barra de progreso del juego
-    TextView _timer, _puntuation;
-    int puntuacion = 0;
-    ConstraintLayout oContainer;
-    LinearLayout vContainer;
-    ImageView vidaextra;
-    boolean hayvidaextra = false;
-    String namefile = "";
-    String namefile_punt = "puntuacion.tpo";
+    lateinit var oContainer: ConstraintLayout
+    lateinit var vContainer: LinearLayout
+    lateinit var vidaextra: ImageView
+    var hayvidaextra: Boolean = false
+    var namefile: String = ""
 
+    val viewModel : QuestionViewModel by viewModels()
+    val supabaseViewModel : SupabaseAuthViewModel by viewModels()
 
-    @Override
-    protected void onCreate(Bundle savedInstanceState) {
-        super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_question);
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+        setContentView(R.layout.activity_question)
 
-        latex1 = findViewById(R.id.obj_latex);
-        latex2 = findViewById(R.id.obj_latex_a);
-        latex3 = findViewById(R.id.obj_latex_b);
-        latex4 = findViewById(R.id.obj_latex_c);
-        latex5 = findViewById(R.id.obj_latex_d);
+        latex1 = findViewById(R.id.obj_latex)
+        latex2 = findViewById(R.id.obj_latex_a)
+        latex3 = findViewById(R.id.obj_latex_b)
+        latex4 = findViewById(R.id.obj_latex_c)
+        latex5 = findViewById(R.id.obj_latex_d)
 
-        oContainer = findViewById(R.id.optionsContainer);
+        oContainer = findViewById(R.id.optionsContainer)
 
-        vContainer = findViewById(R.id.vidasContainer);
+        vContainer = findViewById(R.id.vidasContainer)
 
-        nextqu = findViewById(R.id.btnNext);
+        nextqu = findViewById(R.id.btnNext)
 
-        nextqu.setEnabled(false);
+        nextqu.setEnabled(false)
 
-        pb = findViewById(R.id.progressBar);
+        pb = findViewById(R.id.progressBar)
 
-        categoria = getIntent().getIntExtra("categoria", 1);
+        derMode = intent.getBooleanExtra("derMode", true)
 
-        tema = getIntent().getIntExtra("tema", 1);
+        level = intent.getIntExtra("level", 1)
 
-        _timer = findViewById(R.id.timerz);
+        vidaextra = findViewById(R.id.vida6)
+        vidaextra.setVisibility(View.INVISIBLE)
 
-        _puntuation = findViewById(R.id.puntuation);
+        actualizarPB()
 
-        vidaextra = findViewById(R.id.vida6);
-        vidaextra.setVisibility(View.INVISIBLE);
+        mostrarMensajeTransparente()
 
-        _puntuation.setText(puntuacion + "");
-
-        actualizarPB();
-
-        mostrarMensajeTransparente();
-
-        for (int i=0; i<4; i++){
-            oContainer.getChildAt(i).setBackgroundResource(R.drawable.question_enable);
+        for (i in 0..3) {
+            oContainer.getChildAt(i).setBackgroundResource(R.drawable.question_enable)
         }
 
-        for (int i=0; i<4; i++){
-            int finalI = i;
+        for (i in 0..3) {
+            val finalI = i
 
             // Cuando se oprime una de las opciones:
-            oContainer.getChildAt(i).setOnClickListener(new View.OnClickListener() {
-                @Override
-                public void onClick(View view) {
+            oContainer.getChildAt(i).setOnClickListener {
+                nextqu.setEnabled(true) // Habilita el botón de siguiente pregunta
+                nextqu.setBackgroundResource(R.drawable.btn_next)
 
-                    nextqu.setEnabled(true); // Habilita el botón de siguiente pregunta
-                    nextqu.setBackgroundResource(R.drawable.btn_next);
-
-                    for (int j = 0; j < 4; j++) {
-                        oContainer.getChildAt(j).setClickable(false);
-                    }
-
-                    // Si la opción es la correcta
-                    int el_correcto = listaDePreguntas.get(currentQuestion).getCorrect();
-                    if (el_correcto == finalI) {
-                        correct++; // Se incrementa el contador de preguntas correctas
-                        if (currentPack == 0) puntuacion += 5;
-                        else if (currentPack == 1) puntuacion += 10;
-                        else puntuacion += 20;
-                        _puntuation.setText(puntuacion + "");
-                        if (hayvidaextra) {
-                            playHeartAnimation();
-                        }
-                        oContainer.getChildAt(finalI).setBackgroundResource(R.drawable.right_answr); // La opción se pone en verde
-
-                        // Si no es la correcta
-                    } else {
-                        wrong++; // Se incrementa el contador de preguntas incorrectas
-                        if (numVidas > 0) numVidas-- ;
-                        actualizarVidas();
-                        oContainer.getChildAt(finalI).setBackgroundResource(R.drawable.wrong_answr);
-                        oContainer.getChildAt(el_correcto).setBackgroundResource(R.drawable.right_answr);
-                    }
+                for (j in 0..3) {
+                    oContainer.getChildAt(j).isClickable = false
                 }
-            });
+
+                // Si la opción es la correcta
+                val el_correcto = listaDePreguntas!![currentQuestion]!!.correct
+                if (el_correcto == finalI) {
+                    correct++ // Se incrementa el contador de preguntas correctas
+                    if (currentPack == 0) viewModel.increaseBy5()
+                    else if (currentPack == 1) viewModel.increaseBy10()
+                    else viewModel.increaseBy15()
+                    if (hayvidaextra) {
+                        playHeartAnimation()
+                    }
+                    oContainer.getChildAt(finalI)
+                        .setBackgroundResource(R.drawable.right_answr) // La opción se pone en verde
+
+                    // Si no es la correcta
+                } else {
+                    wrong++ // Se incrementa el contador de preguntas incorrectas
+                    if (numVidas > 0) numVidas--
+                    actualizarVidas()
+                    oContainer.getChildAt(finalI).setBackgroundResource(R.drawable.wrong_answr)
+                    oContainer.getChildAt(el_correcto).setBackgroundResource(R.drawable.right_answr)
+                }
+            }
         }
 
         // Cuando se oprime el botón de siguiente pregunta
-        nextqu.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
+        nextqu.setOnClickListener(View.OnClickListener {
+            loadingQuestions = true
+            // Si no se ha llegado al final de las preguntas
+            if (currentQuestion < totalPreguntas - 1) {
+                currentQuestion++
+                actualizarPB()
+                countAnimation = 0
+                playAnimation(oContainer.getChildAt(0), 0)
 
-                loadingQuestions = true;
+                currentPackQuestion++
 
-                // Si no se ha llegado al final de las preguntas
-                if (currentQuestion < totalPreguntas - 1) {
+                if (currentPackQuestion >= preguntasxPack) {
+                    currentPackQuestion = 0
+                    currentPack++
+                    mostrarMensajeTransparente()
+                }
+            } else {
+                // llegó al final
+                currentPack++
+                currentQuestion++
+                pb.setProgress(100)
+                actualizarPuntuacion()
+                mostrarMensajeTransparente()
+            }
+        })
 
-                    currentQuestion++;
-                    actualizarPB();
-                    countAnimation = 0;
-                    playAnimation(oContainer.getChildAt(0), 0);
+        val callback: OnBackPressedCallback =
+            object : OnBackPressedCallback(true /* enabled by default */) {
+                override fun handleOnBackPressed() {
+                    val msg = R.string.msg_back
+                    val title = R.string.app_name
+                    mostrarMensaje(title, msg, true, true, true)
+                }
+            }
+        onBackPressedDispatcher.addCallback(this, callback)
 
-                    currentPackQuestion++;
+        val pointsView = findViewById<ComposeView>(R.id.points)
+        pointsView.setContent {
+            pointsCounter(viewModel = viewModel)
+        }
+    }
 
-                    if (currentPackQuestion >= preguntasxPack) {
-                        currentPackQuestion = 0;
-                        currentPack++;
-                        mostrarMensajeTransparente();
+    @Composable
+    private fun pointsCounter(viewModel: QuestionViewModel) {
+        Text(
+            text = viewModel.puntuation.value.toString(),
+            fontWeight = FontWeight.Bold,
+            fontSize = 15.sp,
+            color = WhiteColor
+        )
+    }
+
+    private fun actualizarPuntuacion() {
+        val currentUser = client.auth.currentUserOrNull()
+        if (currentUser != null) {
+            val currentPoints = currentUser.userMetadata?.get("puntuation").toString().toInt()
+            val nick = currentUser.userMetadata?.get("nickname").toString()
+            val totalPuntuation = viewModel.puntuation.value + currentPoints
+
+            supabaseViewModel.update(totalPuntuation)
+        }
+    }
+
+    private fun playAnimation(view: View?, value: Int) {
+        view!!.animate()
+            .alpha(value.toFloat())
+            .scaleX(value.toFloat())
+            .scaleY(value.toFloat())
+            .setDuration(500)
+            .setStartDelay(100)
+            .setInterpolator(DecelerateInterpolator())
+            .setListener(object : Animator.AnimatorListener {
+                override fun onAnimationStart(animator: Animator) {
+                    if (value == 0) {
+                        nextqu.isEnabled = false
+                        nextqu.setBackgroundResource(R.drawable.btn_disable)
+
+                        when (countAnimation) {
+                            0 -> playAnimation(latex1, 0)
+                            1 -> playAnimation(oContainer.getChildAt(1), 0)
+                            2 -> playAnimation(oContainer.getChildAt(2), 0)
+                            3 -> playAnimation(oContainer.getChildAt(3), 0)
+                            else -> {}
+                        }
+                        countAnimation++
                     }
-                } else {
-                    // llegó al final
-                    currentPack++;
-                    currentQuestion++;
-                    pb.setProgress(100);
-                    guardarDatos();
-                    mostrarMensajeTransparente();
                 }
 
-            }
-        });
+                override fun onAnimationEnd(animator: Animator) {
+                    if (value == 0) {
+                        playAnimation(view, 1)
 
-    }
+                        if (loadingQuestions == true) {
+                            mostrarPreguntaEnPantalla() // Se muestra la siguiente pregunta en pantalla
 
-    private void playAnimation(View view, int value) {
-        view.animate()
-                .alpha(value)
-                .scaleX(value)
-                .scaleY(value)
-                .setDuration(500)
-                .setStartDelay(100)
-                .setInterpolator(new DecelerateInterpolator()).setListener(new Animator.AnimatorListener() {
-                    @Override
-                    public void onAnimationStart(@NonNull Animator animator) {
-                        if (value == 0) {
-
-                            nextqu.setEnabled(false);
-                            nextqu.setBackgroundResource(R.drawable.btn_disable);
-
-                            switch (countAnimation) {
-                                case 0: playAnimation(latex1, 0); break;
-                                case 1: playAnimation(oContainer.getChildAt(1), 0); break;
-                                case 2: playAnimation(oContainer.getChildAt(2), 0); break;
-                                case 3: playAnimation(oContainer.getChildAt(3), 0); break;
-                                default: break;
+                            // Se habilitan las cuatro opciones
+                            for (i in 0..3) {
+                                oContainer.getChildAt(i).isClickable = true
+                                oContainer.getChildAt(i)
+                                    .setBackgroundResource(R.drawable.question_enable)
                             }
-                            countAnimation++;
+
+                            loadingQuestions = false
                         }
                     }
+                }
 
-                    @Override
-                    public void onAnimationEnd(@NonNull Animator animator) {
+                override fun onAnimationCancel(animator: Animator) {
+                }
 
-                        if (value == 0) {
-
-                            playAnimation(view, 1);
-
-                            if (loadingQuestions == true) {
-
-                                mostrarPreguntaEnPantalla(); // Se muestra la siguiente pregunta en pantalla
-
-                                // Se habilitan las cuatro opciones
-                                for (int i=0; i<4; i++){
-                                    oContainer.getChildAt(i).setClickable(true);
-                                    oContainer.getChildAt(i).setBackgroundResource(R.drawable.question_enable);
-                                }
-
-                                loadingQuestions = false;
-
-                            }
-                        }
-
-                    }
-
-                    @Override
-                    public void onAnimationCancel(@NonNull Animator animator) {
-
-                    }
-
-                    @Override
-                    public void onAnimationRepeat(@NonNull Animator animator) {
-
-                    }
-                });
+                override fun onAnimationRepeat(animator: Animator) {
+                }
+            })
     }
 
-    private void mostrarMensaje(int titulo, int mensaje, boolean negButton, boolean backPressed, boolean cancelable) {
-
-        AlertDialog.Builder AlertDialogBuilder = new AlertDialog.Builder(QuestionActivity.this);
-        AlertDialogBuilder.setTitle(titulo);
-        AlertDialogBuilder.setMessage(mensaje);
-        if (!cancelable) AlertDialogBuilder.setCancelable(false);
+    private fun mostrarMensaje(
+        titulo: Int,
+        mensaje: Int,
+        negButton: Boolean,
+        backPressed: Boolean,
+        cancelable: Boolean
+    ) {
+        val AlertDialogBuilder = AlertDialog.Builder(this@QuestionActivity)
+        AlertDialogBuilder.setTitle(titulo)
+        AlertDialogBuilder.setMessage(mensaje)
+        if (!cancelable) AlertDialogBuilder.setCancelable(false)
         if (negButton) {
-            AlertDialogBuilder.setNegativeButton(android.R.string.no, new DialogInterface.OnClickListener() {
-                @Override
-                public void onClick(DialogInterface dialogInterface, int i) {
-                    dialogInterface.dismiss();
-                }
-            });
+            AlertDialogBuilder.setNegativeButton(android.R.string.no) { dialogInterface, i -> dialogInterface.dismiss() }
         }
-        AlertDialogBuilder.setPositiveButton(android.R.string.yes, new DialogInterface.OnClickListener() {
-            @Override
-            public void onClick(DialogInterface dialogInterface, int i) {
-
-                if (backPressed) {
-                    Intent intent = new Intent(QuestionActivity.this, TemasActivity.class);
-                    intent.putExtra("categoria", categoria);
-                    startActivity(intent);
-                    finish();
-                } else {
-
-
-                }
+        AlertDialogBuilder.setPositiveButton(android.R.string.yes) { dialogInterface, i ->
+            if (backPressed) {
+                var intent: Intent? = null
+                intent =
+                    if (derMode) Intent(this@QuestionActivity, LevelsDerivatesActivity::class.java)
+                    else Intent(this@QuestionActivity, LevelsLimitsActivity::class.java)
+                startActivity(intent)
+                finish()
+            } else {
             }
-        });
-        AlertDialogBuilder.show();
-
+        }
+        AlertDialogBuilder.show()
     }
 
-    private void mostrarMensajeTransparente() {
-        AlertDialog.Builder abuilder = new AlertDialog.Builder(QuestionActivity.this);
-        LayoutInflater inflater = getLayoutInflater();
-        int layout = 0;
-        switch (currentPack) {
-            case 0: layout = R.layout.custom_dialog_pack1; break;
-            case 1: layout = R.layout.custom_dialog_pack2; break;
-            case 2: layout = R.layout.custom_dialog_pack3; break;
-            default: layout = R.layout.custom_dialog_pack4; break;
+    private fun mostrarMensajeTransparente() {
+        val abuilder = AlertDialog.Builder(this@QuestionActivity)
+        val inflater = layoutInflater
+        var layout = 0
+        layout = when (currentPack) {
+            0 -> R.layout.custom_dialog_pack1
+            1 -> R.layout.custom_dialog_pack2
+            2 -> R.layout.custom_dialog_pack3
+            else -> R.layout.custom_dialog_pack4
         }
-        View adview = inflater.inflate(layout, null);
-        abuilder.setView(adview);
+        val adview = inflater.inflate(layout, null)
+        abuilder.setView(adview)
 
-        AlertDialog dialog = abuilder.create();
-        dialog.setCancelable(false);
-        dialog.getWindow().setBackgroundDrawable(new ColorDrawable(Color.TRANSPARENT));
+        val dialog = abuilder.create()
+        dialog.setCancelable(false)
+        dialog.window!!.setBackgroundDrawable(ColorDrawable(Color.TRANSPARENT))
 
         try {
-            dialog.show();
+            dialog.show()
 
-            Handler handler = new Handler();
-            Runnable runnable =()-> {
-                if(dialog.isShowing()) {
-                    dialog.dismiss();
+            val handler = Handler()
+            val runnable = Runnable {
+                if (dialog.isShowing) {
+                    dialog.dismiss()
 
-                    if (currentPack == 0) cargarPreguntas();
+                    if (currentPack == 0) cargarPreguntas()
                     if (currentPack == 3) {
-                        Intent intent = new Intent(QuestionActivity.this, TemasActivity.class);
-                        intent.putExtra("categoria", categoria);
-                        startActivity(intent);
-                        finish();
+                        var intent: Intent? = null
+                        intent = if (derMode) {
+                            Intent(this@QuestionActivity, LevelsDerivatesActivity::class.java)
+                        } else {
+                            Intent(this@QuestionActivity, LevelsLimitsActivity::class.java)
+                        }
+                        startActivity(intent)
+                        finish()
                     }
                 }
-            };
-
-            handler.postDelayed(runnable, 3000);
-        } catch (Exception e) {
-            e.printStackTrace();
-        }
-    }
-
-    private void cargarPreguntas() {
-
-        listaDePreguntas = new ArrayList<>();
-
-        for (int i = 0; i < 3; i++) {
-            String archivojson = "";
-
-            switch (i) {
-                case 0:
-                    if (categoria == 1) {
-                        if (tema == 1) archivojson = "limites_sustitucion_directa_facil.json";
-                        else if (tema == 2) archivojson = "limites_factorizables_facil.json";
-                        else if (tema == 3) archivojson = "limites_laterales_facil.json";
-                        else if (tema == 4) archivojson = "limites_infinitos_facil.json";
-                        else if (tema == 5) archivojson = "limites_al_infinito_facil.json";
-                    } else if (categoria == 2) {
-                        if (tema == 1) archivojson = "derivadas_de_polinomios_facil.json";
-                        else if (tema == 2) archivojson = "derivadas_de_inversas_facil.json";
-                        else if (tema == 3) archivojson = "derivadas_de_radicales_facil.json";
-                        else if (tema == 4) archivojson = "derivadas_de_exponenciales_facil.json";
-                        else if (tema == 5) archivojson = "derivadas_de_trigonometricas_facil.json";
-                        else if (tema == 6) archivojson = "derivadas_mult_y_div_facil.json";
-                        else if (tema == 7) archivojson = "derivadas_regla_cadena_facil.json";
-                    }
-                    break;
-                case 1:
-                    if (categoria == 1) {
-                        if (tema == 1) archivojson = "limites_sustitucion_directa_media.json";
-                        else if (tema == 2) archivojson = "limites_factorizables_media.json";
-                        else if (tema == 3) archivojson = "limites_laterales_media.json";
-                        else if (tema == 4) archivojson = "limites_infinitos_media.json";
-                        else if (tema == 5) archivojson = "limites_al_infinito_media.json";
-                    } else if (categoria == 2) {
-                        if (tema == 1) archivojson = "derivadas_de_polinomios_media.json";
-                        else if (tema == 2) archivojson = "derivadas_de_inversas_media.json";
-                        else if (tema == 3) archivojson = "derivadas_de_radicales_media.json";
-                        else if (tema == 4) archivojson = "derivadas_de_exponenciales_media.json";
-                        else if (tema == 5) archivojson = "derivadas_de_trigonometricas_media.json";
-                        else if (tema == 6) archivojson = "derivadas_mult_y_div_media.json";
-                        else if (tema == 7) archivojson = "derivadas_regla_cadena_media.json";
-                    }
-                    break;
-                case 2:
-                    if (categoria == 1) {
-                        if (tema == 1) archivojson = "limites_sustitucion_directa_media.json";
-                        else if (tema == 2) archivojson = "limites_factorizables_dificil.json";
-                        else if (tema == 3) archivojson = "limites_laterales_dificil.json";
-                        else if (tema == 4) archivojson = "limites_infinitos_dificil.json";
-                        else if (tema == 5) archivojson = "limites_al_infinito_dificil.json";
-                    } else if (categoria == 2) {
-                        if (tema == 1) archivojson = "derivadas_de_polinomios_dificil.json";
-                        else if (tema == 2) archivojson = "derivadas_de_inversas_dificil.json";
-                        else if (tema == 3) archivojson = "derivadas_de_radicales_dificil.json";
-                        else if (tema == 4) archivojson = "derivadas_de_exponenciales_dificil.json";
-                        else if (tema == 5) archivojson = "derivadas_de_trigonometricas_dificil.json";
-                        else if (tema == 6) archivojson = "derivadas_mult_y_div_dificil.json";
-                        else if (tema == 7) archivojson = "derivadas_regla_cadena_facil.json";
-                    }
-                    break;
-                default:
-                    break;
             }
 
-            cargarPack(archivojson);
+            handler.postDelayed(runnable, 3000)
+        } catch (e: Exception) {
+            e.printStackTrace()
         }
-
-        mostrarPreguntaEnPantalla();
-
     }
 
-    private void cargarPack(String filename) {
+    private fun cargarPreguntas() {
+        listaDePreguntas = ArrayList()
 
-        String jsonquiz = loadJsonFromAsset(filename);
-        List<QuestionsItem> listaPack = new ArrayList<>();
+        for (i in 0..2) {
+            var archivojson = ""
 
-        try {
-            JSONObject jsonObject = new JSONObject(jsonquiz);
-            String arrayname = filename.substring(0, filename.length() - 5);
-            JSONArray questions = jsonObject.getJSONArray(arrayname);
+            when (i) {
+                0 -> if (derMode) {
+                    if (level == 1) archivojson = "derivadas_de_polinomios_facil.json"
+                    else if (level == 2) archivojson = "derivadas_de_inversas_facil.json"
+                    else if (level == 3) archivojson = "derivadas_de_radicales_facil.json"
+                    else if (level == 4) archivojson = "derivadas_de_exponenciales_facil.json"
+                    else if (level == 5) archivojson = "derivadas_de_trigonometricas_facil.json"
+                    else if (level == 6) archivojson = "derivadas_mult_y_div_facil.json"
+                    else if (level == 7) archivojson = "derivadas_regla_cadena_facil.json"
+                } else {
+                    if (level == 1) archivojson = "limites_sustitucion_directa_facil.json"
+                    else if (level == 2) archivojson = "limites_factorizables_facil.json"
+                    else if (level == 3) archivojson = "limites_infinitos_facil.json"
+                    else if (level == 4) archivojson = "limites_al_infinito_facil.json"
+                }
 
-            for (int i = 0; i < questions.length(); i++) {
+                1 -> if (derMode) {
+                    if (level == 1) archivojson = "derivadas_de_polinomios_media.json"
+                    else if (level == 2) archivojson = "derivadas_de_inversas_media.json"
+                    else if (level == 3) archivojson = "derivadas_de_radicales_media.json"
+                    else if (level == 4) archivojson = "derivadas_de_exponenciales_media.json"
+                    else if (level == 5) archivojson = "derivadas_de_trigonometricas_media.json"
+                    else if (level == 6) archivojson = "derivadas_mult_y_div_media.json"
+                    else if (level == 7) archivojson = "derivadas_regla_cadena_media.json"
+                } else {
+                    if (level == 1) archivojson = "limites_sustitucion_directa_media.json"
+                    else if (level == 2) archivojson = "limites_factorizables_media.json"
+                    else if (level == 3) archivojson = "limites_infinitos_media.json"
+                    else if (level == 4) archivojson = "limites_al_infinito_media.json"
+                }
 
-                JSONObject question = questions.getJSONObject(i);
+                2 -> if (derMode) {
+                    if (level == 1) archivojson = "derivadas_de_polinomios_dificil.json"
+                    else if (level == 2) archivojson = "derivadas_de_inversas_dificil.json"
+                    else if (level == 3) archivojson = "derivadas_de_radicales_dificil.json"
+                    else if (level == 4) archivojson = "derivadas_de_exponenciales_dificil.json"
+                    else if (level == 5) archivojson = "derivadas_de_trigonometricas_dificil.json"
+                    else if (level == 6) archivojson = "derivadas_mult_y_div_dificil.json"
+                    else if (level == 7) archivojson = "derivadas_regla_cadena_dificil.json"
+                } else {
+                    if (level == 1) archivojson = "limites_sustitucion_directa_dificil.json"
+                    else if (level == 2) archivojson = "limites_factorizables_dificil.json"
+                    else if (level == 3) archivojson = "limites_infinitos_dificil.json"
+                    else if (level == 4) archivojson = "limites_al_infinito_dificil.json"
+                }
 
-                String[] labels = {question.getString("question"), question.getString("answer1"), question.getString("answer2"), question.getString("answer3"), question.getString("answer4")};
-                int correcto = Integer.valueOf(question.getString("correct"));
-
-                listaPack.add(new QuestionsItem(labels, correcto));
-
+                else -> {}
             }
-
-
-        } catch (JSONException e) {
-            e.printStackTrace();
+            cargarPack(archivojson)
         }
 
-        Collections.shuffle(listaPack);
-
-        for (int i = 0; i < preguntasxPack; i++) {
-            listaDePreguntas.add(listaPack.get(i));
-        }
-
-
+        mostrarPreguntaEnPantalla()
     }
 
-    private String loadJsonFromAsset(String s) {
-        String json = "";
+    private fun cargarPack(filename: String) {
+        val jsonquiz = loadJsonFromAsset(filename)
+        val listaPack: MutableList<QuestionsItem?> = ArrayList()
+
         try {
-            InputStream inputStream = getAssets().open(s);
-            int size = inputStream.available();
-            byte[] buffer = new byte[size];
-            inputStream.read(buffer);
-            inputStream.close();
-            json = new String(buffer, "UTF-8");
-        } catch (IOException e) {
-            e.printStackTrace();
+            val jsonObject = JSONObject(jsonquiz)
+            val arrayname = filename.substring(0, filename.length - 5)
+            val questions = jsonObject.getJSONArray(arrayname)
+
+            for (i in 0 until questions.length()) {
+                val question = questions.getJSONObject(i)
+
+                val labels = arrayOf(
+                    question.getString("question"),
+                    question.getString("answer1"),
+                    question.getString("answer2"),
+                    question.getString("answer3"),
+                    question.getString("answer4")
+                )
+                val correcto = question.getString("correct").toInt()
+
+                listaPack.add(QuestionsItem(labels, correcto))
+            }
+        } catch (e: JSONException) {
+            e.printStackTrace()
         }
-        return json;
+
+        Collections.shuffle(listaPack)
+
+        for (i in 0 until preguntasxPack) {
+            listaDePreguntas.add(listaPack[i])
+        }
     }
 
-    private void mostrarPreguntaEnPantalla() {
+    private fun loadJsonFromAsset(s: String): String {
+        var json = ""
+        try {
+            val inputStream = assets.open(s)
+            val size = inputStream.available()
+            val buffer = ByteArray(size)
+            inputStream.read(buffer)
+            inputStream.close()
+            json = String(buffer, charset("UTF-8"))
+        } catch (e: IOException) {
+            e.printStackTrace()
+        }
+        return json
+    }
 
-        JLatexMathView latexLabels[] = {latex1, latex2, latex3, latex4, latex5};
+    private fun mostrarPreguntaEnPantalla() {
+        val latexLabels = arrayOf(latex1, latex2, latex3, latex4, latex5)
 
-        for (int i=0; i<5; i++){
-            Drawable drw_answr = new Drawable();
-            drw_answr.setFormula(listaDePreguntas.get(currentQuestion).getLabels()[i], 0xFFFFFFFF);
-            latexLabels[i].setLatexDrawable(drw_answr.getDrawable());
+        for (i in 0..4) {
+            val drw_answr = Drawable()
+            drw_answr.setFormula(listaDePreguntas[currentQuestion]!!.labels[i], -0x1)
+            latexLabels[i].setLatexDrawable(drw_answr.drawable)
         }
 
-        int numAleatorio = 0;
-        numAleatorio = (int) Math.floor(Math.random() * 10);
+        var numAleatorio = 0
+        numAleatorio = floor(Math.random() * 10).toInt()
 
         if (numAleatorio == 7 && numVidas < 5) {
-            vidaextra.setVisibility(View.VISIBLE);
-            hayvidaextra = true;
+            vidaextra.visibility = View.VISIBLE
+            hayvidaextra = true
         } else {
-            vidaextra.setVisibility(View.INVISIBLE);
-            hayvidaextra = false;
+            vidaextra.visibility = View.INVISIBLE
+            hayvidaextra = false
         }
     }
 
 
-    private void playHeartAnimation() {
+    private fun playHeartAnimation() {
         vidaextra.animate()
-                .translationX(vContainer.getX() - vidaextra.getX())
-                .translationY(vContainer.getY() - vidaextra.getY())
-                .alpha(0)
-                .setDuration(500)
-                .setStartDelay(100)
-                .setInterpolator(new DecelerateInterpolator()).setListener(new Animator.AnimatorListener() {
-                    @Override
-                    public void onAnimationStart(@NonNull Animator animator) {
+            .translationX(vContainer.x - vidaextra.x)
+            .translationY(vContainer.y - vidaextra.y)
+            .alpha(0f)
+            .setDuration(500)
+            .setStartDelay(100)
+            .setInterpolator(DecelerateInterpolator())
+            .setListener(object : Animator.AnimatorListener {
+                override fun onAnimationStart(animator: Animator) {
+                }
 
-                    }
+                override fun onAnimationEnd(animator: Animator) {
+                    vidaextra.visibility = View.INVISIBLE
+                    vidaextra.animate()
+                        .translationX(vidaextra.x - vContainer.x)
+                        .translationY(vidaextra.y - vContainer.y)
+                        .alpha(1f)
+                        .setDuration(500)
+                        .setStartDelay(100)
+                        .setInterpolator(DecelerateInterpolator())
+                        .setListener(object : Animator.AnimatorListener {
+                            override fun onAnimationStart(animator: Animator) {
+                            }
 
-                    @Override
-                    public void onAnimationEnd(@NonNull Animator animator) {
-                        vidaextra.setVisibility(View.INVISIBLE);
-                        vidaextra.animate()
-                                .translationX(vidaextra.getX() - vContainer.getX())
-                                .translationY(vidaextra.getY() - vContainer.getY())
-                                .alpha(1)
-                                .setDuration(500)
-                                .setStartDelay(100)
-                                .setInterpolator(new DecelerateInterpolator()).setListener(new Animator.AnimatorListener() {
-                                    @Override
-                                    public void onAnimationStart(@NonNull Animator animator) {
+                            override fun onAnimationEnd(animator: Animator) {
+                            }
 
-                                    }
+                            override fun onAnimationCancel(animator: Animator) {
+                            }
 
-                                    @Override
-                                    public void onAnimationEnd(@NonNull Animator animator) {
+                            override fun onAnimationRepeat(animator: Animator) {
+                            }
+                        })
+                    numVidas++
+                    actualizarVidas()
+                }
 
-                                    }
+                override fun onAnimationCancel(animator: Animator) {
+                }
 
-                                    @Override
-                                    public void onAnimationCancel(@NonNull Animator animator) {
-
-                                    }
-
-                                    @Override
-                                    public void onAnimationRepeat(@NonNull Animator animator) {
-
-                                    }
-                                });
-                        numVidas++;
-                        actualizarVidas();
-                    }
-
-                    @Override
-                    public void onAnimationCancel(@NonNull Animator animator) {
-
-                    }
-
-                    @Override
-                    public void onAnimationRepeat(@NonNull Animator animator) {
-
-                    }
-                });
+                override fun onAnimationRepeat(animator: Animator) {
+                }
+            })
     }
-    private void actualizarVidas() {
-        for (int i = 0; i < 5; i++) {
-            if (i + 1 <= numVidas) vContainer.getChildAt(i).setVisibility(View.VISIBLE);
-            else vContainer.getChildAt(i).setVisibility(View.GONE);
+
+    private fun actualizarVidas() {
+        for (i in 0..4) {
+            if (i + 1 <= numVidas) vContainer.getChildAt(i).visibility = View.VISIBLE
+            else vContainer.getChildAt(i).visibility = View.GONE
         }
         if (numVidas == 0) {
-            Intent intent = new Intent(QuestionActivity.this, TemasActivity.class);
-            guardarDatos();
-            intent.putExtra("categoria", categoria);
-            startActivity(intent);
-            finish();
+            actualizarPuntuacion()
+
+            var intent: Intent? = null
+
+            intent = if (derMode) Intent(
+                this@QuestionActivity,
+                LevelsDerivatesActivity::class.java
+            )
+            else Intent(
+                this@QuestionActivity,
+                LevelsLimitsActivity::class.java
+            )
+            startActivity(intent)
+            finish()
+
         }
     }
 
-    private void actualizarPB() {
-        float incremento = (float) currentQuestion / (float) totalPreguntas * 100;
-        pb.setProgress((int) incremento);
-    }
-
-    private void guardarDatos() {
-        File ruta = getApplicationContext().getFilesDir();
-        if (categoria == 1) namefile = "porc_lim.tpo";
-        else if (categoria == 2) namefile = "porc_der.tpo";
-        File file = new File(ruta, namefile);
-        if (file.exists()) {
-            try {
-                // leer archivo
-                FileInputStream readfile = new FileInputStream(file);
-                ObjectInputStream streamfile = new ObjectInputStream(readfile);
-                List<String> porcentajes;
-                porcentajes = (ArrayList<String>) streamfile.readObject();
-                streamfile.close();
-                float f_prc = (float) currentQuestion / (float) totalPreguntas * 100;
-                int i_prc = (int) f_prc;
-                int valor_anterior = parseInt(porcentajes.get(tema-1).substring(0, porcentajes.get(tema-1).length()-1));
-                if (i_prc > valor_anterior) porcentajes.set(tema-1, i_prc + "%");
-
-                // escribir archivo
-                FileOutputStream writefile = new FileOutputStream(new File(ruta, namefile));
-                ObjectOutputStream streamfile2 = new ObjectOutputStream(writefile);
-                streamfile2.writeObject(porcentajes);
-                streamfile2.close();
-            } catch (Exception e) {
-                e.printStackTrace();
-            }
-
-            // guardar la puntuacion
-            File file2 = new File(ruta, namefile_punt);
-            if (file2.exists()) {
-                try {
-                    // leer archivo
-                    FileInputStream readfile = new FileInputStream(file2);
-                    ObjectInputStream streamfile = new ObjectInputStream(readfile);
-                    int punt_total = parseInt(streamfile.readObject().toString()) + puntuacion;
-                    streamfile.close();
-
-                    // escribir archivo
-                    FileOutputStream writefile = new FileOutputStream(new File(ruta, namefile_punt));
-                    ObjectOutputStream streamfile2 = new ObjectOutputStream(writefile);
-                    streamfile2.writeObject(punt_total + "");
-                    streamfile2.close();
-                } catch (Exception e) {
-                    e.printStackTrace();
-                }
-            }
-        }
-    }
-
-    @Override
-    public void onBackPressed() {
-        super.onBackPressed();
-        int msg = R.string.msg_back;
-        int title = R.string.app_name;
-        mostrarMensaje(title, msg, true, true, true);
+    private fun actualizarPB() {
+        val incremento = currentQuestion.toFloat() / totalPreguntas.toFloat() * 100
+        pb.progress = incremento.toInt()
     }
 }
