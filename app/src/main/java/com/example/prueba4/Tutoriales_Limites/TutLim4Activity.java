@@ -1,12 +1,12 @@
-package com.example.prueba4.Tutoriales_Limites;
+package com.example.prueba4.tutoriales_limites;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
 import android.os.Bundle;
 
-import com.example.prueba4.TemasActivity;
-import com.example.prueba4.Clases.Drawable;
+import com.example.prueba4.LevelsLimitsActivity;
+import com.example.prueba4.classes.Drawable;
 import com.example.prueba4.R;
 
 import ru.noties.jlatexmath.JLatexMathView;
@@ -83,7 +83,7 @@ public class TutLim4Activity extends AppCompatActivity {
     @Override
     public void onBackPressed() {
         super.onBackPressed();
-        Intent intent = new Intent(TutLim4Activity.this, TemasActivity.class);
+        Intent intent = new Intent(TutLim4Activity.this, LevelsLimitsActivity.class);
         intent.putExtra("categoria", 1);
         startActivity(intent);
         finish();

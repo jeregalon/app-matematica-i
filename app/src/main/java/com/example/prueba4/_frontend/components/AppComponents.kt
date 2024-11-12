@@ -200,6 +200,52 @@ fun WhiteBorderTransparentButtonComponent(
 }
 
 @Composable
+fun WhiteBorderTransparentButtonMaxWidthComponent(
+    onClick: () -> Unit,
+    textValue: String = "White Border Button",
+    fontColor: Color = WhiteColor,
+    fontWeight: FontWeight = FontWeight.Normal,
+    fontSize: TextUnit = 24.sp,
+    roundedCornerShape: RoundedCornerShape = RoundedCornerShape(50.dp),
+    borderStroke: Dp = 5.dp,
+    paddingTop: Dp = 10.dp,
+    paddingBottom: Dp = 10.dp,
+    paddingStart: Dp = 10.dp,
+    paddingEnd: Dp = 10.dp,
+
+    ) {
+    Button(onClick = onClick,
+        modifier = Modifier
+            .fillMaxWidth()
+            .background(
+                color = Color.Transparent
+            )
+            .border(
+                BorderStroke(
+                    borderStroke,
+                    WhiteColor
+                ),
+                shape = roundedCornerShape
+            )
+            .padding(
+                top = paddingTop,
+                bottom = paddingBottom,
+                start = paddingStart,
+                end = paddingEnd
+            )
+        ,
+        colors = ButtonDefaults.buttonColors(Color.Transparent),
+        elevation = ButtonDefaults.elevation(0.dp)
+    ) {
+        Text(text = textValue,
+            fontSize = fontSize,
+            fontWeight = fontWeight,
+            color = fontColor
+        )
+    }
+}
+
+@Composable
 fun GradientButtonComponent(
     onClick: () -> Unit,
     textValue: String = "Gradient Button",

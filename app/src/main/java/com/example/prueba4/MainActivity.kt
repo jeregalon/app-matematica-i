@@ -39,6 +39,7 @@ import com.example.prueba4._backend.data.network.SupabaseClient.client
 import com.example.prueba4._frontend.components.NormalTextComponent
 import com.example.prueba4._frontend.components.SquareTextComponent
 import com.example.prueba4._frontend.components.WhiteBorderTransparentButtonComponent
+import com.example.prueba4._frontend.components.WhiteBorderTransparentButtonMaxWidthComponent
 import com.example.prueba4.ui.theme.WhiteColor
 import io.github.jan.supabase.gotrue.auth
 
@@ -114,7 +115,7 @@ class MainActivity : ComponentActivity() {
             } else {
                 logged = false
                 notLogged = false
-                welcomeText = "Por favor, compruebe su conexión a Internet"
+                welcomeText = "Sin conexión"
             }
 
             Box(
@@ -140,16 +141,17 @@ class MainActivity : ComponentActivity() {
                         paddingTop = 10.dp,
                         paddingStart = 10.dp)
 
+                    Spacer(modifier = Modifier.weight(1f))
+
                     NormalTextComponent(
                         value = welcomeText,
                         color = WhiteColor,
                         fontWeight = FontWeight.Bold,
-                        fontSize = 50.sp,
-                        paddingTop = 40.dp)
+                        fontSize = 50.sp)
 
                     if (!connected) {
 
-                        Spacer(modifier = Modifier.height(10.dp))
+                        Spacer(modifier = Modifier.weight(1f))
 
                         Column(
                             modifier = Modifier.fillMaxWidth(),
@@ -172,7 +174,7 @@ class MainActivity : ComponentActivity() {
                         }
                     }
 
-                    Spacer(modifier = Modifier.height(40.dp))
+                    Spacer(modifier = Modifier.height(20.dp))
 
                     if (notLogged) {
 
@@ -183,7 +185,7 @@ class MainActivity : ComponentActivity() {
                             fontSize = 20.sp,
                             paddingTop = 10.dp)
 
-                        Spacer(modifier = Modifier.height(10.dp))
+                        Spacer(modifier = Modifier.weight(1f))
 
                         Column(
                             modifier = Modifier.fillMaxWidth(),
@@ -215,7 +217,7 @@ class MainActivity : ComponentActivity() {
                             fontSize = 20.sp,
                             paddingTop = 10.dp)
 
-                        Spacer(modifier = Modifier.height(10.dp))
+                        Spacer(modifier = Modifier.weight(1f))
 
                         Column(
                             modifier = Modifier.fillMaxWidth(),
@@ -243,10 +245,9 @@ class MainActivity : ComponentActivity() {
                             value = "¿No eres tú?",
                             color = WhiteColor,
                             fontWeight = FontWeight.Bold,
-                            fontSize = 20.sp,
-                            paddingTop = 10.dp)
+                            fontSize = 20.sp)
 
-                        Spacer(modifier = Modifier.height(10.dp))
+                        Spacer(modifier = Modifier.weight(1f))
 
                         Column(
                             modifier = Modifier.fillMaxWidth(),
@@ -279,7 +280,25 @@ class MainActivity : ComponentActivity() {
 
                         Spacer(modifier = Modifier.weight(1f))
 
-                        WhiteBorderTransparentButtonComponent(
+                        NormalTextComponent(
+                            value = "JUGAR",
+                            color = WhiteColor,
+                            fontWeight = FontWeight.Bold,
+                            fontSize = 40.sp,
+                            paddingTop = 10.dp)
+
+                        if (!logged) {
+                            NormalTextComponent(
+                                value = "No es necesario estar registrado o conectado a Internet",
+                                color = WhiteColor,
+                                fontWeight = FontWeight.Bold,
+                                fontSize = 15.sp,
+                                paddingTop = 10.dp)
+                        } else {
+                            Spacer(modifier = Modifier.height(10.dp))
+                        }
+
+                        WhiteBorderTransparentButtonMaxWidthComponent(
                             onClick = {
                                 startActivity(intentLevelsLimits)
                                 finish()
@@ -297,7 +316,7 @@ class MainActivity : ComponentActivity() {
 
                         Spacer(modifier = Modifier.height(5.dp))
 
-                        WhiteBorderTransparentButtonComponent(
+                        WhiteBorderTransparentButtonMaxWidthComponent(
                             onClick = {
                                 startActivity(intentLevelsDerivates)
                                 finish()
@@ -313,9 +332,9 @@ class MainActivity : ComponentActivity() {
                             paddingEnd = 10.dp
                         )
 
-                        Spacer(modifier = Modifier.height(5.dp))
+                        Spacer(modifier = Modifier.height(10.dp))
 
-                        WhiteBorderTransparentButtonComponent(
+                        WhiteBorderTransparentButtonMaxWidthComponent(
                             onClick = {
                                 startActivity(intentRanking)
                                 finish()
